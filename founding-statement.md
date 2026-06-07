@@ -8,7 +8,7 @@ The People's Free School is a model for adults to study together. It can be star
 
 ## How we learn
 
-Adults learn differently than children. We come into the room carrying lives, jobs, families, organizing experience, questions we have been turning over for years. That experience is not a distraction from study. It is the ground study grows from. A session at the Free School begins with what the room already knows and moves outward into what we want to understand better.
+Adults learn differently than children. We come into the room carrying lives, jobs, families, organizing experience, questions we have been turning over for years. A session at the Free School begins with what the room already knows and moves outward into what we want to understand better.
 
 There are no professors here, and no students in the usual sense. Everyone in the room is both a learner and a teacher. What we know, we offer. What we don't know, we ask about. The work of understanding the world is collective work, and we do it together.
 
