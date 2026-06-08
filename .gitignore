@@ -1,1 +1,11 @@
+# Obsidian workspace files (personal, machine-specific)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
+# macOS metadata files
+.DS_Store
+
+# Vim/editor temp files
+*.swp
+*~
