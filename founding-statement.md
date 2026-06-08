@@ -1,6 +1,6 @@
 # The People's Free School
 
-*Disce ut liberes. Learn so that you may free.*
+*Disce ut liberes. Learn in order to be free.*
 
 ## What this is
 
