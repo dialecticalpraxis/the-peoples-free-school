@@ -35,7 +35,7 @@ sources:
     type: library
     url: "http://www.socialiststories.com/"
     access: free
-    note: "A multilingual library of socialist texts in English, Arabic, and Italian, built by and for comrades doing their own revolutionary education. Worth digging through for material the English-language archives do not carry."
+    note: "A multilingual library of socialist texts in English, Arabic, and Italian, built by and for comrades doing their own revolutionary education. Worth digging through for material the English-language archives do not carry. Rights status is mixed, so check before assigning."
   - name: "Internet Archive"
     type: archive
     url: "https://archive.org"
