@@ -22,9 +22,9 @@ resources:
     year: 2007
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/GoldenGulag"
-    note: "Source of the widely used definition of racism as the production and exploitation of group-differentiated vulnerability to premature death."
+    access: paywalled
+    url: "https://www.ucpress.edu/book/9780520242012/golden-gulag"
+    note: "Source of the widely used definition of racism as the production and exploitation of group-differentiated vulnerability to premature death. No borrowable copy exists; her free Verso interview carries the argument."
   - title: "Race, Articulation and Societies Structured in Dominance"
     authors: ["Stuart Hall"]
     year: 1980
@@ -124,7 +124,7 @@ Free unless marked otherwise. Robinson and Du Bois's _Black Reconstruction_ (in 
 
 - **Cedric J. Robinson** (1940 to 2016), _Black Marxism: The Making of the Black Radical Tradition_ (1983). The book that names "racial capitalism," arguing that capitalism developed within and through racial hierarchy rather than dissolving it, and that a distinct Black radical tradition arose to answer it. Dense and foundational. Free: [libcom.org](https://libcom.org/article/black-marxism-making-black-radical-tradition-cedric-j-robinson)
 - **Oliver Cromwell Cox** (1901 to 1974), _Caste, Class, and Race_ (1948). An early materialist account tying race prejudice to the needs of capitalist exploitation, and a sharp rejection of the "caste" framing of American race relations. Free: [archive.org](https://archive.org/details/casteclassandraceastudyofsocialdynamicsolivercromwellcox_202003_894_I)
-- **Ruth Wilson Gilmore** (b. 1950), _Golden Gulag_ (2007). The source of the widely used definition of racism as the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death. Also a study of how California built the largest prison system in the world. Free: [archive.org](https://archive.org/details/GoldenGulag)
+- **Ruth Wilson Gilmore** (b. 1950), _Golden Gulag_ (2007). The source of the widely used definition of racism as the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death. Also a study of how California built the largest prison system in the world, out of surplus land, labor, capital, and state capacity. No borrowable copy exists. Paywalled: [ucpress.edu](https://www.ucpress.edu/book/9780520242012/golden-gulag). Her free interview carries the argument: [versobooks.com](https://www.versobooks.com/blogs/news/3954-prisons-and-class-warfare-an-interview-with-ruth-wilson-gilmore). Shared with [[03-themes/the-state-strategy-and-power/theoretical|The State, Strategy, and Power]].
 
 ### Whiteness and race as ideology
 
