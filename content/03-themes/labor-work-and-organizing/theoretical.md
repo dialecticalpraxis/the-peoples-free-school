@@ -100,6 +100,106 @@ resources:
     length: "6 min"
     url: "https://www.youtube.com/watch?v=OXT8xdqcAoU"
     note: "About 451,000 views. A short animated primer on gig work and precarity. A neutral explainer to open up and then complicate."
+  - title: "The Managed Heart: Commercialization of Human Feeling"
+    authors: ["Arlie Russell Hochschild"]
+    year: 1983
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.ucpress.edu/books/the-managed-heart/paper"
+    note: "The book that named emotional labor: flight attendants and bill collectors trained to produce feeling on command, so that the self becomes part of what the wage buys. The service-sector answer to Braverman, who saw deskilling of the hand but not the management of the heart. Mainstream sociology, not Marxist, and stronger for it here."
+  - title: "The Fight Against Platform Capitalism: An Inquiry into the Global Struggles of the Gig Economy"
+    authors: ["Jamie Woodcock"]
+    year: 2021
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.fulcrum.org/concern/monographs/s4655k453"
+    note: "A full 127-page open-access book on how platform work is actually organized and actually fought, from couriers to drivers, using workers' inquiry rather than survey data. The best free anchor for the labor process under algorithmic management. Written from inside the movement it studies."
+  - title: "On Algorithmic Wage Discrimination"
+    authors: ["Veena Dubal"]
+    year: 2023
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.columbialawreview.org/wp-content/uploads/2023/11/Dubal-On_Algorithmic_Wage_discrimination.pdf"
+    note: "Shows platforms paying different workers different amounts for the same work, personalized by algorithm and hidden from everyone, turning the wage into a game of chance. A legal scholar writing against the practice, grounded in driver interviews."
+  - title: "The Workers' Inquiry and Social Composition"
+    authors: ["Notes from Below"]
+    year: 2018
+    format: reading
+    kind: article
+    access: free
+    url: "https://notesfrombelow.org/article/workers-inquiry-and-social-composition"
+    note: "The method statement of workers' inquiry: knowledge of work is produced by the workers who do it, investigating their own conditions in order to change them. The closest thing in the theme to a theoretical statement of what this school does. Written by a collective committed to the method."
+  - title: "Women and Men in the Informal Economy: A Statistical Picture (third edition)"
+    authors: ["International Labour Office"]
+    year: 2018
+    format: reading
+    kind: document
+    access: free
+    url: "https://www.ilo.org/sites/default/files/2024-04/Women_men_informal_economy_statistical_picture.pdf"
+    note: "The source of the fact that reframes the whole theme: about 61 percent of the world's employed people work informally. A statistical reference rather than a reading, best used a table at a time. The ILO is a tripartite UN agency, so this is the official count, useful precisely because it is not a partisan one."
+  - title: "Planet of Slums"
+    authors: ["Mike Davis"]
+    year: 2006
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/planetofslums0000davi"
+    note: "On the billion people living in slums and working informally, and Davis's hard claim that capitalism now produces surplus humanity it has no intention of employing. A direct challenge to any theory of labor built on the factory. Marxist, polemical, and disputed on exactly this point."
+  - title: "Made in China: Women Factory Workers in a Global Workplace"
+    authors: ["Pun Ngai"]
+    year: 2005
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.dukeupress.edu/made-in-china"
+    note: "Ethnography of the dagongmei, the young migrant women of Shenzhen's factories, and of the dormitory labor regime that puts the working day and the sleeping body under one management. Labor process theory written from the Chinese shop floor rather than applied to it."
+  - title: "From Dormitory System to Conciliatory Despotism"
+    authors: ["Kaxton Siu"]
+    year: 2017
+    format: reading
+    kind: article
+    access: free
+    url: "https://madeinchinajournal.com/2017/12/24/from-dormitory-system-to-conciliatory-despotism/"
+    note: "A short free account of the dormitory labor regime and how it has changed since Pun Ngai described it, as Chinese workers won concessions without winning independent unions. The free way into the Made in China argument, though written by Siu rather than Pun."
+  - title: "Riding for Deliveroo: Resistance in the New Economy"
+    authors: ["Callum Cant"]
+    year: 2019
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.wiley.com/en-us/Riding+for+Deliveroo%3A+Resistance+in+the+New+Economy-p-9781509535507"
+    note: "Written by a rider who took the job in order to organize it, on how an algorithm manages a workforce that never meets its boss, and how the strikes happened anyway. A free companion interview with Cant is at failedarchitecture.com."
+  - title: "Work Without the Worker: Labour in the Age of Platform Capitalism"
+    authors: ["Phil Jones"]
+    year: 2021
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.versobooks.com/products/2518-work-without-the-worker"
+    note: "On microwork: the refugees and unemployed paid pennies to label the data that makes automation look automatic. The argument that artificial intelligence runs on hidden human labor, largely in the Global South. A free companion interview with Jones is at digilabour.com.br."
+  - title: "Footloose Labour: Working in India's Informal Economy"
+    authors: ["Jan Breman"]
+    year: 1996
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.cambridge.org/core/books/footloose-labour/357878B9EA278834F402AC3DD957146B"
+    note: "Decades of fieldwork on the circulating migrant workers of Gujarat who move between village and city and never become a settled proletariat. The standard work on Indian informal labor. No free version was found; a library request item."
+  - title: "Workers of the World: Essays Toward a Global Labor History"
+    authors: ["Marcel van der Linden"]
+    year: 2008
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://brill.com/display/title/14554"
+    note: "Argues global labor history must decenter the free wage worker, since slaves, indentured workers, sharecroppers, and the self-employed were never the exception. The theoretical case for everything else in this section. Expensive and library-bound; request it rather than buy it."
   - title: "Marx's Capital, Volume 1 (nine-class course with reading guides)"
     authors: ["Liberation School (PSL)"]
     format: reading
@@ -131,6 +231,9 @@ The core concepts this lens builds are labor power, the labor process, exploitat
 - Where does profit come from if workers are paid for their time?
 - What is the difference between a job and the work that keeps people alive and able to work? Why is one paid and the other often not?
 - Is a union a threat to capitalism, a part of it, or both? What does the theory say?
+- If your manager is an algorithm, who exactly are you bargaining with? What does it mean that it cannot be argued with, shamed, or persuaded?
+- Braverman watched craft workers lose their skill to the stopwatch. Does that argument still hold when the job is answering calls, driving a route, or producing a feeling on demand?
+- Most of the world's workers have no employer, no contract, and no union. Is a theory of labor built on the factory wage a theory of most work, or of a brief exception?
 
 ## Materials
 
@@ -147,11 +250,32 @@ Free unless marked otherwise. Read the short Marx texts first, then approach Bra
 - **Michael Burawoy** (b. 1947), _Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism_ (1979). Based on ten months working a Chicago engine plant, it asks why workers consent to their own exploitation and answers with a theory of how the shop floor manufactures that consent. The essential response to Braverman. Free to borrow: [archive.org](https://archive.org/details/manufacturingcon0000unse)
 - **Beverly J. Silver** (b. 1957), _Forces of Labor: Workers' Movements and Globalization since 1870_ (2003). Uses a global database of labor unrest to theorize where and why workers gain bargaining power, connecting the shape of struggle to capital's movement across the world economy. Free: [libcom.org](https://libcom.org/article/forces-labor-beverly-j-silver)
 
+### The labor process now: service, platform, and digital work
+
+Braverman watched machinists lose their craft to Taylor's stopwatch. Most people in the room do not machine anything. The question this section asks is whether his argument survives the move from the factory to the call center, the app, and the warehouse, or whether something else is going on: not the deskilling of the hand but the management of the face, the mood, and the route, by a boss who is a piece of software and cannot be argued with.
+
+- **Arlie Russell Hochschild** (b. 1940), _The Managed Heart: Commercialization of Human Feeling_ (1983). The book that named emotional labor, following flight attendants trained to produce warmth on demand and bill collectors trained to produce menace, and asking what it costs to sell a feeling. This is the service-sector answer to Braverman, who saw what management did to the hand but not what it does to the heart. Mainstream sociology rather than Marxist. Paywalled: [ucpress.edu](https://www.ucpress.edu/books/the-managed-heart/paper). A free hour-long discussion of the book is at [talkingaboutorganizations.com](https://www.talkingaboutorganizations.com/e35/)
+- **Jamie Woodcock**, _The Fight Against Platform Capitalism_ (2021). A full open-access book on how platform work is organized and how it is fought, built from workers' inquiry with couriers and drivers rather than from survey data. The best free anchor for algorithmic management, and the one to assign if only one item here gets read. Free, complete: [fulcrum.org](https://www.fulcrum.org/concern/monographs/s4655k453)
+- **Veena Dubal**, _On Algorithmic Wage Discrimination_ (2023). Documents platforms paying different workers different amounts for identical work, personalized by algorithm, invisible to everyone including the worker beside you, so that the wage stops being a rate and becomes a slot machine. Grounded in driver interviews, and written to get the practice outlawed. Free: [columbialawreview.org](https://www.columbialawreview.org/wp-content/uploads/2023/11/Dubal-On_Algorithmic_Wage_discrimination.pdf)
+- **Notes from Below**, _The Workers' Inquiry and Social Composition_ (2018). Not a study of work but a method for studying it: the people who do the work produce the knowledge of it, by investigating their own conditions in order to change them. Marx wrote a workers' questionnaire in 1880 and this is its descendant. Read it beside the pedagogy document, because it is the closest thing in the theme to a theory of what this school is doing. Free: [notesfrombelow.org](https://notesfrombelow.org/article/workers-inquiry-and-social-composition)
+
+For the platform as a business model rather than a labor process, see Srnicek's _Platform Capitalism_ in [[03-themes/how-capitalism-works/theoretical|the capitalism theme]], which pairs directly with Woodcock.
+
 ### Social reproduction
 
 - **Silvia Federici** (b. 1942), _Caliban and the Witch_ (2004). Reads the witch hunts and the disciplining of women's bodies as central to the birth of capitalism, providing the historical grounding for social reproduction theory. Shared with [[03-themes/how-capitalism-works/historical|the capitalism theme]] and a bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. Free PDF: [files.libcom.org](https://files.libcom.org/files/Caliban%20and%20the%20Witch.pdf)
 - **Silvia Federici**, _Wages Against Housework_ (1975). A short manifesto arguing that unwaged domestic work sustains the wage relation, the classic bridge text from the wages-for-housework campaign into today's debates over care and social reproduction. Free: [caringlabor.wordpress.com](https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/)
 - **Tithi Bhattacharya** (b. 1970), _What is Social Reproduction Theory?_ (2013). A concise explainer of how labor power is produced and maintained outside the workplace, linking struggles over care and community to struggles at work. A clear teaching entry to the framework. Free: [socialistworker.org](https://socialistworker.org/2013/09/10/what-is-social-reproduction-theory)
+
+### Labor beyond the wage: the informal economy and the Global South
+
+Everything above this section, Marx included, takes the free wage worker as the typical case. About 61 percent of the world's employed people work informally, and they always have. This section asks the room to consider that the settled unionized wage job of the postwar North was the exception, a brief and local arrangement, and that a theory of labor built only on it explains a minority of the world's work.
+
+- **International Labour Office**, _Women and Men in the Informal Economy: A Statistical Picture_ (third edition, 2018). Where the 61 percent comes from, broken out by region, sex, and sector. Not a reading; a reference to take one table from and put on the wall. The ILO is a tripartite UN agency, which makes this the official count rather than a partisan one, and therefore hard to wave away. Free: [ilo.org](https://www.ilo.org/sites/default/files/2024-04/Women_men_informal_economy_statistical_picture.pdf)
+- **Mike Davis** (1946 to 2022), _Planet of Slums_ (2006). On the billion people living in slums and working informally, and on Davis's hardest claim: that capitalism now generates surplus humanity it has no intention of ever employing. If he is right, organizing at the point of production reaches fewer people every year. Marxist and polemical, and seriously disputed on exactly this point, which is why it is here. Free to borrow: [archive.org](https://archive.org/details/planetofslums0000davi)
+- **Pun Ngai** (b. 1970), _Made in China: Women Factory Workers in a Global Workplace_ (2005). Ethnography of the dagongmei, the young migrant women of Shenzhen, and of the dormitory labor regime that places the working day and the sleeping body under a single management. Labor process theory written from the Chinese shop floor rather than exported to it. Paywalled: [dukeupress.edu](https://www.dukeupress.edu/made-in-china). Read **Kaxton Siu**, _From Dormitory System to Conciliatory Despotism_ (2017) free instead or alongside: a short account of how the regime has changed as workers won concessions without winning independent unions. Free: [madeinchinajournal.com](https://madeinchinajournal.com/2017/12/24/from-dormitory-system-to-conciliatory-despotism/)
+
+A note on access, because it is part of the argument. Almost all of the Global South labor theory in this section is locked behind Brill, Cambridge, and Duke, while the Northern canon above is free on marxists.org and libcom.org. That is not an accident of curation and it is not neutral. See [[04-resources/index#A note on access|the note on access]] for how to get these anyway.
 
 ### The strike and the union form
 
@@ -173,6 +297,10 @@ Do not try to master Braverman or _Capital_ in one sitting. The point of the the
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Callum Cant**, _Riding for Deliveroo: Resistance in the New Economy_ (2019). Written by a rider who took the job in order to organize it, on how an algorithm manages a workforce that never meets its boss, and how the strikes happened anyway. A free companion interview with Cant is at failedarchitecture.com. Not free: [wiley.com](https://www.wiley.com/en-us/Riding+for+Deliveroo%3A+Resistance+in+the+New+Economy-p-9781509535507)
+- **Phil Jones**, _Work Without the Worker: Labour in the Age of Platform Capitalism_ (2021). On microwork: the refugees and unemployed paid pennies to label the data that makes automation look automatic. The argument that artificial intelligence runs on hidden human labor, largely in the Global South. A free companion interview with Jones is at digilabour.com.br. Not free: [versobooks.com](https://www.versobooks.com/products/2518-work-without-the-worker)
+- **Jan Breman**, _Footloose Labour: Working in India's Informal Economy_ (1996). Decades of fieldwork on the circulating migrant workers of Gujarat who move between village and city and never become a settled proletariat. The standard work on Indian informal labor. No free version was found; a library request item. Not free: [cambridge.org](https://www.cambridge.org/core/books/footloose-labour/357878B9EA278834F402AC3DD957146B)
+- **Marcel van der Linden**, _Workers of the World: Essays Toward a Global Labor History_ (2008). Argues global labor history must decenter the free wage worker, since slaves, indentured workers, sharecroppers, and the self-employed were never the exception. The theoretical case for everything else in this section. Expensive and library-bound; request it rather than buy it. Not free: [brill.com](https://brill.com/display/title/14554)
 - **Liberation School (PSL)**, _Marx's Capital, Volume 1 (nine-class course with reading guides)_. A free nine-class course through Capital with per-session reading guides. Marxist-Leninist (PSL) in framing; label the standpoint and use it for the structure, which is the most usable free scaffold for reading Capital as a group. Free: [liberationschool.org](https://liberationschool.org/psl-course-marxs-capital/)
 - **Marxists Internet Archive**, _Marxism and Workers' Organisations (subject archive)_. The archive's own gathering of writing on unions, councils, and workers' organisation. A deep bench to pull primary texts from when a session wants to go further. Free: [marxists.org](https://www.marxists.org/subject/workers/index.htm)
 
@@ -180,4 +308,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on the labor process in service and digital work, and on labor theory from the Global South.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on labor theory from India and South Asia, which stayed thin here: Breman's _Footloose Labour_ is the standard work and no free or borrowable copy could be found. Free companion material for Breman and van der Linden would also help, since both are currently library requests only.

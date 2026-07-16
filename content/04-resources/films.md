@@ -8,7 +8,7 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_55 films and documentaries. Generated from theme lens frontmatter._
+_59 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
@@ -28,12 +28,15 @@ _55 films and documentaries. Generated from theme lens frontmatter._
 | [Cocalero](https://www.youtube.com/watch?v=RvNqkIOszyo) | Alejandro Landes | 2007 | 96 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Concerning Violence](https://watch.plex.tv/movie/concerning-violence) | Göran Hugo Olsson | 2014 | 89 min | Free to borrow | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [Cuba's Life Task: Combatting Climate Change](https://helenyaffe.org.uk/index.php/documentaries/32-cuba-s-life-task-combatting-climate-change) | Helen Yaffe | 2021 | 50 min | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
+| [Delano Manongs: Forgotten Heroes of the United Farm Workers](https://www.pbs.org/video/kvie-viewfinder-delano-manongs/) | Marissa Aroy | 2014 | 27 min | Free | [[labor-work-and-organizing/historical\|Labor, Work, and Organizing · Historical]] |
 | [Dignidad: Domestic Workers' Journey for Justice in California](https://www.pbs.org/video/dignidad-domestic-workers-journey-for-justice-in-california-3nj1kv/) | Independent Lens, KVIE | 2022 | 27 min | Free | [[gender-reproduction-and-the-household/practical\|Gender, Reproduction, and the Household · Practical]] |
+| [Food Chains](https://www.youtube.com/watch?v=6vw-qTCW8fo) | Sanjay Rawal | 2014 | 83 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Freedom Summer](https://www.pbs.org/wgbh/americanexperience/films/freedomsummer/) | Stanley Nelson, PBS American Experience | 2014 | 113 min | Free | [[critical-pedagogy-and-the-practice-of-liberation/historical\|Critical Pedagogy and the Practice of Liberation · Historical]] |
 | [Gasland](https://archive.org/details/gasland_202012) | Josh Fox | 2010 | 107 min | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Gaza Fights For Freedom](https://www.youtube.com/watch?v=HnZSaKYmP2s) | Abby Martin, Empire Files | 2021 | 84 min | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Grenada: The Future Coming Towards Us](https://vimeo.com/9958883) | Samir Ferdinand, Caribbean Research Institute | 1983 | 55 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Harlan County USA](https://www.criterion.com/films/777-harlan-county-usa) | Barbara Kopple | 1976 | 103 min | Paywalled | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [Harvest of Shame](https://archive.org/details/HarvestOfShame) | Edward R. Murrow, David Lowe, CBS Reports | 1960 | 52 min | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [HyperNormalisation](https://archive.org/details/HyperNormalisation) | Adam Curtis, BBC | 2016 | 165 min | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [I Am Not Your Negro](https://www.pbs.org/independentlens/documentaries/i-am-not-your-negro/) | Raoul Peck | 2016 | 93 min | Free to borrow | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | 86 min | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
@@ -54,6 +57,7 @@ _55 films and documentaries. Generated from theme lens frontmatter._
 | [The Revolution Will Not Be Televised](https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup) | Kim Bartley, Donnacha Ó Briain | 2003 | 74 min | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
 | [The Shock Doctrine](https://www.youtube.com/watch?v=B3B5qt6gsxY) | Michael Winterbottom, Naomi Klein | 2009 | 79 min | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [The Take](https://www.cinemapolitica.org/film/the-take/) | Avi Lewis, Naomi Klein | 2004 | 87 min | Paywalled | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
+| [The Take](https://archive.org/details/the-take-2004) | Avi Lewis, Naomi Klein | 2004 | 87 min | Free | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] |
 | [The Untold Story of Kwame Nkrumah](https://www.youtube.com/watch?v=NKkGJk1v6os) | Bisi | — | 44 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [The Weather Underground](https://archive.org/details/the-weather-underground-2003) | Sam Green, Bill Siegel | 2002 | 92 min | Free | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |
 | [Thomas Sankara: The Upright Man](https://www.youtube.com/watch?v=Ht3H_Zk80ko) | Robin Shuffield | 2006 | 52 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |

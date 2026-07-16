@@ -8,7 +8,7 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_46 podcasts. Generated from theme lens frontmatter._
+_47 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
@@ -51,6 +51,7 @@ _46 podcasts. Generated from theme lens frontmatter._
 | [The Red Nation Podcast](https://therednation.libsyn.com/) | Nick Estes, Jen Marley, Melanie Yazzie | 2019– | Free | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [The Response](https://www.shareable.net/the-response/) | Shareable | 2019– | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
 | [The Valley Labor Report](https://tvlr.fm/) | Jacob Morrison, Adam Keller | 2020– | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [Voices of Waste Pickers](https://wpvoices.globalrec.org/) | Global Alliance of Waste Pickers, Hasiru Dala, Radio Active CR 90.4 MHz | — | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [Working Class History](https://workingclasshistory.com/podcasts/) | Working Class History | 2018– | Free | [[revolution-in-power/experiential\|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]] |
 | [Working People](https://inthesetimes.com/podcasts/working-people) | Maximillian Alvarez | 2017– | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]]<br>[[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 

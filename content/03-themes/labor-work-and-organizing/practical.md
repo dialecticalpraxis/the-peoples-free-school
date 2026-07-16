@@ -111,6 +111,113 @@ resources:
     length: "13 min"
     url: "https://www.youtube.com/watch?v=tok00IDVTz4"
     note: "About 67,000 views. Chefs Sohla and Ham El-Waylly walk through one-on-ones, going public, and bargaining. A direct practical how-to."
+  - title: "The Only School We Have: Learning from Organizing Experiences Across the Informal Economy"
+    authors: ["Dave Spooner", "Chris Bonner"]
+    year: 2012
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://www.wiego.org/wp-content/uploads/2019/09/Bonner_Spooner_The_Only_School_We_Have.pdf"
+    note: "A 124-page organizing handbook drawn from the experience of informal workers' organizations across Africa, Asia, and Latin America. Teaches recruitment, democratic structure, and negotiation where there is no employer across the table and no labor board to certify you. WIEGO is the research arm of the informal workers' movement itself."
+  - title: "Collective Negotiations for Informal Workers"
+    authors: ["Chris Bonner"]
+    year: 2011
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://www.wiego.org/wp-content/uploads/2019/09/ICC4-Collective-Bargaining-English.pdf"
+    note: "Number 4 in WIEGO and StreetNet's resource books for organisers. Works through how to bargain with a city council, a market authority, or a contractor when there is no employer. Co-produced by StreetNet, the international federation of street vendors, so it is written by the organizations it describes."
+  - title: "Domestic Worker Organizing Toolbox"
+    authors: ["National Domestic Workers Alliance"]
+    year: 2023
+    format: primary-source
+    kind: collection
+    access: free
+    url: "https://organizing.domesticworkers.org/"
+    note: "NDWA's own eleven-module organizing curriculum, from theory of change through membership structure, campaign strategy, and political education. The most turnkey item in this lens. Published by the union itself, organizing workers the NLRA explicitly excludes."
+  - title: "Worker Centers: Organizing Communities at the Edge of the Dream (EPI Briefing Paper 159)"
+    authors: ["Janice Fine"]
+    year: 2005
+    format: reading
+    kind: article
+    access: free
+    url: "https://files.epi.org/page/-/old/briefingpapers/159/bp159.pdf"
+    note: "Fine's own 24-page condensation of her book, carrying the typology and the central finding that worker centers win on wage theft and dignity but struggle to build durable bargaining power. Published by EPI, a labor-aligned think tank; this is the author summarizing herself."
+  - title: "Self Employed Women's Association (SEWA), India"
+    authors: ["International Labour Office"]
+    year: 2013
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_emp/@emp_policy/documents/publication/wcms_234890.pdf"
+    note: "A 33-page case study, drawn as a chapter from a larger ILO volume, of the Indian union of roughly two million women in the informal economy. The best short account of the union-plus-cooperative model SEWA pioneered. The ILO is a tripartite UN agency, so this is an institutional outsider's account; pair it with sewa.org."
+  - title: "Tenants Association Handbook"
+    authors: ["Los Angeles Tenants Union"]
+    year: 2020
+    format: primary-source
+    kind: handbook
+    access: free
+    url: "https://atun-rsia.org/s/Tenants_Association_Handbook_ENG_V4.pdf"
+    note: "A 21-page handbook on building a tenants association in one building, short enough to work through in a single session. Committed to the autonomous tenant-union model, organizing outside the nonprofit service-provider frame."
+  - title: "How to Start a Tenants Union"
+    authors: ["Tenants Together"]
+    year: 2024
+    format: primary-source
+    kind: explainer
+    access: free
+    url: "https://www.tenantstogether.org/resources/form-tenants-union"
+    note: "A four-step guide to forming a tenants union, from core team to outreach to first assembly to affiliation. The gentlest on-ramp of the tenant material. A California statewide organization, more coalitional and policy-facing than the autonomous unions."
+  - title: "Building a Citywide Tenant Union in Kansas City"
+    authors: ["Andrew Willis Garces"]
+    year: 2022
+    format: reading
+    kind: interview
+    access: free
+    url: "https://forgeorganizing.org/article/building-citywide-tenant-union-kansas-city"
+    note: "How KC Tenants went from nothing in 2019 to a citywide union that won a tenants' bill of rights, right to counsel in eviction court, and a $50 million housing bond. Honest that the method was ordinary disciplined base-building rather than a trick. The Forge is by and for organizers; this is the organizers' own telling."
+  - title: "What is Worker-driven Social Responsibility?"
+    authors: ["Worker-driven Social Responsibility Network"]
+    year: 2024
+    format: primary-source
+    kind: explainer
+    access: free
+    url: "https://wsr-network.org/what-is-wsr/"
+    note: "The model holding that worker organizations, not brands, must design and enforce the programs meant to protect them, backed by legally binding agreements. Carries case studies of the Fair Food Program, the Bangladesh Accord after Rana Plaza, and Milk with Dignity. Founded out of the Coalition of Immokalee Workers' own experience and hostile to conventional corporate social responsibility."
+  - title: "Food Chains"
+    authors: ["Sanjay Rawal"]
+    year: 2014
+    format: film
+    kind: documentary
+    access: free
+    length: "83 min"
+    url: "https://www.youtube.com/watch?v=6vw-qTCW8fo"
+    note: "About 195,000 views. Follows the Coalition of Immokalee Workers through a hunger strike against Publix in the campaign that built the Fair Food Program, in which farmworkers, not the supermarket, write and police the standards. Made in close cooperation with the CIW and firmly on the workers' side. Free with ads on the official Popcornflix channel, in English and Spanish."
+  - title: "Worker Centers: Organizing Communities at the Edge of the Dream"
+    authors: ["Janice Fine"]
+    year: 2006
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.cornellpress.cornell.edu/book/9780801472572/worker-centers/"
+    note: "The canonical study of the worker center as a form, mapping 137 centers across thirty-one states. Fine is clear-eyed about the model's weakness on sustained bargaining power, which makes it a better discussion text than a celebration would be. Her free EPI briefing paper carries the argument if the book is out of reach."
+  - title: "Organizing Resources"
+    authors: ["Autonomous Tenants Union Network"]
+    year: 2024
+    format: primary-source
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://atun-rsia.org/resources"
+    note: "The shared library of a North American network of autonomous tenant unions: an eviction blockade checklist, a rally guide, a Spanish-English organizing glossary, and popular education facilitation guides. The network's own materials, committed to tenant unions rather than tenant legal services."
+  - title: "StreetNet International"
+    authors: ["StreetNet International"]
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://streetnet.org.za/home/"
+    tier: extended
+    note: "The international federation of street vendors and market traders, 54 affiliates in 49 countries, publishing its own negotiation guidelines including a model framework for local collective bargaining for street traders. Published by the federation itself."
   - title: "The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States"
     authors: ["Zinn Education Project"]
     format: reading
@@ -174,6 +281,8 @@ This is the lens where labor stops being history and theory and becomes the camp
 - When Amazon or Starbucks fights a union drive, what exactly do they do, and how do workers answer it?
 - What does it take, concretely, to move coworkers from private complaint to collective action?
 - What can a strike do that a petition cannot? What does a strike require to work?
+- If there is no boss to bargain with, if you sell fruit on a corner, clean houses, or wait at a day-labor pickup, who do you make your demands of? What is the equivalent of a strike?
+- Your landlord takes a third of what you earn. Is that a site of struggle in the way the job is? What would organizing there look like?
 
 ## Materials
 
@@ -189,10 +298,31 @@ Free unless marked otherwise. Many labor podcasts publish a free main feed and p
 - **Union** (Stephen Maing and Brett Story, 2024, 90 min). A cinema-verite chronicle of the Amazon Labor Union's grassroots drive to organize the Staten Island JFK8 warehouse under Chris Smalls. The definitive on-the-ground film of a contemporary campaign, and it streams free through PBS POV with discussion guides and lesson plans. Free: [pbs.org](https://www.pbs.org/pov/films/unionfilm/)
 - **Harlan County USA** (Barbara Kopple, 1976, 103 min). The Academy Award-winning verite record of the 1973 to 1974 Brookside coal miners' strike in Kentucky, filmed on the picket line under real threat of violence. A touchstone for what a strike costs and demands. On the Criterion Channel or for rental, and free with a library card on Kanopy where available. [criterion.com](https://www.criterion.com/films/777-harlan-county-usa)
 
+- **Food Chains** (Sanjay Rawal, 2014, 83 min). About 195,000 views. Follows the Coalition of Immokalee Workers through a hunger strike against Publix, in the campaign that built the Fair Food Program: farmworkers, not the supermarket, write and police the standards, and the brands are bound by contract to fund them. The best screening companion to the worker-driven material below, and a model that owes nothing to the NLRB. Made in close cooperation with the CIW and firmly on the workers' side. Free with ads on the official Popcornflix channel, in English and Spanish: [youtube.com/watch?v=6vw-qTCW8fo](https://www.youtube.com/watch?v=6vw-qTCW8fo)
+
 ### Practical handbooks and how-to material
 
 - **Secrets of a Successful Organizer** (Alexandra Bradbury, Mark Brenner, and Jane Slaughter, Labor Notes, 2016). Forty-seven concrete practices for building power on the job, from mapping a workplace to running an escalating campaign. The book is for sale, but all of the handouts, exercises, and the trainer's guide are free PDF downloads in English and Spanish, and amount to a ready-made workshop curriculum. Free materials: [labornotes.org](https://labornotes.org/secrets/handouts)
 - **Rules for Radicals** (Saul D. Alinsky, 1971). The foundational community-organizing tactics text, best used as a debated classic to read critically alongside the whole-worker approach of McAlevey and Labor Notes rather than as gospel. Free to borrow: [archive.org](https://archive.org/details/rulesforradicals0000alin)
+
+### Organizing where there is no employer
+
+Most of the material above assumes a workplace, a boss, and a legal path to a union election. Most workers in the world have none of the three. The majority of employment on earth is informal, and in the United States domestic workers and farmworkers were written out of the National Labor Relations Act at its founding, a bargain struck with segregationist Southern senators. These organizations did not wait for the law. They built other leverage.
+
+- **The Only School We Have: Learning from Organizing Experiences Across the Informal Economy** (Dave Spooner and Chris Bonner, WIEGO, 2012). A 124-page handbook drawn from what informal workers' organizations across Africa, Asia, and Latin America actually did: how to recruit, how to stay democratic, and how to negotiate when there is no employer across the table and no labor board to certify you. WIEGO is the research arm of that movement rather than an outside observer of it. Free: [wiego.org](https://www.wiego.org/wp-content/uploads/2019/09/Bonner_Spooner_The_Only_School_We_Have.pdf)
+- **Collective Negotiations for Informal Workers** (Chris Bonner, WIEGO and StreetNet, 2011). Number 4 in a series of resource books for organisers, and the most directly useful here: it works through how you bargain with a city council, a market authority, or a contractor. Co-produced by StreetNet, the international federation of street vendors, so the organizations described wrote it. Free: [wiego.org](https://www.wiego.org/wp-content/uploads/2019/09/ICC4-Collective-Bargaining-English.pdf)
+- **Domestic Worker Organizing Toolbox** (National Domestic Workers Alliance, 2023). NDWA's own eleven-module curriculum, from theory of change through membership structure, campaign strategy, and political education. The political education module is ready to run as-is, which makes this the most turnkey item in the lens. Published by the union itself. Free: [organizing.domesticworkers.org](https://organizing.domesticworkers.org/)
+- **Self Employed Women's Association (SEWA), India** (International Labour Office, 2013). A 33-page case study, drawn as a chapter from a larger ILO volume, of the union of roughly two million women who are street vendors, home-based workers, and waste pickers rather than employees. The clearest short account of the union-plus-cooperative model SEWA pioneered. The ILO is a tripartite UN agency, so read this as an institutional outsider's account and pair it with SEWA's own site. Free: [ilo.org](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_emp/@emp_policy/documents/publication/wcms_234890.pdf)
+- **Janice Fine** (b. 1959), _Worker Centers: Organizing Communities at the Edge of the Dream_ (EPI Briefing Paper 159, 2005). Fine's own condensation of her book, mapping the worker center as a form and reaching the honest conclusion that these centers win on wage theft and dignity but struggle to build durable bargaining power. Read it as the argument against romanticizing the model. Free: [files.epi.org](https://files.epi.org/page/-/old/briefingpapers/159/bp159.pdf)
+- **What is Worker-driven Social Responsibility?** (WSR Network, 2024). The claim is simple and sharp: worker organizations, not brands, must design, monitor, and enforce the programs meant to protect them, backed by legally binding agreements rather than corporate promises. One site carries the Fair Food Program, the Bangladesh Accord signed after Rana Plaza killed 1,134 garment workers, and Milk with Dignity. Founded out of the Coalition of Immokalee Workers' experience and openly hostile to conventional corporate social responsibility, which it treats as a proven failure. Free: [wsr-network.org](https://wsr-network.org/what-is-wsr/)
+
+### Tenant unions and organizing outside the workplace
+
+If the wage is one relation worth organizing, rent is another. A landlord takes a fixed share of what a worker earns and can evict them; a building is a shop floor with the same logic of collective refusal, and the rent strike is the strike. Groups running this section should expect the room to have more experience as tenants than as union members.
+
+- **Tenants Association Handbook** (Los Angeles Tenants Union, 2020). Twenty-one pages on building a tenants association in one building, concrete enough to work through in a single session. Committed to the autonomous tenant-union model, organizing from below and outside the nonprofit service-provider frame. Free: [atun-rsia.org](https://atun-rsia.org/s/Tenants_Association_Handbook_ENG_V4.pdf)
+- **How to Start a Tenants Union** (Tenants Together, 2024). A four-step guide from core team to outreach to first assembly to affiliation, with real detail on planning the first meeting. The gentlest on-ramp here, and a good pairing with the more militant LA handbook. A California statewide organization, more coalitional and policy-facing than the autonomous unions. Free: [tenantstogether.org](https://www.tenantstogether.org/resources/form-tenants-union)
+- **Building a Citywide Tenant Union in Kansas City** (Andrew Willis Garces, The Forge, 2022). How KC Tenants went from nothing in 2019 to a citywide union that won a tenants' bill of rights, right to counsel in eviction court, and a $50 million housing bond, told through founding organizer Tara Raghuveer. It is useful precisely because it refuses to claim a trick: the method was disciplined base-building over years. The Forge is a publication by and for organizers, so this is the organizers' own telling. Free: [forgeorganizing.org](https://forgeorganizing.org/article/building-citywide-tenant-union-kansas-city)
 
 ### Podcasts and interviews with organizers
 
@@ -213,6 +343,9 @@ Free unless marked otherwise. Many labor podcasts publish a free main feed and p
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Janice Fine**, _Worker Centers: Organizing Communities at the Edge of the Dream_ (2006). The canonical study of the worker center as a form, mapping 137 centers across thirty-one states. Fine is clear-eyed about the model's weakness on sustained bargaining power, which makes it a better discussion text than a celebration would be. Her free EPI briefing paper carries the argument if the book is out of reach. Not free: [cornellpress.cornell.edu](https://www.cornellpress.cornell.edu/book/9780801472572/worker-centers/)
+- **Autonomous Tenants Union Network**, _Organizing Resources_ (2024). The shared library of a North American network of autonomous tenant unions: an eviction blockade checklist, a rally guide, a Spanish-English organizing glossary, and popular education facilitation guides. The network's own materials, committed to tenant unions rather than tenant legal services. Free: [atun-rsia.org](https://atun-rsia.org/resources)
+- **StreetNet International**, _StreetNet International_. The international federation of street vendors and market traders, 54 affiliates in 49 countries, publishing its own negotiation guidelines including a model framework for local collective bargaining for street traders. Published by the federation itself. Free: [streetnet.org.za](https://streetnet.org.za/home/)
 - **Zinn Education Project**, _The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States_. Role plays and case studies on the history of work, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme. Free: [zinnedproject.org](https://www.zinnedproject.org/materials/power-in-our-hands/)
 - **Highlander Research and Education Center**, _Mapping Our Futures: Economics and Governance Curriculum_. A participatory economics and governance curriculum from the folk school this project descends from, written to be run by lay facilitators rather than experts. Free: [highlandercenter.org](https://highlandercenter.org/our-impact/economics-governance/)
 - **Central New Jersey IWW**, _Basics of Organizing_. A short syndicalist pamphlet on the fundamentals of a workplace campaign. Blunt, practical, and readable in one sitting. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/central-nj-iww-basics-of-organizing)

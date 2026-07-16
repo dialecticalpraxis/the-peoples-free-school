@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_119 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_121 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -52,6 +52,7 @@ _119 videos and lectures — online explainers, lectures, and video essays (dist
 | [Explaining the Economy of the Soviet Union](https://www.youtube.com/watch?v=nGm0u3UHDZM) | Hakim | 2022 | 28 min | explainer | Free | [[revolution-in-power/theoretical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Theoretical]] |
 | [Crises of Capitalism (RSA Animate)](https://www.youtube.com/watch?v=qOP2V_np2c0) | David Harvey, The RSA | 2010 | 11 min | explainer | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
 | [Reading Marx's Capital (video lecture course)](https://www.youtube.com/watch?v=gBazR59SZXk) | David Harvey | 2007 | ~2h per class | lecture | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
+| [After Work: What Is Left?](https://www.youtube.com/watch?v=fSHT-HKkk8Q) | Helen Hester, Nick Srnicek, CCCB | 2019 | 70 min | lecture | Free | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] _(further reading)_ |
 | [bell hooks: Cultural Criticism & Transformation](https://www.youtube.com/watch?v=zQUuHFKP-9s) | bell hooks, Media Education Foundation | 1997 | ~66 min | lecture | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Marx's Theses on Feuerbach: From the Young Hegelians to Deleuze](https://www.youtube.com/watch?v=BGyNyZ8ctQs) | Acid Horizon | 2024 | 60 min | lecture | Free | [[origins-dialectics-marx-and-the-workers-movement/theoretical\|Origins: Dialectics, Marx, and the Workers' Movement · Theoretical]] |
 | [What is Anarchism?](https://www.youtube.com/watch?v=rUINFJrBziY) | Revolution and Ideology | 2020 | 17 min | explainer | Free | [[anarchism-mutual-aid-and-prefiguration/theoretical\|Anarchism, Mutual Aid, and Prefiguration · Theoretical]] |
@@ -101,6 +102,7 @@ _119 videos and lectures — online explainers, lectures, and video essays (dist
 | [Gary's Economics](https://www.youtube.com/watch?v=iD2sPL7k98c) | Gary Stevenson | — | 15 min | explainer | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [Sea of Memory: A Vietnamese Boat Refugee Documentary](https://www.youtube.com/watch?v=YNe897ereaY) | SuperNamn | 2011 | 25 min | documentary | Free | [[revolution-in-power/experiential\|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]] |
 | [The Model Minority Trope, Explained](https://www.youtube.com/watch?v=qWBPGc_dpmY) | The Take | 2020 | 18 min | explainer | Free | [[immigration-and-the-making-of-race/experiential\|Immigration and the Making of Race · Experiential]] |
+| [Women Speak: Workers' Narrative Videos](https://wiego.org/resources/women-speak-workers-narrative-videos) | WIEGO Delhi Focal City team | 2019 | — | narrative | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [What is a gig economy?](https://www.youtube.com/watch?v=OXT8xdqcAoU) | TED-Ed | 2022 | 6 min | explainer | Free | [[labor-work-and-organizing/theoretical\|Labor, Work, and Organizing · Theoretical]] |
 | ["How Can I Help?" Mutual Aid 101](https://www.youtube.com/watch?v=4HESYrW-0eg) | Second Thought | 2021 | 14 min | explainer | Free | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |
 | [A Future Beyond Capitalism? Socialism Explained](https://www.youtube.com/watch?v=hactcmhVS1w) | Second Thought | 2020 | 13 min | explainer | Free | [[how-capitalism-works/liberatory\|How Capitalism Works · Liberatory]] |
