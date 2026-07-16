@@ -81,6 +81,70 @@ resources:
     length: "19 min"
     url: "https://www.youtube.com/watch?v=kDeKySs_nxw"
     note: "About 257,000 views. A straightforward narrative of Batista's fall and Castro's rise, in mainstream framing, for a shared baseline on the Cuban Revolution."
+  - title: "Red October: Left-Indigenous Struggles in Modern Bolivia"
+    authors: ["Jeffery R. Webber"]
+    year: 2011
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/redoctoberleftin0000webb"
+    note: "The long-form narrative of the water war, the gas war, and the revolt that carried Morales to power, and of what the MAS did with it once there. Webber is a critical-left academic sympathetic to the indigenous movements and sharp about the party in government. The Bolivia gap the theme has carried since it was written."
+  - title: "Cochabamba! Water War in Bolivia"
+    authors: ["Oscar Olivera", "Tom Lewis"]
+    year: 2004
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/cochabambawaterw00osca"
+    note: "The water war told by the shoemaker and union leader who helped lead it, on how a city threw out Bechtel. First-person from inside the movement that started the cycle Webber narrates."
+  - title: "The Collapse of Mozambican Socialism"
+    authors: ["Dan O'Meara"]
+    year: 1991
+    format: reading
+    kind: article
+    access: free
+    url: "https://transformationjournal.org.za/wp-content/uploads/2017/03/tran014006.pdf"
+    note: "A Marxist post-mortem on FRELIMO's socialist project, locating the failure in its own strategy and its rural policy rather than only in South African destabilization. Twenty-two pages, and it argues directly against Hanlon below."
+  - title: "Mozambique: Revolution Under Fire"
+    authors: ["Joseph Hanlon"]
+    year: 1984
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/mozambiquerevolu0000hanl"
+    note: "The sympathetic account, which reads FRELIMO's crisis as the product of war and external destabilization by South Africa and Rhodesia. Read it against O'Meara, who blames the project's own choices; between them the room has the argument rather than a verdict."
+  - title: "Frontline Nationalism in Angola and Mozambique"
+    authors: ["David Birmingham"]
+    year: 1992
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/frontlinenationa00birm"
+    note: "A short history covering the MPLA and FRELIMO together, from the Portuguese collapse through the wars that followed. The theme's entry to the Portuguese-African revolutions beyond Cabral."
+  - title: "Cold War International History Project Bulletin 8/9 (Cuba in Africa)"
+    authors: ["Piero Gleijeses", "Woodrow Wilson International Center"]
+    year: 1996
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.wilsoncenter.org/sites/default/files/media/documents/publication/CWIHP_Bulletin_8-9.pdf"
+    note: "Declassified documents and Gleijeses's scholarship on Cuba's intervention in Angola, the largest act of armed internationalism by a small state in the twentieth century. Archival primary sources rather than argument; long, so take a section."
+  - title: "The Walter Rodney Murder Mystery in Guyana, 40 Years Later"
+    authors: ["National Security Archive"]
+    year: 2020
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://nsarchive.gwu.edu/briefing-book/human-rights/2020-06-13/the-walter-rodney-murder-mystery-in-guyana-40-years-later"
+    note: "Twenty declassified US cables on the 1980 assassination of Walter Rodney, the historian this school reads in four themes, killed by a bomb at 38. Guyana enters the theme through the documents, and Rodney stops being only an author."
+  - title: "On Walter Rodney's Legacy: When Anger and Organising Took Over"
+    authors: ["Review of African Political Economy"]
+    year: 2021
+    format: reading
+    kind: interview
+    access: free
+    url: "https://roape.net/2021/07/29/on-walter-rodneys-legacy-when-anger-and-organising-took-over/"
+    note: "On Rodney as an organizer with the Working People's Alliance rather than as a book, and on what the WPA was trying to build in Guyana. This host blocks automated checks but is live."
 ---
 
 _How did this come to be? What were the conditions, struggles, and contingencies that produced the current arrangement?_
@@ -119,10 +183,27 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **Julius Nyerere** (1922 to 1999), _The Arusha Declaration_ (1967). The founding program of Tanzanian Ujamaa, the vision as stated. Free: [marxists.org](https://www.marxists.org/subject/africa/nyerere/1967/arusha-declaration.htm)
 - **Sojourner Truth Organization**, _The Fall of Kwame Nkrumah_. Ghana under Nkrumah and his 1966 overthrow, sober about the one-party state's own limits. Free: [marxists.org](https://www.marxists.org/history/usa/pubs/sojournertruth/nkrumah.html)
 
+### Bolivia
+
+- **Jeffery R. Webber**, _Red October_ (2011). The long-form narrative this theme has been missing: the water war, the gas war, the revolt that carried Morales to power, and what the MAS did with that power once it had it. Webber is sympathetic to the indigenous movements and sharp about the party, which is the combination the lens needs. Free to borrow: [archive.org](https://archive.org/details/redoctoberleftin0000webb)
+- **Oscar Olivera** and **Tom Lewis**, _Cochabamba!_ (2004). The water war told by the shoemaker and union leader who helped lead it: how a city threw Bechtel out. First-person, from inside the movement that began the cycle Webber narrates. Free to borrow: [archive.org](https://archive.org/details/cochabambawaterw00osca)
+
+### The Portuguese-African revolutions
+
+The theme reads Cabral and stops at the border of what came after. Mozambique and Angola won, governed, and were destroyed by war, and the argument about which of those did the killing is the argument to stage here.
+
+- **Dan O'Meara**, _The Collapse of Mozambican Socialism_ (1991). A Marxist post-mortem locating FRELIMO's failure in its own strategy and its rural policy rather than only in South African destabilization. Twenty-two free pages. Free: [transformationjournal.org.za](https://transformationjournal.org.za/wp-content/uploads/2017/03/tran014006.pdf)
+- **Joseph Hanlon**, _Mozambique: Revolution Under Fire_ (1984). The sympathetic reading, which puts the crisis down to war and external destabilization by South Africa and Rhodesia. Read directly against O'Meara: between them the room gets the argument rather than a verdict. Free to borrow: [archive.org](https://archive.org/details/mozambiquerevolu0000hanl)
+- **David Birmingham**, _Frontline Nationalism in Angola and Mozambique_ (1992). A short history taking the MPLA and FRELIMO together, from the Portuguese collapse through the wars that followed. Free to borrow: [archive.org](https://archive.org/details/frontlinenationa00birm)
+- **Piero Gleijeses** and the **Cold War International History Project**, _Bulletin 8/9_ (1996). Declassified documents on Cuba's intervention in Angola, the largest act of armed internationalism a small state has ever attempted. Archival sources rather than argument, so take a section rather than the whole. Free: [wilsoncenter.org](https://www.wilsoncenter.org/sites/default/files/media/documents/publication/CWIHP_Bulletin_8-9.pdf)
+
 ### The Caribbean
+
+- **National Security Archive**, _The Walter Rodney Murder Mystery in Guyana, 40 Years Later_ (2020). Twenty declassified US cables on the 1980 assassination of Walter Rodney, killed by a bomb at 38. This school reads Rodney in four themes; here he stops being an author and becomes a man the state of Guyana blew up for organizing. Free: [nsarchive.gwu.edu](https://nsarchive.gwu.edu/briefing-book/human-rights/2020-06-13/the-walter-rodney-murder-mystery-in-guyana-40-years-later)
+- **Review of African Political Economy**, _On Walter Rodney's Legacy_ (2021). Rodney as an organizer with the Working People's Alliance rather than as a reading, and what the WPA was building. This host blocks automated checks but is live. Free: [roape.net](https://roape.net/2021/07/29/on-walter-rodneys-legacy-when-anger-and-organising-took-over/)
 
 - **Village Voice News (Grenada)**, "Maurice Bishop's Execution" (2025). The 1983 Coard-Bishop split and the executions that killed the revolution from within, days before the US invasion. Free: [villagevoicenews.com](https://villagevoicenews.com/2025/10/19/maurice-bishops-execution-the-day-the-grenada-revolution-died/)
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially free long-form histories of Bolivia's MAS, Mozambique and Angola, and Guyana under the PPP, which the current set is thin on.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially Guinea-Bissau after Cabral, and Angola from Angolan rather than Cuban or British sources: the Portuguese-African material added here is written largely from outside. Bolivia, Mozambique, and Guyana are now covered.
