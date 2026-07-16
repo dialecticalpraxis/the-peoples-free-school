@@ -92,6 +92,31 @@ resources:
     access: free
     url: "https://sceneonradio.org/seeing-white/"
     note: "A fourteen-part documentary series on where the idea of whiteness came from and how it works, with a free study guide built for group discussion."
+  - title: "The Racial Triangulation of Asian Americans"
+    authors: ["Claire Jean Kim"]
+    year: 1999
+    format: reading
+    kind: article
+    access: free
+    url: "https://library.fes.de/libalt/journals/swetsfulltext/6859319.pdf"
+    note: "Asian Americans are racialized on two axes at once, valorized as superior to Black Americans while ostracized as permanently foreign. The racial order is a plane, not a single line. Short enough to assign whole."
+  - title: "How Race Is Made in America: Immigration, Citizenship, and the Historical Power of Racial Scripts"
+    authors: ["Natalia Molina"]
+    year: 2014
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/howraceismadeina0000moli"
+    note: "Introduces 'racial scripts': the ready-made ways of racializing one group get lifted and reapplied to the next, so Mexican racialization is legible only alongside Black, Asian, and Native racialization. The mechanism of transfer."
+  - title: "The Karma of Brown Folk"
+    authors: ["Vijay Prashad"]
+    year: 2000
+    format: reading
+    kind: book
+    access: free
+    tier: extended
+    url: "https://commons.princeton.edu/wp-content/uploads/sites/52/2018/02/Prashad_The_Karma_of_Brown_Folk.pdf"
+    note: "Locates the model-minority myth in reaction against the Black freedom struggle and recovers a long history of Black and South Asian solidarity against it. Opens by asking Du Bois's question back: how does it feel to be a solution?"
   - title: "Black Struggle is Class Struggle (four-part course)"
     authors: ["Liberation School (PSL)"]
     format: reading
@@ -132,6 +157,13 @@ Free unless marked otherwise. Robinson and Du Bois's _Black Reconstruction_ (in 
 - **David R. Roediger** (b. 1952), _The Wages of Whiteness_ (1991). Extends Du Bois's "wages of whiteness" into labor history, showing how white workers came to invest in whiteness as compensation and status. A key bridge to [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]]. Free PDF: [caringlabor.wordpress.com](https://caringlabor.wordpress.com/wp-content/uploads/2011/01/roediger-the-wages-of-whiteness-race-and-the-making-of-the-american-working-class.pdf)
 - **Karen E. Fields** and **Barbara J. Fields**, _Racecraft_ (2012). Argues that racism is the practice that produces the illusion of "race," much as witchcraft produces witches. A tool for spotting circular reasoning about race as the room encounters it. Free to borrow: [archive.org](https://archive.org/details/racecraftsoulofi0000fiel)
 
+### The order is a field, not a line
+
+Most of the readings above run along a single Black-to-white axis. These two say that axis cannot describe the whole order, and they are here because they change the analysis rather than widen the roster.
+
+- **Claire Jean Kim**, "The Racial Triangulation of Asian Americans" (1999). Asian Americans are racialized on two axes at once: valorized against Black Americans as the superior minority, and ostracized as permanently foreign no matter how many generations deep. Once you see the plane, "where does this group rank" stops being the right question. Short, free, and the fastest way to break the binary. Free PDF: [library.fes.de](https://library.fes.de/libalt/journals/swetsfulltext/6859319.pdf)
+- **Natalia Molina**, _How Race Is Made in America_ (2014). Gives the mechanism Kim's geometry implies: "racial scripts" written for one group are lifted and reapplied to the next, so Mexican racialization only makes sense read alongside Black, Asian, and Native racialization. Race is made relationally or not at all. Free to borrow: [archive.org](https://archive.org/details/howraceismadeina0000moli)
+
 ### Contemporary synthesis
 
 - **Nikhil Pal Singh** (b. 1967), _Black Is a Country_ (2004). Recovers the internationalist and radical visions of the long Black freedom movement, useful for connecting racial capitalism to empire and democracy. Free: [archive.org](https://archive.org/details/BlackIsACountryRaceAndTheUnfinishedStruggleForDemocracy)
@@ -153,10 +185,11 @@ The theory here is contested, and that is the point. Robinson and the orthodox M
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Vijay Prashad**, _The Karma of Brown Folk_ (2000). Locates the model-minority myth in reaction against the Black freedom struggle and recovers a long history of Black and South Asian solidarity against it. Opens by asking Du Bois's question back: how does it feel to be a solution? Free: [commons.princeton.edu](https://commons.princeton.edu/wp-content/uploads/sites/52/2018/02/Prashad_The_Karma_of_Brown_Folk.pdf)
 - **Liberation School (PSL)**, _Black Struggle is Class Struggle (four-part course)_. A free four-part course arguing Black liberation and class struggle are one fight. Marxist-Leninist (PSL) in framing; label the standpoint and set it against Robinson, who says the orthodoxy cannot absorb race so easily. Free: [liberationschool.org](https://liberationschool.org/black-struggle-is-class-struggle-psl-course/)
 
 <!-- further-reading:end -->
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially theory on race and capitalism from Indigenous studies, Latin American thought, and the Global South.
+This lens has a developed first pass for this theme. Kim and Molina now break the Black and white binary at the level of theory rather than the roster; Indigenous theory is deliberately held for a forthcoming theme on settler colonialism and land. Contributions welcome, especially theory on race and capitalism from Latin American thought and the Global South, and on anti-Blackness within Asian and Latino communities, where free material is thin.

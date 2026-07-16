@@ -92,6 +92,71 @@ resources:
     length: "7 min"
     url: "https://www.youtube.com/watch?v=O5FBJyqfoLM"
     note: "About 1.4 million views. How federal redlining and the unenforced Fair Housing Act built lasting segregation and the wealth gap. A clean visual companion to Rothstein."
+  - title: "How the Irish Became White"
+    authors: ["Noel Ignatiev"]
+    year: 1995
+    format: reading
+    kind: book
+    access: free
+    url: "https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf"
+    note: "How Irish immigrants, despised as a race apart on arrival, claimed whiteness through the Democratic machine, the unions, and anti-Black violence. Where Allen shows whiteness invented, this shows it recruiting. Also free to borrow on archive.org."
+  - title: "Working Toward Whiteness: How America's Immigrants Became White"
+    authors: ["David R. Roediger"]
+    year: 2005
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/workingtowardwhi00roed"
+    note: "Follows southern and eastern European immigrants from 'inbetween people' to suburban whiteness, earned through housing, unions, and state policy rather than simply granted. The sequel to his Wages of Whiteness."
+  - title: "How Jews Became White Folks and What That Says About Race in America"
+    authors: ["Karen Brodkin"]
+    year: 1998
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/howjewsbecamewhi0000brod"
+    note: "Jews reclassified into whiteness after 1945 by the GI Bill, FHA loans, and suburbanization. An anthropologist's account braided with her own family's story, showing the state doing the reclassifying."
+  - title: "Whiteness of a Different Color: European Immigrants and the Alchemy of Race"
+    authors: ["Matthew Frye Jacobson"]
+    year: 1998
+    format: reading
+    kind: book
+    access: borrow
+    tier: extended
+    url: "https://archive.org/details/whitenessofdiffe0000jaco"
+    note: "Whiteness itself repeatedly redrawn: from a broad 1790 'free white persons' to a fractured hierarchy of Celts and Hebrews and Mediterraneans and back to a consolidated Caucasian. The most ambitious of the became-white histories."
+  - title: "Chinese Exclusion Act"
+    authors: ["U.S. Congress"]
+    year: 1882
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.archives.gov/milestone-documents/chinese-exclusion-act"
+    note: "The first US law to bar a group by name, and the template for every racialized immigration restriction that followed. Full transcript and an image of the original enrolled act."
+  - title: "The Color of Success: Asian Americans and the Origins of the Model Minority"
+    authors: ["Ellen D. Wu"]
+    year: 2013
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/colorofsuccessas0000wuel"
+    note: "The turn from 'yellow peril' to 'model minority' across incarceration, Hawaii statehood, and the Cold War, showing the model minority was manufactured as a weapon against Black claims rather than earned."
+  - title: "Impossible Subjects: Illegal Aliens and the Making of Modern America"
+    authors: ["Mae M. Ngai"]
+    year: 2004
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/impossiblesubjec0000ngai_u2v3"
+    note: "How the 1924 quota regime manufactured the 'illegal alien' as a permanent caste, racializing Mexicans and Asians through immigration law itself. The law as a race-making machine."
+  - title: "Loving v. Virginia, 388 U.S. 1"
+    authors: ["U.S. Supreme Court"]
+    year: 1967
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.law.cornell.edu/supremecourt/text/388/1"
+    note: "The decision striking down anti-miscegenation law, and a window onto one-drop logic: Virginia counted 'any ascertainable Negro blood' as colored while exempting under one-sixteenth 'American Indian' blood. Racecraft doing arithmetic."
   - title: "Teach Reconstruction"
     authors: ["Zinn Education Project"]
     format: reading
@@ -131,9 +196,26 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **Richard Rothstein**, _The Color of Law_ (2017). Shows that redlining and residential segregation were de jure government policy, a primary engine of the racial wealth gap that persists today. Free to borrow: [archive.org](https://archive.org/details/coloroflawforgot0000roth)
 - **Roxanne Dunbar-Ortiz** (b. 1938), _An Indigenous Peoples' History of the United States_ (2014). Recasts US history as settler colonialism and Indigenous dispossession, essential for situating racial capitalism alongside land and elimination. A bridge to [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]]. Free: [archive.org](https://archive.org/details/an-indigenous-peoples-history-of-the-united-states-ortiz)
 
+### The expansion of whiteness
+
+Allen and Morgan show whiteness being invented. These show it recruiting: the line moved, deliberately, to take in groups it had once shut out. Read them together and the point lands hard, because a category that can be renegotiated was never a fact of nature.
+
+- **Noel Ignatiev** (1940 to 2019), _How the Irish Became White_ (1995). The Irish arrived despised as a race apart and became white by buying into the Democratic machine, the trade unions, and anti-Black violence. Whiteness here is not a complexion but a membership, sold on political terms and paid for at someone else's expense. Free PDF: [thecharnelhouse.org](https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf)
+- **David R. Roediger** (b. 1952), _Working Toward Whiteness_ (2005). The sequel to his _Wages of Whiteness_ in the theoretical lens: southern and eastern Europeans move from "inbetween people" to suburban whiteness through housing policy, unions, and the state. Free to borrow: [archive.org](https://archive.org/details/workingtowardwhi00roed)
+- **Karen Brodkin**, _How Jews Became White Folks_ (1998). How the GI Bill, FHA loans, and the suburbs reclassified Jews as white after 1945, told by an anthropologist through her own family. The clearest case of the state doing the reclassifying. Free to borrow: [archive.org](https://archive.org/details/howjewsbecamewhi0000brod)
+
+### Beyond the Black and white binary
+
+The racial order was never a single line with Black at one end and white at the other. These trace how Asian and Latino people were racialized by law, war, and the labor market, often precisely by being positioned against Black people.
+
+- **Ellen D. Wu**, _The Color of Success_ (2013). The turn from "yellow peril" to "model minority" runs through wartime incarceration, Hawaii statehood, and Cold War image-management. The model minority was manufactured, and manufactured as a weapon against Black claims. Free to borrow: [archive.org](https://archive.org/details/colorofsuccessas0000wuel)
+- **Mae M. Ngai**, _Impossible Subjects_ (2004). The 1924 quota regime did not just restrict immigration, it produced the "illegal alien" as a permanent caste, racializing Mexicans and Asians through the law itself. Free to borrow: [archive.org](https://archive.org/details/impossiblesubjec0000ngai_u2v3)
+
 ### Primary sources
 
 - **Ida B. Wells** (1862 to 1931), _Southern Horrors: Lynch Law in All Its Phases_ (1892). Wells's investigative pamphlet exposing lynching as a tool of economic and political terror rather than a response to crime. Short, and a model of research turned into a weapon. Public domain and free: [gutenberg.org](https://www.gutenberg.org/ebooks/14975)
+- **Chinese Exclusion Act** (1882). The first US law to bar a group by name, and the template for every racialized immigration restriction that followed. Read the text itself and notice how plainly it says what it is doing. Free: [archives.gov](https://www.archives.gov/milestone-documents/chinese-exclusion-act)
+- **Loving v. Virginia** (1967). Worth reading for Virginia's own arithmetic: "any ascertainable Negro blood" made you colored, but under one-sixteenth "American Indian" blood did not, so the First Families could keep their Pocahontas story. Racecraft, in statute. Free: [law.cornell.edu](https://www.law.cornell.edu/supremecourt/text/388/1)
 
 ### Films and documentaries
 
@@ -150,10 +232,11 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Matthew Frye Jacobson**, _Whiteness of a Different Color: European Immigrants and the Alchemy of Race_ (1998). Whiteness itself repeatedly redrawn: from a broad 1790 'free white persons' to a fractured hierarchy of Celts and Hebrews and Mediterraneans and back to a consolidated Caucasian. The most ambitious of the became-white histories. Free to borrow: [archive.org](https://archive.org/details/whitenessofdiffe0000jaco)
 - **Zinn Education Project**, _Teach Reconstruction_. Free lessons and role plays on the period Du Bois put at the center of this lens, and on the campaign to get it taught at all. The best classroom-tested way into Reconstruction. Free: [zinnedproject.org](https://www.zinnedproject.org/campaigns/teach-reconstruction/)
 
 <!-- further-reading:end -->
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Indigenous dispossession, the racialization of Latino and Asian labor, and the global history of race beyond the United States.
+This lens has a developed first pass for this theme. The expansion of whiteness and the racialization of Asian and Latino people are now covered; Indigenous dispossession is deliberately held for a forthcoming theme on settler colonialism and land, which can carry it properly rather than as a subsection here. Contributions welcome, especially Filipino racialization and the colonial ambiguity of US nationals, and the global history of race beyond the United States.

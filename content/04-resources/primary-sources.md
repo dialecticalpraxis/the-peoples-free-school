@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_52 primary sources. Generated from theme lens frontmatter._
+_55 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -25,8 +25,11 @@ _52 primary sources. Generated from theme lens frontmatter._
 | [A Solarpunk Manifesto](https://theanarchistlibrary.org/library/the-solarpunk-community-a-solarpunk-manifesto) | The Solarpunk Community | 2019 | manifesto | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Water Protectors Community Oral History Project](https://waterprotectorscommunity.org/) | Water Protectors Community | — | archive | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Final Communiqué of the Bandung Conference](https://worldjpn.net/documents/texts/docs/19550424.D1E.html) | Asian-African Conference | 1955 | document | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
+| [Chinese Exclusion Act](https://www.archives.gov/milestone-documents/chinese-exclusion-act) | U.S. Congress | 1882 | document | Free | [[race-and-racial-capitalism/historical\|Race and Racial Capitalism · Historical]] |
 | [Civil Rights History Project](https://www.loc.gov/collections/civil-rights-history-project/) | Library of Congress, Smithsonian NMAAHC | — | archive | Free | [[race-and-racial-capitalism/experiential\|Race and Racial Capitalism · Experiential]] |
 | [National Labor Relations Act (Wagner Act)](https://www.archives.gov/milestone-documents/national-labor-relations-act) | U.S. Congress | 1935 | document | Free | [[labor-work-and-organizing/historical\|Labor, Work, and Organizing · Historical]] |
+| [Loving v. Virginia, 388 U.S. 1](https://www.law.cornell.edu/supremecourt/text/388/1) | U.S. Supreme Court | 1967 | document | Free | [[race-and-racial-capitalism/historical\|Race and Racial Capitalism · Historical]] |
+| [Densho Digital Repository](https://ddr.densho.org/) | Densho | — | archive | Free | [[race-and-racial-capitalism/experiential\|Race and Racial Capitalism · Experiential]] |
 | [Densho: Oral History collection](https://densho.org/collections/oral-history/) | Densho | — | archive | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [Cuban oral history collections (on-island and exile)](https://news.miami.edu/stories/2024/01/preserving-cuban-voices.html) | Elizabeth Dore, University of Miami Cuban Heritage Collection | — | archive | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Gay Liberation Front Manifesto (London)](https://sourcebooks.web.fordham.edu/pwh/glf-london.asp) | Gay Liberation Front | 1971 | manifesto | Free | [[gender-reproduction-and-the-household/liberatory\|Gender, Reproduction, and the Household · Liberatory]] |
