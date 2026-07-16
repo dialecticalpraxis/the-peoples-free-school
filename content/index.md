@@ -10,6 +10,8 @@ The People's Free School is an open, adoptable model for collective adult politi
 
 This site contains everything you need to start a school in your community: the principles the school operates by, the methods that make it work, a growing library of readings and other materials, and templates for running sessions.
 
+The school is maintained in the open. The site and the whole library live in a [public repository on GitHub](https://github.com/dialecticalpraxis/the-peoples-free-school), where you can see how any page is put together, correct a mistake, suggest a reading, or propose a theme. The [contributing guide](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md) explains how, and it assumes you have never used GitHub before. If you would rather run your own version, fork it and make it yours.
+
 **New here? Start with the [[01-founding-statement|Founding Statement]].**
 
 ## What's here
