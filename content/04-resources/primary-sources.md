@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_55 primary sources. Generated from theme lens frontmatter._
+_57 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -36,6 +36,7 @@ _55 primary sources. Generated from theme lens frontmatter._
 | [Freedom Schools (SNCC Digital Gateway)](https://snccdigital.org/inside-sncc/culture-education/freedom-schools/) | SNCC Digital Gateway | — | archive | Free | [[critical-pedagogy-and-the-practice-of-liberation/historical\|Critical Pedagogy and the Practice of Liberation · Historical]] |
 | [Message to the Tricontinental](https://www.marxists.org/archive/guevara/1967/04/16.htm) | Che Guevara | 1967 | speech | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]]<br>[[socialism-and-national-liberation/theoretical\|Socialism and National Liberation: the Global South · Theoretical]] |
 | [William D. Haywood: selected writings, including The General Strike](https://www.marxists.org/archive/haywood-b/index.htm) | William D. Haywood | 1911 | collection | Free | [[labor-work-and-organizing/historical\|Labor, Work, and Organizing · Historical]] |
+| [Attack on American Free Enterprise System (the Powell Memorandum)](https://scholarlycommons.law.wlu.edu/powellmemo/1/) | Lewis F. Powell Jr. | 1971 | document | Free | [[how-capitalism-works/historical\|How Capitalism Works · Historical]] |
 | [An Ecosocialist Manifesto](https://systemicalternatives.org/2014/03/05/an-ecosocialist-manifesto/) | Joel Kovel, Michael Löwy | 2001 | manifesto | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [American Prison Writing Archive](https://prisonwitness.org/) | Doran Larson | 2013 | archive | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [The Dual Power](https://www.marxists.org/archive/lenin/works/1917/apr/09.htm) | V.I. Lenin | 1917 | article | Free | [[the-state-strategy-and-power/liberatory\|The State, Strategy, and Power · Liberatory]] |
@@ -50,6 +51,7 @@ _55 primary sources. Generated from theme lens frontmatter._
 | [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/) | Federal Writers' Project, Library of Congress | — | archive | Free | [[how-capitalism-works/experiential\|How Capitalism Works · Experiential]]<br>[[race-and-racial-capitalism/experiential\|Race and Racial Capitalism · Experiential]] |
 | [Environmental Justice Oral History Project (EJOHP)](https://ejohp.com/) | Environmental Justice Oral History Project | — | archive | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/index.htm) | John Reed | 1919 | book | Free | [[the-state-strategy-and-power/historical\|The State, Strategy, and Power · Historical]] |
+| [People's Archive of Rural India (PARI)](https://ruralindiaonline.org/) | P. Sainath | 2014 | archive | Free | [[how-capitalism-works/experiential\|How Capitalism Works · Experiential]] |
 | [A United Front Against Debt](https://www.marxists.org/archive/sankara/1987/july/29.htm) | Thomas Sankara | 1987 | speech | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]]<br>[[socialism-and-national-liberation/liberatory\|Socialism and National Liberation: the Global South · Liberatory]] |
 | [Kheel Center for Labor-Management Documentation and Archives](https://digitalcommons.ilr.cornell.edu/kheel/) | Cornell ILR School | — | archive | Free | [[how-capitalism-works/experiential\|How Capitalism Works · Experiential]]<br>[[how-capitalism-works/practical\|How Capitalism Works · Practical]]<br>[[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [The Triangle Factory Fire online collection](http://trianglefire.ilr.cornell.edu/index.html) | Cornell ILR School, Kheel Center | — | archive | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |

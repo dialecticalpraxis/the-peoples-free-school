@@ -12,7 +12,7 @@ For resources by format (readings, films, videos, podcasts, primary sources), se
 
 ## People, thinkers, and authors
 
-_455 names, indexed by surname. Each links to the theme lenses where their work appears._
+_473 names, indexed by surname. Each links to the theme lenses where their work appears._
 
 #### A
 
@@ -48,6 +48,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Kim Bartley** — [The Revolution Will Not Be Televised](https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup) — [[socialism-and-national-liberation/practical|Socialism and National Liberation: the Global South · Practical]]
 - **Darius Bazargan** — [Rojava, Syria's Secret Revolution (BBC Our World)](https://www.youtube.com/watch?v=fKhjJfH0ra4) — [[anarchism-mutual-aid-and-prefiguration/historical|Anarchism, Mutual Aid, and Prefiguration · Historical]]
 - **Diana Sierra Becerra** — [A History of Domestic Work and Worker Organizing (dwherstories)](https://www.dwherstories.com/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
+- **Notes from Below** — [Notes from Below](https://notesfrombelow.org/) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Alexander Berkman** — [The Bolshevik Myth](https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/index.html) — [[revolution-in-power/liberatory|Revolution in Power: the USSR, China, and the Eastern Bloc · Liberatory]]
 - **Jennifer Berkshire** — [Have You Heard](https://www.haveyouheardpodcast.com/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Eduard Bernstein** — [Evolutionary Socialism](https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/) — [[origins-dialectics-marx-and-the-workers-movement/liberatory|Origins: Dialectics, Marx, and the Workers' Movement · Liberatory]] · [[the-state-strategy-and-power/liberatory|The State, Strategy, and Power · Liberatory]]
@@ -81,7 +82,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Cat Brooks** — [Upstream: Abolish the Police](https://www.upstreampodcast.org/abolishthepolice) — [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
 - **Robert D. Bullard** — [Dumping in Dixie: Race, Class, and Environmental Quality](https://archive.org/details/dumpingindixiera0000bull) — [[ecology-and-the-climate-crisis/historical|Ecology and the Climate Crisis · Historical]]
 - **Michael Burawoy** — [Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism](https://archive.org/details/manufacturingcon0000unse) — [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]]
-- **Elisabeth Burgos-Debray** — [I, Rigoberta Menchú: An Indian Woman in Guatemala](https://archive.org/details/irigobertamenchu0000menc) — [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
+- **Elisabeth Burgos-Debray** — [I, Rigoberta Menchú: An Indian Woman in Guatemala](https://archive.org/details/irigobertamenchu0000menc) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]] · [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
 - **Bob Buzzanco** — [Green and Red: Podcasts for Scrappy Radicals](https://greenandredpodcast.org/) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
 
 #### C
@@ -89,11 +90,15 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Amilcar Cabral** — [Return to the Source: Selected Speeches](https://archive.org/details/returntosourcese0000cabr), [The Weapon of Theory](https://www.marxists.org/subject/africa/cabral/1966/weapon-theory.htm) — [[socialism-and-national-liberation/theoretical|Socialism and National Liberation: the Global South · Theoretical]]
 - **Amílcar Cabral** — [National Liberation and Culture](https://www.marxists.org/subject/africa/cabral/1970/cabral-nat-lib-culture.htm), [The Weapon of Theory](https://www.marxists.org/subject/africa/cabral/1966/weapon-theory.htm) — [[imperialism-and-the-global-system/liberatory|Imperialism and the Global System · Liberatory]]
 - **Rebecca Cammisa** — [Which Way Home](https://tubitv.com/movies/56919/which-way-home) — [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
+- **Ha-Joon Chang** — [23 Things They Don't Tell You About Capitalism](http://digamo.free.fr/23things.pdf), [Economics: The User's Guide](https://archive.org/details/economicsusersgu0000chan) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
+- **Leslie T. Chang** — [Factory Girls: From Village to City in a Changing China](https://archive.org/details/factorygirlsvoic0000chan) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Seeds for Change** — [A Consensus Handbook](https://www.seedsforchange.org.uk/handbook), [Seeds for Change: facilitation and consensus guides](https://www.seedsforchange.org.uk/guides) — [[anarchism-mutual-aid-and-prefiguration/practical|Anarchism, Mutual Aid, and Prefiguration · Practical]] · [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Teaching for Change** — [Literacy and Liberation (Septima Clark, with the film They Say I'm Your Teacher)](https://www.civilrightsteaching.org/resource/literacy-and-liberation), [Zinn Education Project: Teaching People's History](https://www.zinnedproject.org/) — [[critical-pedagogy-and-the-practice-of-liberation/experiential|Critical Pedagogy and the Practice of Liberation · Experiential]] · [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Training for Change** — [Training for Change: Tools library](https://www.trainingforchange.org/tools/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Marcia Chatelain** — [Teaching the #FergusonSyllabus](https://www.whobuiltamerica.org/item/teaching-the-ferguson-syllabus) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Michelle Chen** — [Belabored](https://podcasts.apple.com/us/podcast/belabored/id634955549) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
+- **Brett Christophers** — [Rentier Capitalism: Who Owns the Economy, and Who Pays for It?](https://www.versobooks.com/products/871-rentier-capitalism) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
+- **Domitila Barrios de Chungara** — [Let Me Speak! Testimony of Domitila, a Woman of the Bolivian Mines](https://archive.org/details/letmespeak00domi_0) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **George Ciccariello-Maher** — [We Created Chávez: A People's History of the Venezuelan Revolution](https://www.dukeupress.edu/we-created-chavez) — [[socialism-and-national-liberation/historical|Socialism and National Liberation: the Global South · Historical]]
 - **Brett Clark** — [Marx and the Metabolic Rift (handbook chapter)](https://johnbellamyfoster.org/wp-content/uploads/2019/11/Clark-Foster-Longo-Marx-Handbook-Chapter.pdf) — [[ecology-and-the-climate-crisis/theoretical|Ecology and the Climate Crisis · Theoretical]]
 - **Septima Clark** — [Literacy and Liberation (Septima Clark, with the film They Say I'm Your Teacher)](https://www.civilrightsteaching.org/resource/literacy-and-liberation), [Ready from Within: Septima Clark and the Civil Rights Movement](https://archive.org/details/readyfromwithins00clar), [Septima Clark oral history (Southern Oral History Program)](https://www.crmvet.org/nars/clark76b.htm) — [[critical-pedagogy-and-the-practice-of-liberation/experiential|Critical Pedagogy and the Practice of Liberation · Experiential]] · [[critical-pedagogy-and-the-practice-of-liberation/historical|Critical Pedagogy and the Practice of Liberation · Historical]]
@@ -134,6 +139,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Meagan Day** — [Tribunes for Socialism: Reflections on DSA and Electoral Politics](https://www.versobooks.com/blogs/news/4228-tribunes-for-socialism-reflections-on-dsa-and-electoral-politics) — [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
 - **Gene Demby** — [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Daniel Denvir** — [The Dig](https://thedigradio.com/), [The Dig: DSA at the Ballot Box](https://thedigradio.com/podcast/dsa-at-the-ballot-box/) — [[how-capitalism-works/practical|How Capitalism Works · Practical]] · [[imperialism-and-the-global-system/practical|Imperialism and the Global System · Practical]] · [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
+- **Matthew Desmond** — [Evicted: Poverty and Profit in the American City](https://archive.org/details/evictedpovertypr0000desm_m1n2) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Isaac Deutscher** — [Isaac Deutscher: selected writings (Marxists Internet Archive)](https://www.marxists.org/archive/deutscher/index.htm) — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
 - **Myron Dewey** — [Awake: A Dream from Standing Rock](https://www.youtube.com/watch?v=G5EWZxII52c) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
 - **Heinz Dieterich** — [The Socialism of the 21st Century](https://transversal.at/transversal/0805/dieterich/en) — [[socialism-and-national-liberation/theoretical|Socialism and National Liberation: the Global South · Theoretical]]
@@ -151,7 +157,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 
 #### E
 
-- **Barbara Ehrenreich** — [Witches, Midwives, and Nurses: A History of Women Healers](https://www.marxists.org/subject/women/authors/ehrenreich-barbara/witches.htm) — [[gender-reproduction-and-the-household/historical|Gender, Reproduction, and the Household · Historical]]
+- **Barbara Ehrenreich** — [Nickel and Dimed: On (Not) Getting By in America](https://archive.org/details/nickeldimedonnot0000ehre), [Witches, Midwives, and Nurses: A History of Women Healers](https://www.marxists.org/subject/women/authors/ehrenreich-barbara/witches.htm) — [[gender-reproduction-and-the-household/historical|Gender, Reproduction, and the Household · Historical]] · [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Elizabeth Ellsworth** — [Why Doesn't This Feel Empowering? Working Through the Repressive Myths of Critical Pedagogy](https://mariaacaso.es/wp-content/uploads/2017/07/56fb22eadc6312a9894c7ad84547022b.pdf) — [[critical-pedagogy-and-the-practice-of-liberation/liberatory|Critical Pedagogy and the Practice of Liberation · Liberatory]]
 - **Hiba Elyass** — [Momentum: A Race Forward Podcast](https://www.raceforward.org/momentum-race-forward-podcast) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Arghiri Emmanuel** — [Unequal Exchange: A Study of the Imperialism of Trade](https://archive.org/details/unequalexchanges0000emma) — [[imperialism-and-the-global-system/theoretical|Imperialism and the Global System · Theoretical]]
@@ -176,6 +182,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Ben Fine** — [Marx's Capital](http://digamo.free.fr/benfika.pdf) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Shulamith Firestone** — [The Dialectic of Sex: The Case for Feminist Revolution](https://archive.org/details/dialecticofsexth00fire) — [[gender-reproduction-and-the-household/liberatory|Gender, Reproduction, and the Household · Liberatory]]
 - **Deirdre Fishel** — [Care](https://caredocumentary.com/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
+- **Mark Fisher** — [Capitalist Realism: Is There No Alternative?](https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Sheila Fitzpatrick** — [The Russian Revolution](https://archive.org/details/isbn_2900198806706) — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
 - **Sabaah Folayan** — [Whose Streets?](https://www.pbs.org/pov/films/whosestreets/) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Philip S. Foner** — [History of the Labor Movement in the United States, Vol. 1](https://archive.org/details/history-of-the-labor-movement-of-the-united-states-vol-1), [The Great Strikes of 1877](https://archive.org/details/philip-foner-on-the-great-railroad-strike) — [[labor-work-and-organizing/historical|Labor, Work, and Organizing · Historical]]
@@ -203,6 +210,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Ruth Wilson Gilmore** — [Geographies of Racial Capitalism with Ruth Wilson Gilmore](https://www.youtube.com/watch?v=2CS627aKrJI), [Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://archive.org/details/GoldenGulag) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
 - **Henry Giroux** — [Critical Pedagogy and the Postmodern/Modern Divide](https://files.eric.ed.gov/fulltext/EJ795233.pdf) — [[critical-pedagogy-and-the-practice-of-liberation/theoretical|Critical Pedagogy and the Practice of Liberation · Theoretical]]
 - **Sherna Berger Gluck** — [Johnnie Tillmon Oral History](https://csulb-dspace.calstate.edu/handle/10211.3/224242) — [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
+- **Andrew Glyn** — [Capitalism Unleashed: Finance, Globalization, and Welfare](https://archive.org/details/capitalismunleas0000glyn) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Daniel Goldhaber** — [How to Blow Up a Pipeline](https://www.justwatch.com/us/movie/how-to-blow-up-a-pipeline) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
 - **Emma Goldman** — [Anarchism and Other Essays](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays), [Living My Life](https://archive.org/details/livingmylifeauto0000gold) — [[anarchism-mutual-aid-and-prefiguration/historical|Anarchism, Mutual Aid, and Prefiguration · Historical]] · [[anarchism-mutual-aid-and-prefiguration/theoretical|Anarchism, Mutual Aid, and Prefiguration · Theoretical]]
 - **Daniel Gordon** — [A State of Mind](https://watch.plex.tv/movie/a-state-of-mind) — [[revolution-in-power/experiential|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]]
@@ -222,10 +230,10 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Henry Hakamaki** — [Guerrilla History](https://podcasts.apple.com/us/podcast/guerrilla-history/id1539353315) — [[socialism-and-national-liberation/practical|Socialism and National Liberation: the Global South · Practical]]
 - **Henry Hakamäki** — [Guerrilla History](https://guerrillahistory.libsyn.com/) — [[imperialism-and-the-global-system/practical|Imperialism and the Global System · Practical]]
 - **Stuart Hall** — [Race, Articulation and Societies Structured in Dominance](https://swop.org.za/wp-content/uploads/2023/04/Hall-1980-Race-Articulation-Full.pdf) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
-- **Chris Harman** — [Class Struggles in Eastern Europe, 1945 to 1983](https://archive.org/details/classstrugglesin0000harm), [The Storm Breaks: The Crisis in the Eastern Bloc](https://www.marxists.org/archive/harman/1990/xx/stormbreaks.html) — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
+- **Chris Harman** — [Class Struggles in Eastern Europe, 1945 to 1983](https://archive.org/details/classstrugglesin0000harm), [The Storm Breaks: The Crisis in the Eastern Bloc](https://www.marxists.org/archive/harman/1990/xx/stormbreaks.html), [Zombie Capitalism: Global Crisis and the Relevance of Marx](https://www.marxists.org/archive/harman/2009/zombiecap/index.html) — [[how-capitalism-works/historical|How Capitalism Works · Historical]] · [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
 - **Marta Harnecker** — [Ideas for the Struggle](https://socialist-alliance.org/sites/default/files/ideas_for_the_struggle.pdf) — [[socialism-and-national-liberation/theoretical|Socialism and National Liberation: the Global South · Theoretical]]
 - **Heidi Hartmann** — [The Unhappy Marriage of Marxism and Feminism](https://web.ics.purdue.edu/~hoganr/SOC%20602/Hartmann_1979.pdf) — [[gender-reproduction-and-the-household/theoretical|Gender, Reproduction, and the Household · Theoretical]]
-- **David Harvey** — [Crises of Capitalism (RSA Animate)](https://www.youtube.com/watch?v=qOP2V_np2c0), [Reading Marx's Capital (video lecture course)](https://www.youtube.com/watch?v=gBazR59SZXk) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
+- **David Harvey** — [A Brief History of Neoliberalism](https://pratclif.com/economy/money_files/harvey_a_brief_history_of_neoliberalism.pdf), [Crises of Capitalism (RSA Animate)](https://www.youtube.com/watch?v=qOP2V_np2c0), [Reading Marx's Capital (video lecture course)](https://www.youtube.com/watch?v=gBazR59SZXk) — [[how-capitalism-works/historical|How Capitalism Works · Historical]] · [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Kelly Hayes** — [Movement Memos](https://truthout.org/series/movement-memos/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **William D. Haywood** — [William D. Haywood: selected writings, including The General Strike](https://www.marxists.org/archive/haywood-b/index.htm) — [[labor-work-and-organizing/historical|Labor, Work, and Organizing · Historical]]
 - **G. W. F. Hegel** — [Introduction to the Philosophy of History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm) — [[origins-dialectics-marx-and-the-workers-movement/theoretical|Origins: Dialectics, Marx, and the Workers' Movement · Theoretical]]
@@ -266,6 +274,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Hasan Kwame Jeffries** — [Teaching Hard History](https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Michelle Joffroy** — [A History of Domestic Work and Worker Organizing (dwherstories)](https://www.dwherstories.com/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
 - **Adolph Reed Jr.** — [The Case Against Reparations](https://nonsite.org/the-case-against-reparations/) — [[race-and-racial-capitalism/liberatory|Race and Racial Capitalism · Liberatory]]
+- **Lewis F. Powell Jr.** — [Attack on American Free Enterprise System (the Powell Memorandum)](https://scholarlycommons.law.wlu.edu/powellmemo/1/) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Learning for Justice** — [Teaching Hard History](https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 
 #### K
@@ -316,6 +325,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 
 #### M
 
+- **Nancy MacLean** — [Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America](https://www.penguinrandomhouse.com/books/533061/democracy-in-chains-by-nancy-maclean/) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Stephen Maing** — [Union](https://www.pbs.org/pov/films/unionfilm/) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
 - **Chris Maisano** — [There's No Substitute for Mass Working-Class Parties](https://jacobin.com/2021/09/michels-oligarchy-spd-social-democracy-parties) — [[origins-dialectics-marx-and-the-workers-movement/practical|Origins: Dialectics, Marx, and the Workers' Movement · Practical]]
 - **Errico Malatesta** — [An Anarchist Programme](https://theanarchistlibrary.org/library/errico-malatesta-an-anarchist-programme), [Anarchy](https://theanarchistlibrary.org/library/errico-malatesta-anarchy) — [[anarchism-mutual-aid-and-prefiguration/liberatory|Anarchism, Mutual Aid, and Prefiguration · Liberatory]] · [[anarchism-mutual-aid-and-prefiguration/theoretical|Anarchism, Mutual Aid, and Prefiguration · Theoretical]] · [[the-state-strategy-and-power/liberatory|The State, Strategy, and Power · Liberatory]]
@@ -327,6 +337,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Abby Martin** — [Gaza Fights For Freedom](https://www.youtube.com/watch?v=HnZSaKYmP2s), [Marxism 101: How Capitalism is Killing Itself](https://www.youtube.com/watch?v=6P97r9Ci5Kg) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]] · [[imperialism-and-the-global-system/practical|Imperialism and the Global System · Practical]]
 - **François Martin** — [Eclipse and Re-emergence of the Communist Movement](https://files.libcom.org/files/Dauv%C3%A9%20with%20Martin%20-%20Eclipse%20and%20Re-emergence.pdf) — [[how-capitalism-works/liberatory|How Capitalism Works · Liberatory]]
 - **Karl Marx** — [A Contribution to the Critique of Hegel's Philosophy of Right. Introduction](https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm), [Capital, Volume I (esp. Ch. 1, The Commodity)](https://www.marxists.org/archive/marx/works/1867-c1/index.htm), [Capital, Volume I, Chapter 10: The Working Day](https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm), [Critique of the Gotha Programme](https://www.marxists.org/archive/marx/works/1875/gotha/index.htm), [Economic and Philosophic Manuscripts of 1844](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm), [Inaugural Address of the International Working Men's Association](https://www.marxists.org/archive/marx/works/1864/10/27.htm), [So-Called Primitive Accumulation (Capital, Vol. I, Part VIII, Chs. 26–33)](https://www.marxists.org/archive/marx/works/1867-c1/ch26.htm), [The Civil War in France](https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm), [The Class Struggles in France, 1848 to 1850](https://www.marxists.org/archive/marx/works/1850/class-struggles-france/index.htm), [The German Ideology (Part I)](https://www.marxists.org/archive/marx/works/1845/german-ideology/index.htm), [The Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm), [Theses on Feuerbach](https://www.marxists.org/archive/marx/works/1845/theses/index.htm), [Value, Price and Profit](https://www.marxists.org/archive/marx/works/1865/value-price-profit/index.htm), [Wage-Labour and Capital](https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm) — [[how-capitalism-works/historical|How Capitalism Works · Historical]] · [[how-capitalism-works/liberatory|How Capitalism Works · Liberatory]] · [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]] · [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]] · [[origins-dialectics-marx-and-the-workers-movement/historical|Origins: Dialectics, Marx, and the Workers' Movement · Historical]] · [[origins-dialectics-marx-and-the-workers-movement/theoretical|Origins: Dialectics, Marx, and the Workers' Movement · Theoretical]] · [[the-state-strategy-and-power/historical|The State, Strategy, and Power · Historical]]
+- **Jane Mayer** — [Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right](https://archive.org/details/darkmoneyhiddenh0000maye_n7i4) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Jane McAlevey** — [Jane McAlevey on How to Organize for Power (interview)](https://www.currentaffairs.org/news/2019/04/jane-mcalevey-on-how-to-organize-for-power), [No Shortcuts: Organizing for Power in the New Gilded Age](https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/) — [[labor-work-and-organizing/liberatory|Labor, Work, and Organizing · Liberatory]]
 - **Heather McGhee** — [Racism has a cost for everyone](https://www.youtube.com/watch?v=eaCrsBtiYA4) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
 - **Eren Isabel McGinnis** — [Precious Knowledge](https://www.pbs.org/independentlens/documentaries/precious-knowledge/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
@@ -334,7 +345,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Martin McKee** — [Mass privatisation and the post-communist mortality crisis](https://mltoday.com/wp-content/uploads/2009/01/lancet-privatisation.pdf) — [[revolution-in-power/practical|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]]
 - **WebsEdge Medicine** — [Loretta Ross Defines Reproductive Justice](https://www.youtube.com/watch?v=lsOKBLmvqGI) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
 - **Franz Mehring** — [Karl Marx: The Story of His Life](https://www.marxists.org/archive/mehring/1918/marx/index.htm) — [[origins-dialectics-marx-and-the-workers-movement/historical|Origins: Dialectics, Marx, and the Workers' Movement · Historical]]
-- **Rigoberta Menchú** — [I, Rigoberta Menchú: An Indian Woman in Guatemala](https://archive.org/details/irigobertamenchu0000menc) — [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
+- **Rigoberta Menchú** — [I, Rigoberta Menchú: An Indian Woman in Guatemala](https://archive.org/details/irigobertamenchu0000menc) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]] · [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
 - **Shereen Marisol Meraji** — [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Carolyn Merchant** — [The Death of Nature: Women, Ecology, and the Scientific Revolution](https://archive.org/details/deathofnaturewom00merc) — [[ecology-and-the-climate-crisis/historical|Ecology and the Climate Crisis · Historical]]
 - **John Merriman** — [John Merriman: The Paris Commune of 1871](https://www.youtube.com/watch?v=j2TmX_ZIqXI) — [[origins-dialectics-marx-and-the-workers-movement/historical|Origins: Dialectics, Marx, and the Workers' Movement · Historical]]
@@ -394,6 +405,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Michael Perelman** — [The Invention of Capitalism](https://files.libcom.org/files/2022-05/The%20Invention%20of%20Capitalism.pdf) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Lucy Massie Phenix** — [You Got to Move: Stories of Change in the South](https://www.zinnedproject.org/materials/you-got-to-move-highlander-center/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Zak Piper** — [The Ants and the Grasshopper](https://www.pbs.org/show/ants-grasshopper-series/) — [[ecology-and-the-climate-crisis/experiential|Ecology and the Climate Crisis · Experiential]]
+- **Katharina Pistor** — [The Code of Capital: How the Law Creates Wealth and Inequality](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Frances Fox Piven** — [Regulating the Poor: The Functions of Public Welfare](https://archive.org/details/regulatingpoorth00pive) — [[the-state-strategy-and-power/historical|The State, Strategy, and Power · Historical]]
 - **Georgi Plekhanov** — [Fundamental Problems of Marxism](https://www.marxists.org/archive/plekhanov/1907/fundamental-problems.htm) — [[origins-dialectics-marx-and-the-workers-movement/theoretical|Origins: Dialectics, Marx, and the Workers' Movement · Theoretical]]
 - **Laura Poitras** — [Citizenfour](https://archive.org/details/Citizen.Four2014) — [[the-state-strategy-and-power/experiential|The State, Strategy, and Power · Experiential]]
@@ -438,6 +450,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 
 - **Alfredo Saad-Filho** — [Marx's Capital](http://digamo.free.fr/benfika.pdf) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Andrew Sage** — [How Anarchy Works](https://www.youtube.com/watch?v=lrTzjaXskUU), [How Degrowth Can Save the World](https://www.youtube.com/watch?v=oQrI2GBvn5Q), [How To Build A Solarpunk City](https://www.youtube.com/watch?v=4UmU1dSe3n0), [How To Build Radical Community](https://www.youtube.com/watch?v=1-Xl6dhDV3Q), [What is Mutual Aid?](https://www.youtube.com/watch?v=LlF-ZvRHa2o), [What is Pan-Africanism?](https://www.youtube.com/watch?v=48Y5pBtRHqk), [Why States Fail Humanity](https://www.youtube.com/watch?v=-1PV02IzWpo) — [[anarchism-mutual-aid-and-prefiguration/liberatory|Anarchism, Mutual Aid, and Prefiguration · Liberatory]] · [[anarchism-mutual-aid-and-prefiguration/practical|Anarchism, Mutual Aid, and Prefiguration · Practical]] · [[anarchism-mutual-aid-and-prefiguration/theoretical|Anarchism, Mutual Aid, and Prefiguration · Theoretical]] · [[how-capitalism-works/liberatory|How Capitalism Works · Liberatory]] · [[imperialism-and-the-global-system/liberatory|Imperialism and the Global System · Liberatory]] · [[the-state-strategy-and-power/liberatory|The State, Strategy, and Power · Liberatory]]
+- **P. Sainath** — [People's Archive of Rural India (PARI)](https://ruralindiaonline.org/) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Kohei Saito** — [Degrowth needs to learn from communism (interview)](https://www.greeneuropeanjournal.eu/kohei-saito-degrowth-needs-to-learn-from-communism/) — [[ecology-and-the-climate-crisis/theoretical|Ecology and the Climate Crisis · Theoretical]]
 - **Aina Salleh** — [Who Cares? The Gendered Burden of Unpaid Care Work](https://www.youtube.com/watch?v=0zcC9M4QKlU) — [[gender-reproduction-and-the-household/experiential|Gender, Reproduction, and the Household · Experiential]]
 - **Isaac Saney** — [Cuba and Venezuela in Debate](https://nacla.org/article/cuba-and-venezuela-debate) — [[socialism-and-national-liberation/practical|Socialism and National Liberation: the Global South · Practical]]
@@ -456,6 +469,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **Beverly J. Silver** — [Forces of Labor: Workers' Movements and Globalization since 1870](https://libcom.org/article/forces-labor-beverly-j-silver) — [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]]
 - **Nikhil Pal Singh** — [Black Is a Country: Race and the Unfinished Struggle for Democracy](https://archive.org/details/BlackIsACountryRaceAndTheUnfinishedStruggleForDemocracy) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
 - **Jane Slaughter** — [Secrets of a Successful Organizer](https://labornotes.org/secrets/handouts) — [[how-capitalism-works/practical|How Capitalism Works · Practical]] · [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
+- **Quinn Slobodian** — [Globalists: The End of Empire and the Birth of Neoliberalism](https://archive.org/details/globalists-the-end-of-empire-and-the-birth-of-neoliberalism-quinn-slobodian) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Clint Smith** — [Justice in America](https://theappeal.org/topics/justice-in-america/), [Slavery in the American Colonies: Crash Course Black American History #2](https://www.youtube.com/watch?v=G4syEkyOzmY) — [[race-and-racial-capitalism/historical|Race and Racial Capitalism · Historical]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **David Smith** — [Upstream Podcast - Marx's Capital Vol. 1 w/ David Smith](https://www.upstreampodcast.org/conversations) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **John Smith** — [Imperialism in the Twenty-First Century](https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf) — [[imperialism-and-the-global-system/theoretical|Imperialism and the Global System · Theoretical]]
@@ -464,9 +478,12 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 - **African American Intellectual History Society** — [Prison Abolition Syllabus 2.0](https://www.aaihs.org/prison-abolition-syllabus-2-0/) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Dean Spade** — [Mutual Aid Toolbox](https://bigdoorbrigade.com/mutual-aid-toolbox/), [Mutual Aid: Building Solidarity During This Crisis (and the Next)](https://theanarchistlibrary.org/library/dean-spade-mutual-aid) — [[anarchism-mutual-aid-and-prefiguration/practical|Anarchism, Mutual Aid, and Prefiguration · Practical]] · [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
 - **James Spione** — [Awake: A Dream from Standing Rock](https://www.youtube.com/watch?v=G5EWZxII52c) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
+- **Nick Srnicek** — [Platform Capitalism](https://mudancatecnologicaedinamicacapitalista.wordpress.com/wp-content/uploads/2019/02/platform-capitalism.pdf) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
+- **Jim Stanford** — [Economics for Everyone: A Short Guide to the Economics of Capitalism](https://archive.org/details/economicsforever0000stan) — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Will Steffen** — [The Trajectory of the Anthropocene: The Great Acceleration](https://openresearch-repository.anu.edu.au/items/80e718d2-a469-41f5-89b2-4aca0957c330) — [[ecology-and-the-climate-crisis/historical|Ecology and the Climate Crisis · Historical]]
 - **Gary Stevenson** — [Gary's Economics](https://www.youtube.com/watch?v=iD2sPL7k98c) — [[how-capitalism-works/practical|How Capitalism Works · Practical]]
 - **Brett Story** — [Union](https://www.pbs.org/pov/films/unionfilm/) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
+- **Wolfgang Streeck** — [The Crises of Democratic Capitalism](http://piketty.pse.ens.fr/files/StreeckNLR2011.pdf) — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **Shelton Stromquist** — [The Socialist Debate over the Mass Strike](https://www.versobooks.com/blogs/news/socialist-debate-over-the-mass-strike) — [[origins-dialectics-marx-and-the-workers-movement/practical|Origins: Dialectics, Marx, and the Workers' Movement · Practical]]
 - **David Stuckler** — [Mass privatisation and the post-communist mortality crisis](https://mltoday.com/wp-content/uploads/2009/01/lancet-privatisation.pdf) — [[revolution-in-power/practical|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]]
 - **Kim Il Sung** — [On Some Points of the Juche Idea](https://www.marxists.org/archive/kim-il-sung/2020/20200729120144.pdf) — [[revolution-in-power/liberatory|Revolution in Power: the USSR, China, and the Eastern Bloc · Liberatory]]
@@ -492,6 +509,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 
 - **Ngo Van** — [Revolution and Counter-Revolution Under Colonial Rule (Vietnam)](https://theanarchistlibrary.org/library/ngo-van-xuyet-revolution-and-counterrevolution-under-colonial-rule) — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
 - **Troy Vettese** — [Half-Earth Socialism: A Plan to Save the Future from Extinction, Climate Change and Pandemics](https://www.thetedkarchive.com/library/troy-vettese-drew-pendergrass-half-earth-socialism) — [[ecology-and-the-climate-crisis/liberatory|Ecology and the Climate Crisis · Liberatory]]
+- **Moema Viezzer** — [Let Me Speak! Testimony of Domitila, a Woman of the Bolivian Mines](https://archive.org/details/letmespeak00domi_0) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Alex Vitale** — [Upstream: Abolish the Police](https://www.upstreampodcast.org/abolishthepolice) — [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
 - **Lise Vogel** — [Marxism and the Oppression of Women: Toward a Unitary Theory](https://archive.org/details/marxismoppressio0000voge) — [[gender-reproduction-and-the-household/theoretical|Gender, Reproduction, and the Household · Theoretical]]
 - **Voline** — [The Anarchist Synthesis](https://theanarchistlibrary.org/library/voline-synthesis-anarchist) — [[anarchism-mutual-aid-and-prefiguration/liberatory|Anarchism, Mutual Aid, and Prefiguration · Liberatory]]
@@ -546,7 +564,7 @@ _455 names, indexed by surname. Each links to the theme lenses where their work 
 
 ## Topics and subsections
 
-_128 topics, from the subsection headings across the theme lenses._
+_135 topics, from the subsection headings across the theme lenses._
 
 #### T
 
@@ -568,6 +586,7 @@ _128 topics, from the subsection headings across the theme lenses._
 #### C
 
 - **Capitalism and nature: the metabolic rift and cheap nature** — [[ecology-and-the-climate-crisis/theoretical|Ecology and the Climate Crisis · Theoretical]]
+- **Capitalism in its present form** — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Case studies and accounts of organizing** — [[how-capitalism-works/practical|How Capitalism Works · Practical]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Central and South America** — [[socialism-and-national-liberation/historical|Socialism and National Liberation: the Global South · Historical]]
 - **Classical theories of imperialism** — [[imperialism-and-the-global-system/theoretical|Imperialism and the Global System · Theoretical]]
@@ -619,9 +638,11 @@ _128 topics, from the subsection headings across the theme lenses._
 
 - **Handbooks and how-to material** — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
 - **Hegemony, violence, and power beyond the state** — [[the-state-strategy-and-power/theoretical|The State, Strategy, and Power · Theoretical]]
+- **How capitalism defends itself** — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 
 #### I
 
+- **If you have never read economics** — [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]]
 - **Imperialism today** — [[imperialism-and-the-global-system/theoretical|Imperialism and the Global System · Theoretical]]
 - **Indigenous ecology and Land Back** — [[ecology-and-the-climate-crisis/liberatory|Ecology and the Climate Crisis · Liberatory]]
 - **Inside the Asian and Eastern socialist states** — [[revolution-in-power/experiential|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]]
@@ -645,6 +666,7 @@ _128 topics, from the subsection headings across the theme lenses._
 #### N
 
 - **National liberation and its theory** — [[imperialism-and-the-global-system/liberatory|Imperialism and the Global System · Liberatory]]
+- **Neoliberalism** — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 
 #### O
 
@@ -682,6 +704,7 @@ _128 topics, from the subsection headings across the theme lenses._
 #### T
 
 - **Teaching resources and journalism** — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
+- **Testimonio from the Global South** — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Testimony from the Soviet world** — [[revolution-in-power/experiential|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]]
 - **The anarchist alternative** — [[how-capitalism-works/liberatory|How Capitalism Works · Liberatory]]
 - **The anarchist and council alternatives** — [[the-state-strategy-and-power/liberatory|The State, Strategy, and Power · Liberatory]]
@@ -721,6 +744,7 @@ _128 topics, from the subsection headings across the theme lenses._
 - **The states in their own voice, and the Yugoslav alternative** — [[revolution-in-power/liberatory|Revolution in Power: the USSR, China, and the Eastern Bloc · Liberatory]]
 - **The strategic debates within anarchism** — [[anarchism-mutual-aid-and-prefiguration/liberatory|Anarchism, Mutual Aid, and Prefiguration · Liberatory]]
 - **The strike and the union form** — [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]]
+- **The twentieth century: boom, crisis, and the turn** — [[how-capitalism-works/historical|How Capitalism Works · Historical]]
 - **The young Marx forms the method** — [[origins-dialectics-marx-and-the-workers-movement/theoretical|Origins: Dialectics, Marx, and the Workers' Movement · Theoretical]]
 - **Transform schooling, or deschool it?** — [[critical-pedagogy-and-the-practice-of-liberation/liberatory|Critical Pedagogy and the Practice of Liberation · Liberatory]]
 - **Twenty-first-century socialism and its critics** — [[socialism-and-national-liberation/theoretical|Socialism and National Liberation: the Global South · Theoretical]]
@@ -737,6 +761,7 @@ _128 topics, from the subsection headings across the theme lenses._
 - **What anarchism is** — [[anarchism-mutual-aid-and-prefiguration/theoretical|Anarchism, Mutual Aid, and Prefiguration · Theoretical]]
 - **What kind of society was it?** — [[revolution-in-power/theoretical|Revolution in Power: the USSR, China, and the Eastern Bloc · Theoretical]]
 - **Whiteness and race as ideology** — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
+- **Work as it is lived now** — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 - **Worker testimony grounded in a single event** — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]]
 
 ## Organizations, channels, and publishers

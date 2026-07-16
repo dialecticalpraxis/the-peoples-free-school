@@ -119,6 +119,65 @@ resources:
     length: "2 hr 48 min"
     url: "https://www.upstreampodcast.org/conversations"
     note: "Conversation with David Smith on his book *Marx’s Capital Illustrated*, an accessible guide to Capital Volume I."
+  - title: "Economics for Everyone: A Short Guide to the Economics of Capitalism"
+    authors: ["Jim Stanford"]
+    year: 2008
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/economicsforever0000stan"
+    note: "Written for trade unionists by a union economist: profit, investment, labour, finance, and the state, assuming no prior economics and openly on the workers' side. The companion site at economicsforeveryone.ca gives away a glossary, slides, and course outlines."
+  - title: "Economics: The User's Guide"
+    authors: ["Ha-Joon Chang"]
+    year: 2014
+    format: reading
+    kind: book
+    access: borrow
+    tier: extended
+    url: "https://archive.org/details/economicsusersgu0000chan"
+    note: "A tour of how the economy works and of the nine competing schools that explain it, on the principle that economics is political argument rather than science. Heterodox, not Marxist; the map of the field before you enter Marx."
+  - title: "Platform Capitalism"
+    authors: ["Nick Srnicek"]
+    year: 2016
+    format: reading
+    kind: book
+    access: free
+    url: "https://mudancatecnologicaedinamicacapitalista.wordpress.com/wp-content/uploads/2019/02/platform-capitalism.pdf"
+    note: "Ninety pages on Google, Amazon, Uber, and Airbnb as a distinct capitalist form built on data extraction and network effects, and as a response to the long downturn rather than a tech revolution. Readable in one sitting."
+  - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
+    authors: ["Katharina Pistor"]
+    year: 2019
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital"
+    note: "Capital is not a thing but a legal coding: private lawyers, not markets, mint wealth by wrapping assets in priority, durability, and convertibility. Legal-institutionalist rather than Marxist. A free Duke Law lecture by Pistor carries the argument."
+  - title: "Rentier Capitalism: Who Owns the Economy, and Who Pays for It?"
+    authors: ["Brett Christophers"]
+    year: 2020
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.versobooks.com/products/871-rentier-capitalism"
+    note: "An economy dominated not by making things but by owning scarce assets, land, patents, platforms, infrastructure, and charging for access. A free 26-minute Rhodes Center podcast carries the argument."
+  - title: "Capitalist Realism: Is There No Alternative?"
+    authors: ["Mark Fisher"]
+    year: 2009
+    format: reading
+    kind: book
+    access: free
+    url: "https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf"
+    note: "Ninety pages on why capitalism now feels less like a system than like the weather, and how 'there is no alternative' gets installed as a mood rather than argued as a claim. Reads films, call centres, and mental health rather than economics."
+  - title: "23 Things They Don't Tell You About Capitalism"
+    authors: ["Ha-Joon Chang"]
+    year: 2010
+    format: reading
+    kind: book
+    access: free
+    url: "http://digamo.free.fr/23things.pdf"
+    note: "Twenty-three chapters built as 'they tell you X, actually Y', so each free-market claim is stated at its strongest and then dismantled. A ready inventory of the standard objections and the answers to them."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -139,6 +198,12 @@ The core concepts this lens builds are the commodity, value, labor power, surplu
 
 Free unless marked otherwise. Read the short popular texts first, then approach _Capital_ with a companion.
 
+### If you have never read economics
+
+Marx is the spine of this lens, and the texts below him are short but they are not gentle. If the room wants the ground under its feet first, start here instead and come back.
+
+- **Jim Stanford**, _Economics for Everyone: A Short Guide to the Economics of Capitalism_ (2008, 2nd ed. 2015). Written for trade unionists by a union economist: profit, investment, labour, finance, and the state, explained without assuming you know any economics and without pretending to be neutral about whose side it is on. Built for exactly this kind of school. Its companion site gives away a glossary, slides, course outlines, and guides to reading economic data, free: [economicsforeveryone.ca](https://economicsforeveryone.ca/). The book itself is free to borrow: [archive.org](https://archive.org/details/economicsforever0000stan)
+
 ### Start here (short, by Marx, written for workers)
 
 - **Karl Marx** (1818 to 1883), _Wage-Labour and Capital_ (1847). The best free on-ramp: Marx explaining wages, labor power, and where profit comes from, in language meant to be spoken to workers. Each text on the archive carries a built-in study guide. Free: [marxists.org](https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm)
@@ -157,6 +222,19 @@ Free unless marked otherwise. Read the short popular texts first, then approach 
 - **Marxists Internet Archive, "Marx and Engels on Political Economy" subject index** and the _Capital_ Volume I study guide. Gathers the primary economic writings with study guides, useful for building a syllabus. Free: [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/guide/index.htm)
 - **Marxists Internet Archive glossary / Encyclopedia of Marxism**. Short, reliable definitions of surplus value, commodity, alienation, and the rest, for settling terms as they come up in the room. Free: [marxists.org/glossary](https://www.marxists.org/glossary/)
 
+### Capitalism in its present form
+
+Marx wrote about factories. Most people in the room work for a platform, pay rent to an asset manager, and owe someone money. The machinery is the same; the shape has changed, and a lens that stops in 1867 leaves the room unable to name what it is actually living in.
+
+- **Nick Srnicek** (b. 1982), _Platform Capitalism_ (2016). Ninety pages on Google, Amazon, Uber, and Airbnb as a distinct capitalist form built on data extraction and network effects, and, crucially, as a response to the long downturn rather than a story about clever technology. The most teachable thing here: free, short, and readable in one sitting. Free PDF: [wordpress.com](https://mudancatecnologicaedinamicacapitalista.wordpress.com/wp-content/uploads/2019/02/platform-capitalism.pdf)
+
+### How capitalism defends itself
+
+The room will meet these arguments in the world, so it should meet them here first, where there is time to take them apart. Neither of these is a case for capitalism. They are anatomies of how the case gets made and why it feels so hard to answer.
+
+- **Mark Fisher** (1968 to 2017), _Capitalist Realism: Is There No Alternative?_ (2009). Why capitalism now feels less like a system someone built than like the weather, and how "there is no alternative" gets installed as a mood rather than argued as a claim. Ninety pages, working through films, call centres, and mental health rather than economics. Free PDF: [libcom.org](https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf)
+- **Ha-Joon Chang** (b. 1963), _23 Things They Don't Tell You About Capitalism_ (2010). Built as twenty-three "they tell you X, actually Y" chapters, which means it states each free-market claim at its strongest before dismantling it. Heterodox rather than Marxist, and the most useful thing in the theme for a room that keeps losing arguments to a confident relative. Free PDF: [digamo.free.fr](http://digamo.free.fr/23things.pdf)
+
 ### Lectures and video
 
 - **"Reading Marx's Capital," Class 1** (David Harvey, 2007). Roughly two hours. About 1.14 million views. The flagship free lecture course, listed above under companions and worth naming again as the anchor video for this lens. [youtube.com/watch?v=gBazR59SZXk](https://www.youtube.com/watch?v=gBazR59SZXk)
@@ -173,6 +251,18 @@ Free unless marked otherwise. Read the short popular texts first, then approach 
 ## A note on method
 
 Do not try to master _Capital_ in one sitting or one session. The point of the theoretical lens is to build a shared vocabulary the group can use, not to produce experts. Read short, read together, and let people say what they do not yet understand. A facilitator who names their own questions gives the room permission to do the same.
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Ha-Joon Chang**, _Economics: The User's Guide_ (2014). A tour of how the economy works and of the nine competing schools that explain it, on the principle that economics is political argument rather than science. Heterodox, not Marxist; the map of the field before you enter Marx. Free to borrow: [archive.org](https://archive.org/details/economicsusersgu0000chan)
+- **Katharina Pistor**, _The Code of Capital: How the Law Creates Wealth and Inequality_ (2019). Capital is not a thing but a legal coding: private lawyers, not markets, mint wealth by wrapping assets in priority, durability, and convertibility. Legal-institutionalist rather than Marxist. A free Duke Law lecture by Pistor carries the argument. Not free: [press.princeton.edu](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital)
+- **Brett Christophers**, _Rentier Capitalism: Who Owns the Economy, and Who Pays for It?_ (2020). An economy dominated not by making things but by owning scarce assets, land, patents, platforms, infrastructure, and charging for access. A free 26-minute Rhodes Center podcast carries the argument. Not free: [versobooks.com](https://www.versobooks.com/products/871-rentier-capitalism)
+
+<!-- further-reading:end -->
 
 ## Status
 
