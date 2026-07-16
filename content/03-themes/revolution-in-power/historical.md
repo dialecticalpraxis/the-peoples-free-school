@@ -45,8 +45,8 @@ resources:
     year: 2008
     format: reading
     kind: book
-    access: free
-    url: "http://www.socialiststories.com/en/writers/Gao-Mobo/The-Battle-for-Chinas-Past-Mobo-Gao.pdf"
+    access: paywalled
+    url: "https://www.plutobooks.com/product/the-battle-for-chinas-past/"
     note: "Defends the Mao era's welfare, health, and education gains and contests the dominant catastrophe narrative of the Cultural Revolution. A defense of the Maoist record."
   - title: "Revolution and Counter-Revolution Under Colonial Rule (Vietnam)"
     authors: ["Ngo Van"]
@@ -243,7 +243,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 ### The Chinese Revolution
 
 - **William Hinton** (1919 to 2004), _Fanshen_ (1966). Land reform in one village, the revolution from below. Free to borrow: [archive.org](https://archive.org/details/fanshendocumentahintrich)
-- **Mobo Gao** (b. 1952), _The Battle for China's Past_ (2008). A defense of the Mao era's gains against the standard catastrophe narrative. Read against the Great Leap documentary below, and against Dikotter and Yang. Free PDF: [socialiststories.com](http://www.socialiststories.com/en/writers/Gao-Mobo/The-Battle-for-Chinas-Past-Mobo-Gao.pdf)
+- **Mobo Gao** (b. 1952), _The Battle for China's Past_ (2008). A defense of the Mao era's gains against the standard catastrophe narrative. Read against the Great Leap documentary below, and against Dikotter and Yang. No borrowable copy exists and no free companion honestly carries the argument. Paywalled: [plutobooks.com](https://www.plutobooks.com/product/the-battle-for-chinas-past/), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
 - **Frank Dikotter** (b. 1961), _Mao's Great Famine_ (2010). The hostile archival history: party records marshalled for a death toll of at least 45 million and for a famine made by policy rather than weather. Dikotter is the sharpest academic critic of Maoism and is genuinely disputed on his methods and his arithmetic, which is why he belongs here rather than instead of Gao. Paywalled: [frankdikotter.com](http://www.frankdikotter.com/books/maos-great-famine/). His free 39-minute talk, about 75,000 views, puts the case in the room: [youtube.com](https://www.youtube.com/watch?v=DqFBa9ePWpo)
 - **Yang Jisheng** (b. 1940), _Tombstone_ (2012). The same catastrophe from inside: a Xinhua journalist and party member whose own father starved, who spent twenty years in the provincial archives assembling it. Banned in mainland China. He writes as a communist reckoning with what his party did, which is a different standpoint from Dikotter's and lands on the room differently. Paywalled: [chinafile.com](https://www.chinafile.com/library/books/Tombstone)
 

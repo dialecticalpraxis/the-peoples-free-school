@@ -55,7 +55,7 @@ resources:
     format: reading
     kind: book
     access: free
-    url: "https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/"
+    url: "https://libcom.org/article/wages-against-housework-silvia-federici"
     note: "A short manifesto arguing that unwaged domestic work sustains the wage relation. The classic bridge into today's social reproduction debates."
   - title: "What is Social Reproduction Theory?"
     authors: ["Tithi Bhattacharya"]
@@ -264,7 +264,7 @@ For the platform as a business model rather than a labor process, see Srnicek's 
 ### Social reproduction
 
 - **Silvia Federici** (b. 1942), _Caliban and the Witch_ (2004). Reads the witch hunts and the disciplining of women's bodies as central to the birth of capitalism, providing the historical grounding for social reproduction theory. Shared with [[03-themes/how-capitalism-works/historical|the capitalism theme]] and a bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. Free PDF: [files.libcom.org](https://files.libcom.org/files/Caliban%20and%20the%20Witch.pdf)
-- **Silvia Federici**, _Wages Against Housework_ (1975). A short manifesto arguing that unwaged domestic work sustains the wage relation, the classic bridge text from the wages-for-housework campaign into today's debates over care and social reproduction. Free: [caringlabor.wordpress.com](https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/)
+- **Silvia Federici**, _Wages Against Housework_ (1975). A short manifesto arguing that unwaged domestic work sustains the wage relation, the classic bridge text from the wages-for-housework campaign into today's debates over care and social reproduction. Free: [libcom.org](https://libcom.org/article/wages-against-housework-silvia-federici)
 - **Tithi Bhattacharya** (b. 1970), _What is Social Reproduction Theory?_ (2013). A concise explainer of how labor power is produced and maintained outside the workplace, linking struggles over care and community to struggles at work. A clear teaching entry to the framework. Free: [socialistworker.org](https://socialistworker.org/2013/09/10/what-is-social-reproduction-theory)
 
 ### Labor beyond the wage: the informal economy and the Global South

@@ -14,8 +14,8 @@ resources:
     year: 1994
     format: reading
     kind: book
-    access: free
-    url: "https://ouleft.org/wp-content/uploads/Allen-The-Invention-of-the-White-Race-vol-1.pdf"
+    access: borrow
+    url: "https://archive.org/details/inventionofwhite0000alle"
     note: "Argues that the white race was a deliberate ruling-class invention in colonial Virginia, a system of social control built after Bacon's Rebellion to split laboring people."
   - title: "American Slavery, American Freedom: The Ordeal of Colonial Virginia"
     authors: ["Edmund S. Morgan"]
@@ -132,7 +132,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 ### Books
 
 - **Eric Williams** (1911 to 1981), _Capitalism and Slavery_ (1944). The foundational argument that Atlantic slavery and the slave trade financed Britain's industrial rise, and that abolition followed once slavery no longer served capital. Shared with [[03-themes/how-capitalism-works/historical|the capitalism theme]]. Free to borrow: [archive.org](https://archive.org/details/capitalismslaver00will_1)
-- **Theodore W. Allen** (1919 to 2005), _The Invention of the White Race, Volume 1_ (1994). Argues that "the white race" was a deliberate ruling-class invention in colonial Virginia, a system of social control built after Bacon's Rebellion to keep laboring people divided. Free PDF: [ouleft.org](https://ouleft.org/wp-content/uploads/Allen-The-Invention-of-the-White-Race-vol-1.pdf)
+- **Theodore W. Allen** (1919 to 2005), _The Invention of the White Race, Volume 1_ (1994). Argues that "the white race" was a deliberate ruling-class invention in colonial Virginia, a system of social control built after Bacon's Rebellion to keep laboring people divided. Free to borrow: [archive.org](https://archive.org/details/inventionofwhite0000alle). Note the PDF this entry used to link was the introduction only, about fifteen pages, not the book.
 - **Edmund S. Morgan** (1916 to 2013), _American Slavery, American Freedom_ (1975). Traces how colonial Virginia produced American ideals of freedom and racial slavery together, the paradox at the root of the racial order. No borrowable copy exists, and no honest free companion was found. Paywalled: [wwnorton.com](https://wwnorton.com/books/American-Slavery-American-Freedom/)
 - **W.E.B. Du Bois** (1868 to 1963), _Black Reconstruction in America_ (1935). The landmark revision that centers the agency of formerly enslaved people, introduces the "general strike" of the enslaved, and names the "public and psychological wage" of whiteness. The single most important book for this theme. Free to borrow: [archive.org](https://archive.org/details/blackreconstruct0000dubo)
 - **Douglas A. Blackmon**, _Slavery by Another Name_ (2008). Documents convict leasing, debt peonage, and the legal machinery that re-enslaved Black labor after emancipation. A direct link between Jim Crow and profit. No borrowable copy exists. Paywalled: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/14301/slavery-by-another-name-by-douglas-a-blackmon/). The PBS film of the book, below, is free and carries the argument.

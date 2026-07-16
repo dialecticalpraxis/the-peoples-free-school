@@ -6,25 +6,25 @@ resources:
     year: 1970
     format: reading
     kind: book
-    access: free
-    url: "https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/1076/files/2012/10/Freire-Pedagogy-of-the-Oppressed.pdf"
+    access: paywalled
+    url: "https://www.penguin.co.uk/books/22583/pedagogy-of-the-oppressed-by-freire-paulo/9780241301111"
     note: "The founding text of critical pedagogy: the banking model of education, conscientization, and dialogue as the practice of liberation. The single most important book for this theme."
   - title: "Teaching to Transgress: Education as the Practice of Freedom"
     authors: ["bell hooks"]
     year: 1994
     format: reading
     kind: book
-    access: free
-    url: "https://academictrap.wordpress.com/wp-content/uploads/2015/03/bell-hooks-teaching-to-transgress.pdf"
-    note: "Extends Freire through feminism and Black experience, arguing for education as a practice of freedom that engages the whole person, including the teacher. Widely hosted, though in copyright."
+    access: paywalled
+    url: "https://www.routledge.com/Teaching-to-Transgress-Education-as-the-Practice-of-Freedom/hooks/p/book/9780415908085"
+    note: "Extends Freire through feminism and Black experience, arguing for education as a practice of freedom that engages the whole person, including the teacher."
   - title: "We Make the Road by Walking: Conversations on Education and Social Change"
     authors: ["Myles Horton", "Paulo Freire"]
     year: 1990
     format: reading
     kind: book
-    access: free
-    url: "https://codkashacabka.wordpress.com/wp-content/uploads/2013/07/we-make-the-road-by-walking-myles-and-paolo-freie-book.pdf"
-    note: "Six days of recorded dialogue between the two founders, comparing Highlander's and Freire's methods and how liberatory education actually gets organized. Widely hosted, though in copyright."
+    access: borrow
+    url: "https://archive.org/details/bwb_S0-BQJ-260"
+    note: "Six days of recorded dialogue between the two founders, comparing Highlander's and Freire's methods and how liberatory education actually gets organized."
   - title: "The Intellectuals (from the Prison Notebooks)"
     authors: ["Antonio Gramsci"]
     year: 1971
@@ -169,9 +169,9 @@ Free unless marked otherwise. A few of these are widely hosted copies of in-copy
 
 ### Foundational texts
 
-- **Paulo Freire** (1921 to 1997), _Pedagogy of the Oppressed_ (1970). The founding text of critical pedagogy: the banking model, conscientization, and dialogue as the practice of liberation. Dense in places, and best read a chapter at a time with the group. Free PDF: [files.commons.gc.cuny.edu](https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/1076/files/2012/10/Freire-Pedagogy-of-the-Oppressed.pdf)
-- **bell hooks** (1952 to 2021), _Teaching to Transgress_ (1994). Extends Freire through feminism and Black experience, arguing for education as a practice of freedom that engages the whole person, including the teacher. Warmer and more personal than Freire, and a good companion to him. Widely hosted, though in copyright: [academictrap.wordpress.com](https://academictrap.wordpress.com/wp-content/uploads/2015/03/bell-hooks-teaching-to-transgress.pdf)
-- **Myles Horton** (1905 to 1990) and **Paulo Freire**, _We Make the Road by Walking_ (1990). Six days of recorded dialogue between the two founders, comparing Highlander's and Freire's methods and how liberatory education actually gets organized. The most practical of the theory. Widely hosted, though in copyright: [codkashacabka.wordpress.com](https://codkashacabka.wordpress.com/wp-content/uploads/2013/07/we-make-the-road-by-walking-myles-and-paolo-freie-book.pdf)
+- **Paulo Freire** (1921 to 1997), _Pedagogy of the Oppressed_ (1970). The founding text of critical pedagogy: the banking model, conscientization, and dialogue as the practice of liberation. Dense in places, and best read a chapter at a time with the group. There is no authorized free English edition, which is worth saying plainly about the book this school is built on. Paywalled: [penguin.co.uk](https://www.penguin.co.uk/books/22583/pedagogy-of-the-oppressed-by-freire-paulo/9780241301111), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Freire's own estate archive hosts a complete authorized audiobook of _Pedagogia do Oprimido_, released under Creative Commons by his children, in Portuguese: [acervo.paulofreire.org](https://www.acervo.paulofreire.org/items/0d409c3a-7586-4191-b3a3-addf767a2fe1)
+- **bell hooks** (1952 to 2021), _Teaching to Transgress_ (1994). Extends Freire through feminism and Black experience, arguing for education as a practice of freedom that engages the whole person, including the teacher. Warmer and more personal than Freire, and a good companion to him. No borrowable copy exists and no free companion honestly carries the argument. Paywalled: [routledge.com](https://www.routledge.com/Teaching-to-Transgress-Education-as-the-Practice-of-Freedom/hooks/p/book/9780415908085), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
+- **Myles Horton** (1905 to 1990) and **Paulo Freire**, _We Make the Road by Walking_ (1990). Six days of recorded dialogue between the two founders, comparing Highlander's and Freire's methods and how liberatory education actually gets organized. The most practical of the theory. Free to borrow: [archive.org](https://archive.org/details/bwb_S0-BQJ-260). Temple gives away the first chapter free: [tupress.temple.edu](https://tupress.temple.edu/books/we-make-the-road-by-walking)
 
 ### The intellectual, hegemony, and equality
 

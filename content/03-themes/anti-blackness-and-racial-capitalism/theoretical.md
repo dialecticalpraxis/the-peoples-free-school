@@ -38,8 +38,8 @@ resources:
     year: 1991
     format: reading
     kind: book
-    access: free
-    url: "https://caringlabor.wordpress.com/wp-content/uploads/2011/01/roediger-the-wages-of-whiteness-race-and-the-making-of-the-american-working-class.pdf"
+    access: borrow
+    url: "https://archive.org/details/wagesofwhiteness00roed"
     note: "Extends Du Bois's wages of whiteness into labor history, showing how white workers came to invest in whiteness as compensation and status."
   - title: "Racecraft: The Soul of Inequality in American Life"
     authors: ["Karen E. Fields", "Barbara J. Fields"]
@@ -129,7 +129,7 @@ Free unless marked otherwise. Robinson and Du Bois's _Black Reconstruction_ (in 
 ### Whiteness and race as ideology
 
 - **Stuart Hall** (1932 to 2014), _Race, Articulation and Societies Structured in Dominance_ (1980). The essay behind the formulation that race is the modality in which class is lived, offering "articulation" as a way to hold race and class together without reducing one to the other. Free PDF: [swop.org.za](https://swop.org.za/wp-content/uploads/2023/04/Hall-1980-Race-Articulation-Full.pdf)
-- **David R. Roediger** (b. 1952), _The Wages of Whiteness_ (1991). Extends Du Bois's "wages of whiteness" into labor history, showing how white workers came to invest in whiteness as compensation and status. A key bridge to [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]]. Free PDF: [caringlabor.wordpress.com](https://caringlabor.wordpress.com/wp-content/uploads/2011/01/roediger-the-wages-of-whiteness-race-and-the-making-of-the-american-working-class.pdf)
+- **David R. Roediger** (b. 1952), _The Wages of Whiteness_ (1991). Extends Du Bois's "wages of whiteness" into labor history, showing how white workers came to invest in whiteness as compensation and status. A key bridge to [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]]. Free to borrow: [archive.org](https://archive.org/details/wagesofwhiteness00roed)
 - **Karen E. Fields** and **Barbara J. Fields**, _Racecraft_ (2012). Argues that racism is the practice that produces the illusion of "race," much as witchcraft produces witches. A tool for spotting circular reasoning about race as the room encounters it. Free to borrow: [archive.org](https://archive.org/details/racecraftsoulofi0000fiel)
 
 ### Contemporary synthesis

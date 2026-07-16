@@ -22,8 +22,8 @@ resources:
     year: 1995
     format: reading
     kind: book
-    access: free
-    url: "https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf"
+    access: paywalled
+    url: "https://www.routledge.com/How-the-Irish-Became-White/Ignatiev/p/book/9780415963091"
     note: "How Irish immigrants, despised as a race apart on arrival, claimed whiteness through the Democratic machine, the unions, and anti-Black violence. Whiteness as a membership sold on political terms. Also free to borrow on archive.org."
   - title: "Working Toward Whiteness: How America's Immigrants Became White"
     authors: ["David R. Roediger"]
@@ -180,7 +180,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 Whiteness was not a fact about complexions. It was a membership, and the door opened.
 
-- **Noel Ignatiev** (1940 to 2019), _How the Irish Became White_ (1995). The Irish arrived despised as a race apart and became white by buying into the Democratic machine, the trade unions, and anti-Black violence. Whiteness here is not a complexion but a membership, sold on political terms and paid for at someone else's expense. Free PDF: [thecharnelhouse.org](https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf)
+- **Noel Ignatiev** (1940 to 2019), _How the Irish Became White_ (1995). The Irish arrived despised as a race apart and became white by buying into the Democratic machine, the trade unions, and anti-Black violence. Whiteness here is not a complexion but a membership, sold on political terms and paid for at someone else's expense. No borrowable copy exists. Paywalled: [routledge.com](https://www.routledge.com/How-the-Irish-Became-White/Ignatiev/p/book/9780415963091), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Ignatiev on the same politics, free and hosted by his own publisher: [blog.pmpress.org](https://blog.pmpress.org/2019/10/24/noel-ignatiev-on-race-traitor-white-supremacy-and-abolition-on-its-going-down/)
 - **David R. Roediger** (b. 1952), _Working Toward Whiteness_ (2005). Southern and eastern Europeans move from "inbetween people" to suburban whiteness through housing policy, unions, and the state. The companion to his _Wages of Whiteness_, which sits in the anti-Blackness theme. No borrowable copy exists. Paywalled: [hachettebookgroup.com](https://www.hachettebookgroup.com/titles/david-r-roediger/working-toward-whiteness/9781541673472/?lens=basic-books). Roediger lays out the thesis in a free interview published by the UE union: [ueunion.org](https://www.ueunion.org/ue-news-feature/2012/race-and-the-working-class-an-interview-with-david-roediger)
 - **Karen Brodkin**, _How Jews Became White Folks_ (1998). How the GI Bill, FHA loans, and the suburbs reclassified Jews as white after 1945, told by an anthropologist through her own family. The clearest case of the state doing the reclassifying. No borrowable copy exists. Paywalled: [rutgersuniversitypress.org](https://www.rutgersuniversitypress.org/how-jews-became-white-folks-and-what-that-says-about-race-in-america/9780813525907). Brodkin restated the argument herself in a free essay: [forward.com](https://forward.com/opinion/356166/how-jews-became-white-folks-and-may-become-nonwhite-under-trump/)
 

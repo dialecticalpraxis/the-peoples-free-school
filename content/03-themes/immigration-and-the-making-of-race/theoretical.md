@@ -62,9 +62,9 @@ resources:
     year: 2000
     format: reading
     kind: book
-    access: free
+    access: paywalled
     tier: extended
-    url: "https://commons.princeton.edu/wp-content/uploads/sites/52/2018/02/Prashad_The_Karma_of_Brown_Folk.pdf"
+    url: "https://www.upress.umn.edu/9780816634392/karma-of-brown-folk/"
     note: "Locates the model-minority myth in reaction against the Black freedom struggle and recovers a long history of Black and South Asian solidarity against it. Opens by asking Du Bois's question back: how does it feel to be a solution?"
   - title: "Detention, Deportation, and Waiting: Toward a Theory of Migrant Detainability"
     authors: ["Nicholas De Genova"]
@@ -117,7 +117,7 @@ Free unless marked otherwise. Kim is the shortest and the most load-bearing; sta
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
-- **Vijay Prashad**, _The Karma of Brown Folk_ (2000). Locates the model-minority myth in reaction against the Black freedom struggle and recovers a long history of Black and South Asian solidarity against it. Opens by asking Du Bois's question back: how does it feel to be a solution? Free: [commons.princeton.edu](https://commons.princeton.edu/wp-content/uploads/sites/52/2018/02/Prashad_The_Karma_of_Brown_Folk.pdf)
+- **Vijay Prashad**, _The Karma of Brown Folk_ (2000). Locates the model-minority myth in reaction against the Black freedom struggle and recovers a long history of Black and South Asian solidarity against it. Opens by asking Du Bois's question back: how does it feel to be a solution? Not free: [upress.umn.edu](https://www.upress.umn.edu/9780816634392/karma-of-brown-folk/)
 - **Nicholas De Genova**, _Detention, Deportation, and Waiting: Toward a Theory of Migrant Detainability_ (2016). Extends deportability into detention, on waiting itself as a technique of rule. Free: [globaldetentionproject.org](https://www.globaldetentionproject.org/wp-content/uploads/2016/12/De-Genova-GDP-Paper-2016.pdf)
 
 <!-- further-reading:end -->

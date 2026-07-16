@@ -14,8 +14,8 @@ resources:
     year: 1963
     format: reading
     kind: book
-    access: free
-    url: "https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf"
+    access: borrow
+    url: "https://archive.org/details/makingofenglishw0000epth"
     note: "The founding work of history from below, on how workers made themselves into a class through struggle, custom, and culture rather than being made by economic forces alone."
   - title: "History of the Labor Movement in the United States, Vol. 1"
     authors: ["Philip S. Foner"]
@@ -206,7 +206,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 ### Books
 
 - **Jeremy Brecher** (b. 1946), _Strike!_ (1972, updated later). A narrative history of US mass strikes from 1877 to 1970 told from the rank and file's point of view, covering the 1877 railroad uprising, the 1934 city-wide strikes, and the 1946 strike wave. The best single-volume entry point for this lens. Free: [libcom.org](https://libcom.org/article/strike-jeremy-brecher)
-- **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The founding work of "history from below," reconstructing how English workers made themselves into a class through struggle, custom, and culture between 1780 and 1832, rather than being made by economic forces alone. Long and endlessly readable. Free PDF: [bard.edu](https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf)
+- **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The founding work of "history from below," reconstructing how English workers made themselves into a class through struggle, custom, and culture between 1780 and 1832, rather than being made by economic forces alone. Long and endlessly readable. Free to borrow: [archive.org](https://archive.org/details/makingofenglishw0000epth)
 - **Philip S. Foner** (1910 to 1994), _History of the Labor Movement in the United States, Volume 1_ (1947). The opening volume of the standard left history of American labor, from colonial times to the founding of the AFL, covering early unions, the ten-hour movement, the Knights of Labor, and the 1877 uprising. Free to borrow: [archive.org](https://archive.org/details/historyoflabormo0001fone)
 - **Philip S. Foner**, _The Great Labor Uprising of 1877_ (1977). A focused account of the first national strike wave, drawn from Foner's larger history and useful when a session wants to study one generative event closely. Free to borrow: [archive.org](https://archive.org/details/greatlaboruprisi0000fone)
 - **Richard O. Boyer** (1903 to 1973) and **Herbert M. Morais** (1905 to 1970), _Labor's Untold Story_ (1955). A popular union-published history of American workers from the Civil War through the New Deal, written to be read by workers themselves. Partisan and readable. Free to borrow: [archive.org](https://archive.org/details/laborsuntoldstor0000boye)

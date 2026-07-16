@@ -79,7 +79,7 @@ resources:
     format: reading
     kind: book
     access: free
-    url: "https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf"
+    url: "https://monthlyreview.org/2015/07/01/imperialism-in-the-twenty-first-century/"
     note: "Argues that global value chains rest on the super-exploitation of Southern labor. The book is not free, but this journal-length version carries the core argument."
   - title: "World-Systems Theory, Dependency Theory and Global Inequality"
     authors: ["Then & Now"]
@@ -206,7 +206,7 @@ Free unless marked otherwise. Lenin is the anchor; the "Lenin in Five Minutes" v
 
 ### Imperialism today
 
-- **John Smith**, _Imperialism in the Twenty-First Century_ (2016). Argues that global value chains rest on the super-exploitation of Southern labor, so the smartphone and the t-shirt are imperialism made ordinary. The book is not free, but this journal-length version carries the core argument. Free PDF: [thenextrecession.wordpress.com](https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf)
+- **John Smith**, _Imperialism in the Twenty-First Century_ (2016). Argues that global value chains rest on the super-exploitation of Southern labor, so the smartphone and the t-shirt are imperialism made ordinary. The book is not free, but this journal-length version carries the core argument. Free on Monthly Review's own site, where it belongs: [monthlyreview.org](https://monthlyreview.org/2015/07/01/imperialism-in-the-twenty-first-century/)
 
 ### Films, lectures, and audio
 

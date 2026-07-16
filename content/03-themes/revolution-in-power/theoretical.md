@@ -38,16 +38,16 @@ resources:
     year: 1971
     format: reading
     kind: book
-    access: free
-    url: "http://www.marx2mao.com/PDFs/OTTS71.pdf"
+    access: borrow
+    url: "https://archive.org/details/ontransitiontoso0000unse"
     note: "An exchange between two Marxist economists on why transitional societies drift back toward commodity production and market relations. Sympathetic but searching, from the Monthly Review tradition."
   - title: "The Economics of Feasible Socialism"
     authors: ["Alec Nove"]
     year: 1983
     format: reading
     kind: book
-    access: free
-    url: "http://digamo.free.fr/nove91.pdf"
+    access: paywalled
+    url: "https://www.routledge.com/The-Economics-of-Feasible-Socialism-Revisited/Nove/p/book/9780044460152"
     note: "A market-socialist's critique of the command economy, arguing centralized planning cannot process the information a modern economy generates, and sketching a mixed feasible alternative."
   - title: "Towards a New Socialism"
     authors: ["W. Paul Cockshott", "Allin Cottrell"]
@@ -121,8 +121,8 @@ All free unless marked otherwise. Each source's standpoint is named; they are me
 ### The calculation and planning debate
 
 - **Ludwig von Mises** (1881 to 1973), _Economic Calculation in the Socialist Commonwealth_ (1920). The founding anti-socialist argument, and the challenge every planning proposal must answer: without market prices for capital goods, rational allocation is impossible. Austrian-school and hostile. Free: [mises.org](https://mises.org/library/economic-calculation-socialist-commonwealth)
-- **Paul Sweezy and Charles Bettelheim**, _On the Transition to Socialism_ (1971). A sympathetic but searching exchange on why transitional economies drift back toward markets and commodity production. Free PDF: [marx2mao.com](http://www.marx2mao.com/PDFs/OTTS71.pdf)
-- **Alec Nove** (1915 to 1994), _The Economics of Feasible Socialism_ (1983). A market-socialist's case that central planning cannot process the information a modern economy generates, with a sketch of a mixed alternative. Free PDF: [digamo.free.fr](http://digamo.free.fr/nove91.pdf)
+- **Paul Sweezy and Charles Bettelheim**, _On the Transition to Socialism_ (1971). A sympathetic but searching exchange on why transitional economies drift back toward markets and commodity production. Free to borrow: [archive.org](https://archive.org/details/ontransitiontoso0000unse)
+- **Alec Nove** (1915 to 1994), _The Economics of Feasible Socialism_ (1983). A market-socialist's case that central planning cannot process the information a modern economy generates, with a sketch of a mixed alternative. No borrowable copy exists, and no free companion: Nove died in 1994, before authors were routinely recorded. Paywalled: [routledge.com](https://www.routledge.com/The-Economics-of-Feasible-Socialism-Revisited/Nove/p/book/9780044460152), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
 - **W. Paul Cockshott and Allin Cottrell**, _Towards a New Socialism_ (1993). The reply from the other side: modern computation makes detailed democratic planning feasible, using labor-time accounting. The strongest recent case for planning. Free PDF: [wfu.edu](https://users.wfu.edu/cottrell/socialism_book/new_socialism.pdf)
 - **David Schweickart** (b. 1942), _Economic Democracy_ (2011). A model of market socialism built on worker self-managed firms and social control of investment, learning from the command economy without abandoning planned investment. The book is not free; this essay states the case. Free essay: [thenextsystem.org](https://thenextsystem.org/sites/default/files/2017-08/NewSystems_DavidSchweickart.pdf)
 

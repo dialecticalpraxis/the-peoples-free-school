@@ -31,7 +31,7 @@ resources:
     format: reading
     kind: book
     access: free
-    url: "https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/"
+    url: "https://libcom.org/article/wages-against-housework-silvia-federici"
     note: "The sharp companion argument that the demand for wages is a revolutionary perspective because it refuses the naturalization of housework as an act of love and makes exploitation visible."
   - title: "The Traffic in Women: Notes on the Political Economy of Sex"
     authors: ["Gayle Rubin"]
@@ -167,7 +167,7 @@ Free unless marked otherwise. Bhattacharya's short piece is the best on-ramp; re
 ### Wages for Housework
 
 - **Mariarosa Dalla Costa** (b. 1943) and **Selma James** (b. 1930), _The Power of Women and the Subversion of the Community_ (1972). The founding text of the Wages for Housework tradition, arguing that the unwaged housewife is central to capitalist accumulation and that her refusal is a political weapon. Free: [libcom.org](https://libcom.org/article/power-women-and-subversion-community-mariarosa-dalla-costa-and-selma-james)
-- **Silvia Federici** (b. 1942), _Wages Against Housework_ (1975). The sharp companion argument that demanding wages is a revolutionary perspective because it refuses the naturalization of housework as an act of love and makes women's exploitation visible and contestable. Shared with [[03-themes/labor-work-and-organizing/theoretical|the labor theme]]. Free: [caringlabor.wordpress.com](https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/)
+- **Silvia Federici** (b. 1942), _Wages Against Housework_ (1975). The sharp companion argument that demanding wages is a revolutionary perspective because it refuses the naturalization of housework as an act of love and makes women's exploitation visible and contestable. Shared with [[03-themes/labor-work-and-organizing/theoretical|the labor theme]]. Free: [libcom.org](https://libcom.org/article/wages-against-housework-silvia-federici)
 
 ### Gender as a system, and the Marxism-feminism debate
 

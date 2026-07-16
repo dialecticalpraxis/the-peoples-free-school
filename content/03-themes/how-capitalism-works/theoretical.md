@@ -46,8 +46,8 @@ resources:
     year: 2016
     format: reading
     kind: book
-    access: free
-    url: "http://digamo.free.fr/benfika.pdf"
+    access: paywalled
+    url: "https://monthlyreview.org/9781583672884/"
     note: "A compact, widely assigned print companion, chapter by chapter."
   - title: "Marx and Engels on Political Economy (subject index and Capital study guide)"
     authors: ["Marxists Internet Archive"]
@@ -149,8 +149,8 @@ resources:
     year: 2016
     format: reading
     kind: book
-    access: free
-    url: "https://mudancatecnologicaedinamicacapitalista.wordpress.com/wp-content/uploads/2019/02/platform-capitalism.pdf"
+    access: paywalled
+    url: "https://www.politybooks.com/bookdetail?book_slug=platform-capitalism--9781509504862"
     note: "Ninety pages on Google, Amazon, Uber, and Airbnb as a distinct capitalist form built on data extraction and network effects, and as a response to the long downturn rather than a tech revolution. Readable in one sitting."
   - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
     authors: ["Katharina Pistor"]
@@ -183,8 +183,8 @@ resources:
     year: 2010
     format: reading
     kind: book
-    access: free
-    url: "http://digamo.free.fr/23things.pdf"
+    access: paywalled
+    url: "https://www.penguin.co.uk/books/177805/23-things-they-dont-tell-you-about-capitalism-by-chang-ha-joon/9780141047973"
     note: "Twenty-three chapters built as 'they tell you X, actually Y', so each free-market claim is stated at its strongest and then dismantled. A ready inventory of the standard objections and the answers to them."
 ---
 
@@ -226,7 +226,7 @@ Marx is the spine of this lens, and the texts below him are short but they are n
 
 - **David Harvey** (b. 1935), _Reading Marx's Capital_. Free, complete video and audio lecture courses walking line by line through _Capital_ Volumes I and II, from a scholar who has taught the text for over fifty years. The go-to accompaniment for a reading group. The opening class of Volume I has about 1.14 million views. Course home: [davidharvey.org](https://davidharvey.org/reading-capital/) — Class 1 video: [youtube.com/watch?v=gBazR59SZXk](https://www.youtube.com/watch?v=gBazR59SZXk)
 - **Michael Heinrich** (b. 1957), _An Introduction to the Three Volumes of Karl Marx's Capital_ (2004, English 2012). The current standard study companion, reflecting the "new reading of Marx." Concise and rigorous, and it corrects common misunderstandings of value and money. In copyright but freely hosted. Free PDF: [files.libcom.org](<https://files.libcom.org/files/Michael_Heinrich,_Alex_Locascio-An_Introduction_to_the_Three_Volumes_of_Karl_Marx_s_Capital-Monthly_Review_Press,U.S.(2012).pdf>)
-- **Ben Fine** (b. 1948) and **Alfredo Saad-Filho** (b. 1964), _Marx's Capital_ (Pluto Press). A compact, widely assigned textbook walking through Marx's core categories chapter by chapter, the most efficient print companion for a study group. In copyright but posted in full. Free PDF: [digamo.free.fr](http://digamo.free.fr/benfika.pdf)
+- **Ben Fine** (b. 1948) and **Alfredo Saad-Filho** (b. 1964), _Marx's Capital_ (Pluto Press). A compact, widely assigned textbook walking through Marx's core categories chapter by chapter, the most efficient print companion for a study group. In copyright but posted in full. No borrowable copy exists. Paywalled: [monthlyreview.org](https://monthlyreview.org/9781583672884/), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Heinrich's own essay is free on his publisher's site: [monthlyreview.org](https://monthlyreview.org/articles/crisis-theory-the-law-of-the-tendency-of-the-profit-rate-to-fall-and-marxs-studies-in-the-1870s/)
 - **Marxists Internet Archive, "Marx and Engels on Political Economy" subject index** and the _Capital_ Volume I study guide. Gathers the primary economic writings with study guides, useful for building a syllabus. Free: [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/guide/index.htm)
 - **Marxists Internet Archive glossary / Encyclopedia of Marxism**. Short, reliable definitions of surplus value, commodity, alienation, and the rest, for settling terms as they come up in the room. Free: [marxists.org/glossary](https://www.marxists.org/glossary/)
 
@@ -234,14 +234,14 @@ Marx is the spine of this lens, and the texts below him are short but they are n
 
 Marx wrote about factories. Most people in the room work for a platform, pay rent to an asset manager, and owe someone money. The machinery is the same; the shape has changed, and a lens that stops in 1867 leaves the room unable to name what it is actually living in.
 
-- **Nick Srnicek** (b. 1982), _Platform Capitalism_ (2016). Ninety pages on Google, Amazon, Uber, and Airbnb as a distinct capitalist form built on data extraction and network effects, and, crucially, as a response to the long downturn rather than a story about clever technology. The most teachable thing here: free, short, and readable in one sitting. Free PDF: [wordpress.com](https://mudancatecnologicaedinamicacapitalista.wordpress.com/wp-content/uploads/2019/02/platform-capitalism.pdf)
+- **Nick Srnicek** (b. 1982), _Platform Capitalism_ (2016). Ninety pages on Google, Amazon, Uber, and Airbnb as a distinct capitalist form built on data extraction and network effects, and, crucially, as a response to the long downturn rather than a story about clever technology. The most teachable thing here: free, short, and readable in one sitting. No borrowable copy exists. Paywalled: [politybooks.com](https://www.politybooks.com/bookdetail?book_slug=platform-capitalism--9781509504862), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Srnicek on the book, free but niche at about 20,000 views: [youtube.com](https://www.youtube.com/watch?v=bYCiUEB7kyg)
 
 ### How capitalism defends itself
 
 The room will meet these arguments in the world, so it should meet them here first, where there is time to take them apart. Neither of these is a case for capitalism. They are anatomies of how the case gets made and why it feels so hard to answer.
 
 - **Mark Fisher** (1968 to 2017), _Capitalist Realism: Is There No Alternative?_ (2009). Why capitalism now feels less like a system someone built than like the weather, and how "there is no alternative" gets installed as a mood rather than argued as a claim. Ninety pages, working through films, call centres, and mental health rather than economics. Free PDF: [libcom.org](https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf)
-- **Ha-Joon Chang** (b. 1963), _23 Things They Don't Tell You About Capitalism_ (2010). Built as twenty-three "they tell you X, actually Y" chapters, which means it states each free-market claim at its strongest before dismantling it. Heterodox rather than Marxist, and the most useful thing in the theme for a room that keeps losing arguments to a confident relative. Free PDF: [digamo.free.fr](http://digamo.free.fr/23things.pdf)
+- **Ha-Joon Chang** (b. 1963), _23 Things They Don't Tell You About Capitalism_ (2010). Built as twenty-three "they tell you X, actually Y" chapters, which means it states each free-market claim at its strongest before dismantling it. Heterodox rather than Marxist, and the most useful thing in the theme for a room that keeps losing arguments to a confident relative. No borrowable copy exists. Paywalled: [penguin.co.uk](https://www.penguin.co.uk/books/177805/23-things-they-dont-tell-you-about-capitalism-by-chang-ha-joon/9780141047973), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Chang's RSA lecture on this exact book is free, at about 215,000 views: [youtube.com](https://www.youtube.com/watch?v=whVf5tuVbus)
 
 ### Lectures and video
 

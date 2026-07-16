@@ -78,9 +78,9 @@ resources:
     year: 1985
     format: reading
     kind: book
-    access: free
-    url: "https://files.libcom.org/files/ernesto-laclau-hegemony-and-socialist-strategy-towards-a-radical-democratic-politics.compressed.pdf"
-    note: "The founding post-Marxist argument that socialist strategy should give up the privileged role of the working class and build hegemony through a chain of equivalence among many democratic struggles. Widely hosted, though in copyright."
+    access: borrow
+    url: "https://archive.org/details/hegemonysocialis0000lacl"
+    note: "The founding post-Marxist argument that socialist strategy should give up the privileged role of the working class and build hegemony through a chain of equivalence among many democratic struggles."
   - title: "The Retreat from Class: A New 'True' Socialism"
     authors: ["Ellen Meiksins Wood"]
     year: 1986
@@ -270,7 +270,7 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 
 ### Radical democracy and post-Marxism
 
-- **Ernesto Laclau** (1935 to 2014) and **Chantal Mouffe** (b. 1943), _Hegemony and Socialist Strategy_ (1985). The founding post-Marxist argument that socialist strategy should give up the privileged role of the working class and build hegemony through a "chain of equivalence" linking many democratic struggles: feminist, ecological, anti-racist, and more. The most influential contemporary case for a broad radical-democratic politics rather than a class-centered one. Widely hosted, though in copyright: [files.libcom.org](https://files.libcom.org/files/ernesto-laclau-hegemony-and-socialist-strategy-towards-a-radical-democratic-politics.compressed.pdf)
+- **Ernesto Laclau** (1935 to 2014) and **Chantal Mouffe** (b. 1943), _Hegemony and Socialist Strategy_ (1985). The founding post-Marxist argument that socialist strategy should give up the privileged role of the working class and build hegemony through a "chain of equivalence" linking many democratic struggles: feminist, ecological, anti-racist, and more. The most influential contemporary case for a broad radical-democratic politics rather than a class-centered one. Free to borrow: [archive.org](https://archive.org/details/hegemonysocialis0000lacl)
 - **Ellen Meiksins Wood** (1942 to 2016), _The Retreat from Class_ (1986). The classic Marxist rebuttal, arguing that Laclau and Mouffe's turn to discourse and equivalence dissolves class and cuts socialism loose from its material base. It won the Deutscher Prize and is the other half of the argument. Free to borrow: [archive.org](https://archive.org/details/retreatfromclass0000wood). Her short _Reply to Callinicos_ (1987) restates the case for free: [marxists.org](https://www.marxists.org/archive/wood/1987/xx/callinicos.html)
 
 ### Dual power: what happens when it is actually built

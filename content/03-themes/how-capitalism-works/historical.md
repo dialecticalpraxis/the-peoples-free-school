@@ -30,8 +30,8 @@ resources:
     year: 1963
     format: reading
     kind: book
-    access: free
-    url: "https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf"
+    access: borrow
+    url: "https://archive.org/details/makingofenglishw0000epth"
     note: "The great popular history of how the industrial working class self-formed through struggle, 1780–1832."
   - title: "The Invention of Capitalism"
     authors: ["Michael Perelman"]
@@ -128,8 +128,8 @@ resources:
     year: 2005
     format: reading
     kind: book
-    access: free
-    url: "https://pratclif.com/economy/money_files/harvey_a_brief_history_of_neoliberalism.pdf"
+    access: paywalled
+    url: "https://global.oup.com/academic/product/a-brief-history-of-neoliberalism-9780199283279"
     note: "The standard critical history of how a fringe doctrine became common sense, read as a project to restore ruling-class power rather than a good-faith economic idea. Also free to borrow on archive.org if this host disappears."
   - title: "Globalists: The End of Empire and the Birth of Neoliberalism"
     authors: ["Quinn Slobodian"]
@@ -139,7 +139,7 @@ resources:
     access: paywalled
     tier: extended
     url: "https://www.hup.harvard.edu/books/9780674244849"
-    note: "Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright."
+    note: "Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy."
   - title: "Attack on American Free Enterprise System (the Powell Memorandum)"
     authors: ["Lewis F. Powell Jr."]
     year: 1971
@@ -188,7 +188,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **Leo Huberman** (1903 to 1968), _Man's Worldly Goods: The Story of the Wealth of Nations_ (1936). Possibly the best beginner's narrative history of capitalism from feudalism to the 1930s, written for workers and told as a story. Plainspoken and Marxist without jargon. The ideal first book for a general reader. Free to borrow: [archive.org](https://archive.org/details/mansworldlygoods0000hube)
 - **Ellen Meiksins Wood** (1942 to 2016), _The Origin of Capitalism_ (1999; expanded in 2002 as _A Longer View_). The clearest short introduction to the debate over capitalism's birth, arguing it was not natural or inevitable but a specific product of agrarian social relations in the English countryside. The entry point to "political Marxism." Free to borrow, in the 1999 Monthly Review original: [archive.org](https://archive.org/details/originofcapitali0000wood)
-- **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The great popular history of how the industrial working class was made, not simply born from factories but self-formed through struggle, custom, and culture between 1780 and 1832. Long and endlessly readable. Free PDF: [bard.edu](https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf)
+- **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The great popular history of how the industrial working class was made, not simply born from factories but self-formed through struggle, custom, and culture between 1780 and 1832. Long and endlessly readable. Free to borrow: [archive.org](https://archive.org/details/makingofenglishw0000epth)
 - **Michael Perelman** (1939 to 2020), _The Invention of Capitalism_ (2000). Shows how the classical political economists quietly advocated stripping peasants of self-sufficiency to force them into wage labor, the secret history behind laissez-faire. Excellent on the making of the wage. Free PDF: [files.libcom.org](https://files.libcom.org/files/2022-05/The%20Invention%20of%20Capitalism.pdf)
 - **Silvia Federici** (b. 1942), _Caliban and the Witch: Women, the Body and Primitive Accumulation_ (2004). A feminist history of the transition to capitalism that places the witch hunts, the disciplining of women's bodies, and unpaid reproductive labor at the center of primitive accumulation. Widely used in popular education. Free PDF: [files.libcom.org](https://files.libcom.org/files/Caliban%20and%20the%20Witch.pdf)
 - **Eric Williams** (1911 to 1981), _Capitalism and Slavery_ (1944). The classic thesis that Atlantic slavery and the slave trade financed the British Industrial Revolution: capitalism and racial slavery as intertwined, not opposed. A cornerstone of the slavery-and-capitalism strand and a bridge to [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. Free to borrow: [archive.org](https://archive.org/details/capitalismslaver00will_1)
@@ -203,7 +203,7 @@ Between the enclosures above and the neoliberalism below sits a century this len
 
 ### Neoliberalism
 
-- **David Harvey** (b. 1935), _A Brief History of Neoliberalism_ (2005). The standard critical history of how a fringe doctrine became the water we swim in, read not as economics winning an argument but as a project to restore the wealth and power of a class that had lost some of both. Free PDF: [pratclif.com](https://pratclif.com/economy/money_files/harvey_a_brief_history_of_neoliberalism.pdf)
+- **David Harvey** (b. 1935), _A Brief History of Neoliberalism_ (2005). The standard critical history of how a fringe doctrine became the water we swim in, read not as economics winning an argument but as a project to restore the wealth and power of a class that had lost some of both. No borrowable copy exists. Paywalled: [global.oup.com](https://global.oup.com/academic/product/a-brief-history-of-neoliberalism-9780199283279), and see [[04-resources/index#A note on access|the note on access]] for how to get it. Harvey delivering this argument, free but niche at about 23,000 views: [youtube.com](https://www.youtube.com/watch?v=deDw_P0WGAU)
 
 ### Primary sources
 
@@ -223,7 +223,7 @@ Between the enclosures above and the neoliberalism below sits a century this len
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Andrew Glyn**, _Capitalism Unleashed: Finance, Globalization, and Welfare_ (2006). The postwar settlement and full employment through the 1970s profit squeeze to financialization and welfare retrenchment, with the numbers. Left-Keynesian and Marxist-influenced. Not free: [global.oup.com](https://global.oup.com/academic/product/capitalism-unleashed-9780199226795)
-- **Quinn Slobodian**, _Globalists: The End of Empire and the Birth of Neoliberalism_ (2018). Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright. Not free: [hup.harvard.edu](https://www.hup.harvard.edu/books/9780674244849)
+- **Quinn Slobodian**, _Globalists: The End of Empire and the Birth of Neoliberalism_ (2018). Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Not free: [hup.harvard.edu](https://www.hup.harvard.edu/books/9780674244849)
 - **Nancy MacLean**, _Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America_ (2017). The Buchanan-to-Koch line of public choice economics as a funded project to insulate property from majority rule, which understood itself as anti-democratic and said so in private. A free C-SPAN talk by MacLean carries the argument. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/533061/democracy-in-chains-by-nancy-maclean/)
 - **Jane Mayer**, _Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right_ (2016). Investigative reporting on the Koch network's funding of think tanks, academic chairs, and astroturf. The money behind the ideas, and the free alternative to MacLean. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/215462/dark-money-by-jane-mayer/)
 
