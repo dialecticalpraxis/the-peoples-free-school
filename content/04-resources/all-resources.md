@@ -16,7 +16,7 @@ _935 resources in total, every format, sorted by format then author. Generated f
 | --- | --- | --- | --- | --- | --- |
 | [The Corporation](https://archive.org/details/The_Corporation_) | Mark Achbar, Jennifer Abbott, Joel Bakan | 2003 | Film | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [Delano Manongs: Forgotten Heroes of the United Farm Workers](https://www.pbs.org/video/kvie-viewfinder-delano-manongs/) | Marissa Aroy | 2014 | Film | Free | [[labor-work-and-organizing/historical\|Labor, Work, and Organizing · Historical]] |
-| [The Revolution Will Not Be Televised](https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup) | Kim Bartley, Donnacha Ó Briain | 2003 | Film | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
+| [The Revolution Will Not Be Televised](https://www.youtube.com/watch?v=iH5nzZU0qCc) | Kim Bartley, Donnacha Ó Briain | 2003 | Film | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
 | [Salt of the Earth](https://archive.org/details/salt-of-the-earth-1954) | Herbert J. Biberman | 1954 | Film | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [The Untold Story of Kwame Nkrumah](https://www.youtube.com/watch?v=NKkGJk1v6os) | Bisi | — | Film | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | Film | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |

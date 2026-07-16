@@ -46,9 +46,9 @@ resources:
     format: film
     kind: documentary
     access: free
-    length: "74 min"
-    url: "https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup"
-    note: "Filmed inside Miraflores during the 2002 coup against Chávez, capturing the counter-revolution and its reversal as it happened. Sympathetic and contested; see the criticism of its editing."
+    length: "75 min"
+    url: "https://www.youtube.com/watch?v=iH5nzZU0qCc"
+    note: "Filmed inside Miraflores during the 2002 coup against Chavez, capturing the counter-revolution and its reversal as it happened. Sympathetic to Chavez and contested. About 63,000 views. Out of legal circulation: no stream, rental, or disc carries it, and this upload is not the rightsholder's. Listed because it is effectively the only way left to see it."
   - title: "Cuba's Life Task: Combatting Climate Change"
     authors: ["Helen Yaffe"]
     year: 2021
@@ -133,7 +133,7 @@ All free unless marked otherwise. The set is built to argue with itself; each so
 
 ### Films of the revolutions
 
-- **The Revolution Will Not Be Televised** (2003, 74 min). Inside the 2002 coup against Chávez. Sympathetic and contested. Free: [archive.org](https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup)
+- **The Revolution Will Not Be Televised** (Kim Bartley and Donnacha O Briain, 2003, 75 min). An Irish crew was filming a profile of Chavez and found themselves inside Miraflores when the 2002 coup happened, so the counter-revolution and its reversal are on camera as they occur. Sympathetic and contested. About 63,000 views. A note on how to watch it: the film is out of legal circulation, with no stream, rental, or disc carrying it anywhere, and the copy linked here was not posted by the rightsholder. It is listed because it is effectively the only way left to see it. Free: [youtube.com](https://www.youtube.com/watch?v=iH5nzZU0qCc)
 - **Cuba's Life Task** (Yaffe, 2021, 50 min). Cuba's climate-adaptation planning. Sympathetic. Free: [helenyaffe.org.uk](https://helenyaffe.org.uk/index.php/documentaries/32-cuba-s-life-task-combatting-climate-change)
 - **"The collapse of Venezuela, explained"** (Vox, 2017, 8 min). The mainstream-critical skeptical anchor. Free: [youtube.com/watch?v=S1gUR8wM5vA](https://www.youtube.com/watch?v=S1gUR8wM5vA)
 
