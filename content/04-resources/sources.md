@@ -10,7 +10,7 @@ This is different from [[all-resources|All resources]], which lists the _specifi
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_47 sources — archives, libraries, shows, and channels to browse on your own. For the specific items drawn from them, see [[all-resources|all resources]]. Generated from content/04-resources/_sources.yaml._
+_48 sources — archives, libraries, shows, and channels to browse on your own. For the specific items drawn from them, see [[all-resources|all resources]]. Generated from content/04-resources/_sources.yaml._
 
 ### Archives & libraries
 
@@ -21,6 +21,7 @@ _47 sources — archives, libraries, shows, and channels to browse on your own. 
 | [libcom.org library](https://libcom.org/library) | Free | Free library of libertarian-communist and working-class history, theory, and organizing texts. |
 | [Library of Congress Digital Collections](https://www.loc.gov/collections/) | Free | Public-domain primary sources, including the WPA slave narratives and extensive labor history. |
 | [Marxists Internet Archive](https://www.marxists.org) | Free | The largest free archive of Marxist writing; most theory readings link here. Has study guides and a glossary. |
+| [Socialist Stories](http://www.socialiststories.com/) | Free | A multilingual library of socialist texts in English, Arabic, and Italian, built by and for comrades doing their own revolutionary education. Worth digging through for material the English-language archives do not carry. |
 | [Studs Terkel Radio Archive (WFMT)](https://studsterkel.wfmt.com/) | Free | 2,000+ streamable interviews on work, class, and ordinary life — a cornerstone oral-history archive. |
 | [The Anarchist Library](https://theanarchistlibrary.org) | Free | A vast free library of anarchist texts, from classics to contemporary pamphlets. |
 

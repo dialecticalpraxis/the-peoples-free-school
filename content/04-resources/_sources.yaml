@@ -31,6 +31,11 @@ sources:
     url: "https://libcom.org/library"
     access: free
     note: "Free library of libertarian-communist and working-class history, theory, and organizing texts."
+  - name: "Socialist Stories"
+    type: library
+    url: "http://www.socialiststories.com/"
+    access: free
+    note: "A multilingual library of socialist texts in English, Arabic, and Italian, built by and for comrades doing their own revolutionary education. Worth digging through for material the English-language archives do not carry."
   - name: "Internet Archive"
     type: archive
     url: "https://archive.org"
