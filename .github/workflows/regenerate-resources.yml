@@ -41,8 +41,8 @@ jobs:
         run: |
           git config user.name "dialecticalpraxis"
           git config user.email "github.lesser968@passmail.net"
-          if [ -n "$(git status --porcelain content/04-resources content/school-index.md)" ]; then
-            git add content/04-resources/*.md content/school-index.md
+          if [ -n "$(git status --porcelain content/04-resources content/school-index.md content/03-themes)" ]; then
+            git add content/04-resources/*.md content/school-index.md content/03-themes
             git commit -m "Regenerate resource and school index tables [automated]"
             git push
           else

@@ -40,3 +40,11 @@ The full field reference — valid `format`, `kind`, and `access` values, with e
 Many of the resources the school uses are available freely online. Others require library access, purchase, or subscription. The school does not host or distribute copyrighted material. When a reading is paywalled or only available in print, the school links to a publisher page and notes the situation.
 
 For groups in places without good library access, consider building relationships with sympathetic librarians, university interlibrary loan systems, and free online archives (the Internet Archive, the Marxists Internet Archive, the Anarchist Library). Mutual aid for book access is a part of how the school sustains itself.
+
+You should not have to buy anything to study here. Some concrete ways in, roughly in order of how well they work:
+
+- **Interlibrary loan.** Your public library can request almost any book, and often a journal article, from another library. It is usually free and usually takes a week or two. This is the most underused route there is.
+- **The Internet Archive.** A free account lets you borrow scans of a great many books an hour at a time. Anything marked "free to borrow" here works this way.
+- **A library card.** Many systems also hand you Libby or Hoopla, and some give you database access from home, which covers a surprising number of journals.
+- **Ask the author.** Scholars are usually glad to send you their own article if you email and ask. It works far more often than people expect, and costs nothing but a short honest message.
+- **Ask the room.** Someone in your group may have a university affiliation and a login. A group that pools what its members can reach is already practicing what this school is for.

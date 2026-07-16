@@ -41,6 +41,14 @@ resources:
     access: free
     url: "https://www.currentaffairs.org/news/2019/04/jane-mcalevey-on-how-to-organize-for-power"
     note: "A free interview laying out McAlevey's distinction between deep organizing that builds worker power and shallow mobilizing of the already convinced."
+  - title: "No Shortcuts: Organizing for Power in the New Gilded Age"
+    authors: ["Jane McAlevey"]
+    year: 2016
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/"
+    note: "The full argument the interview compresses: structure tests, organic leaders, and whole-worker organizing, against mobilizing the already convinced. The standard reference for the deep-organizing case."
   - title: "The Conquest of Bread"
     authors: ["Peter Kropotkin"]
     year: 1892
@@ -125,7 +133,8 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 - **Anton Pannekoek** (1873 to 1960), _Workers' Councils_ (1947). The major statement of council communism, arguing that workers should run production directly through councils rather than through trade unions or a party-state. The foundational alternative to the union form. Free: [marxists.org](https://www.marxists.org/archive/pannekoe/1947/workers-councils.htm)
 - **Antonio Gramsci** (1891 to 1937), _The Turin Factory Council Movement_ (1921). Gramsci's reflection on the 1919 to 1920 factory councils of Turin, treating the council as the germ of a workers' state and contrasting it with reformist union bureaucracy. Free: [marxists.org](https://www.marxists.org/archive/gramsci/1921/03/turin_councils.htm)
 - **Kim Moody** (b. 1940), _The Rank and File Strategy_ (2000). Argues that socialists should root themselves in the organized rank and file to rebuild militant unionism from below against the labor bureaucracy. The reference point for the rank-and-file debate. Free PDF: [solidarity-us.org](https://solidarity-us.org/pdfs/RFS.pdf)
-- **Jane McAlevey** (1964 to 2024), _Jane McAlevey on How to Organize for Power_ (interview, 2019). McAlevey's central distinction between deep organizing that builds durable worker power and shallow mobilizing of the already convinced, with her insistence on structure tests and whole-worker organizing. Her book _No Shortcuts_ is not free, but this interview covers the core argument. Free interview: [currentaffairs.org](https://www.currentaffairs.org/news/2019/04/jane-mcalevey-on-how-to-organize-for-power)
+- **Jane McAlevey** (1964 to 2024), _No Shortcuts: Organizing for Power in the New Gilded Age_ (2016). The book the rank-and-file argument keeps returning to: structure tests, organic leaders, and whole-worker organizing, against mobilizing the already convinced. Behind a paywall, and worth chasing down anyway; see [[04-resources/index#A note on access|the note on access]]. Not free: [janemcalevey.com](https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/)
+- **Jane McAlevey**, _Jane McAlevey on How to Organize for Power_ (interview, 2019). The free way into the same argument, in her own words, if the book is out of reach. Free: [currentaffairs.org](https://www.currentaffairs.org/news/2019/04/jane-mcalevey-on-how-to-organize-for-power)
 
 ### The anarchist and post-work alternatives
 

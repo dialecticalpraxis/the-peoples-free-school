@@ -83,6 +83,14 @@ resources:
     length: "17 min"
     url: "https://www.youtube.com/watch?v=t0ruK6IQLWc"
     note: "About 54,000 views. Clips and interviews on the Industrial Workers of the World and its repression. A short historical entry to radical unionism."
+  - title: "Labor Studies research guide (Catherwood Library)"
+    authors: ["Cornell University ILR School"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://guides.library.cornell.edu/laborstudies"
+    note: "The gateway to the largest labor archive in North America: finding aids, digitized collections, and where to look next. The place to start if a group wants to research its own local labor history."
 ---
 
 _How did this come to be? What were the conditions, struggles, and contingencies that produced the current arrangement?_
@@ -121,6 +129,16 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **"The Industrial Economy: Crash Course US History #23"** (CrashCourse, John Green, 2013). Roughly 13 minutes, about 4 million views, the most-watched item across this theme. A fast survey of post-Civil-War industrialization, the Knights of Labor, the AFL, and early strikes. Mainstream framing, useful as a shared starting reference to then complicate. [youtube.com/watch?v=r6tRp-zRUJs](https://www.youtube.com/watch?v=r6tRp-zRUJs)
 - **"The Wobblies: Iconic Film on the IWW Rereleased for May Day"** (Democracy Now!, 2022). Roughly 17 minutes, about 54,000 views. A segment of clips and interviews on the Industrial Workers of the World and the repression it faced. A short entry to radical industrial unionism, best paired with the Haywood readings. [youtube.com/watch?v=t0ruK6IQLWc](https://www.youtube.com/watch?v=t0ruK6IQLWc)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, or only borrowable. You do not need to buy anything: see [[04-resources/index#A note on access|the note on access]] for how to get hold of them._
+
+- **Cornell University ILR School**, _Labor Studies research guide (Catherwood Library)_. The gateway to the largest labor archive in North America: finding aids, digitized collections, and where to look next. The place to start if a group wants to research its own local labor history. Free: [guides.library.cornell.edu](https://guides.library.cornell.edu/laborstudies)
+
+<!-- further-reading:end -->
 
 ## Status
 

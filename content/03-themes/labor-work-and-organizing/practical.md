@@ -111,6 +111,54 @@ resources:
     length: "13 min"
     url: "https://www.youtube.com/watch?v=tok00IDVTz4"
     note: "About 67,000 views. Chefs Sohla and Ham El-Waylly walk through one-on-ones, going public, and bargaining. A direct practical how-to."
+  - title: "The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States"
+    authors: ["Zinn Education Project"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.zinnedproject.org/materials/power-in-our-hands/"
+    note: "Role plays and case studies on the history of work, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme."
+  - title: "Mapping Our Futures: Economics and Governance Curriculum"
+    authors: ["Highlander Research and Education Center"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://highlandercenter.org/our-impact/economics-governance/"
+    note: "A participatory economics and governance curriculum from the folk school this project descends from, written to be run by lay facilitators rather than experts."
+  - title: "Basics of Organizing"
+    authors: ["Central New Jersey IWW"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://theanarchistlibrary.org/library/central-nj-iww-basics-of-organizing"
+    note: "A short syndicalist pamphlet on the fundamentals of a workplace campaign. Blunt, practical, and readable in one sitting."
+  - title: "IWW Organizing Manual"
+    authors: ["Industrial Workers of the World"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://archive.iww.org/PDF/Official/IWW_organizing_manual.pdf"
+    note: "The union's own procedural guide to running a drive, from the first conversation through to a going-public campaign."
+  - title: "Socialist Night School (Labor Working Group sessions)"
+    authors: ["Metro DC DSA"]
+    format: reading
+    kind: course
+    access: free
+    tier: extended
+    url: "https://mdcdsa.org/nightschool/"
+    note: "Recorded political-education sessions, including a labor track. Useful both as content and as a working model of how another group runs its school."
+  - title: "Labor Issues"
+    authors: ["Hampton Institute"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://www.hamptonthink.org/labor-issues"
+    note: "Contemporary labor essays from a working-class think tank, openly licensed and current. Good for pulling a short reading on a live dispute."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -158,6 +206,21 @@ Free unless marked otherwise. Many labor podcasts publish a free main feed and p
 - **"Starbucks Tried to Crush Its Baristas. What Happened Next Will Shock You"** (More Perfect Union, 2024). Roughly 12 minutes, about 350,000 views. Follows baristas forcing Starbucks toward the bargaining table. A concrete case study of a live campaign. [youtube.com/watch?v=w9V-o8ckKyg](https://www.youtube.com/watch?v=w9V-o8ckKyg)
 - **"We Just Unionized Amazon"** (Democracy Now!, 2022). Roughly 28 minutes, about 183,000 views. A long interview with Chris Smalls and Derrick Palmer on how the first Amazon union won. A deep companion to the film _Union_. [youtube.com/watch?v=82UEYmJs0jQ](https://www.youtube.com/watch?v=82UEYmJs0jQ)
 - **"How To Start A Union: Step By Step"** (More Perfect Union, 2022). Roughly 13 minutes, about 67,000 views. Chefs Sohla and Ham El-Waylly walk through one-on-ones, going public, and bargaining. A direct how-to that pairs with the Labor Notes handbook. [youtube.com/watch?v=tok00IDVTz4](https://www.youtube.com/watch?v=tok00IDVTz4)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, or only borrowable. You do not need to buy anything: see [[04-resources/index#A note on access|the note on access]] for how to get hold of them._
+
+- **Zinn Education Project**, _The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States_. Role plays and case studies on the history of work, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme. Free: [zinnedproject.org](https://www.zinnedproject.org/materials/power-in-our-hands/)
+- **Highlander Research and Education Center**, _Mapping Our Futures: Economics and Governance Curriculum_. A participatory economics and governance curriculum from the folk school this project descends from, written to be run by lay facilitators rather than experts. Free: [highlandercenter.org](https://highlandercenter.org/our-impact/economics-governance/)
+- **Central New Jersey IWW**, _Basics of Organizing_. A short syndicalist pamphlet on the fundamentals of a workplace campaign. Blunt, practical, and readable in one sitting. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/central-nj-iww-basics-of-organizing)
+- **Industrial Workers of the World**, _IWW Organizing Manual_. The union's own procedural guide to running a drive, from the first conversation through to a going-public campaign. Free: [archive.iww.org](https://archive.iww.org/PDF/Official/IWW_organizing_manual.pdf)
+- **Metro DC DSA**, _Socialist Night School (Labor Working Group sessions)_. Recorded political-education sessions, including a labor track. Useful both as content and as a working model of how another group runs its school. Free: [mdcdsa.org](https://mdcdsa.org/nightschool/)
+- **Hampton Institute**, _Labor Issues_. Contemporary labor essays from a working-class think tank, openly licensed and current. Good for pulling a short reading on a live dispute. Free: [hamptonthink.org](https://www.hamptonthink.org/labor-issues)
+
+<!-- further-reading:end -->
 
 ## Status
 

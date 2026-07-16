@@ -21,7 +21,8 @@
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
     "resources": "node ./scripts/build-resource-indexes.mjs",
     "index": "node ./scripts/build-school-index.mjs",
-    "generate": "npm run resources && npm run index",
+    "further": "node ./scripts/build-further-reading.mjs",
+    "generate": "npm run further && npm run resources && npm run index",
     "prebuild": "npm run generate && npm run install-plugins"
   },
   "engines": {

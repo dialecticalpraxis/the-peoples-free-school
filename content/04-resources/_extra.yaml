@@ -33,14 +33,6 @@ resources:
     access: paywalled
     url: "https://www.jasonhickel.org/less-is-more"
     note: "A leading popular case for degrowth as a response to ecological crisis."
-  - title: "No Shortcuts: Organizing for Power in the New Gilded Age"
-    authors: ["Jane McAlevey"]
-    year: 2016
-    format: reading
-    kind: book
-    access: paywalled
-    url: "https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/"
-    note: "An argument for deep organizing and building worker power, not just mobilizing."
   - title: "The Future is Degrowth: A Guide to a World beyond Capitalism"
     authors: ["Matthias Schmelzer", "Aaron Vansintjan", "Andrea Vetter"]
     year: 2022
