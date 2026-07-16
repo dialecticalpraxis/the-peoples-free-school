@@ -41,8 +41,8 @@ resources:
     year: 1987
     format: reading
     kind: memoir
-    access: borrow
-    url: "https://archive.org/details/borderlandslafro00anza"
+    access: paywalled
+    url: "https://www.auntlute.com/borderlands"
     note: "Writes the border as an open wound and builds a mestiza consciousness from it: mixed, plural, refusing the demand to be one race or one language. Part theory, part poetry, part testimonio."
   - title: "Island: Poetry and History of Chinese Immigrants on Angel Island, 1910 to 1940"
     authors: ["Him Mark Lai", "Genny Lim", "Judy Yung"]
@@ -124,7 +124,7 @@ One coast processed people and let them in. The other detained them for weeks an
 - **Densho Digital Repository**. More than 900 oral histories and 100,000 items on the wartime incarceration of Japanese Americans, transcribed and segmented so you can pull one clip rather than assign an archive. Free: [ddr.densho.org](https://ddr.densho.org/)
 - **Bracero History Archive**. Oral histories and artifacts from the guest-worker program, gathered by George Mason, the Smithsonian, Brown, and UTEP. Read a bracero's account against the treaty text in the historical lens, which promised him a minimum wage and clean housing. Free: [braceroarchive.org](https://braceroarchive.org/)
 - **South Asian American Digital Archive**. 486 oral histories, photographs, correspondence, and a magazine, free and open. The South Asian voice that Prashad theorizes about. Free: [saada.org](https://saada.org)
-- **Gloria Anzaldúa** (1942 to 2004), _Borderlands / La Frontera_ (1987). The border as an open wound, and a mestiza consciousness built out of it: mixed, plural, refusing the demand to be one race or speak one language. Part theory, part poetry, part testimonio, and it does what no analysis in the other lenses can. Free to borrow: [archive.org](https://archive.org/details/borderlandslafro00anza)
+- **Gloria Anzaldúa** (1942 to 2004), _Borderlands / La Frontera_ (1987). The border as an open wound, and a mestiza consciousness built out of it: mixed, plural, refusing the demand to be one race or speak one language. Part theory, part poetry, part testimonio, and it does what no analysis in the other lenses can. No borrowable copy exists. Paywalled: [auntlute.com](https://www.auntlute.com/borderlands). A free interview in which she discusses la mestiza directly, hosted by the University of Arizona Poetry Center: [poetry.arizona.edu](https://poetry.arizona.edu/blog/interview-gloria-anzaldua)
 
 ### Video
 

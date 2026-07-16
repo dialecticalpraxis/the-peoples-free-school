@@ -7,7 +7,7 @@ resources:
     format: reading
     kind: book
     access: borrow
-    url: "https://archive.org/details/MansWorldlyGoods"
+    url: "https://archive.org/details/mansworldlygoods0000hube"
     note: "Possibly the best beginner's narrative history of capitalism, written for workers. The ideal first book."
   - title: "The Origin of Capitalism"
     authors: ["Ellen Meiksins Wood"]
@@ -119,9 +119,9 @@ resources:
     year: 2006
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/capitalismunleas0000glyn"
+    url: "https://global.oup.com/academic/product/capitalism-unleashed-9780199226795"
     note: "The postwar settlement and full employment through the 1970s profit squeeze to financialization and welfare retrenchment, with the numbers. Left-Keynesian and Marxist-influenced."
   - title: "A Brief History of Neoliberalism"
     authors: ["David Harvey"]
@@ -162,9 +162,9 @@ resources:
     year: 2016
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/darkmoneyhiddenh0000maye_n7i4"
+    url: "https://www.penguinrandomhouse.com/books/215462/dark-money-by-jane-mayer/"
     note: "Investigative reporting on the Koch network's funding of think tanks, academic chairs, and astroturf. The money behind the ideas, and the free alternative to MacLean."
 ---
 
@@ -186,7 +186,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ### Books
 
-- **Leo Huberman** (1903 to 1968), _Man's Worldly Goods: The Story of the Wealth of Nations_ (1936). Possibly the best beginner's narrative history of capitalism from feudalism to the 1930s, written for workers and told as a story. Plainspoken and Marxist without jargon. The ideal first book for a general reader. Free to borrow: [archive.org](https://archive.org/details/MansWorldlyGoods)
+- **Leo Huberman** (1903 to 1968), _Man's Worldly Goods: The Story of the Wealth of Nations_ (1936). Possibly the best beginner's narrative history of capitalism from feudalism to the 1930s, written for workers and told as a story. Plainspoken and Marxist without jargon. The ideal first book for a general reader. Free to borrow: [archive.org](https://archive.org/details/mansworldlygoods0000hube)
 - **Ellen Meiksins Wood** (1942 to 2016), _The Origin of Capitalism_ (1999; expanded in 2002 as _A Longer View_). The clearest short introduction to the debate over capitalism's birth, arguing it was not natural or inevitable but a specific product of agrarian social relations in the English countryside. The entry point to "political Marxism." Free to borrow, in the 1999 Monthly Review original: [archive.org](https://archive.org/details/originofcapitali0000wood)
 - **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The great popular history of how the industrial working class was made, not simply born from factories but self-formed through struggle, custom, and culture between 1780 and 1832. Long and endlessly readable. Free PDF: [bard.edu](https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf)
 - **Michael Perelman** (1939 to 2020), _The Invention of Capitalism_ (2000). Shows how the classical political economists quietly advocated stripping peasants of self-sufficiency to force them into wage labor, the secret history behind laissez-faire. Excellent on the making of the wage. Free PDF: [files.libcom.org](https://files.libcom.org/files/2022-05/The%20Invention%20of%20Capitalism.pdf)
@@ -222,10 +222,10 @@ Between the enclosures above and the neoliberalism below sits a century this len
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
-- **Andrew Glyn**, _Capitalism Unleashed: Finance, Globalization, and Welfare_ (2006). The postwar settlement and full employment through the 1970s profit squeeze to financialization and welfare retrenchment, with the numbers. Left-Keynesian and Marxist-influenced. Free to borrow: [archive.org](https://archive.org/details/capitalismunleas0000glyn)
+- **Andrew Glyn**, _Capitalism Unleashed: Finance, Globalization, and Welfare_ (2006). The postwar settlement and full employment through the 1970s profit squeeze to financialization and welfare retrenchment, with the numbers. Left-Keynesian and Marxist-influenced. Not free: [global.oup.com](https://global.oup.com/academic/product/capitalism-unleashed-9780199226795)
 - **Quinn Slobodian**, _Globalists: The End of Empire and the Birth of Neoliberalism_ (2018). Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright. Free: [archive.org](https://archive.org/details/globalists-the-end-of-empire-and-the-birth-of-neoliberalism-quinn-slobodian)
 - **Nancy MacLean**, _Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America_ (2017). The Buchanan-to-Koch line of public choice economics as a funded project to insulate property from majority rule, which understood itself as anti-democratic and said so in private. A free C-SPAN talk by MacLean carries the argument. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/533061/democracy-in-chains-by-nancy-maclean/)
-- **Jane Mayer**, _Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right_ (2016). Investigative reporting on the Koch network's funding of think tanks, academic chairs, and astroturf. The money behind the ideas, and the free alternative to MacLean. Free to borrow: [archive.org](https://archive.org/details/darkmoneyhiddenh0000maye_n7i4)
+- **Jane Mayer**, _Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right_ (2016). Investigative reporting on the Koch network's funding of think tanks, academic chairs, and astroturf. The money behind the ideas, and the free alternative to MacLean. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/215462/dark-money-by-jane-mayer/)
 
 <!-- further-reading:end -->
 

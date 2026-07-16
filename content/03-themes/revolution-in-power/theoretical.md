@@ -31,7 +31,7 @@ resources:
     format: reading
     kind: book
     access: borrow
-    url: "https://archive.org/details/TheNewClassMilovanDjilas"
+    url: "https://archive.org/details/newclassanalysis0000djil"
     note: "A former Yugoslav vice-president argues the party-bureaucracy became a new exploiting class owning the state. Written from inside the system by a jailed dissident communist."
   - title: "On the Transition to Socialism"
     authors: ["Paul Sweezy", "Charles Bettelheim"]
@@ -116,7 +116,7 @@ All free unless marked otherwise. Each source's standpoint is named; they are me
 - **V.I. Lenin** (1870 to 1924), _The State and Revolution_ (1917). The blueprint the Bolsheviks carried into power: smash the old state, replace it with the armed people, let the state wither. Read against what the Soviet state actually became. Free: [marxists.org](https://www.marxists.org/archive/lenin/works/1917/staterev/index.htm)
 - **Leon Trotsky** (1879 to 1940), _The Revolution Betrayed_ (1936). The classic thesis: the USSR was a degenerated workers' state, property nationalized but power usurped by a privileged bureaucratic caste. The founding Trotskyist analysis. Free: [marxists.org](https://www.marxists.org/archive/trotsky/1936/revbet/)
 - **Tony Cliff** (1917 to 2000), _State Capitalism in Russia_ (1948). The main rival on the left: not a workers' state at all but bureaucratic state capitalism, the bureaucracy acting as a collective capitalist under the pressure of arms competition. Free: [marxists.org](https://www.marxists.org/archive/cliff/works/1955/statecap/index.htm)
-- **Milovan Djilas** (1911 to 1995), _The New Class_ (1957). A former Yugoslav vice-president, writing from prison, argues the party-bureaucracy became a new exploiting class that owned the state. Free to borrow: [archive.org](https://archive.org/details/TheNewClassMilovanDjilas)
+- **Milovan Djilas** (1911 to 1995), _The New Class_ (1957). A former Yugoslav vice-president, writing from prison, argues the party-bureaucracy became a new exploiting class that owned the state. Free to borrow: [archive.org](https://archive.org/details/newclassanalysis0000djil)
 
 ### The calculation and planning debate
 

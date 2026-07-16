@@ -54,8 +54,8 @@ resources:
     year: 1971
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/regulatingpoorth00pive"
+    access: paywalled
+    url: "https://www.penguinrandomhouse.com/books/131610/regulating-the-poor-by-frances-fox-piven-and-richard-a-cloward/"
     note: "Argues that relief programs expand to quiet unrest and contract to enforce work, framing the welfare state as a tool of social and labor control."
   - title: "Why did the Paris Commune Fail?"
     authors: ["History Matters"]
@@ -101,7 +101,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **David Whitehouse**, _Origins of the Police_ (2014). A short, accessible history arguing that modern police forces in England and the United States were created between roughly 1825 and 1855 to manage strikes, riots, and slave revolts, not to fight crime. A bridge to [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. Free: [libcom.org](https://libcom.org/article/origins-police-david-whitehouse)
 - **Leon Trotsky** (1879 to 1940), _Fascism: What It Is and How to Fight It_ (writings 1930 to 1940). Analyzes fascism as a mass movement of the ruined petty bourgeoisie mobilized by capital in crisis, and debates how the workers' movement should respond. Sharply relevant again. Free: [marxists.org](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
 - **Charles Tilly** (1929 to 2008), _War Making and State Making as Organized Crime_ (1985). The classic essay comparing state builders to racketeers who sell protection against dangers they themselves create. A sharp lens on how war and coercion built modern states. Free PDF: [bmartin.cc](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf)
-- **Frances Fox Piven** (b. 1932) and **Richard A. Cloward** (1926 to 2001), _Regulating the Poor_ (1971). Argues that relief programs expand to quiet unrest and contract to enforce work, framing the welfare state as a tool of social and labor control. Free to borrow: [archive.org](https://archive.org/details/regulatingpoorth00pive)
+- **Frances Fox Piven** (b. 1932) and **Richard A. Cloward** (1926 to 2001), _Regulating the Poor_ (1971). Argues that relief programs expand to quiet unrest and contract to enforce work, framing the welfare state as a tool of social and labor control. No borrowable copy exists. Paywalled: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/131610/regulating-the-poor-by-frances-fox-piven-and-richard-a-cloward/). Piven restates the thesis in a free long-form interview: [phenomenalworld.org](https://www.phenomenalworld.org/interviews/frances-fox-piven/)
 
 ### Primary sources
 

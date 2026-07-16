@@ -22,8 +22,8 @@ resources:
     year: 1975
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/americanslaverya00morg"
+    access: paywalled
+    url: "https://wwnorton.com/books/American-Slavery-American-Freedom/"
     note: "Traces how colonial Virginia produced American ideals of freedom and racial slavery together, the paradox at the root of the racial order."
   - title: "Black Reconstruction in America"
     authors: ["W.E.B. Du Bois"]
@@ -54,8 +54,8 @@ resources:
     year: 2017
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/coloroflawforgot0000roth"
+    access: paywalled
+    url: "https://wwnorton.com/books/the-color-of-law/"
     note: "Shows that redlining and residential segregation were de jure government policy, a primary engine of the racial wealth gap."
   - title: "An Indigenous Peoples' History of the United States"
     authors: ["Roxanne Dunbar-Ortiz"]
@@ -133,10 +133,10 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **Eric Williams** (1911 to 1981), _Capitalism and Slavery_ (1944). The foundational argument that Atlantic slavery and the slave trade financed Britain's industrial rise, and that abolition followed once slavery no longer served capital. Shared with [[03-themes/how-capitalism-works/historical|the capitalism theme]]. Free to borrow: [archive.org](https://archive.org/details/capitalismslaver00will_1)
 - **Theodore W. Allen** (1919 to 2005), _The Invention of the White Race, Volume 1_ (1994). Argues that "the white race" was a deliberate ruling-class invention in colonial Virginia, a system of social control built after Bacon's Rebellion to keep laboring people divided. Free PDF: [ouleft.org](https://ouleft.org/wp-content/uploads/Allen-The-Invention-of-the-White-Race-vol-1.pdf)
-- **Edmund S. Morgan** (1916 to 2013), _American Slavery, American Freedom_ (1975). Traces how colonial Virginia produced American ideals of freedom and racial slavery together, the paradox at the root of the racial order. Free to borrow: [archive.org](https://archive.org/details/americanslaverya00morg)
+- **Edmund S. Morgan** (1916 to 2013), _American Slavery, American Freedom_ (1975). Traces how colonial Virginia produced American ideals of freedom and racial slavery together, the paradox at the root of the racial order. No borrowable copy exists, and no honest free companion was found. Paywalled: [wwnorton.com](https://wwnorton.com/books/American-Slavery-American-Freedom/)
 - **W.E.B. Du Bois** (1868 to 1963), _Black Reconstruction in America_ (1935). The landmark revision that centers the agency of formerly enslaved people, introduces the "general strike" of the enslaved, and names the "public and psychological wage" of whiteness. The single most important book for this theme. Free: [archive.org](https://archive.org/details/w-e-b-du-bois-black-reconstruction-an-essay-toward-a-history-of-the-part-which-b_202304)
 - **Douglas A. Blackmon**, _Slavery by Another Name_ (2008). Documents convict leasing, debt peonage, and the legal machinery that re-enslaved Black labor after emancipation. A direct link between Jim Crow and profit. No borrowable copy exists. Paywalled: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/14301/slavery-by-another-name-by-douglas-a-blackmon/). The PBS film of the book, below, is free and carries the argument.
-- **Richard Rothstein**, _The Color of Law_ (2017). Shows that redlining and residential segregation were de jure government policy, a primary engine of the racial wealth gap that persists today. Free to borrow: [archive.org](https://archive.org/details/coloroflawforgot0000roth)
+- **Richard Rothstein**, _The Color of Law_ (2017). Shows that redlining and residential segregation were de jure government policy, a primary engine of the racial wealth gap that persists today. No borrowable copy exists. Paywalled: [wwnorton.com](https://wwnorton.com/books/the-color-of-law/). Rothstein's Fresh Air interview is free with a full transcript, so it can be assigned: [npr.org](https://www.npr.org/transcripts/526655831)
 - **Roxanne Dunbar-Ortiz** (b. 1938), _An Indigenous Peoples' History of the United States_ (2014). Recasts US history as settler colonialism and Indigenous dispossession, essential for situating racial capitalism alongside land and elimination. A bridge to [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]]. Free: [archive.org](https://archive.org/details/an-indigenous-peoples-history-of-the-united-states-ortiz)
 
 ### Primary sources

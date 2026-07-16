@@ -78,8 +78,8 @@ resources:
     year: 2012
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/democracyatworkc0000wolf"
+    access: paywalled
+    url: "https://www.haymarketbooks.org/books/483-democracy-at-work"
     note: "The case for worker self-directed enterprises, where workers themselves are the collective owners and managers, as a concrete transformation of who runs work."
   - title: "How Unions CRUSH Capitalists"
     authors: ["Adam Conover"]
@@ -279,7 +279,7 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 
 ### Accounts and models of alternatives
 
-- **Richard D. Wolff** (b. 1942), _Democracy at Work: A Cure for Capitalism_ (2012). Makes the case for worker self-directed enterprises, where workers themselves are the collective owners and managers, as a concrete transformation of who runs work. A bridge to [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. Free to borrow: [archive.org](https://archive.org/details/democracyatworkc0000wolf)
+- **Richard D. Wolff** (b. 1942), _Democracy at Work: A Cure for Capitalism_ (2012). Makes the case for worker self-directed enterprises, where workers themselves are the collective owners and managers, as a concrete transformation of who runs work. A bridge to [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. No borrowable copy exists. Paywalled: [haymarketbooks.org](https://www.haymarketbooks.org/books/483-democracy-at-work). Wolff's Talks at Google on this exact book is free, at about 3.3 million views: [youtube.com](https://www.youtube.com/watch?v=ynbgMKclWWc)
 
 ### What was actually tried, and what it taught
 

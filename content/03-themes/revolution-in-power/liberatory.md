@@ -46,8 +46,8 @@ resources:
     year: 1997
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/michael-parenti-blackshirts-and-reds"
+    access: paywalled
+    url: "https://citylights.com/city-lights-published/blackshirts-reds-rational-fascism/"
     note: "A vigorous defense of the twentieth-century communist record against what Parenti calls the fantasy of a 'pure socialism' that never had to survive invasion and blockade. The strongest popular case for the defense."
   - title: "Stalin: History and Critique of a Black Legend"
     authors: ["Domenico Losurdo"]
@@ -145,7 +145,7 @@ All free unless marked otherwise. This set is deliberately built from opposing p
 
 ### Defenders and the Stalin question
 
-- **Michael Parenti** (1933 to 2024), _Blackshirts and Reds_ (1997). A defense of the communist record against the fantasy of a "pure socialism" that never had to survive siege. Free to borrow: [archive.org](https://archive.org/details/michael-parenti-blackshirts-and-reds)
+- **Michael Parenti** (1933 to 2024), _Blackshirts and Reds_ (1997). A defense of the communist record against the fantasy of a "pure socialism" that never had to survive siege. No borrowable copy exists, and this publisher blocks automated checks though the page is live. Paywalled: [citylights.com](https://citylights.com/city-lights-published/blackshirts-reds-rational-fascism/). Parenti's lecture The Functions of Fascism carries the rational-fascism argument free, under a Creative Commons licence: [archive.org](https://archive.org/details/MichaelParentiMichaelParenti-TheFunctionsofFascism)
 - **Domenico Losurdo** (1941 to 2018), _Stalin: Critique of a Black Legend_ (2008). A revisionist reassessment, a strong defender pole to weigh against Mandelstam and the anarchists. Free: [archive.org](https://archive.org/details/losurdo-stalin)
 - **Ludo Martens** (1946 to 2011), _Another View of Stalin_ (1994). The furthest defender pole, included as a position to argue, not the school's view. Free: [archive.org](https://archive.org/details/AnotherViewOfStalin)
 

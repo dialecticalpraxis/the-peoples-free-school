@@ -58,7 +58,7 @@ resources:
     kind: documentary
     access: borrow
     length: "100 min"
-    url: "https://archive.org/details/the-black-power-mixtape-2011"
+    url: "https://www.kanopy.com/product/black-power-mixtape-1967-1975"
     note: "Swedish television footage of Stokely Carmichael, Angela Davis, and the Black Panthers, giving movement history in the activists' own voices. Free to borrow."
   - title: "The CR Abolitionist Toolkit"
     authors: ["Critical Resistance"]
@@ -205,7 +205,7 @@ Free unless marked otherwise. Many of these documentaries stream free with a lib
 
 - **13th** (Ava DuVernay, 2016, 100 min). The documentary tracing slavery through Jim Crow to mass incarceration via the 13th Amendment's punishment clause. A central text for the abolition strand, posted free in full on Netflix's own YouTube channel with about 16 million views. Free: [youtube.com/watch?v=krfcq5pF8u8](https://www.youtube.com/watch?v=krfcq5pF8u8)
 - **Whose Streets?** (Sabaah Folayan and Damon Davis, 2017, 102 min). A first-person account of the Ferguson uprising after the police killing of Michael Brown, told by the residents and organizers who lived it. Free via library Kanopy or Hoopla; film page: [pbs.org](https://www.pbs.org/pov/films/whosestreets/)
-- **The Black Power Mixtape 1967 to 1975** (Göran Olsson, 2011, 100 min). Swedish television footage of Stokely Carmichael, Angela Davis, and the Black Panthers, giving movement history in the activists' own voices. Free to borrow: [archive.org](https://archive.org/details/the-black-power-mixtape-2011)
+- **The Black Power Mixtape 1967 to 1975** (Göran Olsson, 2011, 100 min). Swedish television footage of Stokely Carmichael, Angela Davis, and the Black Panthers, giving movement history in the activists' own voices. Free with a library card on Kanopy: [kanopy.com](https://www.kanopy.com/product/black-power-mixtape-1967-1975)
 
 ### Podcasts and interviews with organizers
 

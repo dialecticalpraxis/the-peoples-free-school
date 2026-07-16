@@ -29,8 +29,8 @@ resources:
     year: 1992
     format: reading
     kind: handbook
-    access: borrow
-    url: "https://archive.org/details/gamesforactorsno0000boal_n1t6"
+    access: paywalled
+    url: "https://www.routledge.com/Games-for-Actors-and-Non-Actors/Boal/p/book/9780367203542"
     note: "The founding handbook of Theatre of the Oppressed, with more than two hundred physical games and forum-theatre exercises for popular educators."
   - title: "Study Circles (organizing and facilitation guide)"
     authors: ["Everyday Democracy", "Study Circles Resource Center"]
@@ -211,7 +211,7 @@ Free unless marked otherwise. These are the working tools of the school; the [[0
 - **Highlander Popular Education methodologies** (Highlander Research and Education Center, 2021). A short, illustrated free guide to Highlander's core process of surfacing lived experience and building collective knowledge for action. The method this school descends from, in a few pages. Free PDF: [highlandercenter.org](https://highlandercenter.org/wp-content/uploads/2021/04/methodologies-EN-color-1.pdf)
 - **Training for Change, Tools library** (since 1992). Over seventy free, field-tested facilitation and direct-education tools, most in English and Spanish, each with step-by-step instructions. Pull a single exercise or build a whole agenda. Free: [trainingforchange.org](https://www.trainingforchange.org/tools/)
 - **Seeds for Change, facilitation and consensus guides**. Free, anti-copyright guides on facilitating meetings, active listening, group agreements, running workshops, and consensus decision-making. Shared with [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. Free: [seedsforchange.org.uk](https://www.seedsforchange.org.uk/guides)
-- **Augusto Boal** (1931 to 2009), _Games for Actors and Non-Actors_ (1992). The founding handbook of Theatre of the Oppressed, with more than two hundred physical games and forum-theatre exercises for surfacing lived experience and analyzing power without relying on text alone. Free to borrow: [archive.org](https://archive.org/details/gamesforactorsno0000boal_n1t6)
+- **Augusto Boal** (1931 to 2009), _Games for Actors and Non-Actors_ (1992). The founding handbook of Theatre of the Oppressed, with more than two hundred physical games and forum-theatre exercises for surfacing lived experience and analyzing power without relying on text alone. No borrowable copy exists. Paywalled: [routledge.com](https://www.routledge.com/Games-for-Actors-and-Non-Actors/Boal/p/book/9780367203542). Boal explains the method himself in a free Democracy Now! interview with a transcript: [democracynow.org](https://www.democracynow.org/2005/6/3/famed_brazilian_artist_augusto_boal_on)
 - **Study Circles** (Everyday Democracy, formerly the Study Circles Resource Center). A free guide to organizing and facilitating community study circles, the small-group, dialogue-to-change method at the heart of this project's format. Free PDF: [civicus.org](https://civicus.org/documents/toolkits/PGX_B_Study%20CirclesFinalWeb.pdf)
 
 ### Living examples on film

@@ -79,7 +79,7 @@ resources:
     format: reading
     kind: book
     access: borrow
-    url: "https://archive.org/details/germansocialdemo0000scho"
+    url: "https://archive.org/details/germansocialdemo0000carl"
     note: "The standard history of how the largest socialist party in the world split into reformist and revolutionary wings on the road to 1917. Scholarly and detailed."
   - title: "Why did the Paris Commune Fail?"
     authors: ["History Matters"]
@@ -142,7 +142,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **The Erfurt Program** (SPD, 1891). The charter of the model mass party, revolutionary analysis wedded to reform demands. Free: [marxists.org](https://www.marxists.org/history/international/social-democracy/1891/erfurt-program.htm)
 - **Karl Marx**, _Critique of the Gotha Programme_ (1875). His sharp notes on the German unity program; the transition arguments carry over to The State, Strategy, and Power. Free: [marxists.org](https://www.marxists.org/archive/marx/works/1875/gotha/index.htm)
 - **Franz Mehring**, _Karl Marx: The Story of His Life_ (1918). The first major biography, doubling as a history of the early movement. Free: [marxists.org](https://www.marxists.org/archive/mehring/1918/marx/index.htm)
-- **Carl E. Schorske**, _German Social Democracy, 1905 to 1917_ (1955). The standard account of the great party's split into reformist and revolutionary wings. Free to borrow: [archive.org](https://archive.org/details/germansocialdemo0000scho)
+- **Carl E. Schorske**, _German Social Democracy, 1905 to 1917_ (1955). The standard account of the great party's split into reformist and revolutionary wings. Free to borrow: [archive.org](https://archive.org/details/germansocialdemo0000carl)
 
 ### Video
 

@@ -72,8 +72,8 @@ resources:
     year: 1971
     format: reading
     kind: handbook
-    access: borrow
-    url: "https://archive.org/details/rulesforradicals0000alin"
+    access: paywalled
+    url: "https://www.penguinrandomhouse.com/books/2085/rules-for-radicals-by-saul-alinsky/"
     note: "The foundational community-organizing tactics text, useful as a debated classic to read critically alongside Labor Notes and McAlevey."
   - title: "Why Corporate America Hates Unions"
     authors: ["Second Thought"]
@@ -303,7 +303,7 @@ Free unless marked otherwise. Many labor podcasts publish a free main feed and p
 ### Practical handbooks and how-to material
 
 - **Secrets of a Successful Organizer** (Alexandra Bradbury, Mark Brenner, and Jane Slaughter, Labor Notes, 2016). Forty-seven concrete practices for building power on the job, from mapping a workplace to running an escalating campaign. The book is for sale, but all of the handouts, exercises, and the trainer's guide are free PDF downloads in English and Spanish, and amount to a ready-made workshop curriculum. Free materials: [labornotes.org](https://labornotes.org/secrets/handouts)
-- **Rules for Radicals** (Saul D. Alinsky, 1971). The foundational community-organizing tactics text, best used as a debated classic to read critically alongside the whole-worker approach of McAlevey and Labor Notes rather than as gospel. Free to borrow: [archive.org](https://archive.org/details/rulesforradicals0000alin)
+- **Rules for Radicals** (Saul D. Alinsky, 1971). The foundational community-organizing tactics text, best used as a debated classic to read critically alongside the whole-worker approach of McAlevey and Labor Notes rather than as gospel. No borrowable copy exists; every free text online is an unauthorized upload. Paywalled: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/2085/rules-for-radicals-by-saul-alinsky/). Alinsky discussing the book with Studs Terkel the year it came out is free in the WFMT archive: [studsterkel.wfmt.com](https://studsterkel.wfmt.com/programs/saul-alinsky-american-community-organizer-political-activist-and-writer-discusses-his-book)
 
 ### Organizing where there is no employer
 

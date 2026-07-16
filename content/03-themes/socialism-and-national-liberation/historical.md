@@ -22,8 +22,8 @@ resources:
     year: 2000
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/sandinistacarlos0000zimm_o4k5"
+    access: paywalled
+    url: "https://www.dukeupress.edu/sandinista"
     note: "The first English biography of the FSLN's founding theorist, from 1961 to the 1979 overthrow of Somoza. A sympathetic scholarly history of how the Sandinista revolution was made."
   - title: "Reckoning with Revolution in Nicaragua"
     authors: ["Mateo Jarquin"]
@@ -173,7 +173,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ### Central and South America
 
-- **Matilde Zimmermann**, _Sandinista: Carlos Fonseca and the Nicaraguan Revolution_ (2000). How the Sandinista revolution was made, from 1961 to 1979. Free to borrow: [archive.org](https://archive.org/details/sandinistacarlos0000zimm_o4k5)
+- **Matilde Zimmermann**, _Sandinista: Carlos Fonseca and the Nicaraguan Revolution_ (2000). How the Sandinista revolution was made, from 1961 to 1979. No borrowable copy exists, and no honest free companion was found. Paywalled: [dukeupress.edu](https://www.dukeupress.edu/sandinista)
 - **Mateo Jarquin**, "Reckoning with Revolution in Nicaragua" (2020). The line from 1979 to Ortega's authoritarian turn, without romance or demonization. Free: [ageofrevolutions.com](https://ageofrevolutions.com/2020/11/25/reckoning-with-revolution-in-nicaragua/)
 - **NACLA Editorial Board**, "On the Coup in Bolivia" (2019). The 2019 removal of Morales named as a coup, the MAS government's own failures named too. Free: [portside.org](https://portside.org/2019-11-16/nacla-coup-bolivia-against-revanchist-violence-and-state-repression)
 

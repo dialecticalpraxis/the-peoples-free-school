@@ -54,8 +54,8 @@ resources:
     year: 2002
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/reinventingpaulo0000dard_2ed"
+    access: paywalled
+    url: "https://www.routledge.com/Reinventing-Paulo-Freire-A-Pedagogy-of-Love/Darder/p/book/9781138675315"
     note: "Reworks Freire through the testimony of teachers and a pedagogy of love, guarding against turning his ideas into a fixed method."
   - title: "Paulo Freire: An Incredible Conversation"
     authors: ["Paulo Freire", "LiteracyDotOrg"]
@@ -183,7 +183,7 @@ Free unless marked otherwise. A few of these are widely hosted copies of in-copy
 ### Contemporary and companion
 
 - **Henry Giroux** (b. 1943), _Critical Pedagogy and the Postmodern/Modern Divide_ (2004). A concise statement of critical pedagogy as a project for democratic public life against neoliberal schooling. Free PDF: [files.eric.ed.gov](https://files.eric.ed.gov/fulltext/EJ795233.pdf)
-- **Antonia Darder** (b. 1952), _Reinventing Paulo Freire: A Pedagogy of Love_ (2002). Reworks Freire through the testimony of teachers and a pedagogy of love, guarding against turning his ideas into a fixed method or a slogan. Free to borrow: [archive.org](https://archive.org/details/reinventingpaulo0000dard_2ed)
+- **Antonia Darder** (b. 1952), _Reinventing Paulo Freire: A Pedagogy of Love_ (2002). Reworks Freire through the testimony of teachers and a pedagogy of love, guarding against turning his ideas into a fixed method or a slogan. No borrowable copy exists. Paywalled: [routledge.com](https://www.routledge.com/Reinventing-Paulo-Freire-A-Pedagogy-of-Love/Darder/p/book/9781138675315). Darder gives the argument in a free lecture, very niche at about 3,000 views: [youtube.com](https://www.youtube.com/watch?v=0gnvWHcf8N8)
 
 ### Critical pedagogy that is not Freire's
 

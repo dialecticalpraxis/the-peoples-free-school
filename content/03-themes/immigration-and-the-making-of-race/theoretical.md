@@ -14,8 +14,8 @@ resources:
     year: 2014
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/howraceismadeina0000moli"
+    access: paywalled
+    url: "https://www.ucpress.edu/books/how-race-is-made-in-america/paper"
     note: "Introduces 'racial scripts': the ready-made ways of racializing one group get lifted and reapplied to the next, so Mexican racialization is legible only alongside Black, Asian, and Native racialization. The mechanism of transfer."
   - title: "Orientalism"
     authors: ["Edward W. Said"]
@@ -98,7 +98,7 @@ Free unless marked otherwise. Kim is the shortest and the most load-bearing; sta
 ### The order is a field, not a line
 
 - **Claire Jean Kim**, "The Racial Triangulation of Asian Americans" (1999). Asian Americans are racialized on two axes at once: valorized against Black Americans as the superior minority, and ostracized as permanently foreign no matter how many generations deep. Once you see the plane, "where does this group rank" stops being the right question. Short, free, and the fastest way to break the binary. Free PDF: [library.fes.de](https://library.fes.de/libalt/journals/swetsfulltext/6859319.pdf)
-- **Natalia Molina**, _How Race Is Made in America_ (2014). Gives the mechanism Kim's geometry implies: "racial scripts" written for one group are lifted and reapplied to the next, so Mexican racialization only makes sense read alongside Black, Asian, and Native racialization. Race is made relationally or not at all. Free to borrow: [archive.org](https://archive.org/details/howraceismadeina0000moli)
+- **Natalia Molina**, _How Race Is Made in America_ (2014). Gives the mechanism Kim's geometry implies: "racial scripts" written for one group are lifted and reapplied to the next, so Mexican racialization only makes sense read alongside Black, Asian, and Native racialization. Race is made relationally or not at all. No borrowable copy exists. Paywalled: [ucpress.edu](https://www.ucpress.edu/books/how-race-is-made-in-america/paper)
 - **Edward W. Said** (1935 to 2003), _Orientalism_ (1978). The East produced as an object of Western knowledge and rule, so that the Oriental is always essentially, unchangeably other. This is the "why" underneath Kim's second axis: the foreigner is not a person who recently arrived, but a person who by definition cannot arrive. Free: [archive.org](https://archive.org/details/said-edward-w.-orientalism_202601)
 
 ### The border as a method of rule

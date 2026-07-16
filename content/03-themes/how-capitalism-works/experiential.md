@@ -74,9 +74,9 @@ resources:
     year: 2008
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/factorygirlsvoic0000chan"
+    url: "https://www.penguinrandomhouse.com/books/26101/factory-girls-by-leslie-t-chang/"
     note: "Three years with young women migrants on the Dongguan assembly lines, built from their own accounts of dormitories, wage theft, ambition, and escape. Lets the workers set the terms rather than casting them as victims."
   - title: "Notes from Below"
     authors: ["Notes from Below"]
@@ -91,8 +91,8 @@ resources:
     year: 2001
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/nickeldimedonnot0000ehre"
+    access: paywalled
+    url: "https://us.macmillan.com/books/9781250808318/nickelanddimed/"
     note: "Ehrenreich takes minimum-wage jobs and reports what they cost the body and the mind. Note the standpoint honestly: this is a writer visiting poverty, not a worker testifying, which makes it a useful contrast case rather than a testimonio."
   - title: "Evicted: Poverty and Profit in the American City"
     authors: ["Matthew Desmond"]
@@ -149,7 +149,7 @@ Experiential work begins from the room. These outside materials extend or challe
 ### First-person testimony as readings
 
 - **Voices of a People's History of the United States**, Howard Zinn and Anthony Arnove (2004, ongoing project). First-hand testimony, speeches, letters, and songs, from workers, women, and marginalized people usually left out of the record. The book is for sale, but many of the primary texts and dramatic readings are free through the Zinn Education Project. Ready-made testimonios for reading aloud. Free teaching materials: [zinnedproject.org](https://www.zinnedproject.org/materials/voices-of-a-peoples-history-of-the-united-states/)
-- **Barbara Ehrenreich** (1941 to 2022), _Nickel and Dimed_ (2001). Ehrenreich takes jobs as a waitress, a cleaner, and a Walmart clerk, and reports what they cost the body and the mind. Worth naming the standpoint in the room: this is a writer visiting poverty and able to leave, not a worker testifying, which makes it a sharp contrast case to read against Domitila rather than a substitute for her. Free to borrow: [archive.org](https://archive.org/details/nickeldimedonnot0000ehre)
+- **Barbara Ehrenreich** (1941 to 2022), _Nickel and Dimed_ (2001). Ehrenreich takes jobs as a waitress, a cleaner, and a Walmart clerk, and reports what they cost the body and the mind. Worth naming the standpoint in the room: this is a writer visiting poverty and able to leave, not a worker testifying, which makes it a sharp contrast case to read against Domitila rather than a substitute for her. No borrowable copy exists. Paywalled: [us.macmillan.com](https://us.macmillan.com/books/9781250808318/nickelanddimed/). Ehrenreich on the book, free and with a transcript: [democracynow.org](https://www.democracynow.org/2011/8/8/nickel_dimed_on_not_getting_by)
 
 ### Testimonio from the Global South
 
@@ -173,7 +173,7 @@ Experiential work is not a warm-up. Give it real time. The point is to establish
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
-- **Leslie T. Chang**, _Factory Girls: From Village to City in a Changing China_ (2008). Three years with young women migrants on the Dongguan assembly lines, built from their own accounts of dormitories, wage theft, ambition, and escape. Lets the workers set the terms rather than casting them as victims. Free to borrow: [archive.org](https://archive.org/details/factorygirlsvoic0000chan)
+- **Leslie T. Chang**, _Factory Girls: From Village to City in a Changing China_ (2008). Three years with young women migrants on the Dongguan assembly lines, built from their own accounts of dormitories, wage theft, ambition, and escape. Lets the workers set the terms rather than casting them as victims. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/26101/factory-girls-by-leslie-t-chang/)
 - **Matthew Desmond**, _Evicted: Poverty and Profit in the American City_ (2016). Two years with eight Milwaukee families losing their homes, and with the landlords profiting from it, told largely through the tenants' own words. Shows eviction as an engine of poverty rather than a symptom. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/247816/evicted-by-matthew-desmond/9780553447453/)
 
 <!-- further-reading:end -->

@@ -54,8 +54,8 @@ resources:
     year: 2004
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/worldsystemsanal0000wall"
+    access: paywalled
+    url: "https://www.dukeupress.edu/world-systems-analysis"
     note: "The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy."
   - title: "Imperialism and Unequal Development"
     authors: ["Samir Amin"]
@@ -195,7 +195,7 @@ Free unless marked otherwise. Lenin is the anchor; the "Lenin in Five Minutes" v
 
 - **Andre Gunder Frank** (1929 to 2005), _The Development of Underdevelopment_ (1966), in _Latin America: Underdevelopment or Revolution_ (1969). The essay that launched dependency theory: underdevelopment is not a starting condition that some countries have not yet grown out of, but something actively produced, by the same process and at the same time as development elsewhere. It is the opening essay of this book, so read it and stop if you like. Free to borrow: [archive.org](https://archive.org/details/latinamericaunde0000andr). The canonical _Monthly Review_ printing is durable but costs three dollars: [monthlyreviewarchives.org](https://monthlyreviewarchives.org/mr/article/view/MR-018-04-1966-08_3)
 - **Theotonio dos Santos** (1936 to 2018), _The Structure of Dependence_ (1970). Six pages, and the tightest statement of the theory in this lens: dependence is a conditioning situation in which some economies can expand only as a reflection of the expansion of others, and it comes in colonial, financial-industrial, and technological-industrial forms. Free: [digamo.free.fr](http://digamo.free.fr/dosantos70.pdf) (this host is HTTP only, and the essay is also on JSTOR behind a paywall)
-- **Immanuel Wallerstein** (1930 to 2019), _World-Systems Analysis: An Introduction_ (2004). The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy. Free to borrow: [archive.org](https://archive.org/details/worldsystemsanal0000wall)
+- **Immanuel Wallerstein** (1930 to 2019), _World-Systems Analysis: An Introduction_ (2004). The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy. No borrowable copy exists. Paywalled: [dukeupress.edu](https://www.dukeupress.edu/world-systems-analysis)
 - **Samir Amin** (1931 to 2018), _Imperialism and Unequal Development_ (1976). Develops unequal development and the case for "delinking" peripheral economies from the world market, a position the liberatory lens takes up. Free to borrow: [archive.org](https://archive.org/details/imperialismunequ00amin)
 - **Arghiri Emmanuel** (1911 to 2001), _Unequal Exchange_ (1972). The controversial argument that international wage differences transfer value from poor countries to rich ones through ordinary trade. Debated hard, and worth the debate. Free to borrow: [archive.org](https://archive.org/details/unequalexchanges0000emma)
 

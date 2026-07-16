@@ -46,8 +46,8 @@ resources:
     year: 1931
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/livingmylifeauto0000gold"
+    access: free
+    url: "https://theanarchistlibrary.org/library/emma-goldman-living-my-life"
     note: "Goldman's autobiography, the classic inside narrative of the US anarchist movement, its organizing, repression, and internal life from the 1880s onward."
   - title: "First Declaration of the Lacandon Jungle"
     authors: ["EZLN (Zapatista Army of National Liberation)"]
@@ -133,7 +133,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **Sam Dolgoff** (1902 to 1990), _The Anarchist Collectives: Workers' Self-Management in the Spanish Revolution, 1936 to 1939_ (1974). Firsthand accounts of the CNT-FAI agrarian and industrial collectives, the fullest large-scale anarchist experiment in constructive, prefigurative economics. The anchor for this lens. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/sam-dolgoff-editor-the-anarchist-collectives)
 - **Gaston Leval** (1895 to 1978), _Collectives in the Spanish Revolution_ (1975). A detailed eyewitness study of how villages, factories, and public services actually ran themselves under collectivization. Concrete ground for discussing what mutual aid looks like at scale. Free: [libcom.org](https://libcom.org/article/collectives-spanish-revolution-gaston-leval)
 - **Peter Arshinov** (1887 to 1937), _History of the Makhnovist Movement (1918 to 1921)_ (1923). An insider history of the Ukrainian peasant anarchist insurgency around Nestor Makhno, its free soviets and land practices, and its crushing by the Bolshevik state. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/peter-arshinov-history-of-the-makhnovist-movement-1918-1921)
-- **Emma Goldman** (1869 to 1940), _Living My Life_ (1931). Goldman's autobiography, the classic inside narrative of the US anarchist movement, its organizing, repression, and internal life from the 1880s onward. Free to borrow: [archive.org](https://archive.org/details/livingmylifeauto0000gold)
+- **Emma Goldman** (1869 to 1940), _Living My Life_ (1931). Goldman's autobiography, the classic inside narrative of the US anarchist movement, its organizing, repression, and internal life from the 1880s onward. Free, and in the public domain: its US copyright was never renewed. [theanarchistlibrary.org](https://theanarchistlibrary.org/library/emma-goldman-living-my-life)
 
 ### Anarchism outside Europe
 

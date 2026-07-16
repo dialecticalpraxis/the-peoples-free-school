@@ -38,8 +38,8 @@ resources:
     year: 2014
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/thischangesevery0000klei"
+    access: paywalled
+    url: "https://www.simonandschuster.com/books/This-Changes-Everything/Naomi-Klein/9781451697391"
     note: "A widely read argument that the market cannot solve the crisis it created, and that climate action means confronting capitalism and rebuilding local economies and democracy."
   - title: "We Need a Green New Deal Without Growth"
     authors: ["Jason Hickel"]
@@ -236,7 +236,7 @@ The lens above argues about growth in the language of the countries that did the
 ### Ecosocialism
 
 - **Joel Kovel** (1936 to 2018) and **Michael Löwy** (b. 1938), _An Ecosocialist Manifesto_ (2001). A brief foundational program for a red-green future built on democratic control of production and the free development of ecological needs. Free: [systemicalternatives.org](https://systemicalternatives.org/2014/03/05/an-ecosocialist-manifesto/)
-- **Naomi Klein** (b. 1970), _This Changes Everything_ (2014). A widely read argument that the market cannot solve the crisis it created, and that climate action means confronting capitalism and rebuilding local economies and democracy. Free to borrow: [archive.org](https://archive.org/details/thischangesevery0000klei)
+- **Naomi Klein** (b. 1970), _This Changes Everything_ (2014). A widely read argument that the market cannot solve the crisis it created, and that climate action means confronting capitalism and rebuilding local economies and democracy. No borrowable copy exists. Paywalled: [simonandschuster.com](https://www.simonandschuster.com/books/This-Changes-Everything/Naomi-Klein/9781451697391). Her full-hour Democracy Now! interview on the book is free with a transcript: [democracynow.org](https://www.democracynow.org/2014/9/18/capitalism_vs_the_climate_naomi_klein)
 
 ### The growth debate
 

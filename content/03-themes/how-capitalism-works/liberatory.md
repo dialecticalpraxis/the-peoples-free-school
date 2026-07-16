@@ -62,8 +62,8 @@ resources:
     year: 2019
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/erik-olin-wright-how-to-be-an-anticapitalist-in-the-twenty-first-century-2019"
+    access: free
+    url: "https://www.sscc.wisc.edu/soc/faculty/pages/wright/How%20to%20be%20an%20anticapitalist%20for%20the%2021st%20century%20--%20full%20draft,%20July%2025%202018.pdf"
     note: "Smashing, taming, escaping, and eroding capitalism. An outstanding synthesis for framing the whole debate."
   - title: "Eclipse and Re-emergence of the Communist Movement"
     authors: ["Gilles Dauvé", "François Martin"]
@@ -133,7 +133,7 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 ### Accounts and models of alternatives
 
 - **Paul Cockshott** (b. 1952) and **Allin Cottrell**, _Towards a New Socialism_ (1993). The leading modern case for democratic economic planning using computation and labor-time accounting. The key text on the planning side of the market-socialism-versus-planning debate. Free PDF: [users.wfu.edu (PDF)](https://users.wfu.edu/cottrell/socialism_book/new_socialism.pdf)
-- **Erik Olin Wright** (1947 to 2019), _How to Be an Anticapitalist in the Twenty-First Century_ (2019). A clear map of anticapitalist strategies, smashing, taming, escaping, and eroding capitalism, and a vision of "real utopias." An outstanding contemporary synthesis for framing the whole debate. Free to borrow: [archive.org](https://archive.org/details/erik-olin-wright-how-to-be-an-anticapitalist-in-the-twenty-first-century-2019)
+- **Erik Olin Wright** (1947 to 2019), _How to Be an Anticapitalist in the Twenty-First Century_ (2019). A clear map of anticapitalist strategies, smashing, taming, escaping, and eroding capitalism, and a vision of "real utopias." An outstanding contemporary synthesis for framing the whole debate. Free, and given away by the author: his own complete manuscript on his university page. [sscc.wisc.edu](https://www.sscc.wisc.edu/soc/faculty/pages/wright/How%20to%20be%20an%20anticapitalist%20for%20the%2021st%20century%20--%20full%20draft,%20July%2025%202018.pdf)
 
 ### Debates and disagreements
 

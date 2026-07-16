@@ -30,8 +30,8 @@ resources:
     year: 1979
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/manufacturingcon0000unse"
+    access: paywalled
+    url: "https://press.uchicago.edu/ucp/books/book/chicago/M/bo23899991.html"
     note: "Based on ten months on a Chicago shop floor, it asks why workers consent to their own exploitation. A key response to Braverman."
   - title: "Forces of Labor: Workers' Movements and Globalization since 1870"
     authors: ["Beverly J. Silver"]
@@ -247,7 +247,7 @@ Free unless marked otherwise. Read the short Marx texts first, then approach Bra
 ### The labor process
 
 - **Harry Braverman** (1920 to 1976), _Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century_ (1974). The book that revived labor process theory, arguing that Taylorism and modern management deskill work by separating conception from execution. The core anchor for analyzing work itself, not just the wage. Free: [libcom.org](https://libcom.org/article/labor-and-monopoly-capital-degradation-work-twentieth-century)
-- **Michael Burawoy** (b. 1947), _Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism_ (1979). Based on ten months working a Chicago engine plant, it asks why workers consent to their own exploitation and answers with a theory of how the shop floor manufactures that consent. The essential response to Braverman. Free to borrow: [archive.org](https://archive.org/details/manufacturingcon0000unse)
+- **Michael Burawoy** (b. 1947), _Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism_ (1979). Based on ten months working a Chicago engine plant, it asks why workers consent to their own exploitation and answers with a theory of how the shop floor manufactures that consent. The essential response to Braverman. No borrowable copy exists. Paywalled: [press.uchicago.edu](https://press.uchicago.edu/ucp/books/book/chicago/M/bo23899991.html). Burawoy's own retrospective essay is free: [berkeley.edu](http://burawoy.berkeley.edu/Biography/Thirty%20Years.pdf)
 - **Beverly J. Silver** (b. 1957), _Forces of Labor: Workers' Movements and Globalization since 1870_ (2003). Uses a global database of labor unrest to theorize where and why workers gain bargaining power, connecting the shape of struggle to capital's movement across the world economy. Free: [libcom.org](https://libcom.org/article/forces-labor-beverly-j-silver)
 
 ### The labor process now: service, platform, and digital work

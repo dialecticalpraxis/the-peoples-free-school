@@ -30,8 +30,8 @@ resources:
     year: 2005
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/workingtowardwhi00roed"
+    access: paywalled
+    url: "https://www.hachettebookgroup.com/titles/david-r-roediger/working-toward-whiteness/9781541673472/?lens=basic-books"
     note: "Follows southern and eastern European immigrants from 'inbetween people' to suburban whiteness, earned through housing, unions, and state policy rather than simply granted."
   - title: "How Jews Became White Folks and What That Says About Race in America"
     authors: ["Karen Brodkin"]
@@ -112,8 +112,8 @@ resources:
     year: 2013
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/colorofsuccessas0000wuel"
+    access: paywalled
+    url: "https://press.princeton.edu/books/paperback/9780691168029/the-color-of-success"
     note: "The turn from 'yellow peril' to 'model minority' across incarceration, Hawaii statehood, and the Cold War, showing the model minority was manufactured as a weapon against Black claims rather than earned."
   - title: "Impossible Subjects: Illegal Aliens and the Making of Modern America"
     authors: ["Mae M. Ngai"]
@@ -181,12 +181,12 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 Whiteness was not a fact about complexions. It was a membership, and the door opened.
 
 - **Noel Ignatiev** (1940 to 2019), _How the Irish Became White_ (1995). The Irish arrived despised as a race apart and became white by buying into the Democratic machine, the trade unions, and anti-Black violence. Whiteness here is not a complexion but a membership, sold on political terms and paid for at someone else's expense. Free PDF: [thecharnelhouse.org](https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf)
-- **David R. Roediger** (b. 1952), _Working Toward Whiteness_ (2005). Southern and eastern Europeans move from "inbetween people" to suburban whiteness through housing policy, unions, and the state. The companion to his _Wages of Whiteness_, which sits in the anti-Blackness theme. Free to borrow: [archive.org](https://archive.org/details/workingtowardwhi00roed)
+- **David R. Roediger** (b. 1952), _Working Toward Whiteness_ (2005). Southern and eastern Europeans move from "inbetween people" to suburban whiteness through housing policy, unions, and the state. The companion to his _Wages of Whiteness_, which sits in the anti-Blackness theme. No borrowable copy exists. Paywalled: [hachettebookgroup.com](https://www.hachettebookgroup.com/titles/david-r-roediger/working-toward-whiteness/9781541673472/?lens=basic-books). Roediger lays out the thesis in a free interview published by the UE union: [ueunion.org](https://www.ueunion.org/ue-news-feature/2012/race-and-the-working-class-an-interview-with-david-roediger)
 - **Karen Brodkin**, _How Jews Became White Folks_ (1998). How the GI Bill, FHA loans, and the suburbs reclassified Jews as white after 1945, told by an anthropologist through her own family. The clearest case of the state doing the reclassifying. No borrowable copy exists. Paywalled: [rutgersuniversitypress.org](https://www.rutgersuniversitypress.org/how-jews-became-white-folks-and-what-that-says-about-race-in-america/9780813525907). Brodkin restated the argument herself in a free essay: [forward.com](https://forward.com/opinion/356166/how-jews-became-white-folks-and-may-become-nonwhite-under-trump/)
 
 ### The law as a race-making machine
 
-- **Ellen D. Wu**, _The Color of Success_ (2013). The turn from "yellow peril" to "model minority" runs through wartime incarceration, Hawaii statehood, and Cold War image-management. The model minority was manufactured, and manufactured as a weapon against Black claims. Free to borrow: [archive.org](https://archive.org/details/colorofsuccessas0000wuel)
+- **Ellen D. Wu**, _The Color of Success_ (2013). The turn from "yellow peril" to "model minority" runs through wartime incarceration, Hawaii statehood, and Cold War image-management. The model minority was manufactured, and manufactured as a weapon against Black claims. No borrowable copy exists. Paywalled: [press.princeton.edu](https://press.princeton.edu/books/paperback/9780691168029/the-color-of-success)
 - **Mae M. Ngai**, _Impossible Subjects_ (2004). The 1924 quota regime did not just restrict immigration, it produced the "illegal alien" as a permanent caste, racializing Mexicans and Asians through the law itself. No borrowable copy exists. Paywalled: [press.princeton.edu](https://press.princeton.edu/books/paperback/9780691160825/impossible-subjects). Ngai gives the thesis in a free lecture, extremely niche at about 1,000 views but the author unabridged: [youtube.com](https://www.youtube.com/watch?v=JQl01iLxpLQ)
 
 ### Primary sources: read the statutes
