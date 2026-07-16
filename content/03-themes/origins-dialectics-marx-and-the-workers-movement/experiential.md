@@ -67,6 +67,14 @@ resources:
     access: free
     url: "https://revolutionaryleftradio.libsyn.com/k"
     note: "The author of the graphic biography *Red Rosa* retells Luxemburg's life and murder as a human story. Admiring and left-partisan, a strong way to meet her before reading her."
+  - title: "My Life"
+    authors: ["August Bebel"]
+    year: 1912
+    format: primary-source
+    kind: memoir
+    access: free
+    url: "https://archive.org/details/cu31924032592077"
+    note: "The autobiography of a turner who went from a workshop bench to leading the largest socialist party in the world, written by the man himself. Bebel on poverty, the trade, prison under the anti-socialist laws, and building the SPD from nothing. The English-language voice from inside the mass party that this lens otherwise describes from outside."
 ---
 
 _Lived experience as a source of knowledge. What has the room been through? What do participants already know from the inside?_
@@ -95,6 +103,10 @@ All free unless marked otherwise.
 - **Louise Michel** (1830 to 1905), _The Red Virgin: Memoirs_ (1886). The memoir of the Commune's most famous woman fighter, written from prison and exile. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/louise-michel-the-red-virgin)
 - **La Commune (Paris, 1871)** (Peter Watkins, 2000, 346 min). A near-six-hour reconstruction with hundreds of non-actors, using fake TV-news framing to make the Commune feel live. Overwhelming and unforgettable. Free: [archive.org](https://archive.org/details/LaCommune-Paris1871-2000)
 
+### Voices from the mass party
+
+- **August Bebel** (1840 to 1913), _My Life_ (1912). A turner who left a workshop bench and ended up leading the largest socialist party in the world, telling it himself: the poverty, the trade, the prison sentences under the anti-socialist laws, and the slow work of building the SPD out of nothing. The Commune voices above are French and last a spring; this one is German and lasts fifty years, which is the other half of what this theme describes. Free: [archive.org](https://archive.org/details/cu31924032592077)
+
 ### Meeting the people
 
 - **The Young Karl Marx** (Raoul Peck, 2017, 118 min). A dramatization of the Marx and Engels friendship and the writing of the Manifesto, turning the founders into young people arguing in real rooms. Free with ads: [watch.plex.tv](https://watch.plex.tv/movie/the-young-karl-marx)
@@ -104,4 +116,4 @@ All free unless marked otherwise.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially workers' memoirs from the early mass parties (an English-language SPD memoir such as Bebel's would balance the two French Communard voices here).
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially memoirs from rank-and-file members of the mass parties rather than their leaders: Bebel now speaks for the SPD here, but he speaks as its chairman, and the ordinary member's account of what belonging to that world felt like is still missing.

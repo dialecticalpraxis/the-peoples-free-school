@@ -10,7 +10,7 @@ Looking for whole archives, libraries, podcast shows, or channels to explore rat
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_802 resources in total, every format, sorted by format then author. Generated from theme lens frontmatter._
+_803 resources in total, every format, sorted by format then author. Generated from theme lens frontmatter._
 
 | Title | Author / creator | Year | Format | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -124,6 +124,7 @@ _802 resources in total, every format, sorted by format then author. Generated f
 | [Remembrances of Freedom School Students](https://www.crmvet.org/info/fstudent.htm) | Civil Rights Movement Archive | — | Primary source | Free | [[critical-pedagogy-and-the-practice-of-liberation/experiential\|Critical Pedagogy and the Practice of Liberation · Experiential]] |
 | [The 1947 Partition Archive](https://www.1947partitionarchive.org) | The 1947 Partition Archive | — | Primary source | Free | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [The Freedom Archives: Political Prisoners collection](https://search.freedomarchives.org/search.php?view_collection=309) | The Freedom Archives | — | Primary source | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
+| [My Life](https://archive.org/details/cu31924032592077) | August Bebel | 1912 | Primary source | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
 | [Oral history interview with Dorothy Bolden, 1978 December 7](https://dlg.usg.edu/record/geh_livatl_ahc-637-020-002) | Dorothy Lee Bolden, Bernard West | 1978 | Primary source | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [Freedom Song: Interviews from Eyes on the Prize](https://americanarchive.org/exhibits/eotp) | American Archive of Public Broadcasting, WGBH | — | Primary source | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Rosie the Riveter / World War II American Home Front Oral History Project](https://www.lib.berkeley.edu/visit/bancroft/oral-history-center/projects/rosie) | UC Berkeley Oral History Center, National Park Service | — | Primary source | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |

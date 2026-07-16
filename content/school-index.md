@@ -12,7 +12,7 @@ For resources by format (readings, films, videos, podcasts, primary sources), se
 
 ## People, thinkers, and authors
 
-_564 names, indexed by surname. Each links to the theme lenses where their work appears._
+_565 names, indexed by surname. Each links to the theme lenses where their work appears._
 
 #### A
 
@@ -54,6 +54,7 @@ _564 names, indexed by surname. Each links to the theme lenses where their work 
 - **Jeremy Baskin** — [Striking Back: A History of COSATU](https://archive.org/details/bwb_P7-ERJ-898) — [[labor-work-and-organizing/historical|Labor, Work, and Organizing · Historical]]
 - **Alyssa Battistoni** — [Living, Not Just Surviving](https://jacobin.com/2017/08/living-not-just-surviving) — [[labor-work-and-organizing/liberatory|Labor, Work, and Organizing · Liberatory]]
 - **Darius Bazargan** — [Rojava, Syria's Secret Revolution (BBC Our World)](https://www.youtube.com/watch?v=fKhjJfH0ra4) — [[anarchism-mutual-aid-and-prefiguration/historical|Anarchism, Mutual Aid, and Prefiguration · Historical]]
+- **August Bebel** — [My Life](https://archive.org/details/cu31924032592077) — [[origins-dialectics-marx-and-the-workers-movement/experiential|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]]
 - **Diana Sierra Becerra** — [A History of Domestic Work and Worker Organizing (dwherstories)](https://www.dwherstories.com/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
 - **Notes from Below** — [Notes from Below](https://notesfrombelow.org/), [The Workers' Inquiry and Social Composition](https://notesfrombelow.org/article/workers-inquiry-and-social-composition) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]] · [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]]
 - **Medea Benjamin** — [Don't Be Afraid, Gringo: A Honduran Woman Speaks from the Heart](https://archive.org/details/dontbeafraidgrin00alva) — [[labor-work-and-organizing/experiential|Labor, Work, and Organizing · Experiential]]
@@ -655,7 +656,7 @@ _564 names, indexed by surname. Each links to the theme lenses where their work 
 
 ## Topics and subsections
 
-_158 topics, from the subsection headings across the theme lenses._
+_159 topics, from the subsection headings across the theme lenses._
 
 #### T
 
@@ -872,6 +873,7 @@ _158 topics, from the subsection headings across the theme lenses._
 - **Vietnam, Korea, and Indonesia** — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
 - **Visions of a free society** — [[anarchism-mutual-aid-and-prefiguration/liberatory|Anarchism, Mutual Aid, and Prefiguration · Liberatory]]
 - **Voices from the Commune** — [[origins-dialectics-marx-and-the-workers-movement/experiential|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]]
+- **Voices from the mass party** — [[origins-dialectics-marx-and-the-workers-movement/experiential|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]]
 
 #### W
 
