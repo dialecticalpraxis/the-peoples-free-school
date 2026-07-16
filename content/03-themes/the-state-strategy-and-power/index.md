@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 This theme ties together several others:
 
 - [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]] shares the debate over unions, councils, and how workers build power against the state.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] takes up the police, the prison, and the carceral state that this theme analyzes as instruments of power.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] takes up the police, the prison, and the carceral state that this theme analyzes as instruments of power.
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]] extends the analysis to the state as war-maker and enforcer of the world system.
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]] carries forward the anarchist critique of the state and the practice of dual power and mutual aid.
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]] provides the class analysis that the theories of the capitalist state build on.

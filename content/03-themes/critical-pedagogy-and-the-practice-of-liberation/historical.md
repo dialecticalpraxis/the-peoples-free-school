@@ -93,7 +93,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ### Freedom Schools and Citizenship Schools
 
-- **Septima Clark** (1898 to 1987), _Ready from Within_ (1986). A first-person narrative of the Citizenship Schools Clark built through Highlander, where Black adults learned to read and to claim the vote. A corrective to male-centered movement histories, and a bridge to [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]]. Free to borrow: [archive.org](https://archive.org/details/readyfromwithins00clar)
+- **Septima Clark** (1898 to 1987), _Ready from Within_ (1986). A first-person narrative of the Citizenship Schools Clark built through Highlander, where Black adults learned to read and to claim the vote. A corrective to male-centered movement histories, and a bridge to [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. Free to borrow: [archive.org](https://archive.org/details/readyfromwithins00clar)
 - **Freedom Schools** (SNCC Digital Gateway). A documented history of the 1964 Mississippi Freedom Schools and their debt to the Highlander philosophy of people as active agents of their own liberation, curated by SNCC veterans with curriculum documents and student writing. Free: [snccdigital.org](https://snccdigital.org/inside-sncc/culture-education/freedom-schools/)
 
 ### The settlement house roots

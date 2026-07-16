@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 This theme is the foundation the others build on. The closest connections:
 
 - [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]] takes up the wage relation introduced here and turns to what workers do about it.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] develops the link between capitalism and racial slavery that the historical lens opens (Williams, Linebaugh and Rediker).
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] develops the link between capitalism and racial slavery that the historical lens opens (Williams, Linebaugh and Rediker).
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]] extends the analysis of unpaid and reproductive labor (Federici) that primitive accumulation depended on.
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]] scales the analysis up from the workplace to the world market.
 - [[03-themes/origins-dialectics-marx-and-the-workers-movement/index|Origins: Dialectics, Marx, and the Workers' Movement]] is where the method behind this analysis was forged, and it opens the debate over whether a socialist economy can be planned.

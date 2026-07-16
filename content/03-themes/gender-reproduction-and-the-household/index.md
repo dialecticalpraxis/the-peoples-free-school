@@ -44,7 +44,7 @@ This theme connects closely to several others:
 
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]] introduces the primitive accumulation and reproductive labor that this theme develops through Federici and social reproduction theory.
 - [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]] shares the social reproduction thread and the analysis of unwaged work as labor.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in Black feminism, the Combahee River Collective, and reproductive justice.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in Black feminism, the Combahee River Collective, and reproductive justice.
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]] extends the analysis into global care chains and the migration of care work.
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]] carries forward the communal-living and collective-care experiments the liberatory lens gathers.
 - [[03-themes/socialism-and-national-liberation/index|Socialism and National Liberation]] meets this theme in the women who fought and governed in the national-liberation revolutions, as in ¡Las Sandinistas!.

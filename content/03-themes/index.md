@@ -6,7 +6,8 @@ The thematic resource library. No theme has to be studied first, though some bui
 
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]]
 - [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]]
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]]
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Anti-Blackness and Racial Capitalism]]
+- [[03-themes/immigration-and-the-making-of-race/index|Immigration and the Making of Race]]
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]]
 - [[03-themes/the-state-strategy-and-power/index|The State, Strategy, and Power]]

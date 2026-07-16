@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 This theme sits at the center of the school's work and connects closely to several others:
 
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]] introduces the wage relation and the theory of exploitation that this theme takes up and turns toward organizing.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] develops how the working class was divided by race, from the split labor market to the interracial unionism of the Black Wobblies.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] develops how the working class was divided by race, from the split labor market to the interracial unionism of the Black Wobblies.
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]] extends the analysis of unwaged and reproductive labor that the social reproduction readings open here.
 - [[03-themes/the-state-strategy-and-power/index|The State, Strategy, and Power]] takes up labor law, the state's role in strikes, and the strategic debates over how workers win.
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]] carries forward the syndicalist, council, and cooperative traditions gathered in the liberatory lens.

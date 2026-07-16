@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 Because this theme is the school's method, it connects to every other theme. Most directly:
 
 - [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]] shares the Highlander lineage and the tradition of workers' education.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in the Citizenship Schools, the Freedom Schools, and abolitionist teaching.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in the Citizenship Schools, the Freedom Schools, and abolitionist teaching.
 - [[03-themes/the-state-strategy-and-power/index|The State, Strategy, and Power]] shares Gramsci on the organic intellectual and the politics of hegemony and education.
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]] carries forward the horizontalist and self-organized pole of liberatory education.
 - [[03-themes/socialism-and-national-liberation/index|Socialism and National Liberation]] carries Cabral's liberation pedagogy and the popular education of the national-liberation movements.

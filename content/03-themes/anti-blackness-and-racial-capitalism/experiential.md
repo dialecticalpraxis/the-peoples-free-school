@@ -62,21 +62,6 @@ resources:
     length: "4 min"
     url: "https://www.youtube.com/watch?v=YrHIQIO_bdQ"
     note: "About 4.6 million views. An animated primer following two children to show how disadvantage compounds across housing, schooling, and incarceration. A strong opener."
-  - title: "Borderlands / La Frontera: The New Mestiza"
-    authors: ["Gloria Anzaldúa"]
-    year: 1987
-    format: reading
-    kind: memoir
-    access: borrow
-    url: "https://archive.org/details/borderlandslafro00anza"
-    note: "Writes the border as an open wound and builds a mestiza consciousness from it: mixed, plural, refusing the demand to be one race or one language. Part theory, part poetry, part testimonio."
-  - title: "Densho Digital Repository"
-    authors: ["Densho"]
-    format: primary-source
-    kind: archive
-    access: free
-    url: "https://ddr.densho.org/"
-    note: "Over 900 oral histories and 100,000 primary items on the WWII incarceration of Japanese Americans and its aftermath, transcribed and segmented by topic so a single clip can be pulled for a session. Free, no account needed."
 ---
 
 _Lived experience as a source of knowledge. What has the room been through? What do participants already know from the inside?_
@@ -107,8 +92,6 @@ Experiential work begins from the room. These outside materials extend or challe
 - **Civil Rights History Project** (Library of Congress and Smithsonian NMAAHC). Filmed oral-history interviews with movement participants, lawyers, farmers, organizers, and musicians, free on the Library site and its YouTube channel. First-person movement testimony that serves this lens and the historical one. Free: [loc.gov](https://www.loc.gov/collections/civil-rights-history-project/)
 - **Freedom Song: Interviews from Eyes on the Prize** (American Archive of Public Broadcasting, WGBH). Over 300 raw, unedited interviews filmed for the landmark series _Eyes on the Prize_, with a curated exhibit, timeline, and map. The testimony behind the documentary, in fuller form. Free: [americanarchive.org](https://americanarchive.org/exhibits/eotp)
 - **StoryCorps Griot** (StoryCorps). Nearly 10,000 recorded interviews with African Americans, archived at the American Folklife Center and the Smithsonian NMAAHC. Everyday testimony of Black life, short enough to play one and discuss. Free: [storycorps.org](https://storycorps.org/discover/griot/)
-- **Densho Digital Repository**. More than 900 oral histories and 100,000 primary items on the wartime incarceration of Japanese Americans and what came after, transcribed and segmented by topic so you can pull one clip for a session rather than assign an archive. Free, and no account needed: [ddr.densho.org](https://ddr.densho.org/)
-- **Gloria Anzaldúa** (1942 to 2004), _Borderlands / La Frontera_ (1987). The border as an open wound, and a mestiza consciousness built out of it: mixed, plural, refusing the demand to be one race or speak one language. Part theory, part poetry, part testimonio, and it does what no analysis in the other lenses can. Free to borrow: [archive.org](https://archive.org/details/borderlandslafro00anza)
 
 ### Film and audio
 

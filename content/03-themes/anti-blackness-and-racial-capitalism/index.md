@@ -1,18 +1,20 @@
 ---
-title: "Race and Racial Capitalism"
+title: "Anti-Blackness and Racial Capitalism"
 ---
 
-How are race and capitalism intertwined? This theme draws on the Black radical tradition, the long history of racial slavery and its afterlives, the construction of whiteness, and contemporary work on how race continues to organize the distribution of life chances. It treats race not as separate from class but as one of the ways capitalism has always worked. It builds on [[03-themes/how-capitalism-works/index|How Capitalism Works]] and on the racial division of labor opened in [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]].
+How did anti-Black racism build this country, and how does it still organize it? This theme draws on the Black radical tradition, the long history of racial slavery and its afterlives, the invention of whiteness against Black people, and contemporary work on how race distributes life chances. It treats race not as separate from class but as one of the ways capitalism has always worked. Its mechanism is property and labor: a color line drawn to justify owning people, then maintained through convict leasing, redlining, and the prison. It builds on [[03-themes/how-capitalism-works/index|How Capitalism Works]] and on the racial division of labor opened in [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]].
+
+Race in the United States was not made by one machine. This theme is one of a pair, and it is deliberately not the whole story. Its companion, [[03-themes/immigration-and-the-making-of-race/index|Immigration and the Making of Race]], follows the other mechanism: the border and naturalization law deciding who is allowed to become American, letting whiteness expand to absorb the Irish, Jews, and Italians while fixing Asians and Latinos as permanently foreign. **The two are relational, not separate systems.** The model minority was manufactured as a weapon against Black claims; the racial scripts written for Black people were lifted and reapplied to everyone who came after. Read either theme alone and you will get the mechanism right and the country wrong.
 
 ## How to use this theme
 
 This folder organizes resources by lens. See the [[02-pedagogy|Pedagogy document]] for what the lenses do and why they are structured this way.
 
-- [[03-themes/race-and-racial-capitalism/experiential|Experiential]]: What is your experience with this? What does the room already know?
-- [[03-themes/race-and-racial-capitalism/historical|Historical]]: How did this come to be?
-- [[03-themes/race-and-racial-capitalism/theoretical|Theoretical]]: How do we understand and analyze it?
-- [[03-themes/race-and-racial-capitalism/practical|Practical]]: What is happening on the ground and what are people doing about it?
-- [[03-themes/race-and-racial-capitalism/liberatory|Liberatory]]: What would it mean to overcome or transform this?
+- [[03-themes/anti-blackness-and-racial-capitalism/experiential|Experiential]]: What is your experience with this? What does the room already know?
+- [[03-themes/anti-blackness-and-racial-capitalism/historical|Historical]]: How did this come to be?
+- [[03-themes/anti-blackness-and-racial-capitalism/theoretical|Theoretical]]: How do we understand and analyze it?
+- [[03-themes/anti-blackness-and-racial-capitalism/practical|Practical]]: What is happening on the ground and what are people doing about it?
+- [[03-themes/anti-blackness-and-racial-capitalism/liberatory|Liberatory]]: What would it mean to overcome or transform this?
 
 A session does not need to use all five lenses. A study circle may move across them. Use what serves the room.
 

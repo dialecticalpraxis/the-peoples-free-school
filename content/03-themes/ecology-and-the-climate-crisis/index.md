@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 This theme connects closely to several others:
 
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]] introduces the growth and accumulation imperative that this theme follows to its ecological limit.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in environmental racism and the uneven distribution of ecological harm.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] meets this theme in environmental racism and the uneven distribution of ecological harm.
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]] shares the ecofeminist analysis of the joint domination of women and nature.
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]] develops ecological debt, atmospheric colonization, and extraction in the Global South.
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]] carries forward social ecology, solarpunk, and the disaster-mutual-aid tradition.

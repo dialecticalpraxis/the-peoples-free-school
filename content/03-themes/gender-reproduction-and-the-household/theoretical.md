@@ -117,7 +117,7 @@ Free unless marked otherwise. Bhattacharya's short piece is the best on-ramp; re
 
 - **Gayle Rubin** (b. 1949), _The Traffic in Women_ (1975). Introduces the "sex/gender system," drawing on Marx, Freud, and Levi-Strauss to explain how societies turn biological sex into gendered persons and enforce compulsory heterosexuality. Free PDF: [glc.yale.edu](https://glc.yale.edu/sites/default/files/pdf/rubin_the_traffic_in_women.pdf)
 - **Heidi Hartmann** (b. 1945), _The Unhappy Marriage of Marxism and Feminism_ (1979). The classic dual-systems argument that Marxism alone cannot explain gender, and that patriarchy and capitalism must be analyzed together, a position later social reproduction theorists push back against. Read the two against each other. Free PDF: [web.ics.purdue.edu](https://web.ics.purdue.edu/~hoganr/SOC%20602/Hartmann_1979.pdf)
-- **Combahee River Collective**, _The Combahee River Collective Statement_ (1977). The Black feminist statement that theorizes the interlocking of race, class, gender, and sexuality, insisting that any analysis of reproduction and the household hold these together. Shared with [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]]. Free: [archive.org](https://archive.org/details/Combahee1979)
+- **Combahee River Collective**, _The Combahee River Collective Statement_ (1977). The Black feminist statement that theorizes the interlocking of race, class, gender, and sexuality, insisting that any analysis of reproduction and the household hold these together. Shared with [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. Free: [archive.org](https://archive.org/details/Combahee1979)
 
 ### The care crisis
 

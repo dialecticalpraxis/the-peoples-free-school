@@ -43,7 +43,7 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 This theme connects closely to several others:
 
 - [[03-themes/how-capitalism-works/index|How Capitalism Works]] provides the value theory this theme scales up to the world market.
-- [[03-themes/race-and-racial-capitalism/index|Race and Racial Capitalism]] shares the analysis of colonialism, slavery, and the global color line, and the work of Fanon.
+- [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]] shares the analysis of colonialism, slavery, and the global color line, and the work of Fanon.
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]] meets this theme in global care chains and the migration of reproductive labor.
 - [[03-themes/the-state-strategy-and-power/index|The State, Strategy, and Power]] takes up war, the military, and the state as the enforcer of the world system.
 - [[03-themes/ecology-and-the-climate-crisis/index|Ecology and the Climate Crisis]] extends the analysis into extraction, ecological debt, and who pays for the climate crisis.
