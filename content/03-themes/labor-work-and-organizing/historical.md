@@ -134,7 +134,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ## Further reading
 
-_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, or only borrowable. You do not need to buy anything: see [[04-resources/index#A note on access|the note on access]] for how to get hold of them._
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Cornell University ILR School**, _Labor Studies research guide (Catherwood Library)_. The gateway to the largest labor archive in North America: finding aids, digitized collections, and where to look next. The place to start if a group wants to research its own local labor history. Free: [guides.library.cornell.edu](https://guides.library.cornell.edu/laborstudies)
 

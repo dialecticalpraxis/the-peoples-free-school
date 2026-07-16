@@ -211,7 +211,7 @@ Free unless marked otherwise. Many labor podcasts publish a free main feed and p
 
 ## Further reading
 
-_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, or only borrowable. You do not need to buy anything: see [[04-resources/index#A note on access|the note on access]] for how to get hold of them._
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Zinn Education Project**, _The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States_. Role plays and case studies on the history of work, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme. Free: [zinnedproject.org](https://www.zinnedproject.org/materials/power-in-our-hands/)
 - **Highlander Research and Education Center**, _Mapping Our Futures: Economics and Governance Curriculum_. A participatory economics and governance curriculum from the folk school this project descends from, written to be run by lay facilitators rather than experts. Free: [highlandercenter.org](https://highlandercenter.org/our-impact/economics-governance/)

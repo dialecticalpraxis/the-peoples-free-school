@@ -37,9 +37,7 @@ const ACCESS_PHRASE = {
 }
 
 const INTRO =
-  "_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, " +
-  "or only borrowable. You do not need to buy anything: see " +
-  "[[04-resources/index#A note on access|the note on access]] for how to get hold of them._"
+  "_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._"
 
 function readFrontmatter(text) {
   if (!text.startsWith("---")) return null

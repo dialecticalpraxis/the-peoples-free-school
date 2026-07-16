@@ -171,7 +171,7 @@ Do not try to master Braverman or _Capital_ in one sitting. The point of the the
 
 ## Further reading
 
-_Not assigned in this lens, but worth having. Some are behind a paywall, only in print, or only borrowable. You do not need to buy anything: see [[04-resources/index#A note on access|the note on access]] for how to get hold of them._
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Liberation School (PSL)**, _Marx's Capital, Volume 1 (nine-class course with reading guides)_. A free nine-class course through Capital with per-session reading guides. Marxist-Leninist (PSL) in framing; label the standpoint and use it for the structure, which is the most usable free scaffold for reading Capital as a group. Free: [liberationschool.org](https://liberationschool.org/psl-course-marxs-capital/)
 - **Marxists Internet Archive**, _Marxism and Workers' Organisations (subject archive)_. The archive's own gathering of writing on unions, councils, and workers' organisation. A deep bench to pull primary texts from when a session wants to go further. Free: [marxists.org](https://www.marxists.org/subject/workers/index.htm)
