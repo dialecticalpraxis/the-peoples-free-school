@@ -92,6 +92,14 @@ resources:
     length: "7 min"
     url: "https://www.youtube.com/watch?v=O5FBJyqfoLM"
     note: "About 1.4 million views. How federal redlining and the unenforced Fair Housing Act built lasting segregation and the wealth gap. A clean visual companion to Rothstein."
+  - title: "Teach Reconstruction"
+    authors: ["Zinn Education Project"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.zinnedproject.org/campaigns/teach-reconstruction/"
+    note: "Free lessons and role plays on the period Du Bois put at the center of this lens, and on the campaign to get it taught at all. The best classroom-tested way into Reconstruction."
 ---
 
 _How did this come to be? What were the conditions, struggles, and contingencies that produced the current arrangement?_
@@ -135,6 +143,16 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **"Slavery in the American Colonies: Crash Course Black American History #2"** (CrashCourse, Clint Smith, 2021). Roughly 11 minutes, about 758,000 views. Clint Smith on how chattel slavery became law and economic engine in the early colonies. A reliable building block for a historical session. [youtube.com/watch?v=G4syEkyOzmY](https://www.youtube.com/watch?v=G4syEkyOzmY)
 - **"Housing Segregation and Redlining in America: A Short History"** (NPR, Code Switch, 2018). Roughly 7 minutes, about 1.4 million views. How federal redlining and the unenforced Fair Housing Act built lasting segregation and wealth disparity. A clean visual companion to Rothstein. [youtube.com/watch?v=O5FBJyqfoLM](https://www.youtube.com/watch?v=O5FBJyqfoLM)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Zinn Education Project**, _Teach Reconstruction_. Free lessons and role plays on the period Du Bois put at the center of this lens, and on the campaign to get it taught at all. The best classroom-tested way into Reconstruction. Free: [zinnedproject.org](https://www.zinnedproject.org/campaigns/teach-reconstruction/)
+
+<!-- further-reading:end -->
 
 ## Status
 

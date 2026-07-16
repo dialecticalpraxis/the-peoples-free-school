@@ -12,7 +12,7 @@ For resources by format (readings, films, videos, podcasts, primary sources), se
 
 ## People, thinkers, and authors
 
-_443 names, indexed by surname. Each links to the theme lenses where their work appears._
+_446 names, indexed by surname. Each links to the theme lenses where their work appears._
 
 #### A
 
@@ -90,6 +90,7 @@ _443 names, indexed by surname. Each links to the theme lenses where their work 
 - **Seeds for Change** — [A Consensus Handbook](https://www.seedsforchange.org.uk/handbook), [Seeds for Change: facilitation and consensus guides](https://www.seedsforchange.org.uk/guides) — [[anarchism-mutual-aid-and-prefiguration/practical|Anarchism, Mutual Aid, and Prefiguration · Practical]] · [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Teaching for Change** — [Literacy and Liberation (Septima Clark, with the film They Say I'm Your Teacher)](https://www.civilrightsteaching.org/resource/literacy-and-liberation), [Zinn Education Project: Teaching People's History](https://www.zinnedproject.org/) — [[critical-pedagogy-and-the-practice-of-liberation/experiential|Critical Pedagogy and the Practice of Liberation · Experiential]] · [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
 - **Training for Change** — [Training for Change: Tools library](https://www.trainingforchange.org/tools/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
+- **Marcia Chatelain** — [Teaching the #FergusonSyllabus](https://www.whobuiltamerica.org/item/teaching-the-ferguson-syllabus) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Michelle Chen** — [Belabored](https://podcasts.apple.com/us/podcast/belabored/id634955549) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
 - **George Ciccariello-Maher** — [We Created Chávez: A People's History of the Venezuelan Revolution](https://www.dukeupress.edu/we-created-chavez) — [[socialism-and-national-liberation/historical|Socialism and National Liberation: the Global South · Historical]]
 - **Brett Clark** — [Marx and the Metabolic Rift (handbook chapter)](https://johnbellamyfoster.org/wp-content/uploads/2019/11/Clark-Foster-Longo-Marx-Handbook-Chapter.pdf) — [[ecology-and-the-climate-crisis/theoretical|Ecology and the Climate Crisis · Theoretical]]
@@ -112,6 +113,7 @@ _443 names, indexed by surname. Each links to the theme lenses where their work 
 - **Africa Is a Country** — [Africa Is a Country](https://africasacountry.com) — [[imperialism-and-the-global-system/practical|Imperialism and the Global System · Practical]]
 - **Oliver Cromwell Cox** — [Caste, Class, and Race: A Study in Social Dynamics](https://archive.org/details/casteclassandraceastudyofsocialdynamicsolivercromwellcox_202003_894_I) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
 - **Kimberlé Crenshaw** — [The urgency of intersectionality](https://www.youtube.com/watch?v=akOe5-UsQ2o) — [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]]
+- **Interrupting Criminalization** — [Building Your Abolitionist Toolbox](https://www.interruptingcriminalization.com/projects-all/building-your-abolitionist-toolbox) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Alfred W. Crosby** — [The Columbian Exchange: Biological and Cultural Consequences of 1492](https://archive.org/details/columbianexchang00cros) — [[ecology-and-the-climate-crisis/historical|Ecology and the Climate Crisis · Historical]]
 - **scott crow** — [Black Flags and Windmills: Hope, Anarchy, and the Common Ground Collective](https://archive.org/details/Black_Flags_and_Windmills_2nd_9781604869972) — [[anarchism-mutual-aid-and-prefiguration/experiential|Anarchism, Mutual Aid, and Prefiguration · Experiential]]
 - **Bruce Cumings** — [North Korea: Another Country](https://archive.org/details/northkoreaanothe0000cumi) — [[revolution-in-power/historical|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]]
@@ -263,7 +265,7 @@ _443 names, indexed by surname. Each links to the theme lenses where their work 
 
 #### K
 
-- **Mariame Kaba** — [Interrupting Criminalization: resource hub](https://www.interruptingcriminalization.com/resources), [So You're Thinking About Becoming an Abolitionist](https://static1.squarespace.com/static/5345d0c1e4b0b2e29e338463/t/603eb08af6bc5006a9506bda/1614721162714/So+Youre+Thinking+About+Becoming+an+Abolitionist.pdf) — [[race-and-racial-capitalism/liberatory|Race and Racial Capitalism · Liberatory]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
+- **Mariame Kaba** — [Interrupting Criminalization: resource hub](https://www.interruptingcriminalization.com/resources), [So You're Thinking About Becoming an Abolitionist](https://static1.squarespace.com/static/5345d0c1e4b0b2e29e338463/t/603eb08af6bc5006a9506bda/1614721162714/So+Youre+Thinking+About+Becoming+an+Abolitionist.pdf), [We Do This 'Til We Free Us: Abolitionist Organizing and Transforming Justice](https://www.haymarketbooks.org/books/1664-we-do-this-til-we-free-us) — [[race-and-racial-capitalism/liberatory|Race and Racial Capitalism · Liberatory]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Mikhail Kalatozov** — [Soy Cuba (I Am Cuba)](https://archive.org/details/soycuba1964) — [[socialism-and-national-liberation/experiential|Socialism and National Liberation: the Global South · Experiential]]
 - **Juraj Katalenac** — [Yugoslav Self-Management: Capitalism Under the Red Banner](https://libcom.org/article/yugoslav-self-management-capitalism-under-red-banner-juraj-katalenac) — [[revolution-in-power/liberatory|Revolution in Power: the USSR, China, and the Eastern Bloc · Liberatory]]
 - **Karl Kautsky** — [The Class Struggle (Erfurt Program)](https://www.marxists.org/archive/kautsky/1892/erfurt/index.htm), [The Road to Power](https://www.marxists.org/archive/kautsky/1909/power/index.htm) — [[origins-dialectics-marx-and-the-workers-movement/liberatory|Origins: Dialectics, Marx, and the Workers' Movement · Liberatory]] · [[the-state-strategy-and-power/liberatory|The State, Strategy, and Power · Liberatory]]
@@ -451,6 +453,7 @@ _443 names, indexed by surname. Each links to the theme lenses where their work 
 - **John Smith** — [Imperialism in the Twenty-First Century](https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf) — [[imperialism-and-the-global-system/theoretical|Imperialism and the Global System · Theoretical]]
 - **Mark K. Smith** — [Jane Addams and informal education](https://infed.org/mobi/jane-addams-and-informal-education/), [N.F.S. Grundtvig, folk high schools and popular education](https://infed.org/mobi/n-f-s-grundtvig-folk-high-schools-and-popular-education/) — [[critical-pedagogy-and-the-practice-of-liberation/historical|Critical Pedagogy and the Practice of Liberation · Historical]]
 - **Toi Smith** — [Upstream: Post-Capitalist Parenting](https://www.upstreampodcast.org/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
+- **African American Intellectual History Society** — [Prison Abolition Syllabus 2.0](https://www.aaihs.org/prison-abolition-syllabus-2-0/) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Dean Spade** — [Mutual Aid Toolbox](https://bigdoorbrigade.com/mutual-aid-toolbox/), [Mutual Aid: Building Solidarity During This Crisis (and the Next)](https://theanarchistlibrary.org/library/dean-spade-mutual-aid) — [[anarchism-mutual-aid-and-prefiguration/practical|Anarchism, Mutual Aid, and Prefiguration · Practical]] · [[the-state-strategy-and-power/practical|The State, Strategy, and Power · Practical]]
 - **James Spione** — [Awake: A Dream from Standing Rock](https://www.youtube.com/watch?v=G5EWZxII52c) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
 - **Will Steffen** — [The Trajectory of the Anthropocene: The Great Acceleration](https://openresearch-repository.anu.edu.au/items/80e718d2-a469-41f5-89b2-4aca0957c330) — [[ecology-and-the-climate-crisis/historical|Ecology and the Climate Crisis · Historical]]
@@ -726,7 +729,7 @@ _125 topics, from the subsection headings across the theme lenses._
 
 ## Organizations, channels, and publishers
 
-_134 organizations, channels, and publishers whose work is used in the library._
+_136 organizations, channels, and publishers whose work is used in the library._
 
 #### O
 
@@ -828,7 +831,7 @@ _134 organizations, channels, and publishers whose work is used in the library._
 #### L
 
 - **LeftEast** — [LeftEast](https://lefteast.org/) — [[revolution-in-power/practical|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]]
-- **Liberation School (PSL)** — [Liberation School: study guides](https://liberationschool.org/category/study-guides/), [Marx's Capital, Volume 1 (nine-class course with reading guides)](https://liberationschool.org/psl-course-marxs-capital/) — [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]] · [[socialism-and-national-liberation/practical|Socialism and National Liberation: the Global South · Practical]]
+- **Liberation School (PSL)** — [Black Struggle is Class Struggle (four-part course)](https://liberationschool.org/black-struggle-is-class-struggle-psl-course/), [Liberation School: study guides](https://liberationschool.org/category/study-guides/), [Marx's Capital, Volume 1 (nine-class course with reading guides)](https://liberationschool.org/psl-course-marxs-capital/) — [[labor-work-and-organizing/theoretical|Labor, Work, and Organizing · Theoretical]] · [[race-and-racial-capitalism/theoretical|Race and Racial Capitalism · Theoretical]] · [[socialism-and-national-liberation/practical|Socialism and National Liberation: the Global South · Practical]]
 - **Library of Congress** — [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/), [Civil Rights History Project](https://www.loc.gov/collections/civil-rights-history-project/) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]] · [[race-and-racial-capitalism/experiential|Race and Racial Capitalism · Experiential]]
 - **LiteracyDotOrg** — [Paulo Freire: An Incredible Conversation](https://www.youtube.com/watch?v=aFWjnkFypFA) — [[critical-pedagogy-and-the-practice-of-liberation/theoretical|Critical Pedagogy and the Practice of Liberation · Theoretical]]
 - **Liz** — [Rebel Steps](https://rebelsteps.com/about/) — [[ecology-and-the-climate-crisis/practical|Ecology and the Climate Crisis · Practical]]
@@ -858,11 +861,13 @@ _134 organizations, channels, and publishers whose work is used in the library._
 - **PBS American Experience** — [Freedom Summer](https://www.pbs.org/wgbh/americanexperience/films/freedomsummer/) — [[critical-pedagogy-and-the-practice-of-liberation/historical|Critical Pedagogy and the Practice of Liberation · Historical]]
 - **Philosophy Tube** — [Climate Grief](https://www.youtube.com/watch?v=CqCx9xU_-Fw), [Identity: A Trans Coming Out Story](https://www.youtube.com/watch?v=AITRzvm0Xtg), [Intro to Hegel (and Progressive Politics)](https://www.youtube.com/watch?v=OgNt1C72B_4), [Marx: A Complete Guide to Capitalism](https://www.youtube.com/watch?v=0bmX0hZoiJM) — [[ecology-and-the-climate-crisis/experiential|Ecology and the Climate Crisis · Experiential]] · [[gender-reproduction-and-the-household/liberatory|Gender, Reproduction, and the Household · Liberatory]] · [[how-capitalism-works/theoretical|How Capitalism Works · Theoretical]] · [[origins-dialectics-marx-and-the-workers-movement/liberatory|Origins: Dialectics, Marx, and the Workers' Movement · Liberatory]]
 - **Pluto Press** — [What is Social Reproduction Theory? (Tithi Bhattacharya)](https://www.youtube.com/watch?v=Uur-pMk7XjY) — [[gender-reproduction-and-the-household/theoretical|Gender, Reproduction, and the Household · Theoretical]]
+- **Project NIA** — [Educational Resources (Transformative Justice curriculum, PIC 101)](https://project-nia.org/educational-resources) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
+- **Pulitzer Center** — [The 1619 Project Curriculum](https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum) — [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 
 #### R
 
 - **Radio Diaries** — [The Working Tapes of Studs Terkel](https://soundcloud.com/radio-diaries/the-working-tapes-of-studs-terkel-hour-special) — [[how-capitalism-works/experiential|How Capitalism Works · Experiential]] · [[labor-work-and-organizing/experiential|Labor, Work, and Organizing · Experiential]]
-- **Rethinking Schools** — [Rethinking Schools](https://rethinkingschools.org/), [Zinn Education Project: Teaching People's History](https://www.zinnedproject.org/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]]
+- **Rethinking Schools** — [Rethinking Schools](https://rethinkingschools.org/), [Teaching for Black Lives (study guide)](https://www.zinnedproject.org/materials/teaching-black-lives/), [Zinn Education Project: Teaching People's History](https://www.zinnedproject.org/) — [[critical-pedagogy-and-the-practice-of-liberation/practical|Critical Pedagogy and the Practice of Liberation · Practical]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Revolutionary Left Radio** — [Red Rosa: The Life and Legacy of Rosa Luxemburg](https://revolutionaryleftradio.libsyn.com/k), [The Paris Commune: A Brief Blossoming of Proletarian Power](https://revolutionaryleftradio.libsyn.com/the-paris-commune-a-brief-blossoming-of-proletarian-power) — [[origins-dialectics-marx-and-the-workers-movement/experiential|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]]
 - **Rewire News Group** — [Rewire News Group](https://rewirenewsgroup.com/about-us/) — [[gender-reproduction-and-the-household/practical|Gender, Reproduction, and the Household · Practical]]
 
@@ -934,7 +939,7 @@ _134 organizations, channels, and publishers whose work is used in the library._
 
 #### Z
 
-- **Zinn Education Project** — [The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States](https://www.zinnedproject.org/materials/power-in-our-hands/) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]]
+- **Zinn Education Project** — [Teach Reconstruction](https://www.zinnedproject.org/campaigns/teach-reconstruction/), [Teaching for Black Lives (study guide)](https://www.zinnedproject.org/materials/teaching-black-lives/), [The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States](https://www.zinnedproject.org/materials/power-in-our-hands/) — [[labor-work-and-organizing/practical|Labor, Work, and Organizing · Practical]] · [[race-and-racial-capitalism/historical|Race and Racial Capitalism · Historical]] · [[race-and-racial-capitalism/practical|Race and Racial Capitalism · Practical]]
 - **Zochrot** — [Zochrot: Testimonies](https://www.zochrot.org/testimonies/all/en) — [[imperialism-and-the-global-system/experiential|Imperialism and the Global System · Experiential]]
 
 <!-- END AUTO-GENERATED -->

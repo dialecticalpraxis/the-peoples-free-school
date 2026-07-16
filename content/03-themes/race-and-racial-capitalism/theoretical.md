@@ -92,6 +92,14 @@ resources:
     access: free
     url: "https://sceneonradio.org/seeing-white/"
     note: "A fourteen-part documentary series on where the idea of whiteness came from and how it works, with a free study guide built for group discussion."
+  - title: "Black Struggle is Class Struggle (four-part course)"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: course
+    access: free
+    tier: extended
+    url: "https://liberationschool.org/black-struggle-is-class-struggle-psl-course/"
+    note: "A free four-part course arguing Black liberation and class struggle are one fight. Marxist-Leninist (PSL) in framing; label the standpoint and set it against Robinson, who says the orthodoxy cannot absorb race so easily."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -138,6 +146,16 @@ Free unless marked otherwise. Robinson and Du Bois's _Black Reconstruction_ (in 
 ## A note on method
 
 The theory here is contested, and that is the point. Robinson and the orthodox Marxist tradition disagree about how much race can be explained by class. Let that disagreement live in the room rather than settling it. The aim is a shared vocabulary, racial capitalism, the wages of whiteness, racecraft, group-differentiated vulnerability, that the group can use to analyze its own world.
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Liberation School (PSL)**, _Black Struggle is Class Struggle (four-part course)_. A free four-part course arguing Black liberation and class struggle are one fight. Marxist-Leninist (PSL) in framing; label the standpoint and set it against Robinson, who says the orthodoxy cannot absorb race so easily. Free: [liberationschool.org](https://liberationschool.org/black-struggle-is-class-struggle-psl-course/)
+
+<!-- further-reading:end -->
 
 ## Status
 

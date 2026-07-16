@@ -49,6 +49,14 @@ resources:
     access: free
     url: "https://static1.squarespace.com/static/5345d0c1e4b0b2e29e338463/t/603eb08af6bc5006a9506bda/1614721162714/So+Youre+Thinking+About+Becoming+an+Abolitionist.pdf"
     note: "A short, accessible primer on what prison-industrial-complex abolition means as vision and strategy. A good single opening reading before the longer texts."
+  - title: "We Do This 'Til We Free Us: Abolitionist Organizing and Transforming Justice"
+    authors: ["Mariame Kaba"]
+    year: 2021
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.haymarketbooks.org/books/1664-we-do-this-til-we-free-us"
+    note: "The collected essays and interviews behind the primer: abolition as everyday organizing practice rather than a slogan, drawn from decades of campaigns. The fullest statement of Kaba's position."
   - title: "The Ballot or the Bullet"
     authors: ["Malcolm X"]
     year: 1964
@@ -130,6 +138,7 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 - **Combahee River Collective**, _The Combahee River Collective Statement_ (1977). The Black feminist statement that articulates interlocking oppressions and an integrated, socialist analysis. A key origin point for intersectional liberation politics. Free: [archive.org](https://archive.org/details/Combahee1979)
 - **Angela Y. Davis** (b. 1944), _Are Prisons Obsolete?_ (2003). A short, accessible case for prison abolition that traces the prison's roots in slavery and argues for decarceral alternatives. A strong first reading on abolition. Free: [archive.org](https://archive.org/details/A.Y.DavisArePrisonsObsolete)
 - **Mariame Kaba**, _So You're Thinking About Becoming an Abolitionist_ (2020). A short primer on what prison-industrial-complex abolition means as vision and strategy, a good single reading to anchor a first session before the longer texts. Free PDF: [interruptingcriminalization.com](https://static1.squarespace.com/static/5345d0c1e4b0b2e29e338463/t/603eb08af6bc5006a9506bda/1614721162714/So+Youre+Thinking+About+Becoming+an+Abolitionist.pdf)
+- **Mariame Kaba**, _We Do This 'Til We Free Us_ (2021). The book behind the primer: essays and interviews treating abolition as everyday organizing practice rather than a slogan, drawn from decades of campaigns. Behind a paywall, and worth chasing down; see [[04-resources/index#A note on access|the note on access]]. Not free: [haymarketbooks.org](https://www.haymarketbooks.org/books/1664-we-do-this-til-we-free-us)
 
 ### Debates and disagreements
 

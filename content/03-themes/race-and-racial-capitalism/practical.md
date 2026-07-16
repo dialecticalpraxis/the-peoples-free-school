@@ -118,6 +118,54 @@ resources:
     length: "7 min"
     url: "https://www.youtube.com/watch?v=ayUQmnLCHEg"
     note: "About 82,000 views. Traces policing from slave patrols through Jim Crow enforcement to present-day tactics. A short historical grounding for the abolition debate."
+  - title: "Building Your Abolitionist Toolbox"
+    authors: ["Interrupting Criminalization"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.interruptingcriminalization.com/projects-all/building-your-abolitionist-toolbox"
+    note: "Worksheets and exercises for groups turning abolitionist principles into an actual campaign. The practical companion to Kaba's primer."
+  - title: "Educational Resources (Transformative Justice curriculum, PIC 101)"
+    authors: ["Project NIA"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://project-nia.org/educational-resources"
+    note: "Free curricula on the prison industrial complex and transformative justice, including a PIC 101 built for community groups rather than classrooms."
+  - title: "Teaching for Black Lives (study guide)"
+    authors: ["Zinn Education Project", "Rethinking Schools"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.zinnedproject.org/materials/teaching-black-lives/"
+    note: "A study guide to the Rethinking Schools volume, with session plans and discussion questions. Written for teachers and adaptable to a study circle."
+  - title: "Prison Abolition Syllabus 2.0"
+    authors: ["African American Intellectual History Society"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.aaihs.org/prison-abolition-syllabus-2-0/"
+    note: "A scholar-assembled reading list tracing abolition from emancipation to the present. The deepest bibliography on the strand, for a group that wants to go past the primers."
+  - title: "Teaching the #FergusonSyllabus"
+    authors: ["Marcia Chatelain"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.whobuiltamerica.org/item/teaching-the-ferguson-syllabus"
+    note: "The historian who started the #FergusonSyllabus on how to teach a police killing while it is still happening. Useful when the room needs to talk about the news."
+  - title: "The 1619 Project Curriculum"
+    authors: ["Pulitzer Center"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum"
+    note: "Free lesson plans, reading guides, and activities built around The 1619 Project, and a live object of the fight over how this history gets taught."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -169,6 +217,21 @@ Free unless marked otherwise. Many of these documentaries stream free with a lib
 
 - **"Explained: Racial Wealth Gap"** (Netflix, Vox, 2020). Roughly 16 minutes, about 1.6 million views. Connects slavery, redlining, and discriminatory policy to today's Black-white wealth divide. A concrete practical opener. [youtube.com/watch?v=Mqrhn8khGLM](https://www.youtube.com/watch?v=Mqrhn8khGLM)
 - **"The Racist Origins of the U.S. Police Force"** (AJ+, 2020). Roughly 7 minutes, about 82,000 views. Traces policing from slave patrols through Jim Crow enforcement to present-day tactics. A short grounding for the reform-versus-abolition debate. [youtube.com/watch?v=ayUQmnLCHEg](https://www.youtube.com/watch?v=ayUQmnLCHEg)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Interrupting Criminalization**, _Building Your Abolitionist Toolbox_. Worksheets and exercises for groups turning abolitionist principles into an actual campaign. The practical companion to Kaba's primer. Free: [interruptingcriminalization.com](https://www.interruptingcriminalization.com/projects-all/building-your-abolitionist-toolbox)
+- **Project NIA**, _Educational Resources (Transformative Justice curriculum, PIC 101)_. Free curricula on the prison industrial complex and transformative justice, including a PIC 101 built for community groups rather than classrooms. Free: [project-nia.org](https://project-nia.org/educational-resources)
+- **Zinn Education Project, Rethinking Schools**, _Teaching for Black Lives (study guide)_. A study guide to the Rethinking Schools volume, with session plans and discussion questions. Written for teachers and adaptable to a study circle. Free: [zinnedproject.org](https://www.zinnedproject.org/materials/teaching-black-lives/)
+- **African American Intellectual History Society**, _Prison Abolition Syllabus 2.0_. A scholar-assembled reading list tracing abolition from emancipation to the present. The deepest bibliography on the strand, for a group that wants to go past the primers. Free: [aaihs.org](https://www.aaihs.org/prison-abolition-syllabus-2-0/)
+- **Marcia Chatelain**, _Teaching the #FergusonSyllabus_. The historian who started the #FergusonSyllabus on how to teach a police killing while it is still happening. Useful when the room needs to talk about the news. Free: [whobuiltamerica.org](https://www.whobuiltamerica.org/item/teaching-the-ferguson-syllabus)
+- **Pulitzer Center**, _The 1619 Project Curriculum_. Free lesson plans, reading guides, and activities built around The 1619 Project, and a live object of the fight over how this history gets taught. Free: [pulitzercenter.org](https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum)
+
+<!-- further-reading:end -->
 
 ## Status
 
