@@ -83,6 +83,22 @@ resources:
     length: "16 min"
     url: "https://www.youtube.com/watch?v=Rhcrbcg8HBw"
     note: "About 860,000 views. The core doughnut economics talk on meeting human needs within planetary limits. A liberal-reformist framing the group can push further."
+  - title: "Political Ecology, Degrowth and the Green New Deal (syllabus)"
+    authors: ["Exploring Economics"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.exploring-economics.org/en/discover/political-ecology-degrowth-and-the-green-new-deal/"
+    note: "A syllabus that runs the degrowth and Green New Deal positions against each other rather than picking one, which is exactly how this theme stages the argument. Pluralist-economics in framing."
+  - title: "Marxism, capitalism, and nature-society relations"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://liberationschool.org/marxism-and-nature/"
+    note: "A study guide on the Marxist account of the nature-society relation, useful alongside the metabolic rift readings. Marxist-Leninist (PSL) in framing and skeptical of degrowth; label the standpoint and let it argue with Hickel."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -128,6 +144,17 @@ Free unless marked otherwise. Foster's short chapter and Löwy's essay are the b
 ## A note on method
 
 The concepts here are tools, not dogma, and the traditions disagree. Metabolic rift theory, world-ecology, ecofeminism, and social ecology argue about where the crisis is rooted and what counts as nature. Let those disagreements sharpen the room's thinking. The aim is a shared vocabulary, metabolic rift, cheap nature, ecological debt, that lets the group see the crisis as made by a system rather than by humanity as such.
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Exploring Economics**, _Political Ecology, Degrowth and the Green New Deal (syllabus)_. A syllabus that runs the degrowth and Green New Deal positions against each other rather than picking one, which is exactly how this theme stages the argument. Pluralist-economics in framing. Free: [exploring-economics.org](https://www.exploring-economics.org/en/discover/political-ecology-degrowth-and-the-green-new-deal/)
+- **Liberation School (PSL)**, _Marxism, capitalism, and nature-society relations_. A study guide on the Marxist account of the nature-society relation, useful alongside the metabolic rift readings. Marxist-Leninist (PSL) in framing and skeptical of degrowth; label the standpoint and let it argue with Hickel. Free: [liberationschool.org](https://liberationschool.org/marxism-and-nature/)
+
+<!-- further-reading:end -->
 
 ## Status
 

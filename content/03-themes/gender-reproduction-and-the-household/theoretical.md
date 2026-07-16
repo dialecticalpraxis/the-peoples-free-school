@@ -83,6 +83,30 @@ resources:
     length: "3 min"
     url: "https://www.youtube.com/watch?v=fcqt0QzgUFU"
     note: "About 90,000 views. A short animated primer on the scale of women's unpaid household and care labor. A clean theoretical opener."
+  - title: "Women and Marxism (subject archive)"
+    authors: ["Marxists Internet Archive"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://www.marxists.org/subject/women/index.htm"
+    note: "The archive's own gathering of Marxist writing on the woman question, from Kollontai and Zetkin to Luxemburg and beyond. The deep bench to pull primary texts from when a session wants to go further than Engels."
+  - title: "Mapping Social Reproduction Theory"
+    authors: ["Tithi Bhattacharya", "Verso Books"]
+    format: reading
+    kind: article
+    access: free
+    tier: extended
+    url: "https://www.versobooks.com/blogs/news/3555-mapping-social-reproduction-theory"
+    note: "Bhattacharya's own map of the tradition, laying out what social reproduction theory claims and where its internal arguments run. A good orientation before or after the harder readings."
+  - title: "Care, Racial Capitalism, and Social Reproduction"
+    authors: ["Barnard Center for Research on Women"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://bcrw.barnard.edu/projects/care-racial-capitalism-and-social-reproduction/"
+    note: "A project gathering talks and papers that read care through racial capitalism, which is the join between this theme and the anti-Blackness theme. Useful when a room wants the two analyses in one place rather than in sequence."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -131,6 +155,18 @@ Free unless marked otherwise. Bhattacharya's short piece is the best on-ramp; re
 ## A note on method
 
 The disagreements here are productive. The dual-systems theorists (Hartmann) and the social reproduction theorists (Vogel, Bhattacharya) argue about whether patriarchy is a system separate from capitalism. Wages for Housework and its critics argue about strategy. Do not resolve these. The aim is a shared vocabulary, social reproduction, the sex/gender system, the family wage, that lets the group analyze the unpaid work in their own lives.
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Marxists Internet Archive**, _Women and Marxism (subject archive)_. The archive's own gathering of Marxist writing on the woman question, from Kollontai and Zetkin to Luxemburg and beyond. The deep bench to pull primary texts from when a session wants to go further than Engels. Free: [marxists.org](https://www.marxists.org/subject/women/index.htm)
+- **Tithi Bhattacharya, Verso Books**, _Mapping Social Reproduction Theory_. Bhattacharya's own map of the tradition, laying out what social reproduction theory claims and where its internal arguments run. A good orientation before or after the harder readings. Free: [versobooks.com](https://www.versobooks.com/blogs/news/3555-mapping-social-reproduction-theory)
+- **Barnard Center for Research on Women**, _Care, Racial Capitalism, and Social Reproduction_. A project gathering talks and papers that read care through racial capitalism, which is the join between this theme and the anti-Blackness theme. Useful when a room wants the two analyses in one place rather than in sequence. Free: [bcrw.barnard.edu](https://bcrw.barnard.edu/projects/care-racial-capitalism-and-social-reproduction/)
+
+<!-- further-reading:end -->
 
 ## Status
 

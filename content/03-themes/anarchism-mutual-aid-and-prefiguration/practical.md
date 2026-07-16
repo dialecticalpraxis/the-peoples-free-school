@@ -117,6 +117,31 @@ resources:
     length: "27 min"
     url: "https://www.youtube.com/watch?v=1-Xl6dhDV3Q"
     note: "About 88,000 views. A practical sketch of rebuilding community and mutual support against social isolation."
+  - title: "Mutual Aid Syllabus"
+    authors: ["Dean Spade", "Big Door Brigade"]
+    year: 2019
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://bigdoorbrigade.com/2019/08/29/first-draft-of-mutual-aid-syllabus/"
+    note: "Spade's own syllabus and reading questions, given away free and explicitly offered as a first draft to be adapted rather than followed. The most usable free scaffold for running mutual aid as a course."
+  - title: "Facilitation Resource Sheet"
+    authors: ["AORTA (Anti-Oppression Resource and Training Alliance)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://aorta.coop/resources"
+    note: "Practical facilitation tools from a worker-owned co-op that trains movement groups: agenda design, handling conflict, and sharing airtime. The hard part of prefigurative work is the meeting, and this is about the meeting."
+  - title: "Freedom According to the Zapatistas (escuelita textbooks)"
+    authors: ["Schools for Chiapas", "EZLN"]
+    format: primary-source
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://schoolsforchiapas.org/library-intro/"
+    note: "The Zapatistas' own teaching materials from the escuelita, in which they taught outsiders how their autonomous government actually works. A living stateless tradition explaining itself in its own words rather than being explained."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -165,6 +190,18 @@ Free unless marked otherwise.
 
 - **"What is Mutual Aid?"** (Andrewism, 2020). Roughly 20 minutes, about 51,000 views. Defines mutual aid and distinguishes it from charity, bridging the practical and theoretical lenses. [youtube.com/watch?v=LlF-ZvRHa2o](https://www.youtube.com/watch?v=LlF-ZvRHa2o)
 - **"How To Build Radical Community"** (Andrewism, 2024). Roughly 27 minutes, about 88,000 views. A practical sketch of rebuilding community and mutual support against social isolation. [youtube.com/watch?v=1-Xl6dhDV3Q](https://www.youtube.com/watch?v=1-Xl6dhDV3Q)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Dean Spade, Big Door Brigade**, _Mutual Aid Syllabus_ (2019). Spade's own syllabus and reading questions, given away free and explicitly offered as a first draft to be adapted rather than followed. The most usable free scaffold for running mutual aid as a course. Free: [bigdoorbrigade.com](https://bigdoorbrigade.com/2019/08/29/first-draft-of-mutual-aid-syllabus/)
+- **AORTA (Anti-Oppression Resource and Training Alliance)**, _Facilitation Resource Sheet_. Practical facilitation tools from a worker-owned co-op that trains movement groups: agenda design, handling conflict, and sharing airtime. The hard part of prefigurative work is the meeting, and this is about the meeting. Free: [aorta.coop](https://aorta.coop/resources)
+- **Schools for Chiapas, EZLN**, _Freedom According to the Zapatistas (escuelita textbooks)_. The Zapatistas' own teaching materials from the escuelita, in which they taught outsiders how their autonomous government actually works. A living stateless tradition explaining itself in its own words rather than being explained. Free: [schoolsforchiapas.org](https://schoolsforchiapas.org/library-intro/)
+
+<!-- further-reading:end -->
 
 ## Status
 

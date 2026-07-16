@@ -110,6 +110,38 @@ resources:
     length: "19 min"
     url: "https://www.youtube.com/watch?v=hP8dLUxBfsU"
     note: "About 1.5 million views. Ties the pay gap to the motherhood penalty and unpaid care. A mainstream explainer to open a session and then push further."
+  - title: "Women Fight Back (study and discussion guide)"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://liberationschool.org/women-fight-back/"
+    note: "A free study and discussion guide on women's oppression and organizing, built for group use. Marxist-Leninist (PSL) in framing; label the standpoint and use it for the structure, which is ready to run."
+  - title: "Reading Group Resources (socialist feminism)"
+    authors: ["Metro DC DSA"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://mdcdsa.org/reading-group-resources/"
+    note: "Socialist-feminist reading group materials from a DSA chapter, useful both as content and as a working model of how another group runs its study. Democratic-socialist in framing."
+  - title: "Political Education syllabi"
+    authors: ["NYC-DSA Socialist Feminist Working Group"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.nycdsasocfem.org/political-education"
+    note: "Session-by-session socialist-feminist syllabi from an active working group, the closest thing here to a drop-in curriculum for this theme. Democratic-socialist in framing."
+  - title: "Pirate Care Syllabus"
+    authors: ["Pirate Care"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://syllabus.pirate.care/"
+    note: "A syllabus treating care as a site of disobedience, gathering cases where providing care meant breaking the law, from migrant rescue to abortion networks. Unusual, practical, and committed to the position that care work is political work."
   - title: "Loretta Ross Defines Reproductive Justice"
     authors: ["Loretta Ross", "WebsEdge Medicine"]
     year: 2022
@@ -167,6 +199,19 @@ Free unless marked otherwise. Several of these documentaries stream free on PBS 
 - **"The work that makes all other work possible"** (Ai-jen Poo, TED, 2019). Roughly 16 minutes, about 88,000 views. The director of the National Domestic Workers Alliance on organizing nannies, cleaners, and home-care workers. A strong practical anchor. [youtube.com/watch?v=JqcDzptviFw](https://www.youtube.com/watch?v=JqcDzptviFw)
 - **"Explained: Why Women Are Paid Less"** (Netflix, Vox, 2020). Roughly 19 minutes, about 1.5 million views. Ties the pay gap to the motherhood penalty and unpaid care. A mainstream explainer to open a session and then push further. [youtube.com/watch?v=hP8dLUxBfsU](https://www.youtube.com/watch?v=hP8dLUxBfsU)
 - **"Loretta Ross Defines Reproductive Justice"** (WebsEdge Medicine, 2022). Roughly 5 minutes, about 10,000 views, a niche pick. A co-founder of the framework defines its three core rights. A short anchor for a reproductive-justice session. [youtube.com/watch?v=lsOKBLmvqGI](https://www.youtube.com/watch?v=lsOKBLmvqGI)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Liberation School (PSL)**, _Women Fight Back (study and discussion guide)_. A free study and discussion guide on women's oppression and organizing, built for group use. Marxist-Leninist (PSL) in framing; label the standpoint and use it for the structure, which is ready to run. Free: [liberationschool.org](https://liberationschool.org/women-fight-back/)
+- **Metro DC DSA**, _Reading Group Resources (socialist feminism)_. Socialist-feminist reading group materials from a DSA chapter, useful both as content and as a working model of how another group runs its study. Democratic-socialist in framing. Free: [mdcdsa.org](https://mdcdsa.org/reading-group-resources/)
+- **NYC-DSA Socialist Feminist Working Group**, _Political Education syllabi_. Session-by-session socialist-feminist syllabi from an active working group, the closest thing here to a drop-in curriculum for this theme. Democratic-socialist in framing. Free: [nycdsasocfem.org](https://www.nycdsasocfem.org/political-education)
+- **Pirate Care**, _Pirate Care Syllabus_. A syllabus treating care as a site of disobedience, gathering cases where providing care meant breaking the law, from migrant rescue to abortion networks. Unusual, practical, and committed to the position that care work is political work. Free: [syllabus.pirate.care](https://syllabus.pirate.care/)
+
+<!-- further-reading:end -->
 
 ## Status
 

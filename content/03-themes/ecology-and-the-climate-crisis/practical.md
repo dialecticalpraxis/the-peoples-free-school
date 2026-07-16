@@ -108,6 +108,14 @@ resources:
     length: "27 min"
     url: "https://www.youtube.com/watch?v=1-Xl6dhDV3Q"
     note: "About 89,000 views. A practical sketch of rebuilding community and mutual support against social isolation, the ground of any local ecological resilience."
+  - title: "Teach Climate Justice"
+    authors: ["Zinn Education Project"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.zinnedproject.org/campaigns/teach-climate-justice/"
+    note: "Role plays and participatory lessons, including the Climate Change Mixer, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme, and it teaches the politics rather than the chemistry."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -155,6 +163,16 @@ Free unless marked otherwise. Several of these documentaries and toolkits are fr
 ### Video
 
 - **"How To Build Radical Community"** (Andrewism, 2025). Roughly 27 minutes, about 89,000 views. A practical sketch of rebuilding community and mutual support against social isolation, the ground of any local ecological resilience. Shared with [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. [youtube.com/watch?v=1-Xl6dhDV3Q](https://www.youtube.com/watch?v=1-Xl6dhDV3Q)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Zinn Education Project**, _Teach Climate Justice_. Role plays and participatory lessons, including the Climate Change Mixer, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme, and it teaches the politics rather than the chemistry. Free: [zinnedproject.org](https://www.zinnedproject.org/campaigns/teach-climate-justice/)
+
+<!-- further-reading:end -->
 
 ## Status
 

@@ -100,6 +100,14 @@ resources:
     length: "6 min"
     url: "https://www.youtube.com/watch?v=9VZEkURD9oI"
     note: "About 29,000 views, a niche pick. A subtitled excerpt of Sankara at the OAU calling for a united front against debt. Pairs with the text of the speech."
+  - title: "Indigeneity, Settler Colonialism, and Indigenous Liberation (reading list)"
+    authors: ["The Red Nation"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.therednation.org/indigeneity-settler-colonialism-and-indigenous-liberation/"
+    note: "A reading list putting Indigenous liberation at the center of the anti-imperialist argument, which this lens otherwise approaches mainly through African and Latin American national liberation. Committed Indigenous-left political education, not a neutral survey."
 ---
 
 _What would it mean to overcome or transform this? What have movements imagined, attempted, and built?_
@@ -146,6 +154,16 @@ The school holds the disagreements open. National liberation is not one program,
 - **"Decolonization and Nationalism Triumphant: Crash Course World History #40"** (CrashCourse, John Green, 2012). Roughly 13 minutes, about 4.25 million views. An overview of postwar national liberation movements, accessible and mainstream, to complicate with the readings. [youtube.com/watch?v=T_sGTspaF4Y](https://www.youtube.com/watch?v=T_sGTspaF4Y)
 - **"What is Pan-Africanism?"** (Andrewism, 2021). Roughly 26 minutes, about 157,000 views. An accessible Black anarchist history of pan-African thought and its future, which adds an anarchist voice to the national-liberation debate. [youtube.com/watch?v=48Y5pBtRHqk](https://www.youtube.com/watch?v=48Y5pBtRHqk)
 - **"Thomas Sankara's 'Against Debt' Speech, 1987"** (CheSankara, 2010). Roughly 6 minutes, about 29,000 views, a niche pick. A subtitled excerpt of Sankara at the OAU calling for a united front against debt. Play it alongside the text of the speech. [youtube.com/watch?v=9VZEkURD9oI](https://www.youtube.com/watch?v=9VZEkURD9oI)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **The Red Nation**, _Indigeneity, Settler Colonialism, and Indigenous Liberation (reading list)_. A reading list putting Indigenous liberation at the center of the anti-imperialist argument, which this lens otherwise approaches mainly through African and Latin American national liberation. Committed Indigenous-left political education, not a neutral survey. Free: [therednation.org](https://www.therednation.org/indigeneity-settler-colonialism-and-indigenous-liberation/)
+
+<!-- further-reading:end -->
 
 ## Status
 

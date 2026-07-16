@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_79 primary sources. Generated from theme lens frontmatter._
+_80 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ _79 primary sources. Generated from theme lens frontmatter._
 | [Freedom Song: Interviews from Eyes on the Prize](https://americanarchive.org/exhibits/eotp) | American Archive of Public Broadcasting, WGBH | — | archive | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Rosie the Riveter / World War II American Home Front Oral History Project](https://www.lib.berkeley.edu/visit/bancroft/oral-history-center/projects/rosie) | UC Berkeley Oral History Center, National Park Service | — | archive | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Farmworker Movement Documentation Project](https://libraries.ucsd.edu/farmworkermovement/) | LeRoy Chatfield, UC San Diego Library | 2004 | collection | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
+| [Freedom According to the Zapatistas (escuelita textbooks)](https://schoolsforchiapas.org/library-intro/) | Schools for Chiapas, EZLN | — | collection | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] _(further reading)_ |
 | [Personal Justice Denied](https://archive.org/details/Personal-Justice-Denied) | Commission on Wartime Relocation and Internment of Civilians | 1982 | document | Free | [[immigration-and-the-making-of-race/liberatory\|Immigration and the Making of Race · Liberatory]] |
 | [Literacy and Liberation (Septima Clark, with the film They Say I'm Your Teacher)](https://www.civilrightsteaching.org/resource/literacy-and-liberation) | Septima Clark, Teaching for Change | 1964 | account | Free | [[critical-pedagogy-and-the-practice-of-liberation/experiential\|Critical Pedagogy and the Practice of Liberation · Experiential]] |
 | [Septima Clark oral history (Southern Oral History Program)](https://www.crmvet.org/nars/clark76b.htm) | Septima Clark | — | interview | Free | [[critical-pedagogy-and-the-practice-of-liberation/experiential\|Critical Pedagogy and the Practice of Liberation · Experiential]] |

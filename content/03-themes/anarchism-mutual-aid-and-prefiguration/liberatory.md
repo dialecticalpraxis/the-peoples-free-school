@@ -91,6 +91,14 @@ resources:
     length: "12 min"
     url: "https://www.youtube.com/watch?v=s2v7RDyo7os"
     note: "About 72,000 views. Le Guin's National Book Award speech, with the line that we live in capitalism and its power can be resisted by human beings. A compact liberatory opener."
+  - title: "Social Ecology and Communalism"
+    authors: ["Murray Bookchin"]
+    format: reading
+    kind: book
+    access: free
+    tier: extended
+    url: "https://theanarchistlibrary.org/library/murray-bookchin-social-ecology-and-communalism"
+    note: "Bookchin's late statement of communalism and social ecology, arguing that ecological crisis originates in human domination and that the answer is confederated municipal assemblies. The free substitute for the Institute for Social Ecology's paid seminars, and the bridge to the ecology theme."
 ---
 
 _What would it mean to overcome or transform this? What have movements imagined, attempted, and built?_
@@ -132,6 +140,16 @@ The school holds the disagreements open, and anarchism has its own sharp interna
 
 - **"How To Build A Solarpunk City"** (Andrewism, 2022). Roughly 41 minutes, about 369,000 views. A concrete, hopeful vision of cooperative, ecological, self-governed cities, ideal for the prefigurative and utopian imagination. A bridge to [[03-themes/ecology-and-the-climate-crisis/index|Ecology and the Climate Crisis]]. [youtube.com/watch?v=4UmU1dSe3n0](https://www.youtube.com/watch?v=4UmU1dSe3n0)
 - **"Ursula K. Le Guin's Defense of Art over Profits"** (American Masters, PBS, 2014). Roughly 12 minutes, about 72,000 views. Le Guin's National Book Award speech, with the line that "we live in capitalism, its power seems inescapable, so did the divine right of kings." A compact opener to pair with _The Dispossessed_. [youtube.com/watch?v=s2v7RDyo7os](https://www.youtube.com/watch?v=s2v7RDyo7os)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Murray Bookchin**, _Social Ecology and Communalism_. Bookchin's late statement of communalism and social ecology, arguing that ecological crisis originates in human domination and that the answer is confederated municipal assemblies. The free substitute for the Institute for Social Ecology's paid seminars, and the bridge to the ecology theme. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/murray-bookchin-social-ecology-and-communalism)
+
+<!-- further-reading:end -->
 
 ## Status
 

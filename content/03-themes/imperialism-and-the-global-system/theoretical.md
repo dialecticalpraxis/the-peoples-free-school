@@ -91,6 +91,47 @@ resources:
     length: "5 min"
     url: "https://www.youtube.com/watch?v=unCGQDKJ0p0"
     note: "About 107,000 views. A compact summary of Lenin's theory of imperialism as the highest stage of capitalism. A tight opener before the reading."
+  - title: "The Political Economy of Imperialism: A Short Course"
+    authors: ["The People's Forum"]
+    format: reading
+    kind: course
+    access: free
+    tier: extended
+    url: "https://politicaleducation.peoplesforum.org/imperialism-portal"
+    note: "Four Creative-Commons-licensed sessions working through Lenin's Imperialism, built to be facilitated rather than lectured. Committed anti-imperialist political education, not a neutral survey; label the standpoint and use the structure."
+  - title: "Study Guide on Imperialism, the Highest Stage of Capitalism"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://liberationschool.org/study-guide-imperialism-the-highest-stage-of-capitalism/"
+    note: "Sixty-three discussion questions on Lenin's text, chapter by chapter. The most granular free scaffold for reading the anchor text of this lens as a group. Marxist-Leninist (PSL) in framing."
+  - title: "Study Guide on Imperialism in the 21st Century"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.liberationschool.org/study-guide-on-imperialism-in-the-21st-century/"
+    note: "A facilitator package carrying Lenin's argument forward to the present, for a room asking whether the theory still describes the world. Marxist-Leninist (PSL) in framing."
+  - title: "Imperialism (subject archive)"
+    authors: ["Marxists Internet Archive"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://www.marxists.org/subject/imperialism/index.htm"
+    note: "The archive's own gathering of writing on imperialism, well beyond Lenin. The deep bench to pull primary texts from when a session wants to go further."
+  - title: "Imperialism: A Syllabus"
+    authors: ["Radhika Natarajan", "John Munro"]
+    year: 2021
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.publicbooks.org/imperialism-a-syllabus/"
+    note: "A twelve-week syllabus by two historians, explicitly anti-colonial in approach and open that no syllabus is neutral. The most academically wide-ranging of the free imperialism curricula, and the best counterweight to the party-affiliated guides above. This host blocks automated checks but loads normally in a browser."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -137,6 +178,20 @@ Free unless marked otherwise. Lenin is the anchor; the "Lenin in Five Minutes" v
 ## A note on method
 
 These theories disagree in ways worth preserving. Lenin locates imperialism in monopoly capital; the dependency theorists locate it in the structure of trade and exchange; critics of Emmanuel dispute whether unequal exchange holds up. The point is not to crown a winner but to give the group the vocabulary, monopoly, finance capital, core and periphery, unequal exchange, super-exploitation, to analyze how wealth actually moves in their world.
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **The People's Forum**, _The Political Economy of Imperialism: A Short Course_. Four Creative-Commons-licensed sessions working through Lenin's Imperialism, built to be facilitated rather than lectured. Committed anti-imperialist political education, not a neutral survey; label the standpoint and use the structure. Free: [politicaleducation.peoplesforum.org](https://politicaleducation.peoplesforum.org/imperialism-portal)
+- **Liberation School (PSL)**, _Study Guide on Imperialism, the Highest Stage of Capitalism_. Sixty-three discussion questions on Lenin's text, chapter by chapter. The most granular free scaffold for reading the anchor text of this lens as a group. Marxist-Leninist (PSL) in framing. Free: [liberationschool.org](https://liberationschool.org/study-guide-imperialism-the-highest-stage-of-capitalism/)
+- **Liberation School (PSL)**, _Study Guide on Imperialism in the 21st Century_. A facilitator package carrying Lenin's argument forward to the present, for a room asking whether the theory still describes the world. Marxist-Leninist (PSL) in framing. Free: [liberationschool.org](https://www.liberationschool.org/study-guide-on-imperialism-in-the-21st-century/)
+- **Marxists Internet Archive**, _Imperialism (subject archive)_. The archive's own gathering of writing on imperialism, well beyond Lenin. The deep bench to pull primary texts from when a session wants to go further. Free: [marxists.org](https://www.marxists.org/subject/imperialism/index.htm)
+- **Radhika Natarajan, John Munro**, _Imperialism: A Syllabus_ (2021). A twelve-week syllabus by two historians, explicitly anti-colonial in approach and open that no syllabus is neutral. The most academically wide-ranging of the free imperialism curricula, and the best counterweight to the party-affiliated guides above. This host blocks automated checks but loads normally in a browser. Free: [publicbooks.org](https://www.publicbooks.org/imperialism-a-syllabus/)
+
+<!-- further-reading:end -->
 
 ## Status
 

@@ -124,6 +124,55 @@ resources:
     length: "45 min"
     url: "https://www.youtube.com/watch?v=-1PV02IzWpo"
     note: "About 105,000 views. A long-form Black anarchist critique of the state itself. The anarchist voice in video form, to set against the Leninist explainer."
+  - title: "Study Guide on The State and Revolution"
+    authors: ["Liberation School (PSL)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://liberationschool.org/study-guide-the-state-and-revolution/"
+    note: "A chapter-by-chapter guide to Lenin's text, the anchor of one pole of this lens's argument. Marxist-Leninist (PSL) in framing and committed to Lenin's conclusion; use it for the structure and let the anarchists in this lens answer it."
+  - title: "A Dual Power Reading List"
+    authors: ["ROAR Magazine"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://roarmag.org/magazine/a-dual-power-reading-list/"
+    note: "A reading list on dual power, the strategy of building counter-institutions alongside and against the state rather than seizing it. Autonomist and libertarian-left in sympathy."
+  - title: "Rethinking Political Power and Revolutionary Strategy Today"
+    authors: ["Panagiotis Sotiris"]
+    year: 2014
+    format: reading
+    kind: article
+    access: free
+    tier: extended
+    url: "https://viewpointmag.com/2014/09/08/rethinking-political-power-and-revolutionary-strategy-today/"
+    note: "Works through the strategy question after Poulantzas, asking what taking power could mean when neither smashing the state nor entering it has worked. A serious contemporary restatement of the whole debate this lens stages."
+  - title: "Readings on socialist strategy and electoral politics"
+    authors: ["Reform & Revolution (DSA)"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://reformandrevolution.org/readings/"
+    note: "A reading collection from a DSA caucus arguing the case for a revolutionary strategy that still uses elections. Openly partisan within the debate this lens holds open, which makes it a position to argue rather than a survey."
+  - title: "Anarchism: reading guide"
+    authors: ["libcom.org"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://libcom.org/article/anarchism-reading-guide"
+    note: "A structured entry path into the anarchist canon, from introductions through to the harder theory. The counterpart to the Liberation School guide above, and committed in the opposite direction."
+  - title: "Marxism and Anarchism (subject archive)"
+    authors: ["Marxists Internet Archive"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://www.marxists.org/subject/anarchism/index.htm"
+    note: "The archive's own gathering of the Marxist side of the Marxist-anarchist quarrel, including the texts from the First International split. Read knowing whose archive it is."
 ---
 
 _What would it mean to overcome or transform this? What have movements imagined, attempted, and built?_
@@ -184,6 +233,21 @@ The school holds the disagreements open. This lens is built entirely around one 
 - **"A World Without Governments? Anarchism Explained"** (CrashCourse, 2025). Roughly 12 minutes, about 310,000 views. A survey of anarchist theory and practice from a mainstream series, useful as a shared reference to complicate with the anarchist readings. [youtube.com/watch?v=P-Ibq-9wulQ](https://www.youtube.com/watch?v=P-Ibq-9wulQ)
 - **"Economic Update: Reform vs. Revolution"** (Democracy At Work, Richard Wolff, 2025). Roughly 31 minutes, about 169,000 views. Wolff weighs gradual reform against revolutionary change, a direct fit for the central debate of this lens. [youtube.com/watch?v=77BBlVjkLbI](https://www.youtube.com/watch?v=77BBlVjkLbI)
 - **"Why States Fail Humanity"** (Andrewism, 2024). Roughly 45 minutes, about 105,000 views. A long-form Black anarchist critique of the state itself, the anarchist voice in video form to set against the Leninist explainer in the theoretical lens. [youtube.com/watch?v=-1PV02IzWpo](https://www.youtube.com/watch?v=-1PV02IzWpo)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Liberation School (PSL)**, _Study Guide on The State and Revolution_. A chapter-by-chapter guide to Lenin's text, the anchor of one pole of this lens's argument. Marxist-Leninist (PSL) in framing and committed to Lenin's conclusion; use it for the structure and let the anarchists in this lens answer it. Free: [liberationschool.org](https://liberationschool.org/study-guide-the-state-and-revolution/)
+- **ROAR Magazine**, _A Dual Power Reading List_. A reading list on dual power, the strategy of building counter-institutions alongside and against the state rather than seizing it. Autonomist and libertarian-left in sympathy. Free: [roarmag.org](https://roarmag.org/magazine/a-dual-power-reading-list/)
+- **Panagiotis Sotiris**, _Rethinking Political Power and Revolutionary Strategy Today_ (2014). Works through the strategy question after Poulantzas, asking what taking power could mean when neither smashing the state nor entering it has worked. A serious contemporary restatement of the whole debate this lens stages. Free: [viewpointmag.com](https://viewpointmag.com/2014/09/08/rethinking-political-power-and-revolutionary-strategy-today/)
+- **Reform & Revolution (DSA)**, _Readings on socialist strategy and electoral politics_. A reading collection from a DSA caucus arguing the case for a revolutionary strategy that still uses elections. Openly partisan within the debate this lens holds open, which makes it a position to argue rather than a survey. Free: [reformandrevolution.org](https://reformandrevolution.org/readings/)
+- **libcom.org**, _Anarchism: reading guide_. A structured entry path into the anarchist canon, from introductions through to the harder theory. The counterpart to the Liberation School guide above, and committed in the opposite direction. Free: [libcom.org](https://libcom.org/article/anarchism-reading-guide)
+- **Marxists Internet Archive**, _Marxism and Anarchism (subject archive)_. The archive's own gathering of the Marxist side of the Marxist-anarchist quarrel, including the texts from the First International split. Read knowing whose archive it is. Free: [marxists.org](https://www.marxists.org/subject/anarchism/index.htm)
+
+<!-- further-reading:end -->
 
 ## Status
 

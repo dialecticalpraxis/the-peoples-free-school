@@ -114,6 +114,54 @@ resources:
     length: "~6 min"
     url: "https://www.youtube.com/watch?v=l4cZ8pa0v-Y"
     note: "About 25,000 views, a niche pick. A short demonstration of Theatre of the Oppressed games and exercises a facilitator can try in a session."
+  - title: "The Toolbox"
+    authors: ["Beautiful Trouble"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://beautifultrouble.org/toolbox"
+    note: "A searchable toolbox of tactics, principles, and case studies from creative activism, cross-referenced so one tactic leads to the theory behind it. Movement-media in standpoint, and built to be raided rather than read through."
+  - title: "Tools and Resources"
+    authors: ["Center for Story-based Strategy"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://www.storybasedstrategy.org/tools-resources/"
+    note: "Downloadable games and guides for analyzing whose story frames a fight and how to change it, which is the narrative half of the work this school does. Movement-training organization, committed to its own method."
+  - title: "Multi-session study curricula"
+    authors: ["Catalyst Project"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://collectiveliberation.org/resources/"
+    note: "Multi-session curricula from a project doing anti-racist political education with white organizers. Useful both as content and as a worked example of a school with an explicit theory of who it is teaching and why."
+  - title: "Popular Education Manual"
+    authors: ["National Center for Farmworker Health"]
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.ncfh.org/wp-content/uploads/2025/04/popular_education_manual.pdf"
+    note: "A popular education manual written for health promotores working with farmworkers, which makes it one of the few free Freirean guides built for a specific working community rather than for educators in general. Practical and unpretentious."
+  - title: "Boal's Arsenal of Games"
+    authors: ["Augusto Boal"]
+    format: reading
+    kind: handbook
+    access: free
+    tier: extended
+    url: "https://organizingforpower.wordpress.com/wp-content/uploads/2009/03/games-theater-of-oppressed.pdf"
+    note: "The games and exercises from Theatre of the Oppressed as a standalone free PDF, for a facilitator who wants to run one tomorrow without reading the book first."
+  - title: "About Paulo Freire"
+    authors: ["Freire Institute"]
+    format: reading
+    kind: article
+    access: free
+    tier: extended
+    url: "https://freire.org/paulo-freire"
+    note: "A short institutional introduction to Freire's life and key concepts, useful as a one-page orientation before the room meets Pedagogy of the Oppressed itself. Written by the institute that carries his name, so it is warm rather than critical."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -162,6 +210,21 @@ Free unless marked otherwise. These are the working tools of the school; the [[0
 ### Video
 
 - **"Augusto Boal Exercises"** (Organic Acting, 2016). Roughly 6 minutes, about 25,000 views, a niche pick. A short demonstration of Theatre of the Oppressed games a facilitator can try in a session. [youtube.com/watch?v=l4cZ8pa0v-Y](https://www.youtube.com/watch?v=l4cZ8pa0v-Y)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Beautiful Trouble**, _The Toolbox_. A searchable toolbox of tactics, principles, and case studies from creative activism, cross-referenced so one tactic leads to the theory behind it. Movement-media in standpoint, and built to be raided rather than read through. Free: [beautifultrouble.org](https://beautifultrouble.org/toolbox)
+- **Center for Story-based Strategy**, _Tools and Resources_. Downloadable games and guides for analyzing whose story frames a fight and how to change it, which is the narrative half of the work this school does. Movement-training organization, committed to its own method. Free: [storybasedstrategy.org](https://www.storybasedstrategy.org/tools-resources/)
+- **Catalyst Project**, _Multi-session study curricula_. Multi-session curricula from a project doing anti-racist political education with white organizers. Useful both as content and as a worked example of a school with an explicit theory of who it is teaching and why. Free: [collectiveliberation.org](https://collectiveliberation.org/resources/)
+- **National Center for Farmworker Health**, _Popular Education Manual_. A popular education manual written for health promotores working with farmworkers, which makes it one of the few free Freirean guides built for a specific working community rather than for educators in general. Practical and unpretentious. Free: [ncfh.org](https://www.ncfh.org/wp-content/uploads/2025/04/popular_education_manual.pdf)
+- **Augusto Boal**, _Boal's Arsenal of Games_. The games and exercises from Theatre of the Oppressed as a standalone free PDF, for a facilitator who wants to run one tomorrow without reading the book first. Free: [organizingforpower.wordpress.com](https://organizingforpower.wordpress.com/wp-content/uploads/2009/03/games-theater-of-oppressed.pdf)
+- **Freire Institute**, _About Paulo Freire_. A short institutional introduction to Freire's life and key concepts, useful as a one-page orientation before the room meets Pedagogy of the Oppressed itself. Written by the institute that carries his name, so it is warm rather than critical. Free: [freire.org](https://freire.org/paulo-freire)
+
+<!-- further-reading:end -->
 
 ## Status
 

@@ -108,6 +108,15 @@ resources:
     length: "14 min"
     url: "https://www.youtube.com/watch?v=4HESYrW-0eg"
     note: "About 162,000 views. Introduces mutual aid and building dual power outside the state. A strong practical-lens companion to Spade's toolbox."
+  - title: "Reading Questions for Mutual Aid Class"
+    authors: ["Dean Spade"]
+    year: 2019
+    format: reading
+    kind: syllabus
+    access: free
+    tier: extended
+    url: "https://www.deanspade.net/2019/09/30/reading-questions-for-mutual-aid-class/"
+    note: "A ten-week set of reading questions and a teaching guide from the author of Mutual Aid, given away free. The most usable free scaffold for running this material as a course rather than reading it alone."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -155,6 +164,16 @@ Free unless marked otherwise.
 ### Explainers on video
 
 - **"How Can I Help? Mutual Aid 101"** (Second Thought, 2021). Roughly 14 minutes, about 162,000 views. Introduces mutual aid and building dual power outside the state. A strong companion to Spade's toolbox. [youtube.com/watch?v=4HESYrW-0eg](https://www.youtube.com/watch?v=4HESYrW-0eg)
+
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Dean Spade**, _Reading Questions for Mutual Aid Class_ (2019). A ten-week set of reading questions and a teaching guide from the author of Mutual Aid, given away free. The most usable free scaffold for running this material as a course rather than reading it alone. Free: [deanspade.net](https://www.deanspade.net/2019/09/30/reading-questions-for-mutual-aid-class/)
+
+<!-- further-reading:end -->
 
 ## Status
 
