@@ -136,9 +136,9 @@ resources:
     year: 2018
     format: reading
     kind: book
-    access: free
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/globalists-the-end-of-empire-and-the-birth-of-neoliberalism-quinn-slobodian"
+    url: "https://www.hup.harvard.edu/books/9780674244849"
     note: "Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright."
   - title: "Attack on American Free Enterprise System (the Powell Memorandum)"
     authors: ["Lewis F. Powell Jr."]
@@ -223,7 +223,7 @@ Between the enclosures above and the neoliberalism below sits a century this len
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Andrew Glyn**, _Capitalism Unleashed: Finance, Globalization, and Welfare_ (2006). The postwar settlement and full employment through the 1970s profit squeeze to financialization and welfare retrenchment, with the numbers. Left-Keynesian and Marxist-influenced. Not free: [global.oup.com](https://global.oup.com/academic/product/capitalism-unleashed-9780199226795)
-- **Quinn Slobodian**, _Globalists: The End of Empire and the Birth of Neoliberalism_ (2018). Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright. Free: [archive.org](https://archive.org/details/globalists-the-end-of-empire-and-the-birth-of-neoliberalism-quinn-slobodian)
+- **Quinn Slobodian**, _Globalists: The End of Empire and the Birth of Neoliberalism_ (2018). Traces the Geneva School from the Habsburg wreckage to the WTO, arguing neoliberalism was never about shrinking the state but about insulating capital from democracy. Widely hosted, though in copyright. Not free: [hup.harvard.edu](https://www.hup.harvard.edu/books/9780674244849)
 - **Nancy MacLean**, _Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America_ (2017). The Buchanan-to-Koch line of public choice economics as a funded project to insulate property from majority rule, which understood itself as anti-democratic and said so in private. A free C-SPAN talk by MacLean carries the argument. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/533061/democracy-in-chains-by-nancy-maclean/)
 - **Jane Mayer**, _Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right_ (2016). Investigative reporting on the Koch network's funding of think tanks, academic chairs, and astroturf. The money behind the ideas, and the free alternative to MacLean. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/215462/dark-money-by-jane-mayer/)
 

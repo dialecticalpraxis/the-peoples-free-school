@@ -83,8 +83,8 @@ resources:
     year: 1983
     format: podcast
     kind: speech
-    access: free
-    url: "https://archive.org/details/maurice-bishop-speaks"
+    access: borrow
+    url: "https://archive.org/details/mauricebishopspe0000bish"
     note: "The New Jewel Movement leader addressing an audience at Hunter College in June 1983, four months before his execution. His own voice on the revolution's aims. Audio."
 ---
 
@@ -117,7 +117,7 @@ All free unless marked otherwise.
 
 - **Thomas Sankara speaks** (12 min, subtitled). Sankara's charisma and argument first-hand. Free: [youtube.com/watch?v=LVKgvakY_Io](https://www.youtube.com/watch?v=LVKgvakY_Io)
 - **Thomas Sankara: The Upright Man** (Shuffield, 2006, 52 min). The standard biographical documentary. Free, also on Kanopy: [youtube.com/watch?v=Ht3H_Zk80ko](https://www.youtube.com/watch?v=Ht3H_Zk80ko)
-- **Maurice Bishop Speaks in New York** (1983, audio). The New Jewel leader four months before his execution. Free: [archive.org](https://archive.org/details/maurice-bishop-speaks)
+- **Maurice Bishop Speaks in New York** (1983, audio). The New Jewel leader four months before his execution. Free to borrow: [archive.org](https://archive.org/details/mauricebishopspe0000bish)
 
 ### Inside the revolutions
 

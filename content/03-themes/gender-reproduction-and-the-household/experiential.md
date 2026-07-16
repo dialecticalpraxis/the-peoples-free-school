@@ -15,7 +15,7 @@ resources:
     format: primary-source
     kind: collection
     access: free
-    url: "https://archive.org/details/contentpipe-star-street-transvestite-action-revolutionaries-547361bf03"
+    url: "https://libcom.org/article/street-transvestite-action-revolutionaries-survival-revolt-and-queer-antagonist-struggle"
     note: "The 1970 STAR manifesto with interviews and remembrances of Rivera and Johnson, who ran a house for homeless street queens out of their own earnings. A household built by people the family threw away, which is this theme's question asked from the other end."
   - title: "Screaming Queens: The Riot at Compton's Cafeteria"
     authors: ["Susan Stryker", "Victor Silverman"]
@@ -110,6 +110,14 @@ Experiential work begins from the room. These outside materials extend or challe
 - **Rosie the Riveter / World War II American Home Front Oral History Project** (UC Berkeley Oral History Center and the National Park Service). Over 250 interviews on home-front work and family life, with transcripts and synced video. A deep first-person archive of women's wartime and reproductive labor. Free: [lib.berkeley.edu](https://www.lib.berkeley.edu/visit/bancroft/oral-history-center/projects/rosie)
 - **Voices of Feminism Oral History Project** (Sophia Smith Collection, Smith College). Long-form life-history interviews with labor, anti-poverty, and women-of-color reproductive-justice organizers, with transcripts and video where narrators allowed. Free: [findingaids.smith.edu](https://findingaids.smith.edu/repositories/2/resources/657)
 - **Domestic Labor and Home Economics: Archival Collections** (Schlesinger Library, Harvard). A guide to first-person testimony of domestic and care labor, including the 72-interview Black Women Oral History Project and Fran Leeper Buss's work-and-family interviews with low-income and minority women. Free: [guides.library.harvard.edu](https://guides.library.harvard.edu/schlesinger/domesticlabor_homeeconomics/domesticlaborarch)
+
+### Trans lives, in their own voices
+
+The archives above are strong on women's household labor and quiet about everyone else. These are people the household expelled, speaking for themselves.
+
+- **Sylvia Rivera** (1951 to 2002), _Y'all Better Quiet Down_ (1973). Four minutes in which Rivera takes the microphone at a Pride rally and shouts down a crowd of gay men and lesbians who are booing her, because she is asking them to remember the street queens still in jail. It carries the whole argument about who a movement is for, and it is her own voice with nothing in between. Free: [archive.org](https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973)
+- **STAR: Street Transvestite Action Revolutionaries** (Untorelli Press, 2013). The 1970 manifesto with interviews and remembrances of Rivera and Marsha P. Johnson, who ran a house for homeless street queens out of their own earnings as sex workers. A household built by people the family threw away, which is this theme's question asked from the other end. Free on libcom: [libcom.org](https://libcom.org/article/street-transvestite-action-revolutionaries-survival-revolt-and-queer-antagonist-struggle)
+- **Screaming Queens: The Riot at Compton's Cafeteria** (Susan Stryker and Victor Silverman, 2005, 57 min). About 243,000 views. The 1966 San Francisco riot that came three years before Stonewall, told largely by the trans women who were in it. Stryker is a trans historian recovering her own city's history. Free: [youtube.com](https://www.youtube.com/watch?v=G-WASW9dRBU)
 
 ### Film and audio
 

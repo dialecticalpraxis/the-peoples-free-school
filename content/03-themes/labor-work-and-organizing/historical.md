@@ -22,17 +22,17 @@ resources:
     year: 1947
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/history-of-the-labor-movement-of-the-united-states-vol-1"
+    access: borrow
+    url: "https://archive.org/details/historyoflabormo0001fone"
     note: "The opening volume of the standard left history of US labor: early unions, the ten-hour movement, the Knights of Labor, and the 1877 uprising."
-  - title: "The Great Strikes of 1877"
+  - title: "The Great Labor Uprising of 1877"
     authors: ["Philip S. Foner"]
     year: 1977
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/philip-foner-on-the-great-railroad-strike"
-    note: "A focused account of the first national strike wave, useful for studying a single generative event closely."
+    access: borrow
+    url: "https://archive.org/details/greatlaboruprisi0000fone"
+    note: "Foner's focused account of the first national strike wave, useful for studying a single generative event closely. Note the school previously listed this under a title that does not exist, pointing at an excerpt of his Volume 1."
   - title: "Labor's Untold Story"
     authors: ["Richard O. Boyer", "Herbert M. Morais"]
     year: 1955
@@ -96,8 +96,8 @@ resources:
     year: 1935
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/w-e-b-du-bois-black-reconstruction-an-essay-toward-a-history-of-the-part-which-b_202304"
+    access: borrow
+    url: "https://archive.org/details/blackreconstruct0000dubo"
     note: "Chapter 4, The General Strike, is the labor history claim: enslaved people withdrew their labor from the Confederacy and broke it, which makes them workers who struck rather than people who were freed. Du Bois writing as a Black Marxist against the white supremacist Dunning School consensus of his day."
   - title: "The Many-Headed Hydra"
     authors: ["Peter Linebaugh", "Marcus Rediker"]
@@ -207,8 +207,8 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **Jeremy Brecher** (b. 1946), _Strike!_ (1972, updated later). A narrative history of US mass strikes from 1877 to 1970 told from the rank and file's point of view, covering the 1877 railroad uprising, the 1934 city-wide strikes, and the 1946 strike wave. The best single-volume entry point for this lens. Free: [libcom.org](https://libcom.org/article/strike-jeremy-brecher)
 - **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The founding work of "history from below," reconstructing how English workers made themselves into a class through struggle, custom, and culture between 1780 and 1832, rather than being made by economic forces alone. Long and endlessly readable. Free PDF: [bard.edu](https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf)
-- **Philip S. Foner** (1910 to 1994), _History of the Labor Movement in the United States, Volume 1_ (1947). The opening volume of the standard left history of American labor, from colonial times to the founding of the AFL, covering early unions, the ten-hour movement, the Knights of Labor, and the 1877 uprising. Free: [archive.org](https://archive.org/details/history-of-the-labor-movement-of-the-united-states-vol-1)
-- **Philip S. Foner**, _The Great Strikes of 1877_ (1977). A focused account of the first national strike wave, drawn from Foner's larger history and useful when a session wants to study one generative event closely. Free: [archive.org](https://archive.org/details/philip-foner-on-the-great-railroad-strike)
+- **Philip S. Foner** (1910 to 1994), _History of the Labor Movement in the United States, Volume 1_ (1947). The opening volume of the standard left history of American labor, from colonial times to the founding of the AFL, covering early unions, the ten-hour movement, the Knights of Labor, and the 1877 uprising. Free to borrow: [archive.org](https://archive.org/details/historyoflabormo0001fone)
+- **Philip S. Foner**, _The Great Labor Uprising of 1877_ (1977). A focused account of the first national strike wave, drawn from Foner's larger history and useful when a session wants to study one generative event closely. Free to borrow: [archive.org](https://archive.org/details/greatlaboruprisi0000fone)
 - **Richard O. Boyer** (1903 to 1973) and **Herbert M. Morais** (1905 to 1970), _Labor's Untold Story_ (1955). A popular union-published history of American workers from the Civil War through the New Deal, written to be read by workers themselves. Partisan and readable. Free to borrow: [archive.org](https://archive.org/details/laborsuntoldstor0000boye)
 - **David Montgomery** (1927 to 2011), _Workers' Control in America_ (1979). Essays on how workers fought for control over production and how management fought back, connecting shop-floor struggle to the rise of the modern firm. A bridge from labor history into the theoretical lens. No borrowable copy exists, and Cambridge blocks automated checks though the page is live. Paywalled: [cambridge.org](https://www.cambridge.org/us/universitypress/subjects/history/american-history-general-interest/workers-control-america-studies-history-work-technology-and-labor-struggles?format=PB&isbn=9780521280068). A free Montgomery lecture survives, very niche at about 4,300 views; he died in 2011 and the record is thin: [youtube.com](https://www.youtube.com/watch?v=l6CHjRTAblI)
 
@@ -216,7 +216,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 The books above tell the story through the free wage worker, who was mostly white and mostly male, and through the unions that admitted him. That worker was never the majority of anyone's workforce. This section puts the people the standard account leaves out back where they belong, which is at the center.
 
-- **W.E.B. Du Bois** (1868 to 1963), _Black Reconstruction in America_ (1935). Read Chapter 4, "The General Strike," for this theme: Du Bois's argument that enslaved people withdrew their labor from the Confederacy and destroyed it, which makes them workers who struck rather than people to whom freedom was granted. The most important labor history claim in American historiography, and it is not in most labor histories. Du Bois wrote it as a Black Marxist against the white supremacist consensus of his profession. Shared with [[03-themes/anti-blackness-and-racial-capitalism/historical|the anti-Blackness theme]]. Free: [archive.org](https://archive.org/details/w-e-b-du-bois-black-reconstruction-an-essay-toward-a-history-of-the-part-which-b_202304)
+- **W.E.B. Du Bois** (1868 to 1963), _Black Reconstruction in America_ (1935). Read Chapter 4, "The General Strike," for this theme: Du Bois's argument that enslaved people withdrew their labor from the Confederacy and destroyed it, which makes them workers who struck rather than people to whom freedom was granted. The most important labor history claim in American historiography, and it is not in most labor histories. Du Bois wrote it as a Black Marxist against the white supremacist consensus of his profession. Shared with [[03-themes/anti-blackness-and-racial-capitalism/historical|the anti-Blackness theme]]. Free to borrow: [archive.org](https://archive.org/details/blackreconstruct0000dubo)
 - **Peter Linebaugh** (b. 1942) and **Marcus Rediker** (b. 1951), _The Many-Headed Hydra_ (2000). The sailors, slaves, and commoners of the revolutionary Atlantic as one multi-ethnic working class, organizing across every line the authorities drew to divide them. Shared with [[03-themes/how-capitalism-works/historical|the capitalism theme]]. Free PDF: [files.libcom.org](https://files.libcom.org/files/Linebaugh%20and%20Rediker%20-%20The%20Many-Headed%20Hydra%20-%20Sailors,%20Slaves,%20Commoners,%20and%20the%20Hidden%20H.pdf)
 - **Hugh Tinker** (1921 to 2000), _A New System of Slavery: The Export of Indian Labour Overseas, 1830-1920_ (1974). How Britain moved more than a million indentured Indian workers to Mauritius, Natal, Fiji, and the Caribbean to replace the enslaved after abolition, and whether the contract they signed made them free. The category the room needs is the unfree waged worker. Tinker writes as a liberal anti-colonial historian, and his title thesis, that indenture was slavery renamed, is contested by later scholars who argue it erases the migrants' own agency. Free to borrow: [archive.org](https://archive.org/details/newsystemofslave0000tink)
 - **Chinese Railroad Workers in North America Project** (Stanford University). Recovers the roughly 20,000 Chinese workers who built the western half of the transcontinental railroad, including their strike of 1867, among the largest of that century and absent from most accounts of it. The project works largely without the workers' own written records, which is itself the lesson about whose labor history survives. Free: [web.stanford.edu](https://web.stanford.edu/group/chineserailroad/cgi-bin/website/)

@@ -6,8 +6,8 @@ resources:
     year: 1972
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/HowEuropeUnderdevelopedAfricaByWalterRodney"
+    access: paywalled
+    url: "https://www.versobooks.com/products/788-how-europe-underdeveloped-africa"
     note: "The foundational statement that Europe's development and Africa's underdevelopment were one process, tracing the slave trade and colonial extraction as the engine of the gap."
   - title: "King Leopold's Ghost"
     authors: ["Adam Hochschild"]
@@ -115,7 +115,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ### Books
 
-- **Walter Rodney** (1942 to 1980), _How Europe Underdeveloped Africa_ (1972). The foundational statement that Europe's development and Africa's underdevelopment were one process, tracing the slave trade and colonial extraction as the engine of the gap between the two continents. The anchor for this lens. Free: [archive.org](https://archive.org/details/HowEuropeUnderdevelopedAfricaByWalterRodney)
+- **Walter Rodney** (1942 to 1980), _How Europe Underdeveloped Africa_ (1972). The foundational statement that Europe's development and Africa's underdevelopment were one process, tracing the slave trade and colonial extraction as the engine of the gap between the two continents. The anchor for this lens. Marxists.org does not host this, contrary to what is often assumed, and Verso's free anniversary ebook has expired. Paywalled: [versobooks.com](https://www.versobooks.com/products/788-how-europe-underdeveloped-africa), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
 - **Adam Hochschild** (b. 1942), _King Leopold's Ghost_ (1998). A narrative history of the plunder of the Congo under Leopold II and the forced-labor rubber terror, and of the early international movement that exposed it. Readable and devastating. There is no scan of this book on archive.org at all, so there is nothing to borrow. Paywalled: [panmacmillan.com](https://www.panmacmillan.com/authors/adam-hochschild/king-leopolds-ghost/9781035038817). His Getty lecture on Congo is free, about 63,000 views: [youtube.com](https://www.youtube.com/watch?v=rLyZGTwmcRA)
 - **Mike Davis** (1946 to 2022), _Late Victorian Holocausts_ (2001). Argues that the mass famines in India, China, and Brazil in the late nineteenth century were made lethal by colonial policy and market dogma, not by nature alone. Tens of millions dead in an age of "progress." Free to borrow: [archive.org](https://archive.org/details/latevictorianhol00dav_wbr)
 - **Eduardo Galeano** (1940 to 2015), _Open Veins of Latin America_ (1971). A sweeping, literary account of how silver, sugar, rubber, and later oil drained wealth from Latin America to Europe and the United States over five centuries. Free to borrow: [archive.org](https://archive.org/details/openveinsoflatin0000gale)

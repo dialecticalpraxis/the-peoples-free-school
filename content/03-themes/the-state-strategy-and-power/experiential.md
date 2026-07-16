@@ -36,8 +36,8 @@ resources:
     year: 1987
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/assata-an-autobiography"
+    access: borrow
+    url: "https://archive.org/details/assataautobiogra00shak"
     note: "A first-person memoir of a Black Liberation Army member's experience of arrest, trial, imprisonment, and flight. A foundational carceral-state testimony."
   - title: "I, Rigoberta Menchú: An Indian Woman in Guatemala"
     authors: ["Rigoberta Menchú", "Elisabeth Burgos-Debray"]
@@ -109,7 +109,7 @@ Experiential work begins from the room. These materials extend that testimony. A
 - **Densho, Oral History collection**. More than 900 fully transcribed video oral histories of Japanese Americans incarcerated during World War II, first-person testimony of mass detention, loyalty questionnaires, and camp life ordered by the state. Free: [densho.org](https://densho.org/collections/oral-history/)
 - **Johnnie Tillmon Oral History** (interviewed by Sherna Berger Gluck, 1991). First-person testimony from the welfare-rights organizer who chaired the National Welfare Rights Organization, on encountering the welfare bureaucracy and organizing poor women against it. Free: [csulb-dspace.calstate.edu](https://csulb-dspace.calstate.edu/handle/10211.3/224242)
 - **American Prison Writing Archive** (Doran Larson, 2013 to present). An open-access archive of thousands of nonfiction testimonies by incarcerated people and prison staff, grounding the debate about prisons in lived experience. Free: [prisonwitness.org](https://prisonwitness.org/)
-- **Assata: An Autobiography** (Assata Shakur, 1987). A first-person memoir of a Black Liberation Army member's experience of arrest, trial, imprisonment, and flight. A foundational carceral-state testimony. Free: [archive.org](https://archive.org/details/assata-an-autobiography)
+- **Assata: An Autobiography** (Assata Shakur, 1987). A first-person memoir of a Black Liberation Army member's experience of arrest, trial, imprisonment, and flight. A foundational carceral-state testimony. Free to borrow: [archive.org](https://archive.org/details/assataautobiogra00shak)
 - **I, Rigoberta Menchú** (Rigoberta Menchú with Elisabeth Burgos-Debray, 1984). The canonical Latin American testimonio, a Quiché activist's first-person account of state and military violence against her family and community. Useful as the anchor text for the testimonio tradition itself. Free to borrow: [archive.org](https://archive.org/details/irigobertamenchu0000menc)
 
 ### Podcasts

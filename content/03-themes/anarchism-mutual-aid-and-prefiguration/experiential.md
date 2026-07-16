@@ -6,8 +6,8 @@ resources:
     year: 2015
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/companeras-hilary-klein"
+    access: paywalled
+    url: "https://www.sevenstories.com/books/3034-companeras"
     note: "Oral histories of grandmothers, mothers, and daughters who became Zapatista insurgents, educators, and leaders, gathered over seven years living in Chiapas. Full text open."
   - title: "Blood of Spain: An Oral History of the Spanish Civil War"
     authors: ["Ronald Fraser"]
@@ -68,7 +68,7 @@ Experiential work begins from the room. These materials extend it with the testi
 
 ### Oral histories and testimonio
 
-- **Compañeras: Zapatista Women's Stories** (Hilary Klein, 2015). Oral histories of grandmothers, mothers, and daughters who became Zapatista insurgents, educators, and leaders, gathered over seven years living in Chiapas. First-person accounts of building a new world. Free: [archive.org](https://archive.org/details/companeras-hilary-klein)
+- **Compañeras: Zapatista Women's Stories** (Hilary Klein, 2015). Oral histories of grandmothers, mothers, and daughters who became Zapatista insurgents, educators, and leaders, gathered over seven years living in Chiapas. First-person accounts of building a new world. No borrowable copy exists. Paywalled: [sevenstories.com](https://www.sevenstories.com/books/3034-companeras), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
 - **Blood of Spain: An Oral History of the Spanish Civil War** (Ronald Fraser, 1979). More than three hundred taped interviews with survivors, including detailed testimony on the anarchist collectivization experiments and their internal conflicts. Free to borrow: [archive.org](https://archive.org/details/bloodofspainoral00fras)
 - **Black Flags and Windmills** (scott crow, 2011). A first-person memoir of co-founding the anarchist-inspired Common Ground Collective in post-Katrina New Orleans, running clinics and neighborhood defense under the banner "Solidarity Not Charity." A recent, US-based account of mutual aid under pressure. Free to borrow: [archive.org](https://archive.org/details/Black_Flags_and_Windmills_2nd_9781604869972)
 

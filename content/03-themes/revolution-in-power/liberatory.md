@@ -55,7 +55,7 @@ resources:
     format: reading
     kind: book
     access: free
-    url: "https://archive.org/details/losurdo-stalin"
+    url: "https://www.iskrabooks.org/books/p/losurdo-stalin-history-and-critique"
     note: "An Italian Marxist philosopher's revisionist reassessment, arguing much of the Stalin image is cold-war construction. A strong defender pole, to be weighed against Mandelstam and the anarchist accounts."
   - title: "Another View of Stalin"
     authors: ["Ludo Martens"]
@@ -146,7 +146,7 @@ All free unless marked otherwise. This set is deliberately built from opposing p
 ### Defenders and the Stalin question
 
 - **Michael Parenti** (1933 to 2024), _Blackshirts and Reds_ (1997). A defense of the communist record against the fantasy of a "pure socialism" that never had to survive siege. No borrowable copy exists, and this publisher blocks automated checks though the page is live. Paywalled: [citylights.com](https://citylights.com/city-lights-published/blackshirts-reds-rational-fascism/). Parenti's lecture The Functions of Fascism carries the rational-fascism argument free, under a Creative Commons licence: [archive.org](https://archive.org/details/MichaelParentiMichaelParenti-TheFunctionsofFascism)
-- **Domenico Losurdo** (1941 to 2018), _Stalin: Critique of a Black Legend_ (2008). A revisionist reassessment, a strong defender pole to weigh against Mandelstam and the anarchists. Free: [archive.org](https://archive.org/details/losurdo-stalin)
+- **Domenico Losurdo** (1941 to 2018), _Stalin: Critique of a Black Legend_ (2008). A revisionist reassessment, a strong defender pole to weigh against Mandelstam and the anarchists. Free from Iskra Books, which is the authorized English publisher and an open-access press, so this one is free by the rightsholder's own choice: [iskrabooks.org](https://www.iskrabooks.org/books/p/losurdo-stalin-history-and-critique)
 - **Ludo Martens** (1946 to 2011), _Another View of Stalin_ (1994). The furthest defender pole, included as a position to argue, not the school's view. Free: [archive.org](https://archive.org/details/AnotherViewOfStalin)
 
 ### The states in their own voice, and the Yugoslav alternative
