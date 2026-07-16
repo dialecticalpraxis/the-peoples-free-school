@@ -9,14 +9,22 @@ resources:
     access: borrow
     url: "https://archive.org/details/MansWorldlyGoods"
     note: "Possibly the best beginner's narrative history of capitalism, written for workers. The ideal first book."
-  - title: "The Origin of Capitalism: A Longer View"
+  - title: "The Origin of Capitalism"
     authors: ["Ellen Meiksins Wood"]
     year: 1999
     format: reading
     kind: book
     access: borrow
-    url: "https://archive.org/details/the-origin-of-capitalism-a-longer-view-by-ellen-meiksins-wood-1999"
-    note: "The clearest short introduction to the debate over capitalism's birth. Entry point to political Marxism."
+    url: "https://archive.org/details/originofcapitali0000wood"
+    note: "The clearest short introduction to the debate over capitalism's birth. Entry point to political Marxism. This is the 1999 Monthly Review original; Wood expanded it in 2002 as The Origin of Capitalism: A Longer View."
+  - title: "The Agrarian Origins of Capitalism"
+    authors: ["Ellen Meiksins Wood"]
+    year: 1998
+    format: reading
+    kind: article
+    access: free
+    url: "https://monthlyreviewarchives.org/index.php/mr/article/view/MR-050-03-1998-07_2"
+    note: "Wood's own Monthly Review essay from the year before the book, carrying its argument in eighteen compressed pages: capitalism as a late and local product of English agrarian property relations rather than an unfolding of trade."
   - title: "The Making of the English Working Class"
     authors: ["E. P. Thompson"]
     year: 1963
@@ -179,7 +187,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 ### Books
 
 - **Leo Huberman** (1903 to 1968), _Man's Worldly Goods: The Story of the Wealth of Nations_ (1936). Possibly the best beginner's narrative history of capitalism from feudalism to the 1930s, written for workers and told as a story. Plainspoken and Marxist without jargon. The ideal first book for a general reader. Free to borrow: [archive.org](https://archive.org/details/MansWorldlyGoods)
-- **Ellen Meiksins Wood** (1942 to 2016), _The Origin of Capitalism: A Longer View_ (1999, expanded 2002). The clearest short introduction to the debate over capitalism's birth, arguing it was not natural or inevitable but a specific product of agrarian social relations in the English countryside. The entry point to "political Marxism." Free to borrow: [archive.org](https://archive.org/details/the-origin-of-capitalism-a-longer-view-by-ellen-meiksins-wood-1999)
+- **Ellen Meiksins Wood** (1942 to 2016), _The Origin of Capitalism_ (1999; expanded in 2002 as _A Longer View_). The clearest short introduction to the debate over capitalism's birth, arguing it was not natural or inevitable but a specific product of agrarian social relations in the English countryside. The entry point to "political Marxism." Free to borrow, in the 1999 Monthly Review original: [archive.org](https://archive.org/details/originofcapitali0000wood)
 - **E. P. Thompson** (1924 to 1993), _The Making of the English Working Class_ (1963). The great popular history of how the industrial working class was made, not simply born from factories but self-formed through struggle, custom, and culture between 1780 and 1832. Long and endlessly readable. Free PDF: [bard.edu](https://www.bard.edu/library/pdfs/archives/Thompson-The_Making_of_the_English_Working_Class.pdf)
 - **Michael Perelman** (1939 to 2020), _The Invention of Capitalism_ (2000). Shows how the classical political economists quietly advocated stripping peasants of self-sufficiency to force them into wage labor, the secret history behind laissez-faire. Excellent on the making of the wage. Free PDF: [files.libcom.org](https://files.libcom.org/files/2022-05/The%20Invention%20of%20Capitalism.pdf)
 - **Silvia Federici** (b. 1942), _Caliban and the Witch: Women, the Body and Primitive Accumulation_ (2004). A feminist history of the transition to capitalism that places the witch hunts, the disciplining of women's bodies, and unpaid reproductive labor at the center of primitive accumulation. Widely used in popular education. Free PDF: [files.libcom.org](https://files.libcom.org/files/Caliban%20and%20the%20Witch.pdf)

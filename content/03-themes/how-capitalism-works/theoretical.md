@@ -132,10 +132,18 @@ resources:
     year: 2014
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/economicsusersgu0000chan"
+    url: "https://www.penguin.co.uk/books/187172/economics-the-users-guide-by-chang-ha-joon/9780718197032"
     note: "A tour of how the economy works and of the nine competing schools that explain it, on the principle that economics is political argument rather than science. Heterodox, not Marxist; the map of the field before you enter Marx."
+  - title: "Economics: The User's Guide (Talks at Google)"
+    authors: ["Ha-Joon Chang"]
+    format: video
+    kind: lecture
+    access: free
+    length: "62 min"
+    url: "https://www.youtube.com/watch?v=n5j5EW933Kw"
+    note: "About 96,900 views. Chang presenting this exact book, including its central claim that no single school of economics owns the truth and that the room should know there are several."
   - title: "Platform Capitalism"
     authors: ["Nick Srnicek"]
     year: 2016
@@ -258,7 +266,7 @@ Do not try to master _Capital_ in one sitting or one session. The point of the t
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
-- **Ha-Joon Chang**, _Economics: The User's Guide_ (2014). A tour of how the economy works and of the nine competing schools that explain it, on the principle that economics is political argument rather than science. Heterodox, not Marxist; the map of the field before you enter Marx. Free to borrow: [archive.org](https://archive.org/details/economicsusersgu0000chan)
+- **Ha-Joon Chang**, _Economics: The User's Guide_ (2014). A tour of how the economy works and of the nine competing schools that explain it, on the principle that economics is political argument rather than science. Heterodox, not Marxist; the map of the field before you enter Marx. Not free: [penguin.co.uk](https://www.penguin.co.uk/books/187172/economics-the-users-guide-by-chang-ha-joon/9780718197032)
 - **Katharina Pistor**, _The Code of Capital: How the Law Creates Wealth and Inequality_ (2019). Capital is not a thing but a legal coding: private lawyers, not markets, mint wealth by wrapping assets in priority, durability, and convertibility. Legal-institutionalist rather than Marxist. A free Duke Law lecture by Pistor carries the argument. Not free: [press.princeton.edu](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital)
 - **Brett Christophers**, _Rentier Capitalism: Who Owns the Economy, and Who Pays for It?_ (2020). An economy dominated not by making things but by owning scarce assets, land, patents, platforms, infrastructure, and charging for access. A free 26-minute Rhodes Center podcast carries the argument. Not free: [versobooks.com](https://www.versobooks.com/products/871-rentier-capitalism)
 

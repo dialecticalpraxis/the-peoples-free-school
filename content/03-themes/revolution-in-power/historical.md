@@ -70,24 +70,32 @@ resources:
     format: reading
     kind: book
     access: borrow
-    url: "https://archive.org/details/northkoreaanothe0000cumi"
+    url: "https://archive.org/details/northkoreaanothe00cumi"
     note: "A revisionist history setting the DPRK against the Korean War, partition, and US policy, while refusing illusions about the regime. The contextualizing academic counter to the standard portrait."
   - title: "Pretext for Mass Murder: The September 30th Movement and Suharto's Coup"
     authors: ["John Roosa"]
     year: 2006
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/pretextformassmu0000roos"
+    access: paywalled
+    url: "https://uwpress.wisc.edu/Books/P/Pretext-for-Mass-Murder2"
     note: "The definitive scholarly reconstruction of the 1965 events that gave Suharto the pretext to annihilate the PKI, then the largest non-ruling Communist party in the world."
   - title: "The Jakarta Method"
     authors: ["Vincent Bevins"]
     year: 2020
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program_2021"
+    access: paywalled
+    url: "https://www.hachettebookgroup.com/titles/vincent-bevins/the-jakarta-method/9781541724013/?lens=publicaffairs"
     note: "Places the destruction of the PKI inside a US-backed global anticommunist killing program. Journalistic and anti-imperialist, and unignorable on the Western role in the 1965 to 1966 massacres."
+  - title: "CIA Stories: The Jakarta Method"
+    authors: ["Vincent Bevins", "Abby Martin", "Empire Files"]
+    format: video
+    kind: interview
+    access: free
+    length: "67 min"
+    url: "https://www.youtube.com/watch?v=up3-lOiO9L8"
+    note: "About 370,000 views. A full interview with Bevins on the book's claim that the Indonesian killings became an exportable template for anticommunist extermination across 22 countries. Empire Files is movement media with a standpoint."
   - title: "Class Struggles in Eastern Europe, 1945 to 1983"
     authors: ["Chris Harman"]
     year: 1988
@@ -243,9 +251,9 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 - **Ngo Van** (1913 to 2005), _Revolution and Counter-Revolution Under Colonial Rule_ (1995). The anti-Stalinist left's history of the Vietnamese revolution's suppressed rivals. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/ngo-van-xuyet-revolution-and-counterrevolution-under-colonial-rule)
 - **Gabriel Kolko** (1932 to 2014), _Anatomy of a War_ (1985). A Marxist structural history from the rise of Vietnamese communism to the fall of Saigon. Free to borrow: [archive.org](https://archive.org/details/anatomyofwarviet0000kolk)
-- **Bruce Cumings** (b. 1943), _North Korea: Another Country_ (2004). The DPRK set against the Korean War and US policy, contextualizing but not credulous. Free to borrow: [archive.org](https://archive.org/details/northkoreaanothe0000cumi)
-- **John Roosa**, _Pretext for Mass Murder_ (2006). The definitive reconstruction of Suharto's 1965 coup and the pretext for destroying the PKI. Free to borrow: [archive.org](https://archive.org/details/pretextformassmu0000roos)
-- **Vincent Bevins**, _The Jakarta Method_ (2020). The PKI's annihilation inside a US-backed global anticommunist program. Free to borrow: [archive.org](https://archive.org/details/the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program_2021)
+- **Bruce Cumings** (b. 1943), _North Korea: Another Country_ (2004). The DPRK set against the Korean War and US policy, contextualizing but not credulous. Free to borrow: [archive.org](https://archive.org/details/northkoreaanothe00cumi)
+- **John Roosa**, _Pretext for Mass Murder_ (2006). The definitive reconstruction of Suharto's 1965 coup and the pretext for destroying the PKI. No borrowable copy exists. Paywalled: [uwpress.wisc.edu](https://uwpress.wisc.edu/Books/P/Pretext-for-Mass-Murder2). No honest free companion was found: Roosa's available talks are about his later book, not this argument.
+- **Vincent Bevins**, _The Jakarta Method_ (2020). The PKI's annihilation inside a US-backed global anticommunist program. Every archive.org copy is an unauthorized upload, so there is nothing legitimate to borrow. Paywalled: [hachettebookgroup.com](https://www.hachettebookgroup.com/titles/vincent-bevins/the-jakarta-method/9781541724013/?lens=publicaffairs). A full interview with Bevins is free, about 370,000 views: [youtube.com](https://www.youtube.com/watch?v=up3-lOiO9L8)
 
 ### Prague 1968
 

@@ -8,7 +8,7 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_50 podcasts. Generated from theme lens frontmatter._
+_51 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
@@ -43,6 +43,7 @@ _50 podcasts. Generated from theme lens frontmatter._
 | [Red Rosa: The Life and Legacy of Rosa Luxemburg](https://revolutionaryleftradio.libsyn.com/k) | Revolutionary Left Radio, Kate Evans | 2019– | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
 | [Reimagining Soviet Georgia](https://podcasts.apple.com/us/podcast/reimagining-soviet-georgia/id1555761205) | Sopiko Japaridze, Bryan Gigantino | 2020– | Free | [[revolution-in-power/experiential\|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]] |
 | [Revolutions (podcast): 1848 and the Paris Commune](https://podcasts.apple.com/us/podcast/revolutions/id703889772) | Mike Duncan | 2017– | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
+| [Robin Wall Kimmerer: The Intelligence of Plants (On Being)](https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants-2022/) | Robin Wall Kimmerer, Krista Tippett | 2016– | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Seeing White](https://sceneonradio.org/seeing-white/) | John Biewen, Chenjerai Kumanyika | 2017– | Free | [[anti-blackness-and-racial-capitalism/theoretical\|Anti-Blackness and Racial Capitalism · Theoretical]] |
 | [Still Processing](https://open.spotify.com/show/55xs5VgsY4gO5JFahAy3q5) | Wesley Morris, Jenna Wortham | 2016– | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Teaching Hard History](https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/) | Hasan Kwame Jeffries, Learning for Justice | 2018– | Free | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |

@@ -38,18 +38,35 @@ resources:
     year: 1998
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/howjewsbecamewhi0000brod"
+    access: paywalled
+    url: "https://www.rutgersuniversitypress.org/how-jews-became-white-folks-and-what-that-says-about-race-in-america/9780813525907"
     note: "Jews reclassified into whiteness after 1945 by the GI Bill, FHA loans, and suburbanization. An anthropologist's account braided with her own family's story, showing the state doing the reclassifying."
+  - title: "How Jews Became White Folks, and May Become Nonwhite Under Trump"
+    authors: ["Karen Brodkin"]
+    year: 2016
+    format: reading
+    kind: article
+    access: free
+    url: "https://forward.com/opinion/356166/how-jews-became-white-folks-and-may-become-nonwhite-under-trump/"
+    note: "Brodkin's own essay restating the book's argument: Jewish racial classification in America moved once and can move back. Free, and short enough to assign. This host bot-blocks automated checks but the page is live."
   - title: "Whiteness of a Different Color: European Immigrants and the Alchemy of Race"
     authors: ["Matthew Frye Jacobson"]
     year: 1998
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/whitenessofdiffe0000jaco"
+    url: "https://www.hup.harvard.edu/books/9780674951914"
     note: "Whiteness itself repeatedly redrawn: from a broad 1790 'free white persons' to a fractured hierarchy of Celts and Hebrews and Mediterraneans and back to a consolidated Caucasian."
+  - title: "Whiteness and the Normative American Citizen"
+    authors: ["Matthew Frye Jacobson"]
+    year: 2014
+    format: video
+    kind: lecture
+    access: free
+    length: "123 min"
+    url: "https://www.youtube.com/watch?v=r_WbWd4fw4g"
+    note: "About 4,400 views, a very niche pick kept because it is the author unabridged: an Organization of American Historians lecture on how whiteness was built and renegotiated for European immigrants, which is the book."
   - title: "Immigration Act of 1924 (Johnson-Reed Act)"
     authors: ["U.S. Congress"]
     year: 1924
@@ -103,9 +120,17 @@ resources:
     year: 2004
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/impossiblesubjec0000ngai_u2v3"
+    access: paywalled
+    url: "https://press.princeton.edu/books/paperback/9780691160825/impossible-subjects"
     note: "How the 1924 quota regime manufactured the 'illegal alien' as a permanent caste, racializing Mexicans and Asians through immigration law itself. The law as a race-making machine."
+  - title: "Undocumented Migration to the U.S.: Origins, Consequences, Remedies"
+    authors: ["Mae Ngai"]
+    format: video
+    kind: lecture
+    access: free
+    length: "76 min"
+    url: "https://www.youtube.com/watch?v=JQl01iLxpLQ"
+    note: "About 1,000 views, which is very niche, and it is here only because it is Ngai giving the book's thesis in full: the 1920s quotas closed the door and manufactured the category of the illegal alien."
   - title: "Immigration and Nationality Act of 1965 (Hart-Celler Act)"
     authors: ["U.S. Congress"]
     year: 1965
@@ -157,12 +182,12 @@ Whiteness was not a fact about complexions. It was a membership, and the door op
 
 - **Noel Ignatiev** (1940 to 2019), _How the Irish Became White_ (1995). The Irish arrived despised as a race apart and became white by buying into the Democratic machine, the trade unions, and anti-Black violence. Whiteness here is not a complexion but a membership, sold on political terms and paid for at someone else's expense. Free PDF: [thecharnelhouse.org](https://thecharnelhouse.org/wp-content/uploads/2019/11/Noel-Ignatiev-How-the-Irish-Became-White-1995.pdf)
 - **David R. Roediger** (b. 1952), _Working Toward Whiteness_ (2005). Southern and eastern Europeans move from "inbetween people" to suburban whiteness through housing policy, unions, and the state. The companion to his _Wages of Whiteness_, which sits in the anti-Blackness theme. Free to borrow: [archive.org](https://archive.org/details/workingtowardwhi00roed)
-- **Karen Brodkin**, _How Jews Became White Folks_ (1998). How the GI Bill, FHA loans, and the suburbs reclassified Jews as white after 1945, told by an anthropologist through her own family. The clearest case of the state doing the reclassifying. Free to borrow: [archive.org](https://archive.org/details/howjewsbecamewhi0000brod)
+- **Karen Brodkin**, _How Jews Became White Folks_ (1998). How the GI Bill, FHA loans, and the suburbs reclassified Jews as white after 1945, told by an anthropologist through her own family. The clearest case of the state doing the reclassifying. No borrowable copy exists. Paywalled: [rutgersuniversitypress.org](https://www.rutgersuniversitypress.org/how-jews-became-white-folks-and-what-that-says-about-race-in-america/9780813525907). Brodkin restated the argument herself in a free essay: [forward.com](https://forward.com/opinion/356166/how-jews-became-white-folks-and-may-become-nonwhite-under-trump/)
 
 ### The law as a race-making machine
 
 - **Ellen D. Wu**, _The Color of Success_ (2013). The turn from "yellow peril" to "model minority" runs through wartime incarceration, Hawaii statehood, and Cold War image-management. The model minority was manufactured, and manufactured as a weapon against Black claims. Free to borrow: [archive.org](https://archive.org/details/colorofsuccessas0000wuel)
-- **Mae M. Ngai**, _Impossible Subjects_ (2004). The 1924 quota regime did not just restrict immigration, it produced the "illegal alien" as a permanent caste, racializing Mexicans and Asians through the law itself. Free to borrow: [archive.org](https://archive.org/details/impossiblesubjec0000ngai_u2v3)
+- **Mae M. Ngai**, _Impossible Subjects_ (2004). The 1924 quota regime did not just restrict immigration, it produced the "illegal alien" as a permanent caste, racializing Mexicans and Asians through the law itself. No borrowable copy exists. Paywalled: [press.princeton.edu](https://press.princeton.edu/books/paperback/9780691160825/impossible-subjects). Ngai gives the thesis in a free lecture, extremely niche at about 1,000 views but the author unabridged: [youtube.com](https://www.youtube.com/watch?v=JQl01iLxpLQ)
 
 ### Primary sources: read the statutes
 
@@ -186,7 +211,7 @@ The whole argument of this theme is available in the documents. They are short, 
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
-- **Matthew Frye Jacobson**, _Whiteness of a Different Color: European Immigrants and the Alchemy of Race_ (1998). Whiteness itself repeatedly redrawn: from a broad 1790 'free white persons' to a fractured hierarchy of Celts and Hebrews and Mediterraneans and back to a consolidated Caucasian. Free to borrow: [archive.org](https://archive.org/details/whitenessofdiffe0000jaco)
+- **Matthew Frye Jacobson**, _Whiteness of a Different Color: European Immigrants and the Alchemy of Race_ (1998). Whiteness itself repeatedly redrawn: from a broad 1790 'free white persons' to a fractured hierarchy of Celts and Hebrews and Mediterraneans and back to a consolidated Caucasian. Not free: [hup.harvard.edu](https://www.hup.harvard.edu/books/9780674951914)
 - **Library of Congress**, _A Latinx Resource Guide: the Bracero Program_. A curated primary-source guide to the guest-worker program, for a group that wants to research the period itself rather than read about it. Free: [guides.loc.gov](https://guides.loc.gov/latinx-civil-rights/bracero-program)
 
 <!-- further-reading:end -->

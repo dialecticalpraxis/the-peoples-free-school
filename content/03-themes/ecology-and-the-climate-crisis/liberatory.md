@@ -6,9 +6,17 @@ resources:
     year: 2013
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/braidingsweetgra0000kimm"
+    access: paywalled
+    url: "https://milkweed.org/book/braiding-sweetgrass"
     note: "Weaves Potawatomi teachings and botany into an ethic of reciprocity with the living world, offering a vision of abundance and gift rather than extraction."
+  - title: "Robin Wall Kimmerer: The Intelligence of Plants (On Being)"
+    authors: ["Robin Wall Kimmerer", "Krista Tippett"]
+    year: 2016
+    format: podcast
+    kind: interview
+    access: free
+    url: "https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants-2022/"
+    note: "Kimmerer on reciprocity, the gift economy, and braiding Indigenous knowledge with botany, which is the book's spine. Published with a full transcript, so it can be assigned as a reading."
   - title: "The Red Deal: Indigenous Action to Save Our Earth"
     authors: ["The Red Nation"]
     year: 2021
@@ -212,7 +220,7 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 
 - **Nick Estes** (b. 1983), _Our History Is the Future_ (2019). Standing Rock read as one episode in two centuries of Oceti Sakowin resistance rather than as a new environmental cause: the pipeline fight is a long war over land and water that never stopped. The anchor text for Land Back, and it was missing from this school entirely. No borrowable copy exists. Paywalled: [versobooks.com](https://www.versobooks.com/products/600-our-history-is-the-future). Free and assignable: his interview with a full transcript at [thedigradio.com](https://thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/), or a short video opener at [youtube.com](https://www.youtube.com/watch?v=BGgoXknPl8I) (about 24,000 views, niche, and the best that could be verified).
 
-- **Robin Wall Kimmerer** (b. 1953), _Braiding Sweetgrass_ (2013). Weaves Potawatomi teachings and botany into an ethic of reciprocity with the living world, offering a vision of abundance and gift rather than extraction. Free to borrow: [archive.org](https://archive.org/details/braidingsweetgra0000kimm)
+- **Robin Wall Kimmerer** (b. 1953), _Braiding Sweetgrass_ (2013). Weaves Potawatomi teachings and botany into an ethic of reciprocity with the living world, offering a vision of abundance and gift rather than extraction. No borrowable copy exists. Paywalled: [milkweed.org](https://milkweed.org/book/braiding-sweetgrass). Her On Being interview is free and published with a full transcript, so it can be assigned as a reading: [onbeing.org](https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants-2022/)
 - **The Red Nation** (collective), _The Red Deal_ (2021). An Indigenous, anticapitalist program insisting that any Green New Deal must also be "Red," centering decolonization and Land Back over growth. Read against the Green New Deal debate below. Free: [archive.org](https://archive.org/details/the-red-deal)
 
 ### Ecological thought from the Global South

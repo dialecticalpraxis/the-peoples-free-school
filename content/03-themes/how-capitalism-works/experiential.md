@@ -99,10 +99,20 @@ resources:
     year: 2016
     format: reading
     kind: book
-    access: borrow
+    access: paywalled
     tier: extended
-    url: "https://archive.org/details/evictedpovertypr0000desm_m1n2"
+    url: "https://www.penguinrandomhouse.com/books/247816/evicted-by-matthew-desmond/9780553447453/"
     note: "Two years with eight Milwaukee families losing their homes, and with the landlords profiting from it, told largely through the tenants' own words. Shows eviction as an engine of poverty rather than a symptom."
+  - title: "Matthew Desmond on Evicted (Politics and Prose)"
+    authors: ["Matthew Desmond"]
+    year: 2016
+    format: video
+    kind: lecture
+    access: free
+    length: "64 min"
+    url: "https://www.youtube.com/watch?v=24M9wUaCEKo"
+    note: "About 57,600 views. Desmond's own book talk, a full event rather than a clip. The free route into the argument that eviction is a cause of poverty and not only a symptom."
+
 ---
 
 _Lived experience as a source of knowledge. What has the room been through? What do participants already know from the inside?_
@@ -164,7 +174,7 @@ Experiential work is not a warm-up. Give it real time. The point is to establish
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
 - **Leslie T. Chang**, _Factory Girls: From Village to City in a Changing China_ (2008). Three years with young women migrants on the Dongguan assembly lines, built from their own accounts of dormitories, wage theft, ambition, and escape. Lets the workers set the terms rather than casting them as victims. Free to borrow: [archive.org](https://archive.org/details/factorygirlsvoic0000chan)
-- **Matthew Desmond**, _Evicted: Poverty and Profit in the American City_ (2016). Two years with eight Milwaukee families losing their homes, and with the landlords profiting from it, told largely through the tenants' own words. Shows eviction as an engine of poverty rather than a symptom. Free to borrow: [archive.org](https://archive.org/details/evictedpovertypr0000desm_m1n2)
+- **Matthew Desmond**, _Evicted: Poverty and Profit in the American City_ (2016). Two years with eight Milwaukee families losing their homes, and with the landlords profiting from it, told largely through the tenants' own words. Shows eviction as an engine of poverty rather than a symptom. Not free: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/247816/evicted-by-matthew-desmond/9780553447453/)
 
 <!-- further-reading:end -->
 

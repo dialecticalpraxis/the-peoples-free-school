@@ -6,17 +6,32 @@ resources:
     year: 1980
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/deathofnaturewom00merc"
+    access: paywalled
+    url: "https://www.harpercollins.com/products/the-death-of-nature-carolyn-merchant"
     note: "Traces how the scientific revolution replaced the image of the earth as a living organism with the earth as a machine, licensing the domination of both nature and women."
+  - title: "Environmentalism: From the Control of Nature to Partnership"
+    authors: ["Carolyn Merchant"]
+    format: video
+    kind: lecture
+    access: free
+    length: "59 min"
+    url: "https://www.youtube.com/watch?v=GP-HbjCYru4"
+    note: "About 9,900 views, a niche pick kept because it is Merchant herself giving the book's whole arc: the Scientific Revolution's ethic of controlling nature, and the partnership ethic she proposes instead."
   - title: "The Columbian Exchange: Biological and Cultural Consequences of 1492"
     authors: ["Alfred W. Crosby"]
     year: 1972
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/columbianexchang00cros"
+    access: paywalled
+    url: "https://www.bloomsbury.com/9780275980733"
     note: "The founding study of colonial ecology, on how the transfer of crops, animals, and disease after 1492 reshaped ecosystems and cleared the ground for European conquest."
+  - title: "The Columbian Exchange: Plants, Animals, and Disease between the Old and New Worlds"
+    authors: ["Alfred W. Crosby"]
+    format: reading
+    kind: article
+    access: free
+    url: "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm"
+    note: "Crosby's own essay for the National Humanities Center, restating the book's thesis in a few assignable pages. Free, by the author, written for teaching: the ideal companion."
   - title: "Dust Bowl: The Southern Plains in the 1930s"
     authors: ["Donald Worster"]
     year: 1979
@@ -30,9 +45,17 @@ resources:
     year: 1990
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/dumpingindixiera0000bull"
+    access: paywalled
+    url: "https://www.routledge.com/Dumping-In-Dixie-Race-Class-And-Environmental-Quality-Third-Edition/Bullard/p/book/9780813367927"
     note: "The first book to name environmental racism, documenting how polluting industry and waste were systematically sited in Black and poor communities across the U.S. South."
+  - title: "Environmental Justice for All"
+    authors: ["Robert D. Bullard"]
+    format: video
+    kind: lecture
+    access: free
+    length: "58 min"
+    url: "https://www.youtube.com/watch?v=spE6D3Dpzb8"
+    note: "About 22,800 views, a niche pick. A full lecture by Bullard on environmental protection as a civil rights question, which is the core claim of Dumping in Dixie."
   - title: "Whose Common Future? Reclaiming the Commons"
     authors: ["The Ecologist"]
     year: 1993
@@ -88,10 +111,10 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ### Books
 
-- **Carolyn Merchant** (b. 1936), _The Death of Nature_ (1980). Traces how the scientific revolution replaced the image of the earth as a living organism with the earth as a machine, licensing the domination of both nature and women. A bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. Free to borrow: [archive.org](https://archive.org/details/deathofnaturewom00merc)
-- **Alfred W. Crosby** (1931 to 2018), _The Columbian Exchange_ (1972). The founding study of colonial ecology, on how the transfer of crops, animals, and disease after 1492 reshaped ecosystems and cleared the ground for European conquest. Free to borrow: [archive.org](https://archive.org/details/columbianexchang00cros)
+- **Carolyn Merchant** (b. 1936), _The Death of Nature_ (1980). Traces how the scientific revolution replaced the image of the earth as a living organism with the earth as a machine, licensing the domination of both nature and women. A bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. No borrowable copy exists. Paywalled: [harpercollins.com](https://www.harpercollins.com/products/the-death-of-nature-carolyn-merchant). Merchant's own lecture gives the same arc free, about 9,900 views: [youtube.com](https://www.youtube.com/watch?v=GP-HbjCYru4)
+- **Alfred W. Crosby** (1931 to 2018), _The Columbian Exchange_ (1972). The founding study of colonial ecology, on how the transfer of crops, animals, and disease after 1492 reshaped ecosystems and cleared the ground for European conquest. No borrowable copy exists, and this publisher blocks automated checks though the page is live. Paywalled: [bloomsbury.com](https://www.bloomsbury.com/9780275980733). Crosby wrote the thesis up himself for teachers, free and assignable: [nationalhumanitiescenter.org](https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm)
 - **Donald Worster** (b. 1941), _Dust Bowl_ (1979). A classic of environmental history arguing that the 1930s ecological catastrophe grew directly from a capitalist land system that treated soil as a commodity to be mined for profit. Free to borrow: [archive.org](https://archive.org/details/dustbowl00dona)
-- **Robert D. Bullard** (b. 1946), _Dumping in Dixie_ (1990). The first book to name environmental racism, documenting how polluting industry and waste were systematically sited in Black and poor communities across the U.S. South. A bridge to [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. Free to borrow: [archive.org](https://archive.org/details/dumpingindixiera0000bull)
+- **Robert D. Bullard** (b. 1946), _Dumping in Dixie_ (1990). The first book to name environmental racism, documenting how polluting industry and waste were systematically sited in Black and poor communities across the U.S. South. A bridge to [[03-themes/anti-blackness-and-racial-capitalism/index|Race and Racial Capitalism]]. No borrowable copy exists. Paywalled: [routledge.com](https://www.routledge.com/Dumping-In-Dixie-Race-Class-And-Environmental-Quality-Third-Edition/Bullard/p/book/9780813367927). Bullard's own lecture is free, about 22,800 views: [youtube.com](https://www.youtube.com/watch?v=spE6D3Dpzb8)
 - **The Ecologist** (collective), _Whose Common Future? Reclaiming the Commons_ (1993). Connects present ecological destruction to the long history of enclosure, from medieval Britain to the Global South, and defends community control of land, water, and forests. Free to borrow: [archive.org](https://archive.org/details/whosecommonfutur0000unse)
 
 ### Articles

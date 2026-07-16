@@ -46,9 +46,17 @@ resources:
     year: 1979
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/workerscontrolin00mont"
+    access: paywalled
+    url: "https://www.cambridge.org/us/universitypress/subjects/history/american-history-general-interest/workers-control-america-studies-history-work-technology-and-labor-struggles?format=PB&isbn=9780521280068"
     note: "How nineteenth and twentieth century workers fought for control over production, a bridge from labor history into the labor process."
+  - title: "David Montgomery: Labor Struggles, Past, Present, Future"
+    authors: ["David Montgomery"]
+    format: video
+    kind: lecture
+    access: free
+    length: "114 min"
+    url: "https://www.youtube.com/watch?v=l6CHjRTAblI"
+    note: "About 4,300 views, a very niche pick. Montgomery on the long arc of workers' self-activity and shop-floor struggle, which is the book's subject. He died in 2011 and the recorded record is thin, so this is what exists."
   - title: "William D. Haywood: selected writings, including The General Strike"
     authors: ["William D. Haywood"]
     year: 1911
@@ -202,7 +210,7 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **Philip S. Foner** (1910 to 1994), _History of the Labor Movement in the United States, Volume 1_ (1947). The opening volume of the standard left history of American labor, from colonial times to the founding of the AFL, covering early unions, the ten-hour movement, the Knights of Labor, and the 1877 uprising. Free: [archive.org](https://archive.org/details/history-of-the-labor-movement-of-the-united-states-vol-1)
 - **Philip S. Foner**, _The Great Strikes of 1877_ (1977). A focused account of the first national strike wave, drawn from Foner's larger history and useful when a session wants to study one generative event closely. Free: [archive.org](https://archive.org/details/philip-foner-on-the-great-railroad-strike)
 - **Richard O. Boyer** (1903 to 1973) and **Herbert M. Morais** (1905 to 1970), _Labor's Untold Story_ (1955). A popular union-published history of American workers from the Civil War through the New Deal, written to be read by workers themselves. Partisan and readable. Free to borrow: [archive.org](https://archive.org/details/laborsuntoldstor0000boye)
-- **David Montgomery** (1927 to 2011), _Workers' Control in America_ (1979). Essays on how workers fought for control over production and how management fought back, connecting shop-floor struggle to the rise of the modern firm. A bridge from labor history into the theoretical lens. Free to borrow: [archive.org](https://archive.org/details/workerscontrolin00mont)
+- **David Montgomery** (1927 to 2011), _Workers' Control in America_ (1979). Essays on how workers fought for control over production and how management fought back, connecting shop-floor struggle to the rise of the modern firm. A bridge from labor history into the theoretical lens. No borrowable copy exists, and Cambridge blocks automated checks though the page is live. Paywalled: [cambridge.org](https://www.cambridge.org/us/universitypress/subjects/history/american-history-general-interest/workers-control-america-studies-history-work-technology-and-labor-struggles?format=PB&isbn=9780521280068). A free Montgomery lecture survives, very niche at about 4,300 views; he died in 2011 and the record is thin: [youtube.com](https://www.youtube.com/watch?v=l6CHjRTAblI)
 
 ### Unfree labor, and the workers the story leaves out
 

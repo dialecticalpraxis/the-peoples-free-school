@@ -6,9 +6,17 @@ resources:
     year: 2013
     format: reading
     kind: book
-    access: borrow
-    url: "https://archive.org/details/secondhandtimela0000alek"
+    access: paywalled
+    url: "https://www.penguinrandomhouse.com/books/541184/secondhand-time-by-svetlana-alexievich/"
     note: "The Nobel laureate's assembled testimony of ordinary people living through the Soviet collapse, holding pride, loss, terror, and longing together. The definitive balanced experiential source."
+  - title: "On the Battle Lost (Nobel Lecture)"
+    authors: ["Svetlana Alexievich"]
+    year: 2015
+    format: reading
+    kind: lecture
+    access: free
+    url: "https://www.nobelprize.org/prizes/literature/2015/alexievich/lecture/"
+    note: "Her Nobel lecture, delivered as Secondhand Time was being finished, on the Red Man and the wreckage of the Soviet century. Free, permanent, and assignable as a reading. The best companion in the school."
   - title: "Hope Against Hope: A Memoir"
     authors: ["Nadezhda Mandelstam"]
     year: 1970
@@ -134,7 +142,7 @@ Experiential work begins from the room, and this theme's room often holds the hi
 
 ### Testimony from the Soviet world
 
-- **Svetlana Alexievich** (b. 1948), _Secondhand Time_ (2013). Assembled testimony of ordinary people living through the Soviet collapse, holding pride, loss, terror, and longing together. The single best balanced source for the lens. Free to borrow: [archive.org](https://archive.org/details/secondhandtimela0000alek)
+- **Svetlana Alexievich** (b. 1948), _Secondhand Time_ (2013). Assembled testimony of ordinary people living through the Soviet collapse, holding pride, loss, terror, and longing together. The single best balanced source for the lens. No borrowable English copy exists. Paywalled: [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/541184/secondhand-time-by-svetlana-alexievich/). Her Nobel lecture, delivered as the book was being finished, is free and assignable: [nobelprize.org](https://www.nobelprize.org/prizes/literature/2015/alexievich/lecture/)
 - **Nadezhda Mandelstam** (1899 to 1980), _Hope Against Hope_ (1970). The poet's widow on his arrest and death in the Great Purge. The necessary weight on the critical side. Free to borrow: [archive.org](https://archive.org/details/hopeagainsthopem00mand)
 - **Reimagining Soviet Georgia** (2020 to present). Oral histories of daily life and post-socialism in the South Caucasus, holding gains and losses together. Free: [podcasts.apple.com](https://podcasts.apple.com/us/podcast/reimagining-soviet-georgia/id1555761205)
 - **Working Class History** (2018 to present). First-hand testimony from ordinary people, including inside state-socialist societies. Free: [workingclasshistory.com](https://workingclasshistory.com/podcasts/)

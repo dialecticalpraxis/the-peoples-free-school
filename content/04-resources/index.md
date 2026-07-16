@@ -39,6 +39,17 @@ The full field reference — valid `format`, `kind`, and `access` values, with e
 
 Many of the resources the school uses are available freely online. Others require library access, purchase, or subscription. The school does not host or distribute copyrighted material. When a reading is paywalled or only available in print, the school links to a publisher page and notes the situation.
 
+### What we link, and what we do not
+
+This is a political library and it expects scrutiny, so its sourcing rule is written down rather than left to whoever is adding the entry.
+
+- **We link a free copy when the author or the movement meant it to be free.** Leslie Feinberg gave _Stone Butch Blues_ away deliberately and worked on that edition until days before hir death. Marxists.org, the Anarchist Library, and libcom host texts whose authors and traditions intended exactly that. This is most of the library, and it is the point of the library.
+- **We do not link unauthorized copies of in-print commercial books**, however easy they are to find. A PDF of a current Routledge or Verso title on someone's blog is not open access; it is a copy that happens to be reachable, and pointing at it puts both the school and that host at risk for no lasting gain, since those links rot the moment anyone notices them.
+- **So a canonical book with no legitimate free copy is listed as paywalled, with a publisher link and a free companion** where the author has given a talk, an interview, or an essay carrying the same argument. Being honest about the wall is more useful than pretending it is not there.
+- **"Free to borrow" means it is genuinely borrowable**, which is checked rather than assumed. An Internet Archive scan marked only for print-disabled readers is not a public loan and is not labeled as one here.
+
+The consequence is deliberate: some of the most important books in this library are marked paywalled. That is a statement about publishing, not about the book, and the routes below exist precisely for those cases. Use them, and use each other.
+
 For groups in places without good library access, consider building relationships with sympathetic librarians, university interlibrary loan systems, and free online archives (the Internet Archive, the Marxists Internet Archive, the Anarchist Library). Mutual aid for book access is a part of how the school sustains itself.
 
 You should not have to buy anything to study here. Some concrete ways in, roughly in order of how well they work:
