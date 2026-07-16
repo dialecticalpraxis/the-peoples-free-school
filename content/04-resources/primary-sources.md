@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_95 primary sources. Generated from theme lens frontmatter._
+_96 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -73,6 +73,7 @@ _95 primary sources. Generated from theme lens frontmatter._
 | [Declaration of Independence of the Democratic Republic of Vietnam](https://www.marxists.org/reference/archive/ho-chi-minh/works/1945/declaration-independence.htm) | Ho Chi Minh | 1945 | document | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
 | [Poverty and Un-British Rule in India](https://archive.org/details/povertyunbritish00naoruoft) | Dadabhai Naoroji | 1901 | book | Free | [[imperialism-and-the-global-system/theoretical\|Imperialism and the Global System · Theoretical]] |
 | [What is Worker-driven Social Responsibility?](https://wsr-network.org/what-is-wsr/) | Worker-driven Social Responsibility Network | 2024 | explainer | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [Education for Self-Reliance](https://www.juliusnyerere.org/resources/view/education_for_self_reliance) | Julius K. Nyerere | 1967 | document | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/) | Federal Writers' Project, Library of Congress | — | archive | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]]<br>[[how-capitalism-works/experiential\|How Capitalism Works · Experiential]] |
 | [Environmental Justice Oral History Project (EJOHP)](https://ejohp.com/) | Environmental Justice Oral History Project | — | archive | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/index.htm) | John Reed | 1919 | book | Free | [[the-state-strategy-and-power/historical\|The State, Strategy, and Power · Historical]] |

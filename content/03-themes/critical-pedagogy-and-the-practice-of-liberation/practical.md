@@ -114,6 +114,30 @@ resources:
     length: "~6 min"
     url: "https://www.youtube.com/watch?v=l4cZ8pa0v-Y"
     note: "About 25,000 views, a niche pick. A short demonstration of Theatre of the Oppressed games and exercises a facilitator can try in a session."
+  - title: "Inside-Out Prison Exchange Program"
+    authors: ["Inside-Out Center, Temple University"]
+    format: reading
+    kind: course
+    access: free
+    tier: extended
+    url: "https://www.insideoutcenter.org/about-inside-out.html"
+    note: "A model in which incarcerated and campus students study together as peers inside the prison, now running in hundreds of sites. The clearest existing answer to what dialogic education looks like where the walls are literal."
+  - title: "Freedom Reads"
+    authors: ["Freedom Reads"]
+    format: reading
+    kind: collection
+    access: free
+    tier: extended
+    url: "https://freedomreads.org/about"
+    note: "Builds micro-libraries inside prisons, founded by a poet who served sixteen years. Included here because access to books is the precondition of every method in this lens, and in prison it is the whole fight."
+  - title: "Bard Prison Initiative"
+    authors: ["Bard College"]
+    format: reading
+    kind: course
+    access: free
+    tier: extended
+    url: "https://bpi.bard.edu/"
+    note: "A full liberal arts degree program inside New York prisons, and the most documented case of what serious education inside does. Institutional rather than movement-run, which is itself worth discussing."
   - title: "The Toolbox"
     authors: ["Beautiful Trouble"]
     format: reading
@@ -217,6 +241,9 @@ Free unless marked otherwise. These are the working tools of the school; the [[0
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Inside-Out Center, Temple University**, _Inside-Out Prison Exchange Program_. A model in which incarcerated and campus students study together as peers inside the prison, now running in hundreds of sites. The clearest existing answer to what dialogic education looks like where the walls are literal. Free: [insideoutcenter.org](https://www.insideoutcenter.org/about-inside-out.html)
+- **Freedom Reads**, _Freedom Reads_. Builds micro-libraries inside prisons, founded by a poet who served sixteen years. Included here because access to books is the precondition of every method in this lens, and in prison it is the whole fight. Free: [freedomreads.org](https://freedomreads.org/about)
+- **Bard College**, _Bard Prison Initiative_. A full liberal arts degree program inside New York prisons, and the most documented case of what serious education inside does. Institutional rather than movement-run, which is itself worth discussing. Free: [bpi.bard.edu](https://bpi.bard.edu/)
 - **Beautiful Trouble**, _The Toolbox_. A searchable toolbox of tactics, principles, and case studies from creative activism, cross-referenced so one tactic leads to the theory behind it. Movement-media in standpoint, and built to be raided rather than read through. Free: [beautifultrouble.org](https://beautifultrouble.org/toolbox)
 - **Center for Story-based Strategy**, _Tools and Resources_. Downloadable games and guides for analyzing whose story frames a fight and how to change it, which is the narrative half of the work this school does. Movement-training organization, committed to its own method. Free: [storybasedstrategy.org](https://www.storybasedstrategy.org/tools-resources/)
 - **Catalyst Project**, _Multi-session study curricula_. Multi-session curricula from a project doing anti-racist political education with white organizers. Useful both as content and as a worked example of a school with an explicit theory of who it is teaching and why. Free: [collectiveliberation.org](https://collectiveliberation.org/resources/)

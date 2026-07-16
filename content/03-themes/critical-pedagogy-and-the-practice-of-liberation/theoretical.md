@@ -100,6 +100,53 @@ resources:
     access: free
     url: "https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war"
     note: "A critical response arguing that Rockhill overstates the case and reads institutional ties as conspiracy. Paired with Rockhill so the room argues the thesis rather than accepting it."
+  - title: "Education for Self-Reliance"
+    authors: ["Julius K. Nyerere"]
+    year: 1967
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.juliusnyerere.org/resources/view/education_for_self_reliance"
+    note: "Tanzania's president arguing that a colonial school system trains people to leave the village and despise manual work, and that education must instead serve the society that pays for it. Fifteen pages, and a Freirean argument arrived at independently of Freire. Written by a head of state about his own policy, so read it as a programme rather than a study."
+  - title: "Julius Nyerere (UNESCO IBE profile)"
+    authors: ["Yusuf Kassam"]
+    year: 1994
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.juliusnyerere.org/uploads/nyerere_on_edication.pdf"
+    note: "A ten-page scholarly profile of Nyerere as an educational thinker, useful for context and for what ujamaa's schooling actually did in practice. Note the filename: this is Kassam writing about Nyerere, not Nyerere's own essay, which is the item above."
+  - title: "Participatory Action Research in Latin America"
+    authors: ["Orlando Fals-Borda"]
+    year: 1987
+    format: reading
+    kind: article
+    access: paywalled
+    url: "https://journals.sagepub.com/doi/10.1177/026858098700200401"
+    note: "The founding statement of participatory action research, in which the Colombian sociologist argues that the people studied must be the ones doing the studying. Parallel to Freire and arrived at separately; the research method to Freire's teaching method. This publisher bot-blocks automated checks but the page is live."
+  - title: "Fals-Borda's Participatory Turn, 1977-1980"
+    authors: ["Juan Mario Diaz-Arevalo"]
+    year: 2022
+    format: reading
+    kind: article
+    access: free
+    url: "https://eprints.whiterose.ac.uk/id/eprint/187104/1/Diaz-Are%CC%81volo%20JM%20(2022)%20Fals-Borda's%20participatory%20turn%2C%201977-1980.pdf"
+    note: "The free way into Fals-Borda: twenty-one pages on how he moved from conventional sociology to participatory action research, and what that cost him professionally. Academic history of the method."
+  - title: "Reconstruction and Education in Rural India"
+    authors: ["Prem Chand Lal"]
+    year: 1932
+    format: reading
+    kind: book
+    access: free
+    url: "https://archive.org/details/in.ernet.dli.2015.216186"
+    note: "An account of Tagore's rural reconstruction and education work at Sriniketan, with an introduction by Tagore himself. Note the archive's creator field is wrong: this is by Prem Chand Lal, not Tagore. The Indian experiment in education rooted in village life, half a century before Freire named the problem."
+  - title: "Kerala Sastra Sahitya Parishad: History"
+    authors: ["Kerala Sastra Sahitya Parishad"]
+    format: reading
+    kind: article
+    access: free
+    url: "https://kssp.in/history/"
+    note: "The people's science movement that ran Kerala's total literacy campaign and its participatory planning experiment, in its own words. Science as a mass organizing practice rather than an expert one. Published by the movement itself."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -138,6 +185,15 @@ Free unless marked otherwise. A few of these are widely hosted copies of in-copy
 - **Henry Giroux** (b. 1943), _Critical Pedagogy and the Postmodern/Modern Divide_ (2004). A concise statement of critical pedagogy as a project for democratic public life against neoliberal schooling. Free PDF: [files.eric.ed.gov](https://files.eric.ed.gov/fulltext/EJ795233.pdf)
 - **Antonia Darder** (b. 1952), _Reinventing Paulo Freire: A Pedagogy of Love_ (2002). Reworks Freire through the testimony of teachers and a pedagogy of love, guarding against turning his ideas into a fixed method or a slogan. Free to borrow: [archive.org](https://archive.org/details/reinventingpaulo0000dard_2ed)
 
+### Critical pedagogy that is not Freire's
+
+Freire is the school's foundation, and that is exactly why this section exists. The same problem was being worked on in Tanzania, Colombia, and Bengal by people who had not read him and did not need to. Treating Freire as the origin and everyone else as his application is its own small colonialism.
+
+- **Julius K. Nyerere** (1922 to 1999), _Education for Self-Reliance_ (1967). A colonial school system trains people to leave the village and to despise the work that feeds them, and Nyerere's answer is that education must serve the society paying for it. Fifteen pages, published the same year as _Pedagogy of the Oppressed_ was being written, and arrived at independently. He was head of state writing about his own policy, so read it as a programme rather than a finding, and read Kassam's profile beside it for what the policy actually did. Free: [juliusnyerere.org](https://www.juliusnyerere.org/resources/view/education_for_self_reliance) and [the Kassam profile](https://www.juliusnyerere.org/uploads/nyerere_on_edication.pdf)
+- **Orlando Fals-Borda** (1925 to 2008), _Participatory Action Research in Latin America_ (1987). If Freire says the oppressed must not be taught at, Fals-Borda says they must not be researched at either: the people studied should be the ones doing the studying. This is the research method to Freire's teaching method, developed alongside it rather than from it. Paywalled: [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/026858098700200401). Free and enough to work from: **Diaz-Arevalo** on how he got there, and what it cost him, at [eprints.whiterose.ac.uk](https://eprints.whiterose.ac.uk/id/eprint/187104/1/Diaz-Are%CC%81volo%20JM%20(2022)%20Fals-Borda's%20participatory%20turn%2C%201977-1980.pdf)
+- **Prem Chand Lal**, _Reconstruction and Education in Rural India_ (1932), with an introduction by Tagore. Tagore's Sriniketan built an education rooted in village life and craft rather than in the colonial examination hall, decades before anyone called it critical pedagogy. Free: [archive.org](https://archive.org/details/in.ernet.dli.2015.216186)
+- **Kerala Sastra Sahitya Parishad**, _History_. The people's science movement that ran Kerala's total literacy campaign and then its participatory planning experiment, telling its own story. Science treated as a mass organizing practice rather than an expert possession, and one of the few cases where popular education visibly moved a whole state. Free: [kssp.in](https://kssp.in/history/)
+
 ### Films, lectures, and audio
 
 - **"Paulo Freire: An Incredible Conversation"** (LiteracyDotOrg, 2016). Roughly 9 minutes, about 529,000 views. Actual footage of Freire speaking about dialogue and education. A short way to hear the theory in his own voice. [youtube.com/watch?v=aFWjnkFypFA](https://www.youtube.com/watch?v=aFWjnkFypFA)
@@ -152,4 +208,4 @@ This lens also asks the school to be honest about its own bookshelf. Gramsci ins
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially critical pedagogy from the Global South, disability and abolitionist pedagogy, and popular-education theory beyond the Freirean canon.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially African and Arab popular-education traditions, which are still represented here only by Nyerere, and Freire's own Brazilian contemporaries and critics in Portuguese. Disability and abolitionist pedagogy now sit in [[03-themes/critical-pedagogy-and-the-practice-of-liberation/liberatory|the liberatory lens]].
