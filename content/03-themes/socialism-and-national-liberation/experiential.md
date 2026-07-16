@@ -13,9 +13,9 @@ resources:
     year: 1964
     format: film
     kind: narrative
-    access: free
+    access: borrow
     length: "141 min"
-    url: "https://archive.org/details/soycuba1964"
+    url: "https://www.justwatch.com/us/movie/i-am-cuba"
     note: "A Soviet-Cuban poetic feature dramatizing pre-revolutionary suffering and revolt. An experiential artifact of how the young revolution pictured itself. Public domain."
   - title: "Thomas Sankara speaks (with English subtitles)"
     authors: ["Thomas Sankara"]
@@ -111,7 +111,7 @@ All free unless marked otherwise.
 ### Cuba
 
 - **Cuban oral history collections** (on-island and exile). The Cuban Voices project and the Miami exile testimony, read against each other. Free: [news.miami.edu](https://news.miami.edu/stories/2024/01/preserving-cuban-voices.html)
-- **Soy Cuba** (Kalatozov, 1964, 141 min). How the young revolution pictured itself, propaganda of extraordinary beauty. Free: [archive.org](https://archive.org/details/soycuba1964)
+- **Soy Cuba** (Kalatozov, 1964, 141 min). How the young revolution pictured itself, propaganda of extraordinary beauty. Free with a library card on Kanopy or Hoopla: [justwatch.com](https://www.justwatch.com/us/movie/i-am-cuba). Mosfilm, the rightsholder, also gives it away on its own channel, but blocks the US.
 
 ### The revolutionaries in their own voice
 

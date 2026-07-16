@@ -24,7 +24,7 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | [Awake: A Dream from Standing Rock](https://www.youtube.com/watch?v=G5EWZxII52c) | Myron Dewey, Josh Fox, James Spione | 2017 | 89 min | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Care](https://caredocumentary.com/) | Deirdre Fishel | 2016 | 60 min | Free | [[gender-reproduction-and-the-household/practical\|Gender, Reproduction, and the Household · Practical]] |
 | [Caregiving](https://www.pbs.org/) | Chris Durrance, WETA | 2025 | 115 min | Free | [[gender-reproduction-and-the-household/practical\|Gender, Reproduction, and the Household · Practical]] |
-| [Citizenfour](https://archive.org/details/Citizen.Four2014) | Laura Poitras | 2014 | 114 min | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
+| [Citizenfour](https://www.justwatch.com/us/movie/citizen-four) | Laura Poitras | 2014 | 114 min | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [Cocalero](https://www.youtube.com/watch?v=RvNqkIOszyo) | Alejandro Landes | 2007 | 96 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Concerning Violence](https://watch.plex.tv/movie/concerning-violence) | Göran Hugo Olsson | 2014 | 89 min | Free to borrow | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [Cuba's Life Task: Combatting Climate Change](https://helenyaffe.org.uk/index.php/documentaries/32-cuba-s-life-task-combatting-climate-change) | Helen Yaffe | 2021 | 50 min | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
@@ -32,12 +32,12 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | [Dignidad: Domestic Workers' Journey for Justice in California](https://www.pbs.org/video/dignidad-domestic-workers-journey-for-justice-in-california-3nj1kv/) | Independent Lens, KVIE | 2022 | 27 min | Free | [[gender-reproduction-and-the-household/practical\|Gender, Reproduction, and the Household · Practical]] |
 | [Food Chains](https://www.youtube.com/watch?v=6vw-qTCW8fo) | Sanjay Rawal | 2014 | 83 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Freedom Summer](https://www.pbs.org/wgbh/americanexperience/films/freedomsummer/) | Stanley Nelson, PBS American Experience | 2014 | 113 min | Free | [[critical-pedagogy-and-the-practice-of-liberation/historical\|Critical Pedagogy and the Practice of Liberation · Historical]] |
-| [Gasland](https://archive.org/details/gasland_202012) | Josh Fox | 2010 | 107 min | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
+| [Gasland](https://www.justwatch.com/us/movie/gasland) | Josh Fox | 2010 | 107 min | Paywalled | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Gaza Fights For Freedom](https://www.youtube.com/watch?v=HnZSaKYmP2s) | Abby Martin, Empire Files | 2021 | 84 min | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Grenada: The Future Coming Towards Us](https://vimeo.com/9958883) | Samir Ferdinand, Caribbean Research Institute | 1983 | 55 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Harlan County USA](https://www.criterion.com/films/777-harlan-county-usa) | Barbara Kopple | 1976 | 103 min | Paywalled | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Harvest of Shame](https://archive.org/details/HarvestOfShame) | Edward R. Murrow, David Lowe, CBS Reports | 1960 | 52 min | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
-| [HyperNormalisation](https://archive.org/details/HyperNormalisation) | Adam Curtis, BBC | 2016 | 165 min | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
+| [HyperNormalisation](https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation) | Adam Curtis, BBC | 2016 | 165 min | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [I Am Not Your Negro](https://www.pbs.org/independentlens/documentaries/i-am-not-your-negro/) | Raoul Peck | 2016 | 93 min | Free to borrow | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | 86 min | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Living Utopia (Vivir la Utopía)](https://www.youtube.com/watch?v=gxRXtWvWCuY) | Juan Gamero | 1997 | 95 min | Free | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
@@ -58,9 +58,9 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | [The Revolution Will Not Be Televised](https://archive.org/details/the-revolution-will-not-be-televised-2003-the-venezuela-coup) | Kim Bartley, Donnacha Ó Briain | 2003 | 74 min | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
 | [The Shock Doctrine](https://www.youtube.com/watch?v=B3B5qt6gsxY) | Michael Winterbottom, Naomi Klein | 2009 | 79 min | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [The Take](https://www.cinemapolitica.org/film/the-take/) | Avi Lewis, Naomi Klein | 2004 | 87 min | Paywalled | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
-| [The Take](https://archive.org/details/the-take-2004) | Avi Lewis, Naomi Klein | 2004 | 87 min | Free | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] |
+| [The Take](https://www.justwatch.com/us/movie/the-take) | Avi Lewis, Naomi Klein | 2004 | 87 min | Paywalled | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] |
 | [The Untold Story of Kwame Nkrumah](https://www.youtube.com/watch?v=NKkGJk1v6os) | Bisi | — | 44 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
-| [The Weather Underground](https://archive.org/details/the-weather-underground-2003) | Sam Green, Bill Siegel | 2002 | 92 min | Free | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |
+| [The Weather Underground](https://www.justwatch.com/us/movie/the-weather-underground) | Sam Green, Bill Siegel | 2002 | 92 min | Free to borrow | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |
 | [Thomas Sankara: The Upright Man](https://www.youtube.com/watch?v=Ht3H_Zk80ko) | Robin Shuffield | 2006 | 52 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Union](https://www.pbs.org/pov/films/unionfilm/) | Stephen Maing, Brett Story | 2024 | 90 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Which Way Home](https://tubitv.com/movies/56919/which-way-home) | Rebecca Cammisa | 2009 | 90 min | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
@@ -73,17 +73,17 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | --- | --- | --- | --- | --- | --- |
 | [Even the Rain](https://watch.plex.tv/movie/even-the-rain) | Icíar Bollaín | 2010 | 103 min | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [How to Blow Up a Pipeline](https://www.justwatch.com/us/movie/how-to-blow-up-a-pipeline) | Daniel Goldhaber | 2022 | 104 min | Free to borrow | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
-| [Lumumba](https://archive.org/details/lumumba_film) | Raoul Peck | 2000 | 115 min | Free | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
+| [Lumumba](https://www.justwatch.com/us/movie/lumumba) | Raoul Peck | 2000 | 115 min | Free to borrow | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [Salt of the Earth](https://archive.org/details/salt-of-the-earth-1954) | Herbert J. Biberman | 1954 | 94 min | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
-| [Soy Cuba (I Am Cuba)](https://archive.org/details/soycuba1964) | Mikhail Kalatozov | 1964 | 141 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
-| [The Battle of Algiers](https://archive.org/details/TheBattleOfAlgiers1966) | Gillo Pontecorvo | 1966 | 121 min | Free | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
+| [Soy Cuba (I Am Cuba)](https://www.justwatch.com/us/movie/i-am-cuba) | Mikhail Kalatozov | 1964 | 141 min | Free to borrow | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
+| [The Battle of Algiers](https://www.justwatch.com/us/movie/the-battle-of-algiers) | Gillo Pontecorvo | 1966 | 121 min | Free to borrow | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
 | [The Young Karl Marx](https://watch.plex.tv/movie/the-young-karl-marx) | Raoul Peck | 2017 | 118 min | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
 
 ### Other films
 
 | Title | Director / creator | Year | Length | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
-| [La Commune (Paris, 1871)](https://archive.org/details/LaCommune-Paris1871-2000) | Peter Watkins | 2000 | 346 min | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
+| [La Commune (Paris, 1871)](https://www.justwatch.com/us/movie/la-commune-paris-1871) | Peter Watkins | 2000 | 346 min | Paywalled | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
 
 <!-- END AUTO-GENERATED -->
 

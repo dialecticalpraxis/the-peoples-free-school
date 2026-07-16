@@ -54,10 +54,10 @@ resources:
     year: 2002
     format: film
     kind: documentary
-    access: free
+    access: borrow
     length: "92 min"
-    url: "https://archive.org/details/the-weather-underground-2003"
-    note: "The Oscar-nominated history of the 1970s clandestine group, a critical case study of insurrectionary strategy and its limits against the state. Free to stream and download."
+    url: "https://www.justwatch.com/us/movie/the-weather-underground"
+    note: "The Oscar-nominated history of the 1970s clandestine group, a critical case study of insurrectionary strategy and its limits against the state. Free with a library card on Kanopy or Hoopla."
   - title: "The Battle of Chile"
     authors: ["Patricio Guzmán"]
     year: 1979
@@ -151,7 +151,7 @@ Free unless marked otherwise.
 
 ### Films and documentaries
 
-- **The Weather Underground** (Sam Green and Bill Siegel, 2002, 92 min). The Oscar-nominated history of the 1970s clandestine group, useful as a critical case study of insurrectionary strategy and its limits against the state. Free to stream and download: [archive.org](https://archive.org/details/the-weather-underground-2003)
+- **The Weather Underground** (Sam Green and Bill Siegel, 2002, 92 min). The Oscar-nominated history of the 1970s clandestine group, useful as a critical case study of insurrectionary strategy and its limits against the state. Free with a library card on Kanopy or Hoopla: [justwatch.com](https://www.justwatch.com/us/movie/the-weather-underground)
 - **The Battle of Chile** (Patricio Guzmán, 1975 to 1979). The landmark three-part chronicle of Allende's government, popular power, and the 1973 coup, a primary source on state power and the fragility of the electoral road to socialism. Free to stream: [archive.org](https://archive.org/details/TheBattleOfChileTheCoupDEtat)
 - **The Black Panthers: Vanguard of the Revolution** (Stanley Nelson, 2015, 115 min). A feature history of the Panthers, including the survival programs as dual-power provision and the state repression that followed. Free via Kanopy with a library card; background at [pbs.org](https://www.pbs.org/independentlens/documentaries/the-black-panthers-vanguard-of-the-revolution/).
 

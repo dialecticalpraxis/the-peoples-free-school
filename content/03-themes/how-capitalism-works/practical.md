@@ -25,7 +25,7 @@ resources:
     kind: documentary
     access: free
     length: "165 min"
-    url: "https://archive.org/details/HyperNormalisation"
+    url: "https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation"
     note: "An essay-film on how finance and technocrats built a seemingly stable world for multinational capital."
   - title: "American Factory"
     authors: ["Steven Bognar", "Julia Reichert"]
@@ -137,7 +137,7 @@ Free unless marked otherwise. Many left podcasts publish a free main feed and pa
 
 - **Amazon Empire: The Rise and Reign of Jeff Bezos** (FRONTLINE / PBS, 2020). An investigative look at Amazon's warehouse conditions, worker surveillance, and market power. Current, concrete material on warehouse and platform capitalism. Streams free in full. [pbs.org](https://www.pbs.org/wgbh/frontline/documentary/amazon-empire/)
 - **The Corporation** (Mark Achbar, Jennifer Abbott, Joel Bakan, 2003, 145 min). The landmark documentary that treats the modern corporation "as a person" and diagnoses its behavior. Foundational for understanding corporate power. Full film free: [archive.org](https://archive.org/details/The_Corporation_)
-- **HyperNormalisation** (Adam Curtis / BBC, 2016, 165 min). An essay-film on how, after the crises of the 1970s, finance and technocrats built a seemingly stable world for multinational capital. Provocative framing for a discussion of neoliberalism. Free: [archive.org](https://archive.org/details/HyperNormalisation)
+- **HyperNormalisation** (Adam Curtis / BBC, 2016, 165 min). An essay-film on how, after the crises of the 1970s, finance and technocrats built a seemingly stable world for multinational capital. Provocative framing for a discussion of neoliberalism. Free from the BBC, which released it deliberately and still hosts it, but iPlayer works in the UK only and there is no US route: [bbc.co.uk](https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation)
 - **American Factory** (Steven Bognar and Julia Reichert, 2019). Oscar-winning fly-on-the-wall account of a reopened Ohio factory under Chinese ownership, an excellent deindustrialization and labor case study. Paywalled on Netflix; include only if participants have access. [netflix.com](https://www.netflix.com/title/81090071)
 
 ### Explainers on capitalism today

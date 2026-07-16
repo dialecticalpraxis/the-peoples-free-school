@@ -38,8 +38,8 @@ resources:
     year: 1919
     format: reading
     kind: book
-    access: free
-    url: "https://archive.org/details/weber_max_1864_1920_politics_as_a_vocation"
+    access: paywalled
+    url: "https://hackettpublishing.com/the-vocation-lectures"
     note: "The source of the definition of the state as the human community that claims a monopoly on the legitimate use of physical force within a territory."
   - title: "God and the State"
     authors: ["Mikhail Bakunin"]
@@ -211,7 +211,7 @@ Free unless marked otherwise. The short videos are good on-ramps; the Miliband-P
 ### Hegemony, violence, and power beyond the state
 
 - **Antonio Gramsci** (1891 to 1937), _The Modern Prince_ (Prison Notebooks, 1929 to 1935). Develops hegemony, civil society, and the war of position, showing how ruling classes govern through consent as well as coercion. Central to any modern strategy discussion. Free: [marxists.org](https://www.marxists.org/archive/gramsci/prison_notebooks/modern_prince/index.htm)
-- **Max Weber** (1864 to 1920), _Politics as a Vocation_ (1919). The source of the definition of the state as the human community that claims a monopoly on the legitimate use of physical force within a territory. A non-Marxist definition worth taking seriously and arguing with. Free: [archive.org](https://archive.org/details/weber_max_1864_1920_politics_as_a_vocation)
+- **Max Weber** (1864 to 1920), _Politics as a Vocation_ (1919). The source of the definition of the state as the human community that claims a monopoly on the legitimate use of physical force within a territory. A non-Marxist definition worth taking seriously and arguing with. The text circulating free is the Gerth and Mills 1946 translation, whose copyright was renewed in 1973, and there is no public domain English translation at all: the lecture was not put into English until after the war. Paywalled: [hackettpublishing.com](https://hackettpublishing.com/the-vocation-lectures), and see [[04-resources/index#A note on access|the note on access]] for how to get it. The German original is genuinely public domain and complete: [de.wikisource.org](https://de.wikisource.org/wiki/Politik_als_Beruf)
 - **Michel Foucault** (1926 to 1984), _Discipline and Punish_ (1975). Reframes power as discipline and surveillance dispersed through prisons, schools, and factories rather than held only at the center. Denser, best with the video companion below. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment)
 
 ### Feminist theories of the state

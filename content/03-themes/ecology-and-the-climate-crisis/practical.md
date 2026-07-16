@@ -53,10 +53,10 @@ resources:
     year: 2010
     format: film
     kind: documentary
-    access: free
+    access: paywalled
     length: "107 min"
-    url: "https://archive.org/details/gasland_202012"
-    note: "The Academy Award nominated first-person road trip through communities poisoned by fracking, a key organizing tool for the anti-fracking movement. Free to stream."
+    url: "https://www.justwatch.com/us/movie/gasland"
+    note: "The Academy Award nominated first-person road trip through communities poisoned by fracking, a key organizing tool for the anti-fracking movement. Fox gave Gasland Part II away himself but not this one."
   - title: "Awake: A Dream from Standing Rock"
     authors: ["Myron Dewey", "Josh Fox", "James Spione"]
     year: 2017
@@ -209,7 +209,7 @@ The climate argument is usually had about energy. It is also an argument about w
 
 ### Films and documentaries
 
-- **Gasland** (Josh Fox, 2010, 107 min). The Academy Award nominated first-person road trip through communities poisoned by fracking, a key organizing tool for the anti-fracking movement. Free to stream: [archive.org](https://archive.org/details/gasland_202012)
+- **Gasland** (Josh Fox, 2010, 107 min). The Academy Award nominated first-person road trip through communities poisoned by fracking, a key organizing tool for the anti-fracking movement. Fox released _Gasland Part II_ himself but not this one. Where to watch: [justwatch.com](https://www.justwatch.com/us/movie/gasland)
 - **Awake: A Dream from Standing Rock** (Myron Dewey, Josh Fox, and James Spione, 2017, 89 min). The water-protector-centered account of the NoDAPL resistance camps, co-written with Standing Rock resident Floris White Bull. Posted free in full by co-director Josh Fox. [youtube.com/watch?v=G5EWZxII52c](https://www.youtube.com/watch?v=G5EWZxII52c)
 - **How to Blow Up a Pipeline** (Daniel Goldhaber, 2022, 104 min). A narrative thriller adapting Andreas Malm's book, dramatizing young activists debating and undertaking sabotage of oil infrastructure. A sharp way to open the debate over tactics. Free with a library card on Kanopy, otherwise paid: [justwatch.com](https://www.justwatch.com/us/movie/how-to-blow-up-a-pipeline)
 

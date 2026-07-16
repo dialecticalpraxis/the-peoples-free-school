@@ -22,9 +22,9 @@ resources:
     year: 2000
     format: film
     kind: docudrama
-    access: free
+    access: paywalled
     length: "346 min"
-    url: "https://archive.org/details/LaCommune-Paris1871-2000"
+    url: "https://www.justwatch.com/us/movie/la-commune-paris-1871"
     note: "A near-six-hour reconstruction shot in thirteen days with hundreds of non-actors, using anachronistic TV-news framing to make the Commune feel like live reporting. The definitive immersive film."
   - title: "The Young Karl Marx"
     authors: ["Raoul Peck"]
@@ -101,7 +101,7 @@ All free unless marked otherwise.
 
 - **Prosper-Olivier Lissagaray** (1838 to 1901), _History of the Paris Commune of 1871_. The classic eyewitness history by a Communard who fought on the barricades, built from survivors' testimony. The richest account from inside the event. Free: [marxists.org](https://www.marxists.org/history/france/archive/lissagaray/index.htm)
 - **Louise Michel** (1830 to 1905), _The Red Virgin: Memoirs_ (1886). The memoir of the Commune's most famous woman fighter, written from prison and exile. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/louise-michel-the-red-virgin)
-- **La Commune (Paris, 1871)** (Peter Watkins, 2000, 346 min). A near-six-hour reconstruction with hundreds of non-actors, using fake TV-news framing to make the Commune feel live. Overwhelming and unforgettable. Free: [archive.org](https://archive.org/details/LaCommune-Paris1871-2000)
+- **La Commune (Paris, 1871)** (Peter Watkins, 2000, 346 min). A near-six-hour reconstruction with hundreds of non-actors, using fake TV-news framing to make the Commune feel live. Overwhelming and unforgettable. Where to watch: [justwatch.com](https://www.justwatch.com/us/movie/la-commune-paris-1871)
 
 ### Voices from the mass party
 

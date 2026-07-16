@@ -69,7 +69,7 @@ resources:
     kind: documentary
     access: free
     length: "114 min"
-    url: "https://archive.org/details/Citizen.Four2014"
+    url: "https://www.justwatch.com/us/movie/citizen-four"
     note: "Filmed as Edward Snowden hands over NSA files, a first-hand encounter with the surveillance state. Free to stream and download."
   - title: "Which Way Home"
     authors: ["Rebecca Cammisa"]
@@ -119,7 +119,7 @@ Experiential work begins from the room. These materials extend that testimony. A
 
 ### Films
 
-- **Citizenfour** (Laura Poitras, 2014, 114 min). Filmed as Edward Snowden hands over NSA files, a first-hand encounter with the surveillance state as it happens. Free to stream and download: [archive.org](https://archive.org/details/Citizen.Four2014)
+- **Citizenfour** (Laura Poitras, 2014, 114 min). Filmed as Edward Snowden hands over NSA files, a first-hand encounter with the surveillance state as it happens. Free with ads on Tubi and YouTube, and free on Hoopla: [justwatch.com](https://www.justwatch.com/us/movie/citizen-four)
 - **Which Way Home** (Rebecca Cammisa, 2009, 90 min). Follows unaccompanied child migrants riding freight trains through Mexico toward the US border, the immigration system as lived by children. Free with ads: [tubitv.com](https://tubitv.com/movies/56919/which-way-home)
 
 ## A note on method

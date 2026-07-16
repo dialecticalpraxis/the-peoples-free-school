@@ -28,19 +28,19 @@ resources:
     year: 1966
     format: film
     kind: narrative
-    access: free
+    access: borrow
     length: "121 min"
-    url: "https://archive.org/details/TheBattleOfAlgiers1966"
-    note: "The landmark reconstruction of the Algerian struggle against French colonial rule, shot in a documentary style with people who lived the events. Free to stream and download."
+    url: "https://www.justwatch.com/us/movie/the-battle-of-algiers"
+    note: "The landmark reconstruction of the Algerian struggle against French colonial rule, shot in a documentary style with people who lived the events. Free with a library card on Kanopy, and free with ads on Tubi."
   - title: "Lumumba"
     authors: ["Raoul Peck"]
     year: 2000
     format: film
     kind: narrative
-    access: free
+    access: borrow
     length: "115 min"
-    url: "https://archive.org/details/lumumba_film"
-    note: "A dramatization of Patrice Lumumba's rise as Congo's first prime minister and his assassination, on decolonization and neocolonial intervention. Free to stream and download."
+    url: "https://www.justwatch.com/us/movie/lumumba"
+    note: "A dramatization of Patrice Lumumba's rise as Congo's first prime minister and his assassination, on decolonization and neocolonial intervention. Free with a library card on Kanopy, and free with ads on Tubi."
   - title: "Concerning Violence"
     authors: ["Göran Hugo Olsson"]
     year: 2014
@@ -97,8 +97,8 @@ Experiential work begins from the room, and this theme's room often holds migrat
 
 ### Films
 
-- **The Battle of Algiers** (Gillo Pontecorvo, 1966, 121 min). The landmark reconstruction of the Algerian struggle against French colonial rule, shot in a documentary style with people who lived the events. A touchstone on anti-colonial resistance and counterinsurgency. Free to stream and download: [archive.org](https://archive.org/details/TheBattleOfAlgiers1966)
-- **Lumumba** (Raoul Peck, 2000, 115 min). A dramatization of Patrice Lumumba's rise as Congo's first prime minister and his assassination, on decolonization and neocolonial intervention. Free to stream and download: [archive.org](https://archive.org/details/lumumba_film)
+- **The Battle of Algiers** (Gillo Pontecorvo, 1966, 121 min). The landmark reconstruction of the Algerian struggle against French colonial rule, shot in a documentary style with people who lived the events. A touchstone on anti-colonial resistance and counterinsurgency. Free with a library card on Kanopy, and free with ads on Tubi: [justwatch.com](https://www.justwatch.com/us/movie/the-battle-of-algiers)
+- **Lumumba** (Raoul Peck, 2000, 115 min). A dramatization of Patrice Lumumba's rise as Congo's first prime minister and his assassination, on decolonization and neocolonial intervention. Free with a library card on Kanopy or Hoopla: [justwatch.com](https://www.justwatch.com/us/movie/lumumba)
 - **Concerning Violence** (Göran Hugo Olsson, 2014, 89 min). Archival footage of 1960s and 1970s Global South liberation struggles set to text from Frantz Fanon's _The Wretched of the Earth_, narrated by Lauryn Hill. The best filmed companion to Fanon. Free via library on Hoopla and Kanopy: [watch.plex.tv](https://watch.plex.tv/movie/concerning-violence)
 
 ### Podcasts
