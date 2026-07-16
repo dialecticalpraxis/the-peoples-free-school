@@ -33,14 +33,22 @@ resources:
     access: free
     url: "https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/"
     note: "Names the mechanism by which formally independent states remain economically controlled from outside, written from the vantage of a head of state."
-  - title: "The Development of Underdevelopment"
+  - title: "Latin America: Underdevelopment or Revolution"
     authors: ["Andre Gunder Frank"]
-    year: 1966
+    year: 1969
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/latinamericaunde0000andr"
+    note: "Opens with the full text of The Development of Underdevelopment (1966), the essay that launched dependency theory by arguing that one process produces rich metropoles and poor satellites together. Read the first essay and stop, or go on. Frank writes as a committed dependency theorist against modernization theory."
+  - title: "The Structure of Dependence"
+    authors: ["Theotonio dos Santos"]
+    year: 1970
     format: reading
     kind: article
     access: free
-    url: "https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138824287/ch10/1._Andre_Gunder_Frank,_The_Development_of_Underdevelopment,_1966.pdf"
-    note: "The short essay that launched dependency theory, arguing that the same process produces rich metropoles and poor satellites."
+    url: "http://digamo.free.fr/dosantos70.pdf"
+    note: "Six pages defining dependence as a conditioning situation in which some economies expand only as a reflection of others, and typing it as colonial, financial-industrial, and technological-industrial. The most compact statement of dependency theory in the school. Note this host is HTTP only."
   - title: "World-Systems Analysis: An Introduction"
     authors: ["Immanuel Wallerstein"]
     year: 2004
@@ -91,6 +99,30 @@ resources:
     length: "5 min"
     url: "https://www.youtube.com/watch?v=unCGQDKJ0p0"
     note: "About 107,000 views. A compact summary of Lenin's theory of imperialism as the highest stage of capitalism. A tight opener before the reading."
+  - title: "A Theory of Imperialism"
+    authors: ["Utsa Patnaik", "Prabhat Patnaik"]
+    year: 2016
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://cup.columbia.edu/book/a-theory-of-imperialism/9780231179799/"
+    note: "Argues imperialism is not a stage capitalism passes through but a permanent requirement: the system needs the tropical periphery's commodities and must suppress its wages to get them without inflation. The volume includes David Harvey's critique and their reply, so the disagreement is in the book. Marxist political economy from India."
+  - title: "The Drain of Wealth"
+    authors: ["Utsa Patnaik", "Prabhat Patnaik"]
+    year: 2021
+    format: reading
+    kind: article
+    access: free
+    url: "https://monthlyreview.org/2021/02/01/the-drain-of-wealth/"
+    note: "The free companion to their book: how Britain took Indian goods without paying for them, by paying Indian producers with their own taxes, and what that transfer financed. Utsa Patnaik's drain estimate is the empirical heart of the argument. Marxist and openly polemical."
+  - title: "Poverty and Un-British Rule in India"
+    authors: ["Dadabhai Naoroji"]
+    year: 1901
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://archive.org/details/povertyunbritish00naoruoft"
+    note: "The original statement of the drain theory, by the Indian nationalist who first put numbers to it and who tried to shame Britain with its own liberal principles. The ancestor of every dependency argument in this lens, written half a century before the theory had a name."
   - title: "The Political Economy of Imperialism: A Short Course"
     authors: ["The People's Forum"]
     format: reading
@@ -161,10 +193,16 @@ Free unless marked otherwise. Lenin is the anchor; the "Lenin in Five Minutes" v
 
 ### Dependency and world-systems
 
-- **Andre Gunder Frank** (1929 to 2005), _The Development of Underdevelopment_ (1966). The short essay that launched dependency theory, arguing that the same process produces rich metropoles and poor satellites. A good first reading in this strand. Free PDF: [amazonaws.com](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138824287/ch10/1._Andre_Gunder_Frank,_The_Development_of_Underdevelopment,_1966.pdf)
+- **Andre Gunder Frank** (1929 to 2005), _The Development of Underdevelopment_ (1966), in _Latin America: Underdevelopment or Revolution_ (1969). The essay that launched dependency theory: underdevelopment is not a starting condition that some countries have not yet grown out of, but something actively produced, by the same process and at the same time as development elsewhere. It is the opening essay of this book, so read it and stop if you like. Free to borrow: [archive.org](https://archive.org/details/latinamericaunde0000andr). The canonical _Monthly Review_ printing is durable but costs three dollars: [monthlyreviewarchives.org](https://monthlyreviewarchives.org/mr/article/view/MR-018-04-1966-08_3)
+- **Theotonio dos Santos** (1936 to 2018), _The Structure of Dependence_ (1970). Six pages, and the tightest statement of the theory in this lens: dependence is a conditioning situation in which some economies can expand only as a reflection of the expansion of others, and it comes in colonial, financial-industrial, and technological-industrial forms. Free: [digamo.free.fr](http://digamo.free.fr/dosantos70.pdf) (this host is HTTP only, and the essay is also on JSTOR behind a paywall)
 - **Immanuel Wallerstein** (1930 to 2019), _World-Systems Analysis: An Introduction_ (2004). The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy. Free to borrow: [archive.org](https://archive.org/details/worldsystemsanal0000wall)
 - **Samir Amin** (1931 to 2018), _Imperialism and Unequal Development_ (1976). Develops unequal development and the case for "delinking" peripheral economies from the world market, a position the liberatory lens takes up. Free to borrow: [archive.org](https://archive.org/details/imperialismunequ00amin)
 - **Arghiri Emmanuel** (1911 to 2001), _Unequal Exchange_ (1972). The controversial argument that international wage differences transfer value from poor countries to rich ones through ordinary trade. Debated hard, and worth the debate. Free to borrow: [archive.org](https://archive.org/details/unequalexchanges0000emma)
+
+### The drain, from India
+
+- **Dadabhai Naoroji** (1825 to 1917), _Poverty and Un-British Rule in India_ (1901). The original drain theory, and the ancestor of everything in the section above: Naoroji put numbers to what Britain was taking out of India and tried to shame the empire with its own liberal principles. Dependency theory arrived at his conclusion half a century later, with a different vocabulary. Free: [archive.org](https://archive.org/details/povertyunbritish00naoruoft)
+- **Utsa Patnaik** and **Prabhat Patnaik**, _A Theory of Imperialism_ (2016). Imperialism is not a stage capitalism passes through but a standing requirement: the system needs the tropical periphery's commodities, and must hold its wages down to get them without setting off inflation at home. The volume prints David Harvey's critique and their reply, so the disagreement is inside the book. Paywalled: [cup.columbia.edu](https://cup.columbia.edu/book/a-theory-of-imperialism/9780231179799/). Their free essay _The Drain of Wealth_ carries the empirical heart of it, including Utsa Patnaik's estimate of what Britain took: [monthlyreview.org](https://monthlyreview.org/2021/02/01/the-drain-of-wealth/)
 
 ### Imperialism today
 

@@ -100,6 +100,62 @@ resources:
     length: "6 min"
     url: "https://www.youtube.com/watch?v=9VZEkURD9oI"
     note: "About 29,000 views, a niche pick. A subtitled excerpt of Sankara at the OAU calling for a united front against debt. Pairs with the text of the speech."
+  - title: "Speech at the Opening of the Bandung Conference"
+    authors: ["Sukarno"]
+    year: 1955
+    format: primary-source
+    kind: speech
+    access: free
+    url: "https://www.cvce.eu/content/publication/2001/9/5/88d3f71c-c9f9-415a-b397-b27b8581a4f5/publishable_en.pdf"
+    note: "The speech that opened the conference, telling the delegates they were meeting as the first intercontinental conference of colored peoples in the history of mankind. Eight pages. The founding voice of non-alignment, and the companion to the Final Communiqué already in this lens."
+  - title: "Supplementary Theses on the National and Colonial Questions"
+    authors: ["M.N. Roy", "V.I. Lenin"]
+    year: 1920
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://redsails.org/theses-on-the-national-and-colonial-questions/"
+    note: "Roy, an Indian communist, argued at the Second Congress that Lenin conceded too much to bourgeois nationalists in the colonies, and won a hearing: both sets of theses were adopted. The moment the colonial question split the communist movement, in the words of the two men who split it."
+  - title: "Communism and Pan-Islamism"
+    authors: ["Tan Malaka"]
+    year: 1922
+    format: primary-source
+    kind: speech
+    access: free
+    url: "https://www.marxists.org/archive/malaka/1922-Panislamism.htm"
+    note: "The Indonesian communist telling the Comintern it had misread pan-Islamism, which in the colonies meant not clerical reaction but the struggle of colonized Muslims against imperialism. A live question in this school's coming work on religion and reaction."
+  - title: "To Young Political Workers"
+    authors: ["Bhagat Singh"]
+    year: 1931
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.marxists.org/archive/bhagat-singh/1931/02/02.htm"
+    note: "Written weeks before he was hanged at 23, arguing that swapping British rulers for Indian ones would change nothing without a social revolution, and that the movement needed a programme rather than heroics. The Indian revolutionary left's answer to nationalism as an end in itself."
+  - title: "The Miseducation of the Filipino"
+    authors: ["Renato Constantino"]
+    year: 1970
+    format: reading
+    kind: article
+    access: free
+    url: "https://eaop.ucsd.edu/198/group-identity/THE%20MISEDUCATION%20OF%20THE%20FILIPINO.pdf"
+    note: "How American colonial schooling produced Filipinos educated to admire the colonizer and to find their own history embarrassing, which Constantino calls a conquest more lasting than the military one. Twelve pages, and a direct bridge to the critical pedagogy theme."
+  - title: "People's War, People's Army"
+    authors: ["Vo Nguyen Giap"]
+    year: 1961
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://www.marxists.org/archive/giap/works/1961/peoples-war-peoples-army/1961-pwpa.pdf"
+    note: "The general who beat France and then the United States explaining how, in his own words: a war a peasant country wins by refusing to fight the war the empire came to fight. Written as a manual for others to copy, which many did."
+  - title: "Philippine Society and Revolution"
+    authors: ["Amado Guerrero"]
+    year: 1970
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://www.marxists.org/history/philippines/cpp/guerrero/1970/psr.htm"
+    note: "The founding analysis of the Communist Party of the Philippines, reading the country as semi-colonial and semi-feudal and prescribing protracted people's war. Guerrero is the pen name of Jose Maria Sison. Committed Maoist, and the standpoint is the argument."
   - title: "Indigeneity, Settler Colonialism, and Indigenous Liberation (reading list)"
     authors: ["The Red Nation"]
     format: reading
@@ -142,6 +198,18 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 - **Ho Chi Minh** (1890 to 1969), _Declaration of Independence of the Democratic Republic of Vietnam_ (1945). Turns the language of the American and French revolutions against French and Japanese colonialism to proclaim Vietnamese sovereignty. Free: [marxists.org](https://www.marxists.org/reference/archive/ho-chi-minh/works/1945/declaration-independence.htm)
 - **Asian-African Conference**, _Final Communiqué of the Bandung Conference_ (1955). The founding document of non-alignment and Afro-Asian solidarity, setting out anti-colonial and economic-cooperation principles. The charter of the Third World project. Free: [worldjpn.net](https://worldjpn.net/documents/texts/docs/19550424.D1E.html)
 
+### Asian anticolonialism
+
+Most of the voices above are African or Latin American, and Ho Chi Minh was carrying Asia alone. These are the arguments the same century produced from India, Indonesia, and the Philippines, and they are not the same arguments: the drain, the split between communism and nationalism, and the colonization of the mind.
+
+- **Sukarno** (1901 to 1970), _Speech at the Opening of the Bandung Conference_ (1955). Eight pages that open the meeting he called the first intercontinental conference of colored peoples in the history of mankind. The founding voice of non-alignment, and the companion to the Final Communiqué above. Free: [cvce.eu](https://www.cvce.eu/content/publication/2001/9/5/88d3f71c-c9f9-415a-b397-b27b8581a4f5/publishable_en.pdf)
+- **M.N. Roy** (1887 to 1954) and **V.I. Lenin**, _Supplementary Theses on the National and Colonial Questions_ (1920). At the Second Congress, Roy told Lenin he was conceding too much to bourgeois nationalists in the colonies, and won enough of the argument that both sets of theses were adopted together. Read them side by side: this is the moment the colonial question split the communist movement, and the split has never closed. Free: [redsails.org](https://redsails.org/theses-on-the-national-and-colonial-questions/)
+- **Bhagat Singh** (1907 to 1931), _To Young Political Workers_ (1931). Written weeks before the British hanged him at 23: swapping British rulers for Indian ones changes nothing without a social revolution, and a movement needs a programme rather than heroics. The Indian revolutionary left's answer to nationalism as an end in itself, and it belongs beside the Anarchist Federation's dissent below. Free: [marxists.org](https://www.marxists.org/archive/bhagat-singh/1931/02/02.htm)
+- **Tan Malaka** (1897 to 1949), _Communism and Pan-Islamism_ (1922). The Indonesian communist telling the Comintern to its face that it had misread pan-Islamism, which in the colonies meant not clerical reaction but colonized Muslims fighting empire. Free: [marxists.org](https://www.marxists.org/archive/malaka/1922-Panislamism.htm)
+- **Renato Constantino** (1919 to 1999), _The Miseducation of the Filipino_ (1970). American colonial schooling produced Filipinos trained to admire the colonizer and to find their own history embarrassing, a conquest Constantino thought more durable than the military one. Twelve pages, and the bridge to [[03-themes/critical-pedagogy-and-the-practice-of-liberation/index|Critical Pedagogy and the Practice of Liberation]]. Free: [eaop.ucsd.edu](https://eaop.ucsd.edu/198/group-identity/THE%20MISEDUCATION%20OF%20THE%20FILIPINO.pdf)
+- **Vo Nguyen Giap** (1911 to 2013), _People's War, People's Army_ (1961). The general who beat France and then the United States, explaining how a peasant country wins by refusing to fight the war the empire came to fight. He wrote it as a manual for others to copy, and they did. Free: [marxists.org](https://www.marxists.org/archive/giap/works/1961/peoples-war-peoples-army/1961-pwpa.pdf)
+- **Amado Guerrero** (Jose Maria Sison, 1939 to 2022), _Philippine Society and Revolution_ (1970). The founding analysis of the Communist Party of the Philippines: the country as semi-colonial and semi-feudal, and protracted people's war as the answer. Committed Maoist, written by the party's founder under a pen name, and the standpoint is the argument rather than a caveat to it. Free: [marxists.org](https://www.marxists.org/history/philippines/cpp/guerrero/1970/psr.htm)
+
 ### Debates and disagreements
 
 The school holds the disagreements open. National liberation is not one program, and not everyone thinks the nation is the road to freedom.
@@ -167,4 +235,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of what the socialist and non-aligned experiments built and where they failed, and contemporary internationalisms beyond the nation-state.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially contemporary internationalisms beyond the nation-state, and anticolonial voices from the Middle East, North Africa, and the Caribbean, which this lens still does not carry. What the socialist and non-aligned experiments built and where they failed is now covered at length in [[03-themes/socialism-and-national-liberation/index|Socialism and National Liberation]].
