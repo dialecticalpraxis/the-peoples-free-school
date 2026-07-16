@@ -87,7 +87,7 @@ resources:
     kind: book
     access: paywalled
     url: "https://www.northatlanticbooks.com/shop/belly-of-the-beast/"
-    note: "Harrison ends where this lens has to: if health was never promised, then demanding health is demanding entry to a category built to exclude you, and the question becomes what to want instead. They use they/them. No borrowable copy exists."
+    note: "Harrison ends where this lens has to: if health was created as the antithesis of Blackness, then demanding health is demanding entry to a category that is defined by your exclusion, and the question becomes what to want instead. They use they/them. No borrowable copy exists."
   - title: "Mutual Aid: Building Solidarity During This Crisis (teaching guide)"
     authors: ["Dean Spade"]
     year: 2020
@@ -112,7 +112,7 @@ The argument is not left against liberal. It runs inside the left, and it is abo
 - If you nationalize the insurance and change nothing else, what happens to the person whose body will never work again?
 - The Denver Principles refuse the word victim and the word patient. What is left, and why does it matter who chooses the word?
 - Talila Lewis defines ableism through what a body is expected to produce. Does Medicare for All fail that test?
-- Harrison says health was never promised to Black people. If that is right, is demanding health the wrong demand?
+- Harrison says health was created as the antithesis of Blackness. If the category is defined by your exclusion, is demanding health the wrong demand?
 - The Panthers built clinics. Is that a model or an indictment?
 
 ## Materials
@@ -142,7 +142,7 @@ This is the sharpest position in the lens and the easiest to miss.
 ### The demand built by the people the history was done to
 
 - **SisterSong**, _Reproductive Justice_. Black women built this framework because rights language could not hold their situation: the right to have a child, the right not to, and the right to raise that child in safety. Read it directly after the sterilization material in [[03-themes/health-capitalism-and-whose-bodies-count/historical|the historical lens]]. Shared with [[03-themes/gender-reproduction-and-the-household/practical|the gender theme]]. Free: [sistersong.net](https://www.sistersong.net/reproductive-justice)
-- **Da'Shaun L. Harrison**, _Belly of the Beast_ (2021). The hardest version of the question: if health was never promised to Black people, then demanding health is asking to be let into a category that was built by excluding you, and the demand may need to be something else entirely. Paywalled: [northatlanticbooks.com](https://www.northatlanticbooks.com/shop/belly-of-the-beast/)
+- **Da'Shaun L. Harrison**, _Belly of the Beast_ (2021). The hardest version of the question: if "health" was created as the antithesis of Blackness, then demanding health is asking to be admitted to a category whose definition is your exclusion, and the demand may need to be something else entirely. Paywalled: [northatlanticbooks.com](https://www.northatlanticbooks.com/shop/belly-of-the-beast/)
 - **Dean Spade**, _Mutual Aid_ teaching guide (2020). What people do while the argument is unresolved: build survival infrastructure that neither waits for the state nor turns into a charity. Free: [v.versobooks.com](https://v.versobooks.com/Mutual_Aid_Teaching_Guide.pdf)
 
 ## Debates and disagreements
@@ -151,7 +151,7 @@ Three arguments, and this school resolves none of them.
 
 - **Is health a good or a machine?** Medicare for All says the good exists and is criminally distributed, so guarantee it, and points at every other rich country as proof it can be done. Health communism says the thing being distributed is extraction, that debility is a product line rather than a failure, and that universal access would universalize the arrangement while making it harder to see. The first has the advantage of being achievable and having actually reduced suffering elsewhere. The second has the advantage of explaining why the achievable version keeps producing the same casualties.
 - **Disability justice knifes both.** Take Lewis seriously and the two poles above share a premise: that the point of health is a body that works. A system organized around restoring people to productivity has kept eugenics' criterion and changed only the payer, and neither single payer nor its abolition automatically fixes that. This is the position least likely to arrive in the room on its own and the one most likely to reorganize it.
-- **Who holds the pen?** The Denver Principles were written by people with AIDS because everyone else was speaking for them. Then read the single-payer case, argued by physicians on behalf of patients, and the disability justice material, written by disabled people about themselves. That is not a detail about tone. Harrison's claim, that health was never promised, is a claim you can only make from inside the excluded category, and it is the claim that decides what the demand should be. **Ask the room who is writing each of these documents, and about whom.**
+- **Who holds the pen?** The Denver Principles were written by people with AIDS because everyone else was speaking for them. Then read the single-payer case, argued by physicians on behalf of patients, and the disability justice material, written by disabled people about themselves. That is not a detail about tone. Harrison's claim, that health was built as the antithesis of Blackness, is a claim you can only make from inside the excluded category, and it is the claim that decides what the demand should be. **Ask the room who is writing each of these documents, and about whom.**
 
 ## Status
 

@@ -114,7 +114,7 @@ All free unless marked otherwise. Lead with Hedva or Johnson; both are short and
 
 ## A note on method
 
-**The disbelief is the finding.** A room will produce a dozen stories about not being listened to, and the temptation is to treat them as anecdotes on the way to the real material. They are the real material. Every structural claim in this theme, that some bodies are priced lower, that health was never promised, cashes out as somebody in an examining room not being believed about their own body. Let the room notice that its stories are patterned before the theory tells them so.
+**The disbelief is the finding.** A room will produce a dozen stories about not being listened to, and the temptation is to treat them as anecdotes on the way to the real material. They are the real material. Every structural claim in this theme, that some bodies are priced lower, that health was built as the antithesis of Blackness, cashes out as somebody in an examining room not being believed about their own body. Let the room notice that its stories are patterned before the theory tells them so.
 
 ## Status
 
