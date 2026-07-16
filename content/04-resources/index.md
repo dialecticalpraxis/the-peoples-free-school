@@ -35,6 +35,22 @@ The tables on these pages are **generated automatically** from the resources tag
 
 The full field reference — valid `format`, `kind`, and `access` values, with examples — is in the [contributing guide](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md#adding-a-resource-field-reference). After a change is merged, the tables regenerate on their own.
 
+## How I chose these, and what that means for you
+
+I should tell you how this library got built, because it changes how you should use it.
+
+I did not read everything here. I want to say that plainly rather than let the shape of the thing imply otherwise. A catalogue this size, across fifteen themes, is not the record of one person's reading; it is the record of one person hunting. I went looking for what a study circle would need on each question: the text a tradition is built on, the person who said it first, the argument on the other side, the account from someone who lived it rather than studied it. I chased those through movement archives, university presses, oral history collections, reviews, syllabi, bibliographies, and the footnotes of things I did read. Then I checked that each one is what it says it is, that the link works, that the thing is actually reachable, and that I named where the author is standing. What I could not do, for every item, is sit with it.
+
+So treat this as a map drawn by someone who has walked some of the territory and surveyed the rest. Maps are still worth having. But do not mistake a resource's presence here for my endorsement of it, and do not mistake my note for a verdict. **The note is my best current read, not a ruling**, and some of them will be wrong.
+
+Specifically, some of them will be wrong in these ways. **Some things will not fit the theme the way I thought they did.** I placed each item where the argument seemed to want it, and I have already been wrong about that more than once and moved things after the fact. If you get to the end of a reading and think this is really about something else, you are probably right, and I would rather hear it than not. **Some notes will overstate or flatten what an author actually says.** I have found this in my own writing here: I compressed an argument into a sentence I liked, and when I went back to the source the real claim was sharper and stranger than my summary. Where that happens, the author is right and I am not. **And some of this will be hard to read.** There is material here on sterilization, on lynching, on famine, on what was done to people's bodies without their consent and often with the law's blessing. It is here because leaving it out would be a lie about how the world was made, not because anyone owes it their attention on a given evening. Look at what a session holds before you walk into a room with it, tell people what is coming, and let them leave.
+
+The reason I built it wide rather than narrow is that I do not know your room and you do. A short list is a claim about what matters. A long one is an invitation to choose, and choosing is the work. Take what serves the people in front of you, leave what does not, and add what I missed.
+
+Which brings me to the part that matters most. **This school asks you to read everything critically, and that has to include this school.** The pedagogy here says knowledge is made rather than handed down, and a library that exempted its own curator from that would be teaching the opposite of what it says. So argue with the selections. Notice who is missing, because someone always is, and the pattern of who is missing is itself an argument I did not intend to make. Notice when a note is doing your thinking for you. Notice when a Status line says a lens is thin and ask what that thinness is hiding. If you find something wrong, [tell me](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md), and if you find something missing, bring it.
+
+I would rather this library be argued with than trusted.
+
 ## A note on access
 
 Many of the resources the school uses are available freely online. Others require library access, purchase, or subscription. The school does not host or distribute copyrighted material. When a reading is paywalled or only available in print, the school links to a publisher page and notes the situation.

@@ -22,7 +22,9 @@ Reflection runs through everything we do. We open each session by checking in wi
 
 ## What we study
 
-The curriculum is shaped by the people who show up. The library here is organized around themes that matter to working people: how capitalism works, labor and organizing, race and racial capitalism, gender and the household, imperialism, the state and political power, mutual aid and movements for liberation, ecology and the climate crisis, and the practice of liberation itself. When a study circle forms or a question pulls people together, we draw from this library and from whatever else the room needs.
+The curriculum is shaped by the people who show up. The library here is organized around themes that matter to working people: how capitalism works, labor and organizing, race and racial capitalism, gender and the household, health and whose bodies count, settler colonialism and the land, imperialism, the state and political power, mutual aid and movements for liberation, ecology and the climate crisis, and the practice of liberation itself. When a study circle forms or a question pulls people together, we draw from this library and from whatever else the room needs.
+
+The library is deliberately larger than any one group will use, and it is not a syllabus. I have written down [how I chose what is in it](04-resources/index#How I chose these, and what that means for you), including what I have not read and where I have already been wrong, because a school that asks you to read everything critically cannot exempt itself. Argue with it.
 
 ## Where this comes from
 
