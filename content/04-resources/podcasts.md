@@ -8,7 +8,7 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_53 podcasts. Generated from theme lens frontmatter._
+_55 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
@@ -21,11 +21,13 @@ _53 podcasts. Generated from theme lens frontmatter._
 | [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) | Gene Demby, Shereen Marisol Meraji, NPR | 2016– | Free | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
 | [Cosmonaut Magazine and podcast](https://cosmonautmag.com/) | Cosmonaut | 2019– | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [Death Panel](https://www.deathpanel.net/transcripts/s23-health-and-capital) | Death Panel | 2018– | Free | [[gender-reproduction-and-the-household/practical\|Gender, Reproduction, and the Household · Practical]] |
+| [Death Panel](https://www.deathpanel.net/) | Beatrice Adler-Bolton, Artie Vierkant, Phil Rocco | — | Free | [[health-capitalism-and-whose-bodies-count/liberatory\|Health, Capitalism, and Whose Bodies Count · Liberatory]] |
 | [Drilled](https://drilled.media/about) | Amy Westervelt | 2018– | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Ear Hustle](https://www.earhustlesq.com/) | Nigel Poor, Earlonne Woods | 2017– | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [Economic Update](https://www.democracyatwork.info/economicupdate) | Richard D. Wolff, Democracy at Work | 2011– | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [Emergence Magazine Podcast](https://emergencemagazine.org/podcast/) | Emergence Magazine | 2018– | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Empire](https://www.empirepoduk.com) | Anita Anand, William Dalrymple | 2022– | Free | [[imperialism-and-the-global-system/experiential\|Imperialism and the Global System · Experiential]] |
+| [Food Is Just the Beginning: A Conversation with Monica White](https://edgeeffects.net/monica-white/) | Monica M. White, Brian Hamilton | 2019– | Free | [[health-capitalism-and-whose-bodies-count/practical\|Health, Capitalism, and Whose Bodies Count · Practical]] |
 | [Green and Red: Podcasts for Scrappy Radicals](https://greenandredpodcast.org/) | Bob Buzzanco, Scott Parkin | 2020– | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Guerrilla History](https://guerrillahistory.libsyn.com/) | Henry Hakamäki, Adnan Husain | 2020– | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Guerrilla History](https://podcasts.apple.com/us/podcast/guerrilla-history/id1539353315) | Adnan Husain, Henry Hakamaki | 2020– | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |

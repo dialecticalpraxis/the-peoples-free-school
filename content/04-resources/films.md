@@ -8,7 +8,7 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_65 films and documentaries. Generated from theme lens frontmatter._
+_68 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
@@ -38,10 +38,12 @@ _65 films and documentaries. Generated from theme lens frontmatter._
 | [Grenada: The Future Coming Towards Us](https://vimeo.com/9958883) | Samir Ferdinand, Caribbean Research Institute | 1983 | 55 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Harlan County USA](https://www.criterion.com/films/777-harlan-county-usa) | Barbara Kopple | 1976 | 103 min | Paywalled | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Harvest of Shame](https://archive.org/details/HarvestOfShame) | Edward R. Murrow, David Lowe, CBS Reports | 1960 | 52 min | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
+| [How to Survive a Plague](https://tubitv.com/movies/100000101/how-to-survive-a-plague) | David France | 2012 | 109 min | Free | [[health-capitalism-and-whose-bodies-count/practical\|Health, Capitalism, and Whose Bodies Count · Practical]] |
 | [HyperNormalisation](https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation) | Adam Curtis, BBC | 2016 | 165 min | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [I Am Not Your Negro](https://www.pbs.org/independentlens/documentaries/i-am-not-your-negro/) | Raoul Peck | 2016 | 93 min | Free to borrow | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
 | [Incident at Restigouche](https://www.nfb.ca/film/incident_at_restigouche/) | Alanis Obomsawin | 1984 | 46 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Kanehsatake: 270 Years of Resistance](https://www.nfb.ca/film/kanehsatake_270_years_of_resistance/) | Alanis Obomsawin | 1993 | 119 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
+| [La Operacion](https://store.cinemaguild.com/nontheatrical/product/1661.html) | Ana Maria Garcia | 1982 | 40 min | Paywalled | [[health-capitalism-and-whose-bodies-count/historical\|Health, Capitalism, and Whose Bodies Count · Historical]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | 86 min | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Living Utopia (Vivir la Utopía)](https://www.youtube.com/watch?v=gxRXtWvWCuY) | Juan Gamero | 1997 | 95 min | Free | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
 | [No Gods No Masters: A History of Anarchism](https://archive.org/details/NoGodsNoMasters2) | Tancrède Ramonet | 2016 | 3 parts | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
@@ -68,6 +70,7 @@ _65 films and documentaries. Generated from theme lens frontmatter._
 | [Thomas Sankara: The Upright Man](https://www.youtube.com/watch?v=Ht3H_Zk80ko) | Robin Shuffield | 2006 | 52 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Trick or Treaty?](https://www.nfb.ca/film/trick_or_treaty/) | Alanis Obomsawin | 2014 | 85 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Union](https://www.pbs.org/pov/films/unionfilm/) | Stephen Maing, Brett Story | 2024 | 90 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [United in Anger: A History of ACT UP](https://www.unitedinanger.com/) | Jim Hubbard, Sarah Schulman | 2012 | 93 min | Paywalled | [[health-capitalism-and-whose-bodies-count/practical\|Health, Capitalism, and Whose Bodies Count · Practical]] |
 | [Which Way Home](https://tubitv.com/movies/56919/which-way-home) | Rebecca Cammisa | 2009 | 90 min | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [Whose Streets?](https://www.pbs.org/pov/films/whosestreets/) | Sabaah Folayan, Damon Davis | 2017 | 102 min | Free to borrow | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
 | [You Got to Move: Stories of Change in the South](https://www.zinnedproject.org/materials/you-got-to-move-highlander-center/) | Lucy Massie Phenix, Veronica Selver | 1985 | — | Paywalled | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |

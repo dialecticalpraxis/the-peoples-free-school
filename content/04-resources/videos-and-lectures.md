@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_135 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_136 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ _135 videos and lectures — online explainers, lectures, and video essays (dist
 | [Nick Estes on Standing Rock (Democracy Now!)](https://www.youtube.com/watch?v=BGgoXknPl8I) | Nick Estes, Democracy Now! | 2019 | — | interview | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Paulo Freire: An Incredible Conversation](https://www.youtube.com/watch?v=aFWjnkFypFA) | Paulo Freire, LiteracyDotOrg | 2016 | ~9 min | interview | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Paulo Freire and Critical Pedagogy](https://www.youtube.com/watch?v=wFOhVdQt27c) | FreireProject | 2008 | ~9 min | explainer | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
-| [Geographies of Racial Capitalism with Ruth Wilson Gilmore](https://www.youtube.com/watch?v=2CS627aKrJI) | Ruth Wilson Gilmore, Antipode Foundation | 2020 | 16 min | lecture | Free | [[anti-blackness-and-racial-capitalism/theoretical\|Anti-Blackness and Racial Capitalism · Theoretical]] |
+| [Geographies of Racial Capitalism with Ruth Wilson Gilmore](https://www.youtube.com/watch?v=2CS627aKrJI) | Ruth Wilson Gilmore, Antipode Foundation | 2020 | 16 min | lecture | Free | [[anti-blackness-and-racial-capitalism/theoretical\|Anti-Blackness and Racial Capitalism · Theoretical]]<br>[[health-capitalism-and-whose-bodies-count/theoretical\|Health, Capitalism, and Whose Bodies Count · Theoretical]] |
 | [Ursula K. Le Guin's Defense of Art over Profits](https://www.youtube.com/watch?v=s2v7RDyo7os) | Ursula K. Le Guin, American Masters (PBS) | 2014 | 12 min | speech | Free | [[anarchism-mutual-aid-and-prefiguration/liberatory\|Anarchism, Mutual Aid, and Prefiguration · Liberatory]] |
 | [Explaining the Economy of the Soviet Union](https://www.youtube.com/watch?v=nGm0u3UHDZM) | Hakim | 2022 | 28 min | explainer | Free | [[revolution-in-power/theoretical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Theoretical]] |
 | [Crises of Capitalism (RSA Animate)](https://www.youtube.com/watch?v=qOP2V_np2c0) | David Harvey, The RSA | 2010 | 11 min | explainer | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
@@ -102,6 +102,7 @@ _135 videos and lectures — online explainers, lectures, and video essays (dist
 | [Lenin in Five Minutes: Imperialism](https://www.youtube.com/watch?v=unCGQDKJ0p0) | The Marxist Project | 2019 | 5 min | explainer | Free | [[imperialism-and-the-global-system/theoretical\|Imperialism and the Global System · Theoretical]] |
 | [Lenin in Five Minutes: The Dictatorship of the Proletariat and the State](https://www.youtube.com/watch?v=4KDdIzkDcLw) | The Marxist Project | 2019 | 5 min | explainer | Free | [[the-state-strategy-and-power/theoretical\|The State, Strategy, and Power · Theoretical]] |
 | [A healthy economy should be designed to thrive, not grow](https://www.youtube.com/watch?v=Rhcrbcg8HBw) | Kate Raworth, TED | 2018 | 16 min | lecture | Free | [[ecology-and-the-climate-crisis/theoretical\|Ecology and the Climate Crisis · Theoretical]] |
+| [The Problem With Race-Based Medicine](https://www.youtube.com/watch?v=KxLMjn4WPBY) | Dorothy Roberts, TED | 2015 | 15 min | lecture | Free | [[health-capitalism-and-whose-bodies-count/historical\|Health, Capitalism, and Whose Bodies Count · Historical]] |
 | [RSA ANIMATE: Changing Education Paradigms](https://www.youtube.com/watch?v=zDZFcDGpL4U) | Ken Robinson, The RSA | 2010 | ~12 min | explainer | Free | [[critical-pedagogy-and-the-practice-of-liberation/experiential\|Critical Pedagogy and the Practice of Liberation · Experiential]] |
 | [Gabriel Rockhill — Are Fascism and Liberalism Partners in Capitalist Crime?](https://www.youtube.com/watch?v=Vnn_bWDmizw) | Gabriel Rockhill | — | — | lecture | Free | _unfiled_ |
 | [Gabriel Rockhill — Liberalism and Fascism: The State of American Politics](https://www.youtube.com/watch?v=y2iJLGI2AP4) | Gabriel Rockhill | — | — | lecture | Free | _unfiled_ |
