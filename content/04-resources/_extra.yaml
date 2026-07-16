@@ -1,0 +1,92 @@
+# Central resource list — for resources NOT filed under a specific theme + lens.
+#
+# Most resources should live in the frontmatter of a theme lens file
+# (content/themes/<theme>/<lens>.md), because that gives them an automatic
+# "Used in" link and keeps them next to the curated write-up. Use THIS file
+# only for resources that don't belong to one lens yet — cross-cutting works,
+# an inbox of things to file later, etc.
+#
+# Entries use the same fields as lens frontmatter, plus an optional `used_in:`
+# (plain text or a [[wikilink]]) since the location can't be inferred here.
+# The filename starts with "_" so Quartz does not publish it as a page.
+#
+# Uncomment and copy this template to add one:
+#
+# resources:
+#   - title: "Example Work"
+#     authors: ["Author Name"]
+#     year: 2020
+#     format: reading          # reading | primary-source | film | video | podcast
+#     kind: book
+#     access: free             # free | borrow | paywalled | print
+#     url: "https://example.org"
+#     note: "One-line description for the tables."
+#     used_in: "Not yet filed"   # optional: shows in the 'Used in' column
+
+resources:
+  # Books contributed via the chapter resource list, not yet filed into a theme.
+  - title: "Less is More: How Degrowth Will Save the World"
+    authors: ["Jason Hickel"]
+    year: 2020
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.jasonhickel.org/less-is-more"
+    note: "A leading popular case for degrowth as a response to ecological crisis."
+  - title: "No Shortcuts: Organizing for Power in the New Gilded Age"
+    authors: ["Jane McAlevey"]
+    year: 2016
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/"
+    note: "An argument for deep organizing and building worker power, not just mobilizing."
+  - title: "The Future is Degrowth: A Guide to a World beyond Capitalism"
+    authors: ["Matthias Schmelzer", "Aaron Vansintjan", "Andrea Vetter"]
+    year: 2022
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.versobooks.com/products/2620-the-future-is-degrowth"
+    note: "A comprehensive scholarly guide to degrowth thought and strategy."
+  - title: "Undoing the Demos: Neoliberalism's Stealth Revolution"
+    authors: ["Wendy Brown"]
+    year: 2015
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://press.princeton.edu/books/paperback/9781935408543/undoing-the-demos"
+    note: "How neoliberal rationality hollows out democratic life."
+  - title: "The Long Transition Towards Socialism and The End of Capitalism"
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.goodreads.com/book/show/220234244-the-long-transition-towards-socialism-and-the-end-of-capitalism"
+    note: "On the long transition beyond capitalism."
+  - title: "Unequal Exchange: Past, Present, and Future"
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.iskrabooks.org/books/p/ue-past-present-future"
+    note: "On unequal exchange and imperialism in the world economy."
+  # Lectures contributed via the chapter resource list.
+  - title: "Gabriel Rockhill — Are Fascism and Liberalism Partners in Capitalist Crime?"
+    authors: ["Gabriel Rockhill"]
+    format: video
+    kind: lecture
+    access: free
+    url: "https://www.youtube.com/watch?v=Vnn_bWDmizw"
+    note: "A lecture arguing liberalism and fascism are entangled within capitalism."
+  - title: "Gabriel Rockhill — Liberalism and Fascism: The State of American Politics"
+    authors: ["Gabriel Rockhill"]
+    format: video
+    kind: lecture
+    access: free
+    url: "https://www.youtube.com/watch?v=y2iJLGI2AP4"
+    note: "A lecture on the relationship between liberalism and fascism in U.S. politics."
+  - title: "Marxism (YouTube lecture playlist)"
+    format: video
+    kind: lecture
+    access: free
+    url: "https://www.youtube.com/playlist?list=PLq-kUiXssVioxBWwToyN3Apqd8f_a7mCC"
+    note: "A YouTube playlist collecting Marxism lectures."

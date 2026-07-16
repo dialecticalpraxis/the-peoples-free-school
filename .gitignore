@@ -1,0 +1,18 @@
+# Obsidian workspace files (personal, machine-specific)
+# The vault lives in content/, so its .obsidian sits there.
+content/.obsidian/workspace
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+
+# macOS metadata files
+.DS_Store
+
+# Vim/editor temp files
+*.swp
+*~
+
+# Quartz build artifacts and dependencies
+node_modules/
+public/
+.quartz-cache/
+.quartz/

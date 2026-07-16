@@ -1,0 +1,262 @@
+# Top-level SOURCES — archives, libraries, publishers, podcast shows, and
+# channels worth exploring on their own, as opposed to the specific items
+# (single texts, episodes, films) that live in theme lens files.
+#
+# This is a curated "where to go dig" list. It is hand-maintained here (not
+# inferred from theme files), because sources span every theme. The generator
+# renders it into sources.md. The filename starts with "_" so Quartz does not
+# publish this raw file as a page.
+#
+# Fields:
+#   name:   required. The source's name.
+#   type:   archive | library | study-guide | course | publisher | podcast | channel | project | network
+#   url:    required. Where to explore it.
+#   access: free | borrow | paywalled | print   (optional; defaults to blank)
+#   note:   one line on what you'll find there.
+
+sources:
+  # --- Archives & libraries ---
+  - name: "Marxists Internet Archive"
+    type: archive
+    url: "https://www.marxists.org"
+    access: free
+    note: "The largest free archive of Marxist writing; most theory readings link here. Has study guides and a glossary."
+  - name: "The Anarchist Library"
+    type: library
+    url: "https://theanarchistlibrary.org"
+    access: free
+    note: "A vast free library of anarchist texts, from classics to contemporary pamphlets."
+  - name: "libcom.org library"
+    type: library
+    url: "https://libcom.org/library"
+    access: free
+    note: "Free library of libertarian-communist and working-class history, theory, and organizing texts."
+  - name: "Internet Archive"
+    type: archive
+    url: "https://archive.org"
+    access: borrow
+    note: "Millions of books to borrow free (one-hour renewable loans), plus films, audio, and web history."
+  - name: "Library of Congress Digital Collections"
+    type: archive
+    url: "https://www.loc.gov/collections/"
+    access: free
+    note: "Public-domain primary sources, including the WPA slave narratives and extensive labor history."
+  - name: "Studs Terkel Radio Archive (WFMT)"
+    type: archive
+    url: "https://studsterkel.wfmt.com/"
+    access: free
+    note: "2,000+ streamable interviews on work, class, and ordinary life — a cornerstone oral-history archive."
+  - name: "Kheel Center for Labor-Management Documentation (Cornell ILR)"
+    type: archive
+    url: "https://digitalcommons.ilr.cornell.edu/kheel/"
+    access: free
+    note: "Labor oral histories, campaign records, and the Triangle Shirtwaist Fire collection."
+
+  # --- Publishers & imprints ---
+  - name: "Monthly Review Press"
+    type: publisher
+    url: "https://monthlyreview.org"
+    access: paywalled
+    note: "Long-running socialist magazine and book publisher; the magazine archive has decades of essays."
+  - name: "Haymarket Books"
+    type: publisher
+    url: "https://www.haymarketbooks.org"
+    access: paywalled
+    note: "Radical publisher with frequent free e-book giveaways and an active events series."
+  - name: "Verso Books"
+    type: publisher
+    url: "https://www.versobooks.com"
+    access: paywalled
+    note: "The largest independent radical publisher; regular blog essays and discounted e-books."
+  - name: "Pluto Press"
+    type: publisher
+    url: "https://www.plutobooks.com"
+    access: paywalled
+    note: "Left academic and movement publisher; source of many widely assigned study-group texts."
+
+  # --- Podcasts & audio ---
+  - name: "Upstream"
+    type: podcast
+    url: "https://www.upstreampodcast.org/"
+    access: free
+    note: "Documentary-style audio on post-capitalist economics, cooperatives, and just transition."
+  - name: "Working People"
+    type: podcast
+    url: "https://inthesetimes.com/podcasts/working-people"
+    access: free
+    note: "First-person interviews with rank-and-file workers about their jobs and organizing."
+  - name: "Economic Update (Democracy at Work)"
+    type: podcast
+    url: "https://www.democracyatwork.info/economicupdate"
+    access: free
+    note: "Richard Wolff's weekly show connecting wages, debt, and profit to how capitalism is structured."
+  - name: "The Dig"
+    type: podcast
+    url: "https://thedigradio.com/"
+    access: free
+    note: "Long-form Jacobin interviews on political economy, history, and movements."
+
+  # --- Video channels ---
+  - name: "The Gravel Institute"
+    type: channel
+    url: "https://www.youtube.com/@GravelInstitute"
+    access: free
+    note: "Short, shareable left explainers built as a counter to right-wing edutainment."
+  - name: "Second Thought"
+    type: channel
+    url: "https://www.youtube.com/@SecondThought"
+    access: free
+    note: "Accessible socialist explainers on class, wealth, and alternatives to capitalism."
+  - name: "Andrewism"
+    type: channel
+    url: "https://www.youtube.com/@Andrewism"
+    access: free
+    note: "Solarpunk-anarchist video essays on ecology, the commons, and building alternatives."
+
+  # --- Projects & networks ---
+  - name: "Zinn Education Project"
+    type: project
+    url: "https://www.zinnedproject.org"
+    access: free
+    note: "Free people's-history teaching materials, primary-source readings, and dramatic readings."
+  - name: "Labor Notes"
+    type: network
+    url: "https://labornotes.org"
+    access: free
+    note: "Rank-and-file organizing network; free handbooks, handouts, and a trainer's guide."
+  - name: "Autonomous Tenants Union Network"
+    type: network
+    url: "https://atun-rsia.org"
+    access: free
+    note: "Tenant-union organizing guides and toolkits, in English and Spanish."
+
+  # --- Study guides & reading plans ---
+  - name: "Beginner's Guide to Marxism (Marxists Internet Archive)"
+    type: study-guide
+    url: "https://www.marxists.org/subject/students/index.htm"
+    access: free
+    note: "The MIA's guided starting path through Marx and Engels for new students."
+  - name: "From Marx to Mao"
+    type: study-guide
+    url: "http://marx2mao.com/RG.html"
+    access: free
+    note: "A structured reading guide moving from Marx and Engels through Lenin to Mao."
+  - name: "Marxist-Leninist Reading Hub"
+    type: study-guide
+    url: "https://www.mlreadinghub.org/"
+    access: free
+    note: "Curated reading lists and study-group resources in the Marxist-Leninist tradition."
+  - name: "Marxism-Leninism Study Guide"
+    type: study-guide
+    url: "https://marxistleninist.wordpress.com/study-guide/"
+    access: free
+    note: "A structured study guide through the Marxist-Leninist canon."
+  - name: "Marxism-Leninism-Maoism Basic Course"
+    type: study-guide
+    url: "https://foreignlanguages.press/colorful-classics/marxism-leninism-maoism-basic-course-english/"
+    access: free
+    note: "A structured introductory course in Marxism-Leninism-Maoism, from Foreign Languages Press."
+  - name: "Massline.info"
+    type: study-guide
+    url: "http://www.massline.info"
+    access: free
+    note: "An archive and study site on the mass line and Maoist theory and practice."
+  - name: "Revolutionary Communists of America — reading guides"
+    type: study-guide
+    url: "https://communistusa.org/marxist-theory/reading-guides/"
+    access: free
+    note: "Reading guides for selected classic texts."
+
+  # --- Courses ---
+  - name: "Socialism 101"
+    type: course
+    url: "https://www.socialism101.com/"
+    access: free
+    note: "A self-paced introduction to socialist ideas and history."
+  - name: "Introduction to Mao Zedong Thought (TsinghuaX)"
+    type: course
+    url: "https://www.edx.org/learn/communist-china/tsinghua-university-introduction-to-mao-zedong-thought-mao-ze-dong-si-xiang-gai-lun"
+    access: free
+    note: "A university MOOC on Mao Zedong Thought; free to audit on edX."
+
+  # --- Podcasts (contributed via the chapter resource list) ---
+  - name: "5-4"
+    type: podcast
+    url: "https://www.fivefourpod.com/"
+    access: free
+    note: "How the U.S. Supreme Court is broken, from a left legal perspective."
+  - name: "Chapo Trap House"
+    type: podcast
+    url: "https://www.chapotraphouse.com/"
+    access: free
+    note: "Irreverent leftist politics and culture."
+  - name: "Guerrilla History"
+    type: podcast
+    url: "https://guerrillahistory.libsyn.com/"
+    access: free
+    note: "History as a tool for the anti-imperialist and revolutionary left."
+  - name: "If Books Could Kill"
+    type: podcast
+    url: "https://podcasts.apple.com/us/podcast/if-books-could-kill/id1651876897"
+    access: free
+    note: "Debunks the pop-nonfiction bestsellers that shaped mainstream conventional wisdom."
+  - name: "Kill James Bond"
+    type: podcast
+    url: "https://killjamesbond.com/"
+    access: free
+    note: "A leftist, feminist film podcast working through the Bond franchise and action cinema."
+  - name: "Labor Jawn"
+    type: podcast
+    url: "https://www.laborjawn.com/"
+    access: free
+    note: "Labor history and the contemporary labor movement, rooted in Philadelphia."
+  - name: "Marx Madness"
+    type: podcast
+    url: "https://open.spotify.com/show/7fMDBjIjMdrU5PYm3zXP25"
+    access: free
+    note: "A reading-group podcast working through Marxist texts."
+  - name: "QAnon Anonymous"
+    type: podcast
+    url: "https://open.spotify.com/show/6qAmVJsQW0k51ZJ9bDZyZd"
+    access: free
+    note: "Investigates conspiracy theories and the far right from a left perspective."
+  - name: "Red Library"
+    type: podcast
+    url: "https://redlibrary.libsyn.com/"
+    access: free
+    note: "Discussions of revolutionary theory, history, and culture."
+  - name: "Red Menace"
+    type: podcast
+    url: "https://redmenace.libsyn.com/"
+    access: free
+    note: "Explains and applies revolutionary theory texts; a companion to Revolutionary Left Radio."
+  - name: "Revolutionary Left Radio"
+    type: podcast
+    url: "https://revolutionaryleftradio.libsyn.com/"
+    access: free
+    note: "Interviews on Marxist theory, history, and organizing."
+  - name: "Revolutions"
+    type: podcast
+    url: "https://podcasts.apple.com/us/podcast/revolutions/id703889772"
+    access: free
+    note: "Mike Duncan's narrative history of the great political revolutions."
+  - name: "Socialism for All"
+    type: podcast
+    url: "https://open.spotify.com/show/3byqQVsdTzhE2dOsnAUmK5"
+    access: free
+    note: "Introductory socialist concepts for newcomers."
+  - name: "Theory and Philosophy"
+    type: podcast
+    url: "https://theoretician.podbean.com/"
+    access: free
+    note: "Accessible walkthroughs of critical theory and continental philosophy."
+  - name: "What's Left of Philosophy"
+    type: podcast
+    url: "https://www.leftofphilosophy.com/"
+    access: free
+    note: "Four philosophers read Marxist and continental philosophy closely."
+  - name: "Why Theory"
+    type: podcast
+    url: "https://podcasts.apple.com/us/podcast/why-theory/id1299863834"
+    access: free
+    note: "Psychoanalysis and Hegelian-Marxist theory applied to culture."

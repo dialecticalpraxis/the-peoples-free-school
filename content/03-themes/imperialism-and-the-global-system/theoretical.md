@@ -1,0 +1,143 @@
+---
+title: Theoretical
+resources:
+  - title: "Imperialism, the Highest Stage of Capitalism"
+    authors: ["V.I. Lenin"]
+    year: 1916
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/"
+    note: "The pivotal Marxist account of monopoly, finance capital, and the division of the world among great powers. The anchor text for this lens."
+  - title: "Imperialism: A Study"
+    authors: ["J.A. Hobson"]
+    year: 1902
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.marxists.org/archive/hobson/1902/imperialism/index.htm"
+    note: "The liberal analysis of underconsumption and financial interests driving empire that Lenin drew on and criticized. Read the two together."
+  - title: "The Accumulation of Capital"
+    authors: ["Rosa Luxemburg"]
+    year: 1913
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/"
+    note: "Argues that capitalism must constantly expand into non-capitalist areas to survive, making colonial conquest structural rather than incidental."
+  - title: "Neo-Colonialism: The Last Stage of Imperialism"
+    authors: ["Kwame Nkrumah"]
+    year: 1965
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/"
+    note: "Names the mechanism by which formally independent states remain economically controlled from outside, written from the vantage of a head of state."
+  - title: "The Development of Underdevelopment"
+    authors: ["Andre Gunder Frank"]
+    year: 1966
+    format: reading
+    kind: article
+    access: free
+    url: "https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138824287/ch10/1._Andre_Gunder_Frank,_The_Development_of_Underdevelopment,_1966.pdf"
+    note: "The short essay that launched dependency theory, arguing that the same process produces rich metropoles and poor satellites."
+  - title: "World-Systems Analysis: An Introduction"
+    authors: ["Immanuel Wallerstein"]
+    year: 2004
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/worldsystemsanal0000wall"
+    note: "The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy."
+  - title: "Imperialism and Unequal Development"
+    authors: ["Samir Amin"]
+    year: 1976
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/imperialismunequ00amin"
+    note: "Develops unequal development and the case for delinking peripheral economies from the world market."
+  - title: "Unequal Exchange: A Study of the Imperialism of Trade"
+    authors: ["Arghiri Emmanuel"]
+    year: 1972
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/unequalexchanges0000emma"
+    note: "The controversial argument that international wage differences transfer value from poor countries to rich ones through ordinary trade."
+  - title: "Imperialism in the Twenty-First Century"
+    authors: ["John Smith"]
+    year: 2016
+    format: reading
+    kind: book
+    access: free
+    url: "https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf"
+    note: "Argues that global value chains rest on the super-exploitation of Southern labor. The book is not free, but this journal-length version carries the core argument."
+  - title: "World-Systems Theory, Dependency Theory and Global Inequality"
+    authors: ["Then & Now"]
+    year: 2016
+    format: video
+    kind: explainer
+    access: free
+    length: "14 min"
+    url: "https://www.youtube.com/watch?v=79gCqjl6ihQ"
+    note: "About 346,000 views. A clear explainer of core, periphery, and unequal development. The cleanest video fit for this lens."
+  - title: "Lenin in Five Minutes: Imperialism"
+    authors: ["The Marxist Project"]
+    year: 2019
+    format: video
+    kind: explainer
+    access: free
+    length: "5 min"
+    url: "https://www.youtube.com/watch?v=unCGQDKJ0p0"
+    note: "About 107,000 views. A compact summary of Lenin's theory of imperialism as the highest stage of capitalism. A tight opener before the reading."
+---
+
+_How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
+
+See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
+
+The core question this lens builds toward is what imperialism actually is: a policy that could be changed, a stage of capitalism, or the very shape of the world system. The traditions here give different answers. Lenin sees a stage of monopoly capital; the dependency and world-systems theorists see one integrated economy that produces wealth and poverty together; contemporary writers trace the same logic through global value chains. This scales up the value theory from [[03-themes/how-capitalism-works/theoretical|the capitalism theme]] to the world market.
+
+## Anchor questions
+
+- What is imperialism? Is it a policy, a stage of capitalism, or the shape of the whole system?
+- Why does wealth flow from the poor world to the rich one, decade after decade?
+- What is the difference between colonialism and neocolonialism? Did empire ever really end?
+- Are poor countries "behind," or were they made poor by the same process that made others rich?
+- Can a country develop by joining the world market, or only by breaking from it?
+
+## Materials
+
+Free unless marked otherwise. Lenin is the anchor; the "Lenin in Five Minutes" video and the Then & Now explainer are the best on-ramps before the reading.
+
+### Classical theories of imperialism
+
+- **V.I. Lenin** (1870 to 1924), _Imperialism, the Highest Stage of Capitalism_ (1916). The pivotal Marxist account of monopoly, finance capital, and the division of the world among great powers. Short, polemical, and the anchor for this lens. Free: [marxists.org](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
+- **J.A. Hobson** (1858 to 1940), _Imperialism: A Study_ (1902). The liberal analysis of underconsumption and financial interests driving empire that Lenin drew on and criticized. Reading the two together shows what Lenin added. Free: [marxists.org](https://www.marxists.org/archive/hobson/1902/imperialism/index.htm)
+- **Rosa Luxemburg** (1871 to 1919), _The Accumulation of Capital_ (1913). Argues that capitalism must constantly expand into non-capitalist areas to survive, making colonial conquest structural rather than incidental. Free: [marxists.org](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/)
+- **Kwame Nkrumah** (1909 to 1972), _Neo-Colonialism: The Last Stage of Imperialism_ (1965). Names the mechanism by which formally independent states remain economically controlled from outside, written by a sitting head of state. The hinge between the classical and contemporary analyses. Free: [marxists.org](https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/)
+
+### Dependency and world-systems
+
+- **Andre Gunder Frank** (1929 to 2005), _The Development of Underdevelopment_ (1966). The short essay that launched dependency theory, arguing that the same process produces rich metropoles and poor satellites. A good first reading in this strand. Free PDF: [amazonaws.com](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138824287/ch10/1._Andre_Gunder_Frank,_The_Development_of_Underdevelopment,_1966.pdf)
+- **Immanuel Wallerstein** (1930 to 2019), _World-Systems Analysis: An Introduction_ (2004). The clearest short entry to core, periphery, and semi-periphery as one integrated capitalist world-economy. Free to borrow: [archive.org](https://archive.org/details/worldsystemsanal0000wall)
+- **Samir Amin** (1931 to 2018), _Imperialism and Unequal Development_ (1976). Develops unequal development and the case for "delinking" peripheral economies from the world market, a position the liberatory lens takes up. Free to borrow: [archive.org](https://archive.org/details/imperialismunequ00amin)
+- **Arghiri Emmanuel** (1911 to 2001), _Unequal Exchange_ (1972). The controversial argument that international wage differences transfer value from poor countries to rich ones through ordinary trade. Debated hard, and worth the debate. Free to borrow: [archive.org](https://archive.org/details/unequalexchanges0000emma)
+
+### Imperialism today
+
+- **John Smith**, _Imperialism in the Twenty-First Century_ (2016). Argues that global value chains rest on the super-exploitation of Southern labor, so the smartphone and the t-shirt are imperialism made ordinary. The book is not free, but this journal-length version carries the core argument. Free PDF: [thenextrecession.wordpress.com](https://thenextrecession.wordpress.com/wp-content/uploads/2021/09/imperialism_in_the_21st_century-1.pdf)
+
+### Films, lectures, and audio
+
+- **"World-Systems Theory, Dependency Theory and Global Inequality"** (Then & Now, 2016). Roughly 14 minutes, about 346,000 views. A clear explainer of core, periphery, and unequal development. The cleanest video fit for this lens. [youtube.com/watch?v=79gCqjl6ihQ](https://www.youtube.com/watch?v=79gCqjl6ihQ)
+- **"Lenin in Five Minutes: Imperialism"** (The Marxist Project, 2019). Roughly 5 minutes, about 107,000 views. A compact summary of Lenin's theory as the highest stage of capitalism. A tight opener before the reading. [youtube.com/watch?v=unCGQDKJ0p0](https://www.youtube.com/watch?v=unCGQDKJ0p0)
+
+## A note on method
+
+These theories disagree in ways worth preserving. Lenin locates imperialism in monopoly capital; the dependency theorists locate it in the structure of trade and exchange; critics of Emmanuel dispute whether unequal exchange holds up. The point is not to crown a winner but to give the group the vocabulary, monopoly, finance capital, core and periphery, unequal exchange, super-exploitation, to analyze how wealth actually moves in their world.
+
+## Status
+
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially dependency and world-systems theory from Latin American and African economists in their own words, and analyses of the dollar system and finance.

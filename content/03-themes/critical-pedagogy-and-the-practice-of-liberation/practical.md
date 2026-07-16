@@ -1,0 +1,168 @@
+---
+title: Practical
+resources:
+  - title: "Highlander Popular Education methodologies"
+    authors: ["Highlander Research and Education Center"]
+    year: 2021
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://highlandercenter.org/wp-content/uploads/2021/04/methodologies-EN-color-1.pdf"
+    note: "A short, illustrated free guide to Highlander's core popular-education process of surfacing lived experience and building collective knowledge for action. The method this school runs on."
+  - title: "Training for Change: Tools library"
+    authors: ["Training for Change"]
+    year: 1992
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://www.trainingforchange.org/tools/"
+    note: "Over seventy free, field-tested facilitation and direct-education tools, most in English and Spanish, each with step-by-step instructions. Pull a single exercise or build a whole session."
+  - title: "Seeds for Change: facilitation and consensus guides"
+    authors: ["Seeds for Change"]
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://www.seedsforchange.org.uk/guides"
+    note: "Free, anti-copyright guides on facilitating meetings, active listening, group agreements, running workshops, and consensus decision-making. Directly usable for running a participatory study circle."
+  - title: "Games for Actors and Non-Actors"
+    authors: ["Augusto Boal"]
+    year: 1992
+    format: reading
+    kind: handbook
+    access: borrow
+    url: "https://archive.org/details/gamesforactorsno0000boal_n1t6"
+    note: "The founding handbook of Theatre of the Oppressed, with more than two hundred physical games and forum-theatre exercises for popular educators."
+  - title: "Study Circles (organizing and facilitation guide)"
+    authors: ["Everyday Democracy", "Study Circles Resource Center"]
+    format: reading
+    kind: handbook
+    access: free
+    url: "https://civicus.org/documents/toolkits/PGX_B_Study%20CirclesFinalWeb.pdf"
+    note: "A free guide to organizing and facilitating community study circles, the small-group, dialogue-to-change method at the heart of this project's format."
+  - title: "You Got to Move: Stories of Change in the South"
+    authors: ["Lucy Massie Phenix", "Veronica Selver"]
+    year: 1985
+    format: film
+    kind: documentary
+    access: paywalled
+    url: "https://www.zinnedproject.org/materials/you-got-to-move-highlander-center/"
+    note: "The key documentary on Highlander's method, following ordinary Southerners who learned to organize. Full film is paywalled (Criterion, DVD); this page has a free teaching guide and short clips."
+  - title: "Precious Knowledge"
+    authors: ["Ari Luis Palos", "Eren Isabel McGinnis"]
+    year: 2011
+    format: film
+    kind: documentary
+    access: borrow
+    length: "70 min"
+    url: "https://www.pbs.org/independentlens/documentaries/precious-knowledge/"
+    note: "Documents the Tucson High Mexican American Studies program, a working model of liberatory ethnic studies, and the state fight to shut it down. Free via library Kanopy; a free clip is on PBS."
+  - title: "We Want to Do More Than Survive: Abolitionist Teaching (Bettina Love)"
+    authors: ["Bettina Love", "City Club of Cleveland"]
+    year: 2019
+    format: video
+    kind: lecture
+    access: free
+    length: "~60 min"
+    url: "https://www.cityclub.org/forums/2019/09/06/we-want-to-do-more-than-survive-abolitionist-teaching"
+    note: "The originator of abolitionist teaching lays out what it means as classroom practice and a way of life. Free video and audio."
+  - title: "Zinn Education Project: Teaching People's History"
+    authors: ["Rethinking Schools", "Teaching for Change"]
+    year: 2008
+    format: reading
+    kind: reference
+    access: free
+    url: "https://www.zinnedproject.org/"
+    note: "Hundreds of free, downloadable people's-history lessons using role play, mixer, and inquiry formats, adaptable for adult study circles across every theme in this school."
+  - title: "Rethinking Schools"
+    authors: ["Rethinking Schools"]
+    year: 1986
+    format: reading
+    kind: journalism
+    access: free
+    url: "https://rethinkingschools.org/"
+    note: "The leading grassroots social-justice teaching magazine, with many free articles on classroom organizing, testing, and police-free schools by practicing teachers."
+  - title: "Movement Memos"
+    authors: ["Kelly Hayes", "Truthout"]
+    year: 2020
+    format: podcast
+    kind: series
+    access: free
+    url: "https://truthout.org/series/movement-memos/"
+    note: "The Menominee organizer and educator Kelly Hayes interviews organizers on political education, facilitation, and how movements teach. Comes with transcripts."
+  - title: "Have You Heard"
+    authors: ["Jack Schneider", "Jennifer Berkshire"]
+    year: 2016
+    format: podcast
+    kind: series
+    access: free
+    url: "https://www.haveyouheardpodcast.com/"
+    note: "A journalist and an education scholar break down public-school policy fights from the left, useful for grounding facilitators in the political terrain around schooling."
+  - title: "Teaching Hard History"
+    authors: ["Hasan Kwame Jeffries", "Learning for Justice"]
+    year: 2018
+    format: podcast
+    kind: series
+    access: free
+    url: "https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/"
+    note: "A historian and classroom teachers model how to teach slavery, Reconstruction, and the civil rights movement honestly. Every episode has a resource page and transcript."
+  - title: "Augusto Boal Exercises (demonstration)"
+    authors: ["Organic Acting"]
+    year: 2016
+    format: video
+    kind: explainer
+    access: free
+    length: "~6 min"
+    url: "https://www.youtube.com/watch?v=l4cZ8pa0v-Y"
+    note: "About 25,000 views, a niche pick. A short demonstration of Theatre of the Oppressed games and exercises a facilitator can try in a session."
+---
+
+_What does this look like on the ground, and what are people doing about it now?_
+
+See [[02-pedagogy#Practical|the pedagogy document]] for what this lens does across all themes.
+
+In this theme, the practical lens is unusually literal: it is the how-to for running this very school. The materials here are the facilitation guides, popular-education methods, and Theatre of the Oppressed exercises that turn the theory of the other lenses into a session that actually works, plus the living examples of liberatory education in practice, from Highlander to abolitionist teaching to the Tucson ethnic studies fight. A facilitator preparing to lead any theme in this project can start here.
+
+## Anchor questions
+
+- What makes a discussion open people up rather than shut them down?
+- How do you draw out what a quiet room already knows?
+- What is the difference between a facilitator and a lecturer? When do you need each?
+- How do you handle a person who dominates, or a silence that hides fear?
+- How can a group study a hard text together without anyone pretending to understand?
+
+## Materials
+
+Free unless marked otherwise. These are the working tools of the school; the [[04-facilitator-guide|facilitator guide]] draws on many of them.
+
+### Facilitation and popular-education handbooks
+
+- **Highlander Popular Education methodologies** (Highlander Research and Education Center, 2021). A short, illustrated free guide to Highlander's core process of surfacing lived experience and building collective knowledge for action. The method this school descends from, in a few pages. Free PDF: [highlandercenter.org](https://highlandercenter.org/wp-content/uploads/2021/04/methodologies-EN-color-1.pdf)
+- **Training for Change, Tools library** (since 1992). Over seventy free, field-tested facilitation and direct-education tools, most in English and Spanish, each with step-by-step instructions. Pull a single exercise or build a whole agenda. Free: [trainingforchange.org](https://www.trainingforchange.org/tools/)
+- **Seeds for Change, facilitation and consensus guides**. Free, anti-copyright guides on facilitating meetings, active listening, group agreements, running workshops, and consensus decision-making. Shared with [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. Free: [seedsforchange.org.uk](https://www.seedsforchange.org.uk/guides)
+- **Augusto Boal** (1931 to 2009), _Games for Actors and Non-Actors_ (1992). The founding handbook of Theatre of the Oppressed, with more than two hundred physical games and forum-theatre exercises for surfacing lived experience and analyzing power without relying on text alone. Free to borrow: [archive.org](https://archive.org/details/gamesforactorsno0000boal_n1t6)
+- **Study Circles** (Everyday Democracy, formerly the Study Circles Resource Center). A free guide to organizing and facilitating community study circles, the small-group, dialogue-to-change method at the heart of this project's format. Free PDF: [civicus.org](https://civicus.org/documents/toolkits/PGX_B_Study%20CirclesFinalWeb.pdf)
+
+### Living examples on film
+
+- **You Got to Move** (Lucy Massie Phenix and Veronica Selver, 1985). The key documentary on Highlander's method, following ordinary Southerners who learned to organize, including the Citizenship School literacy work. The full film is paywalled (Criterion, DVD), but a free teaching guide and short clips are at this page. [zinnedproject.org](https://www.zinnedproject.org/materials/you-got-to-move-highlander-center/)
+- **Precious Knowledge** (Ari Luis Palos and Eren Isabel McGinnis, 2011, 70 min). Documents the Tucson High Mexican American Studies program, a working model of liberatory ethnic studies, and the state fight to shut it down. Free via library Kanopy, with a free clip on PBS. [pbs.org](https://www.pbs.org/independentlens/documentaries/precious-knowledge/)
+- **We Want to Do More Than Survive: Abolitionist Teaching** (Bettina Love, City Club of Cleveland, 2019). The originator of "abolitionist teaching" lays out what it means as classroom practice and a way of life. Free video and audio: [cityclub.org](https://www.cityclub.org/forums/2019/09/06/we-want-to-do-more-than-survive-abolitionist-teaching)
+
+### Teaching resources and journalism
+
+- **Zinn Education Project** (Rethinking Schools and Teaching for Change). Hundreds of free, downloadable people's-history lessons using role play, mixer, and inquiry formats, adaptable for adult study circles across every theme in this school. Free: [zinnedproject.org](https://www.zinnedproject.org/)
+- **Rethinking Schools** (since 1986). The leading grassroots social-justice teaching magazine, with many free articles on classroom organizing and justice pedagogy by practicing teachers. Free: [rethinkingschools.org](https://rethinkingschools.org/)
+
+### Podcasts
+
+- **Movement Memos** (Kelly Hayes, Truthout, 2020 to present). The Menominee organizer and educator Kelly Hayes interviews organizers on political education, facilitation, and how movements teach. Comes with transcripts. Free: [truthout.org](https://truthout.org/series/movement-memos/)
+- **Have You Heard** (Jack Schneider and Jennifer Berkshire, 2016 to present). A journalist and an education scholar break down public-school policy fights from the left. Useful for the political terrain around schooling. Free: [haveyouheardpodcast.com](https://www.haveyouheardpodcast.com/)
+- **Teaching Hard History** (Hasan Kwame Jeffries, Learning for Justice, 2018 to 2022). A historian and classroom teachers model how to teach slavery, Reconstruction, and the civil rights movement honestly. Every episode has a resource page. Free: [splcenter.org](https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/)
+
+### Video
+
+- **"Augusto Boal Exercises"** (Organic Acting, 2016). Roughly 6 minutes, about 25,000 views, a niche pick. A short demonstration of Theatre of the Oppressed games a facilitator can try in a session. [youtube.com/watch?v=l4cZ8pa0v-Y](https://www.youtube.com/watch?v=l4cZ8pa0v-Y)
+
+## Status
+
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially facilitation guides for conflict and power dynamics in the room, trauma-informed practice, and multilingual and low-literacy popular education.

@@ -1,0 +1,11 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+// Folder index pages already provide curated, hand-written navigation in their
+// index.md bodies, so Quartz's automatic page listing underneath is redundant
+// (every child was showing up twice). Hide it. Navigation is still available in
+// that curated content and in the Explorer sidebar.
+.page-listing {
+  display: none;
+}

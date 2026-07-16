@@ -1,0 +1,61 @@
+name: Publish Obsidian vault
+
+# Packages the content/ folder into a standalone Obsidian vault zip and attaches
+# it to a rolling "vault" release, so people can use the school's materials in
+# Obsidian without cloning the whole Quartz website repo.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "vault"
+  cancel-in-progress: true
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+      - name: Generate resource index tables
+        run: npm run resources
+
+      - name: Build vault zip
+        run: |
+          mkdir -p dist staging
+          # Copy content/ into a named folder so the zip unpacks tidily.
+          # Exclude .obsidian (personal/app config) and OS cruft — Obsidian
+          # recreates a clean config on first open.
+          rsync -a \
+            --exclude='.obsidian' \
+            --exclude='.DS_Store' \
+            content/ staging/peoples-free-school-vault/
+          cd staging
+          zip -r ../dist/peoples-free-school-vault.zip peoples-free-school-vault
+
+      - name: Publish to rolling release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: vault
+          name: "Obsidian vault (latest)"
+          body: |
+            The People's Free School content packaged as a standalone Obsidian vault.
+
+            **To use it:** download `peoples-free-school-vault.zip` below, unzip it,
+            and open the folder in Obsidian (Open folder as vault). No git, Node, or
+            Quartz tooling required.
+
+            This asset is regenerated automatically whenever the content changes.
+          files: dist/peoples-free-school-vault.zip
