@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_81 primary sources. Generated from theme lens frontmatter._
+_82 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -81,6 +81,7 @@ _81 primary sources. Generated from theme lens frontmatter._
 | [StoryCorps: Education stories](https://storycorps.org/discover/education/) | StoryCorps | — | archive | Free | [[critical-pedagogy-and-the-practice-of-liberation/experiential\|Critical Pedagogy and the Practice of Liberation · Experiential]] |
 | [StoryCorps: Work theme collection](https://storycorps.org/theme/work/) | StoryCorps | — | archive | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [Behind the Veil: Documenting African-American Life in the Jim Crow South](https://repository.duke.edu/dc/behindtheveil) | Duke University Center for Documentary Studies | — | archive | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
+| [Social Contract of the Democratic Federation of Northern Syria](https://rojavainformationcenter.org/storage/2021/07/2016-Social-Contract-of-the-Democratic-Federation-of-Northern-Syria.pdf) | Constituent Assembly of the Democratic Federation of Northern Syria | 2016 | document | Free | [[the-state-strategy-and-power/liberatory\|The State, Strategy, and Power · Liberatory]] |
 | [The WFMT Studs Terkel Radio Archive](https://studsterkel.wfmt.com/) | Studs Terkel | — | archive | Free | [[how-capitalism-works/experiential\|How Capitalism Works · Experiential]]<br>[[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [The Working Tapes of Studs Terkel](https://soundcloud.com/radio-diaries/the-working-tapes-of-studs-terkel-hour-special) | Studs Terkel, Radio Diaries | — | audio | Free | [[how-capitalism-works/experiential\|How Capitalism Works · Experiential]] |
 | [The Working Tapes of Studs Terkel](https://www.radiodiaries.org/post/the-working-tapes-then-now) | Studs Terkel, Radio Diaries | — | audio | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |

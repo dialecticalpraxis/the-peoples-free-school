@@ -124,6 +124,55 @@ resources:
     length: "45 min"
     url: "https://www.youtube.com/watch?v=-1PV02IzWpo"
     note: "About 105,000 views. A long-form Black anarchist critique of the state itself. The anarchist voice in video form, to set against the Leninist explainer."
+  - title: "Democratic Confederalism"
+    authors: ["Abdullah Ocalan"]
+    year: 2011
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.ocalanbooks.com/downloads/democratic-confederalism.pdf"
+    note: "Written from a Turkish island prison, the 48-page pamphlet that turned a national liberation movement away from wanting a state at all. Its opening claim is the whole argument: the right to self-determination includes the right to a state, but founding a state does not increase a people's freedom. The theoretical charter of Rojava, Bookchin-influenced."
+  - title: "Social Contract of the Democratic Federation of Northern Syria"
+    authors: ["Constituent Assembly of the Democratic Federation of Northern Syria"]
+    year: 2016
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://rojavainformationcenter.org/storage/2021/07/2016-Social-Contract-of-the-Democratic-Federation-of-Northern-Syria.pdf"
+    note: "What a movement that says it does not want a state writes down when it has to govern four million people. Seventeen pages that disclaim statehood in the preamble and then legislate like a constitution. Movement-issued primary source, and worth reading skeptically."
+  - title: "Kurdistan?"
+    authors: ["Gilles Dauve"]
+    year: 2015
+    format: reading
+    kind: article
+    access: free
+    url: "https://theanarchistlibrary.org/library/gilles-dauve-kurdistan"
+    note: "A communist critique arguing that Rojava's councils are not dual power against the state but an administration doing state work under war conditions, dependent on US air cover and on the market it claims to oppose. Left communist, hostile, and included deliberately as the adversary to Ocalan."
+  - title: "Zapatistas Put Autonomy Into Practice"
+    authors: ["Black Flag"]
+    year: 2003
+    format: reading
+    kind: article
+    access: free
+    url: "https://theanarchistlibrary.org/library/black-flag-zapatistas-put-autonomy-into-practice"
+    note: "An account of the 2003 turn that created the caracoles and the Juntas de Buen Gobierno, when the EZLN stopped petitioning the Mexican state for recognition and simply began governing. The clearest short statement of the Zapatista answer: not seize the state, not negotiate with it, build beside it. Anarchist."
+  - title: "To Govern by Obeying: 19 Years of the Caracoles"
+    authors: ["Chiapas Support Committee"]
+    year: 2022
+    format: reading
+    kind: article
+    access: free
+    url: "https://chiapas-support.org/2022/08/18/to-govern-by-obeying-19-years-of-the-caracoles/"
+    note: "A retrospective on nearly two decades of the Good Government Juntas, including the Zapatistas' own restructuring of them. Answers what theory cannot: what happens to a counter-power that neither takes the state nor is destroyed by it, over twenty years. Solidarity-movement standpoint, sympathetic."
+  - title: "1905"
+    authors: ["Leon Trotsky"]
+    year: 1907
+    format: reading
+    kind: book
+    access: free
+    tier: extended
+    url: "https://www.marxists.org/archive/trotsky/1907/1905/index.htm"
+    note: "Trotsky's account of the St Petersburg Soviet he chaired, the first workers' council to function as a rival government inside a living state. The historical case Lenin's The Dual Power theorizes about. A participant rather than an observer."
   - title: "Study Guide on The State and Revolution"
     authors: ["Liberation School (PSL)"]
     format: reading
@@ -188,6 +237,8 @@ This is the oldest and sharpest argument on the left: what do you do about the s
 - If the state withers away, what replaces it, and who decides?
 - Anarchists and Leninists both want a world without the boss. Why do they disagree so sharply about the state?
 - What would self-government by ordinary people actually look like?
+- If you build a counter-power that governs four million people, judges disputes, and holds a border, in what sense is it not a state?
+- The Zapatistas have governed themselves for thirty years without taking Mexico. Is that a victory, a stalemate, or something the theory has no name for?
 
 ## Materials
 
@@ -222,6 +273,19 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 - **Ernesto Laclau** (1935 to 2014) and **Chantal Mouffe** (b. 1943), _Hegemony and Socialist Strategy_ (1985). The founding post-Marxist argument that socialist strategy should give up the privileged role of the working class and build hegemony through a "chain of equivalence" linking many democratic struggles: feminist, ecological, anti-racist, and more. The most influential contemporary case for a broad radical-democratic politics rather than a class-centered one. Widely hosted, though in copyright: [files.libcom.org](https://files.libcom.org/files/ernesto-laclau-hegemony-and-socialist-strategy-towards-a-radical-democratic-politics.compressed.pdf)
 - **Ellen Meiksins Wood** (1942 to 2016), _The Retreat from Class_ (1986). The classic Marxist rebuttal, arguing that Laclau and Mouffe's turn to discourse and equivalence dissolves class and cuts socialism loose from its material base. It won the Deutscher Prize and is the other half of the argument. Free to borrow: [archive.org](https://archive.org/details/retreatfromclass0000wood). Her short _Reply to Callinicos_ (1987) restates the case for free: [marxists.org](https://www.marxists.org/archive/wood/1987/xx/callinicos.html)
 
+### Dual power: what happens when it is actually built
+
+Every position above is a claim about what should be done. These are what happened when people did it. Dual power is the strategy of building a counter-power beside the state rather than seizing it or entering it, and the interest here is in the part the theory does not cover: what the thing becomes once it has to collect the rubbish, judge a dispute, and hold a border.
+
+- **Leon Trotsky** (1879 to 1940), _1905_ (1907). Trotsky's account of the St Petersburg Soviet, which he chaired: the first workers' council to work as a rival government inside a living state. This is the case Lenin's _The Dual Power_ is theorizing about, written by a participant rather than an observer. Free: [marxists.org](https://www.marxists.org/archive/trotsky/1907/1905/index.htm)
+- **Abdullah Ocalan** (b. 1949), _Democratic Confederalism_ (2011). Forty-eight pages, written in a Turkish island prison, that turned a national liberation movement away from wanting a state at all. The opening claim is the whole argument: the right to self-determination includes the right to a state, but founding a state does not increase a people's freedom. The theoretical charter of Rojava. Free: [ocalanbooks.com](https://www.ocalanbooks.com/downloads/democratic-confederalism.pdf)
+- **Social Contract of the Democratic Federation of Northern Syria** (2016). What a movement that says it does not want a state writes down when it has to govern four million people. Seventeen pages that disclaim statehood in the preamble and then legislate like a constitution. A movement-issued primary source, and the room should read it skeptically and ask which one it is. Free: [rojavainformationcenter.org](https://rojavainformationcenter.org/storage/2021/07/2016-Social-Contract-of-the-Democratic-Federation-of-Northern-Syria.pdf)
+- **Gilles Dauve**, _Kurdistan?_ (2015). The adversary, included on purpose. Dauve argues Rojava's councils are not dual power against the state but an administration doing state work under war conditions, dependent on American air cover and on the market it says it opposes. Left communist and hostile. Read it directly after the Social Contract. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/gilles-dauve-kurdistan)
+- **Black Flag**, _Zapatistas Put Autonomy Into Practice_ (2003). The 2003 turn that made the caracoles and the Juntas de Buen Gobierno, when the EZLN stopped asking the Mexican state for recognition and simply began governing. The clearest short statement of the Zapatista answer to the state question: do not seize it, do not negotiate with it, build beside it. Anarchist. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/black-flag-zapatistas-put-autonomy-into-practice)
+- **Chiapas Support Committee**, _To Govern by Obeying: 19 Years of the Caracoles_ (2022). Nineteen years on, including the Zapatistas' own decision to restructure the juntas. This answers what none of the theory can: what becomes of a counter-power that neither takes the state nor is destroyed by it, over two decades. Sympathetic, from the solidarity movement. Free: [chiapas-support.org](https://chiapas-support.org/2022/08/18/to-govern-by-obeying-19-years-of-the-caracoles/)
+
+For these experiments as prefigurative projects rather than as answers to the state question, see [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]], which holds the Zapatistas' own escuelita materials and the Rojava documentary.
+
 ### Debates and disagreements
 
 The school holds the disagreements open. This lens is built entirely around one of them.
@@ -240,6 +304,7 @@ The school holds the disagreements open. This lens is built entirely around one 
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Leon Trotsky**, _1905_ (1907). Trotsky's account of the St Petersburg Soviet he chaired, the first workers' council to function as a rival government inside a living state. The historical case Lenin's The Dual Power theorizes about. A participant rather than an observer. Free: [marxists.org](https://www.marxists.org/archive/trotsky/1907/1905/index.htm)
 - **Liberation School (PSL)**, _Study Guide on The State and Revolution_. A chapter-by-chapter guide to Lenin's text, the anchor of one pole of this lens's argument. Marxist-Leninist (PSL) in framing and committed to Lenin's conclusion; use it for the structure and let the anarchists in this lens answer it. Free: [liberationschool.org](https://liberationschool.org/study-guide-the-state-and-revolution/)
 - **ROAR Magazine**, _A Dual Power Reading List_. A reading list on dual power, the strategy of building counter-institutions alongside and against the state rather than seizing it. Autonomist and libertarian-left in sympathy. Free: [roarmag.org](https://roarmag.org/magazine/a-dual-power-reading-list/)
 - **Panagiotis Sotiris**, _Rethinking Political Power and Revolutionary Strategy Today_ (2014). Works through the strategy question after Poulantzas, asking what taking power could mean when neither smashing the state nor entering it has worked. A serious contemporary restatement of the whole debate this lens stages. Free: [viewpointmag.com](https://viewpointmag.com/2014/09/08/rethinking-political-power-and-revolutionary-strategy-today/)
@@ -251,4 +316,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of council, communal, and dual-power experiments and what they taught, from the Spanish Revolution to Rojava.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially first-person accounts from inside the dual-power experiments here rather than accounts written about them: the Rojava and Zapatista material is movement-issued or solidarity-written, and a participant's own reckoning with what the councils could not do would be worth more than either. The Spanish collectives are covered in [[03-themes/labor-work-and-organizing/liberatory|the labor theme]] and [[03-themes/anarchism-mutual-aid-and-prefiguration/index|the anarchism theme]].

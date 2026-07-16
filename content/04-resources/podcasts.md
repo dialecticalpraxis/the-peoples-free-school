@@ -8,13 +8,14 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_47 podcasts. Generated from theme lens frontmatter._
+_48 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
 | Show / episode | Host | Year | Access | Used in |
 | --- | --- | --- | --- | --- |
 | [Belabored](https://podcasts.apple.com/us/podcast/belabored/id634955549) | Sarah Jaffe, Michelle Chen, Dissent | 2013– | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [Below the Radar 250: States of Injury, with Wendy Brown](https://www.sfu.ca/vancity-office-community-engagement/below-the-radar-podcast/episodes/250-wendy-brown.html) | Wendy Brown, Am Johal, SFU Vancity Office of Community Engagement | 2024– | Free | [[the-state-strategy-and-power/theoretical\|The State, Strategy, and Power · Theoretical]] |
 | [Blowback](https://blowback.show/) | Brendan James, Noah Kulwin | 2020– | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) | Gene Demby, Shereen Marisol Meraji, NPR | 2016– | Free | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
 | [Cosmonaut Magazine and podcast](https://cosmonautmag.com/) | Cosmonaut | 2019– | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
