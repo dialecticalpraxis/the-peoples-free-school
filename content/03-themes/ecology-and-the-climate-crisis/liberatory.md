@@ -55,8 +55,96 @@ resources:
     format: reading
     kind: book
     access: paywalled
-    url: "https://www.thetedkarchive.com/library/troy-vettese-drew-pendergrass-half-earth-socialism"
-    note: "A contrasting planned-economy vision built on rewilding half the earth, energy quotas, and global veganism, a foil to both degrowth and eco-modernism. Book not free; a free excerpt is linked."
+    url: "https://www.versobooks.com/products/2650-half-earth-socialism"
+    note: "A planned-economy vision built on rewilding half the earth, energy quotas, and global veganism, a foil to both degrowth and eco-modernism. No borrowable copy exists. The authors give away a browser game that plays their plan out, which is the free way in."
+  - title: "Half-Earth Socialism: the game"
+    authors: ["Troy Vettese", "Drew Pendergrass", "Son La Pham"]
+    year: 2022
+    format: video
+    kind: explainer
+    access: free
+    url: "https://play.half.earth/"
+    note: "The authors' free browser game, in which you plan the world economy within planetary limits and discover how fast the tradeoffs bite. A study circle can play it together in a session, which beats arguing about central planning in the abstract."
+  - title: "Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline"
+    authors: ["Nick Estes"]
+    year: 2019
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.versobooks.com/products/600-our-history-is-the-future"
+    note: "Places Standing Rock in two centuries of Oceti Sakowin resistance, arguing the pipeline fight is one episode in a long war over land and water rather than a new environmental cause. The anchor text for Land Back. No borrowable copy exists; the free interviews below carry it."
+  - title: "Our History Is the Future with Nick Estes (The Dig)"
+    authors: ["Nick Estes", "Daniel Denvir"]
+    year: 2019
+    format: podcast
+    kind: interview
+    access: free
+    url: "https://thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/"
+    note: "A long-form interview with a full transcript, which makes it assignable as a reading where the book is out of reach. Estes on Standing Rock, treaty rights, and why Indigenous history is a theory of the future."
+  - title: "Nick Estes on Standing Rock (Democracy Now!)"
+    authors: ["Nick Estes", "Democracy Now!"]
+    year: 2019
+    format: video
+    kind: interview
+    access: free
+    url: "https://www.youtube.com/watch?v=BGgoXknPl8I"
+    note: "About 24,000 views, a niche pick, and the highest-viewed Estes interview that could be verified. A short video entry to the Land Back argument for a session opener."
+  - title: "Rights for Nature Articles in Ecuador's Constitution"
+    authors: ["Republic of Ecuador", "Global Alliance for the Rights of Nature"]
+    year: 2008
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.garn.org/wp-content/uploads/2021/09/Rights-for-Nature-Articles-in-Ecuadors-Constitution.pdf"
+    note: "The first constitution on earth to give nature enforceable rights, in the text itself. Pachamama has the right to exist and regenerate, and any person may go to court on her behalf. Read it against the buen vivir writing below, which argues the state has honored it selectively."
+  - title: "Law of the Rights of Mother Earth (Bolivia, Law 071)"
+    authors: ["Plurinational State of Bolivia"]
+    year: 2010
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://static1.squarespace.com/static/5e3f36df772e5208fa96513c/t/5fbd121959465c722a5727c7/1606226459629/Bolivia+Rights+of+Mother+Earth+Law+2010+English+(1).pdf"
+    note: "Bolivia's law giving Mother Earth legal rights, bundled here with the Cochabamba Universal Declaration. A primary source on what happens when Indigenous cosmology is written into statute by a government that also expands extraction."
+  - title: "Buen Vivir: Today's Tomorrow"
+    authors: ["Eduardo Gudynas"]
+    year: 2011
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.gudynas.com/publicaciones/GudynasBuenVivirTomorrowDevelopment11.pdf"
+    note: "The clearest short statement of buen vivir as a plural alternative to development itself, not a nicer version of it, rooted in Andean Indigenous thought but argued in the language of political ecology. Sympathetic and critical at once: Gudynas is sharp about governments using the word while drilling."
+  - title: "Commodities Consensus: Neoextractivism and Enclosure of the Commons in Latin America"
+    authors: ["Maristella Svampa"]
+    year: 2015
+    format: reading
+    kind: article
+    access: free
+    url: "https://maristellasvampa.net/wp-content/uploads/2019/12/Commodities-consensus.pdf"
+    note: "Names the bargain that left and right governments in Latin America both took: fund social programs by digging and drilling more. The essential complication to any story where the pink tide was simply green. Argentine sociologist, critical from the left."
+  - title: "Neo-extractivism in Latin America"
+    authors: ["Maristella Svampa"]
+    year: 2019
+    format: reading
+    kind: book
+    access: free
+    url: "https://maristellasvampa.net/wp-content/uploads/2019/11/libro-Neo-extractivism-in-Latin-America-in-Cambridge.pdf"
+    note: "A complete 72-page Cambridge Element, free from the author's own site, on extractivism, its socio-environmental conflicts, and the ecoterritorial turn of Latin American movements. Long enough to spine a multi-session arc."
+  - title: "Nobel Peace Prize Lecture"
+    authors: ["Wangari Maathai"]
+    year: 2004
+    format: primary-source
+    kind: speech
+    access: free
+    url: "https://www.nobelprize.org/prizes/peace/2004/maathai/lecture/"
+    note: "The founder of the Green Belt Movement, who organized Kenyan women to plant forty million trees and was beaten and jailed for it, explaining why she treats trees, democracy, and peace as one question. Her own voice, and short."
+  - title: "Ogoni Bill of Rights"
+    authors: ["Movement for the Survival of the Ogoni People"]
+    year: 1990
+    format: primary-source
+    kind: document
+    access: free
+    url: "http://www.mosop.org/ogoni_bill_of_rights.html"
+    note: "The demand the Ogoni people put to the Nigerian government over Shell's oil and their land, five years before Ken Saro-Wiwa and eight others were hanged for making it. Environmental justice as a primary source, written by the movement that paid for it."
   - title: "Post-Scarcity Anarchism"
     authors: ["Murray Bookchin"]
     year: 1971
@@ -122,8 +210,20 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 
 ### Indigenous ecology and Land Back
 
+- **Nick Estes** (b. 1983), _Our History Is the Future_ (2019). Standing Rock read as one episode in two centuries of Oceti Sakowin resistance rather than as a new environmental cause: the pipeline fight is a long war over land and water that never stopped. The anchor text for Land Back, and it was missing from this school entirely. No borrowable copy exists. Paywalled: [versobooks.com](https://www.versobooks.com/products/600-our-history-is-the-future). Free and assignable: his interview with a full transcript at [thedigradio.com](https://thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/), or a short video opener at [youtube.com](https://www.youtube.com/watch?v=BGgoXknPl8I) (about 24,000 views, niche, and the best that could be verified).
+
 - **Robin Wall Kimmerer** (b. 1953), _Braiding Sweetgrass_ (2013). Weaves Potawatomi teachings and botany into an ethic of reciprocity with the living world, offering a vision of abundance and gift rather than extraction. Free to borrow: [archive.org](https://archive.org/details/braidingsweetgra0000kimm)
 - **The Red Nation** (collective), _The Red Deal_ (2021). An Indigenous, anticapitalist program insisting that any Green New Deal must also be "Red," centering decolonization and Land Back over growth. Read against the Green New Deal debate below. Free: [archive.org](https://archive.org/details/the-red-deal)
+
+### Ecological thought from the Global South
+
+The lens above argues about growth in the language of the countries that did the growing. These are the traditions that were being dug up to pay for it, and their questions are not the same. Buen vivir does not ask how fast an economy should expand; it asks whether "development" was ever the right noun.
+
+- **Eduardo Gudynas**, _Buen Vivir: Today's Tomorrow_ (2011). Buen vivir as a plural alternative to development itself rather than a gentler version of it, rooted in Andean Indigenous thought and argued in the language of political ecology. Gudynas is sympathetic and unsentimental at once, sharp about governments that use the phrase while expanding the mines. Free: [gudynas.com](https://www.gudynas.com/publicaciones/GudynasBuenVivirTomorrowDevelopment11.pdf)
+- **Republic of Ecuador**, _Rights for Nature Articles in the Constitution_ (2008), and **Bolivia**, _Law of the Rights of Mother Earth_ (2010). The first places on earth to give nature enforceable legal rights: Pachamama has the right to exist and regenerate, and any person may sue on her behalf. Read the texts, then read Svampa on what those same governments did next. Free: [Ecuador](https://www.garn.org/wp-content/uploads/2021/09/Rights-for-Nature-Articles-in-Ecuadors-Constitution.pdf), [Bolivia](https://static1.squarespace.com/static/5e3f36df772e5208fa96513c/t/5fbd121959465c722a5727c7/1606226459629/Bolivia+Rights+of+Mother+Earth+Law+2010+English+(1).pdf)
+- **Maristella Svampa**, _Commodities Consensus_ (2015) and _Neo-extractivism in Latin America_ (2019). The bargain left and right governments in Latin America both accepted: pay for social programs by digging and drilling harder. This is the necessary complication to any story in which the pink tide was simply green, and it is written from the left rather than against it. The second is a complete 72-page Cambridge Element, free from her own site, long enough to spine an arc. Free: [the essay](https://maristellasvampa.net/wp-content/uploads/2019/12/Commodities-consensus.pdf), [the book](https://maristellasvampa.net/wp-content/uploads/2019/11/libro-Neo-extractivism-in-Latin-America-in-Cambridge.pdf)
+- **Wangari Maathai** (1940 to 2011), _Nobel Peace Prize Lecture_ (2004). She organized Kenyan women to plant forty million trees and was beaten and jailed for it, and here explains in her own voice why trees, democracy, and peace are one question rather than three. Short enough to read aloud. Free: [nobelprize.org](https://www.nobelprize.org/prizes/peace/2004/maathai/lecture/)
+- **Movement for the Survival of the Ogoni People**, _Ogoni Bill of Rights_ (1990). What the Ogoni asked of Nigeria over Shell's oil and their land, five years before the state hanged Ken Saro-Wiwa and eight others for asking. Environmental justice as a primary source, written by the movement that paid for it. Free: [mosop.org](http://www.mosop.org/ogoni_bill_of_rights.html)
 
 ### Ecosocialism
 
@@ -136,7 +236,7 @@ The sharpest strategic argument in climate politics runs between degrowth and a 
 
 - **Jason Hickel** (b. 1982), _We Need a Green New Deal Without Growth_ (2020). The degrowth position: a just transition must abandon the growth imperative and scale down the throughput of the rich economies. Free: [jasonhickel.org](https://www.jasonhickel.org/blog/2020/10/19/we-need-a-green-new-deal-without-growth)
 - **Robert Pollin** (b. 1950), _Degrowth Policies Cannot Avert Climate Crisis_ (2021). The opposing position, holding that only large-scale green investment and continued growth decoupled from fossil fuels can cut emissions in time. Included precisely because it disagrees with Hickel. Free: [truthout.org](https://truthout.org/articles/degrowth-policies-cannot-avert-climate-crisis-we-need-a-green-new-deal/)
-- **Troy Vettese** and **Drew Pendergrass**, _Half-Earth Socialism_ (2022). A third position: a planned economy built on rewilding half the earth, energy quotas, and global veganism, which rejects endless growth but leans on strong central planning. The book is not free; a free excerpt is linked. [thetedkarchive.com](https://www.thetedkarchive.com/library/troy-vettese-drew-pendergrass-half-earth-socialism)
+- **Troy Vettese** and **Drew Pendergrass**, _Half-Earth Socialism_ (2022). A third position: a planned economy built on rewilding half the earth, energy quotas, and global veganism, which rejects endless growth but leans hard on central planning. No borrowable copy exists. Paywalled: [versobooks.com](https://www.versobooks.com/products/2650-half-earth-socialism). Better than an excerpt, the authors give away a browser game of their own plan: play it as a group and watch the tradeoffs bite, at [play.half.earth](https://play.half.earth/)
 - For a long-form audio case, hear **Timothée Parrique** on Upstream, _Slow Down or Die: The Economics of Degrowth_ (2025). The French degrowth economist distinguishes degrowth from a recession and sketches a dynamic steady-state economy, the fullest spoken introduction to the degrowth position gathered here. Free: [upstreampodcast.org](https://www.upstreampodcast.org/conversations/slow-down-or-die-w-timothee-parrique)
 
 ### Prefigurative and hopeful visions
@@ -155,4 +255,4 @@ The school holds the disagreements open. The degrowth communists (Hickel, Saito 
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of ecological experiments underway now, energy-democracy and food-sovereignty programs, and degrowth and ecosocialist thought from the Global South.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially Pacific and Caribbean climate thought, which this lens still does not reach: the Global South material added here is Latin American and African. Energy democracy and food sovereignty now sit in [[03-themes/ecology-and-the-climate-crisis/practical|the practical lens]]. Note that Estes, Malm, and Vettese and Pendergrass have no borrowable copy anywhere; the free full texts circulating online are unauthorized, and each entry here points to the publisher with a free companion instead.

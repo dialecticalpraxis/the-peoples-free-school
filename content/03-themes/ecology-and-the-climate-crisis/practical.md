@@ -108,6 +108,53 @@ resources:
     length: "27 min"
     url: "https://www.youtube.com/watch?v=1-Xl6dhDV3Q"
     note: "About 89,000 views. A practical sketch of rebuilding community and mutual support against social isolation, the ground of any local ecological resilience."
+  - title: "Declaration of Nyeleni"
+    authors: ["Forum for Food Sovereignty"]
+    year: 2007
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://nyeleni.org/IMG/pdf/DeclNyeleni-en.pdf"
+    note: "The founding statement of food sovereignty, agreed by five hundred delegates from eighty countries in Mali: the right of peoples to define their own food and agriculture rather than have it defined by markets and corporations. Written by peasant, fisher, and Indigenous movements themselves."
+  - title: "La Via Campesina"
+    authors: ["La Via Campesina"]
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://viacampesina.org/en/"
+    note: "The international peasant movement, roughly 200 million members across 81 countries, which coined food sovereignty and organizes against the corporate food regime. The movement's own site, and the standpoint is the argument."
+  - title: "Declaration of the International Forum for Agroecology"
+    authors: ["La Via Campesina", "Nyeleni Forum for Agroecology"]
+    year: 2015
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://viacampesina.org/en/declaration-of-the-international-forum-for-agroecology/"
+    note: "Agroecology defined by the movements practicing it rather than by agronomists: not a set of techniques to be absorbed into industrial farming but a political claim about who controls seeds, land, and knowledge."
+  - title: "Movimento dos Trabalhadores Rurais Sem Terra (MST)"
+    authors: ["Movimento dos Trabalhadores Rurais Sem Terra"]
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://mst.org.br/english/"
+    note: "Brazil's Landless Workers' Movement, one of the largest social movements in the world, which has settled hundreds of thousands of families on occupied land and is now a major producer of organic rice. Land reform carried out rather than legislated. The movement's own English pages."
+  - title: "Transition in Trouble? The Rise and Fall of Community Energy in Europe"
+    authors: ["Trade Unions for Energy Democracy"]
+    year: 2022
+    format: reading
+    kind: article
+    access: free
+    url: "https://cdn.prod.website-files.com/63276dc4e6b803208bf159df/63405db1bf6fabffca0a1b83_TUED-WP13-Transition-in-Trouble.pdf"
+    note: "Argues that community energy in Europe has stalled and that decentralized ownership cannot carry the transition without public power behind it. Deliberately included as the counterweight to community-solar enthusiasm; TUED is a union network arguing for public ownership."
+  - title: "Power to the People? Toward Democratic Control of Electricity Generation"
+    authors: ["Trade Unions for Energy Democracy"]
+    year: 2013
+    format: reading
+    kind: article
+    access: free
+    tier: extended
+    url: "https://base.socioeco.org/docs/tuedworkingpaper4powertothepeople73.pdf"
+    note: "The energy democracy argument set out at length: who owns the grid decides what the transition is for. A union network's case for public and social ownership of energy."
   - title: "Teach Climate Justice"
     authors: ["Zinn Education Project"]
     format: reading
@@ -148,6 +195,18 @@ Free unless marked otherwise. Several of these documentaries and toolkits are fr
 - **Grounding in Just Transition** (Climate Justice Alliance). Three Freirean popular-education curricula for frontline organizers, with stated time, materials, handouts, and a community-driven transition-planning guide. The most turnkey folk-school toolkit here. Free: [climatejusticealliance.org](https://climatejusticealliance.org/just-transition-toolkit/)
 - **Climate Resistance Handbook** (Daniel Hunter, 350.org, 2019). A short, practical, Creative Commons guide to movement strategy, campaign design, and escalation for climate organizers. Free: [commonslibrary.org](https://commonslibrary.org/climate-resistance-handbook/)
 
+### Food sovereignty
+
+The climate argument is usually had about energy. It is also an argument about who grows food, on whose land, with whose seeds, and these movements are the largest in the world by membership and the least known in this school.
+
+- **Forum for Food Sovereignty**, _Declaration of Nyeleni_ (2007). Five hundred delegates from eighty countries in a Malian village, defining food sovereignty as the right of peoples to decide their own food and agriculture rather than have markets decide it for them. Written by peasant, fisher, and Indigenous movements themselves, and short. Free: [nyeleni.org](https://nyeleni.org/IMG/pdf/DeclNyeleni-en.pdf)
+- **La Via Campesina**. Roughly 200 million members across 81 countries, the movement that coined food sovereignty. Its _Declaration of the International Forum for Agroecology_ (2015) is the sharp one: agroecology is not a set of techniques that industrial farming can absorb, it is a claim about who controls seeds, land, and knowledge. Free: [viacampesina.org](https://viacampesina.org/en/) and [the agroecology declaration](https://viacampesina.org/en/declaration-of-the-international-forum-for-agroecology/)
+- **Movimento dos Trabalhadores Rurais Sem Terra (MST)**. Brazil's Landless Workers' Movement has settled hundreds of thousands of families on occupied land and become the country's largest producer of organic rice, which is land reform carried out rather than legislated. Free: [mst.org.br](https://mst.org.br/english/)
+
+### Energy democracy
+
+- **Trade Unions for Energy Democracy**, _Transition in Trouble?_ (2022). Community energy in Europe has stalled, and TUED's argument is that decentralized ownership cannot carry a transition without public power behind it. It is here as the counterweight to community-solar enthusiasm rather than a reinforcement of it: a union network making the case that who owns the grid decides what the transition is for. Free: [tuedglobal.org](https://cdn.prod.website-files.com/63276dc4e6b803208bf159df/63405db1bf6fabffca0a1b83_TUED-WP13-Transition-in-Trouble.pdf)
+
 ### Films and documentaries
 
 - **Gasland** (Josh Fox, 2010, 107 min). The Academy Award nominated first-person road trip through communities poisoned by fracking, a key organizing tool for the anti-fracking movement. Free to stream: [archive.org](https://archive.org/details/gasland_202012)
@@ -170,10 +229,11 @@ Free unless marked otherwise. Several of these documentaries and toolkits are fr
 
 _For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
 
+- **Trade Unions for Energy Democracy**, _Power to the People? Toward Democratic Control of Electricity Generation_ (2013). The energy democracy argument set out at length: who owns the grid decides what the transition is for. A union network's case for public and social ownership of energy. Free: [base.socioeco.org](https://base.socioeco.org/docs/tuedworkingpaper4powertothepeople73.pdf)
 - **Zinn Education Project**, _Teach Climate Justice_. Role plays and participatory lessons, including the Climate Change Mixer, built for classrooms and easily adapted to a study circle. The strongest source of participatory exercises for this theme, and it teaches the politics rather than the chemistry. Free: [zinnedproject.org](https://www.zinnedproject.org/campaigns/teach-climate-justice/)
 
 <!-- further-reading:end -->
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups that have run local sessions, and material on Land Back, energy democracy, food sovereignty, and disaster mutual aid.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups that have run local sessions, and disaster mutual aid. The food sovereignty and energy democracy material here is movement-issued and reads as such; first-person accounts from people inside an MST settlement or a community energy project would be worth more than another declaration.

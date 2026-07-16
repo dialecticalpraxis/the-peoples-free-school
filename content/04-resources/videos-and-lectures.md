@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_121 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_123 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,6 +45,7 @@ _121 videos and lectures — online explainers, lectures, and video essays (dist
 | [Angela Davis on feminism, communism and being a Black Panther](https://www.youtube.com/watch?v=x3q_qV5mHg0) | Angela Y. Davis, Channel 4 News | 2018 | 32 min | interview | Free | [[gender-reproduction-and-the-household/liberatory\|Gender, Reproduction, and the Household · Liberatory]] |
 | [Palestine 1920: The Other Side of the Palestinian Story](https://www.youtube.com/watch?v=QUCeQt8zg5o) | Al Jazeera English | 2022 | 47 min | documentary | Free | [[imperialism-and-the-global-system/historical\|Imperialism and the Global System · Historical]] |
 | [The Witch Trials and the Rise of Modernity and Capitalism](https://www.youtube.com/watch?v=pWwdx8Lo7So) | ESOTERICA | 2020 | 15 min | explainer | Free | [[gender-reproduction-and-the-household/historical\|Gender, Reproduction, and the Household · Historical]] |
+| [Nick Estes on Standing Rock (Democracy Now!)](https://www.youtube.com/watch?v=BGgoXknPl8I) | Nick Estes, Democracy Now! | 2019 | — | interview | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Paulo Freire: An Incredible Conversation](https://www.youtube.com/watch?v=aFWjnkFypFA) | Paulo Freire, LiteracyDotOrg | 2016 | ~9 min | interview | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Paulo Freire and Critical Pedagogy](https://www.youtube.com/watch?v=wFOhVdQt27c) | FreireProject | 2008 | ~9 min | explainer | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Geographies of Racial Capitalism with Ruth Wilson Gilmore](https://www.youtube.com/watch?v=2CS627aKrJI) | Ruth Wilson Gilmore, Antipode Foundation | 2020 | 16 min | lecture | Free | [[anti-blackness-and-racial-capitalism/theoretical\|Anti-Blackness and Racial Capitalism · Theoretical]] |
@@ -120,6 +121,7 @@ _121 videos and lectures — online explainers, lectures, and video essays (dist
 | [Marx: A Complete Guide to Capitalism](https://www.youtube.com/watch?v=0bmX0hZoiJM) | Philosophy Tube, Abigail Thorn | 2024 | 50 min | essay | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
 | [How To Start A Union: Step By Step](https://www.youtube.com/watch?v=tok00IDVTz4) | More Perfect Union | 2022 | 13 min | explainer | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Starbucks Tried to Crush Its Baristas. What Happened Next Will Shock You](https://www.youtube.com/watch?v=w9V-o8ckKyg) | More Perfect Union | 2024 | 12 min | explainer | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
+| [Half-Earth Socialism: the game](https://play.half.earth/) | Troy Vettese, Drew Pendergrass, Son La Pham | 2022 | — | explainer | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [The collapse of Venezuela, explained](https://www.youtube.com/watch?v=S1gUR8wM5vA) | Vox | 2017 | 8 min | explainer | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
 | [Before the Prague Spring (Cold War documentary)](https://www.youtube.com/watch?v=3BsKa67TGM0) | The Cold War | 2023 | 19 min | documentary | Free | [[revolution-in-power/historical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]] |
 | [Cuban Revolution (Cold War documentary)](https://www.youtube.com/watch?v=kDeKySs_nxw) | The Cold War | 2022 | 19 min | documentary | Free | [[socialism-and-national-liberation/historical\|Socialism and National Liberation: the Global South · Historical]] |

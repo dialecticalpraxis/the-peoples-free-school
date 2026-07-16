@@ -8,7 +8,7 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_49 podcasts. Generated from theme lens frontmatter._
+_50 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
@@ -38,6 +38,7 @@ _49 podcasts. Generated from theme lens frontmatter._
 | [Momentum: A Race Forward Podcast](https://www.raceforward.org/momentum-race-forward-podcast) | Chevon Drew, Hiba Elyass, Race Forward | 2019– | Free | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
 | [Mothers of Invention](https://www.mothersofinvention.online/) | Mary Robinson, Maeve Higgins, Thimali Kodikara | 2018– | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Movement Memos](https://truthout.org/series/movement-memos/) | Kelly Hayes, Truthout | 2020– | Free | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
+| [Our History Is the Future with Nick Estes (The Dig)](https://thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/) | Nick Estes, Daniel Denvir | 2019– | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Rebel Steps](https://rebelsteps.com/about/) | Amy, Liz | 2018– | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
 | [Red Rosa: The Life and Legacy of Rosa Luxemburg](https://revolutionaryleftradio.libsyn.com/k) | Revolutionary Left Radio, Kate Evans | 2019– | Free | [[origins-dialectics-marx-and-the-workers-movement/experiential\|Origins: Dialectics, Marx, and the Workers' Movement · Experiential]] |
 | [Reimagining Soviet Georgia](https://podcasts.apple.com/us/podcast/reimagining-soviet-georgia/id1555761205) | Sopiko Japaridze, Bryan Gigantino | 2020– | Free | [[revolution-in-power/experiential\|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]] |
