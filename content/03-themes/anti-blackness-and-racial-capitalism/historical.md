@@ -165,4 +165,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. The expansion of whiteness and the racialization of Asian and Latino people are now covered; Indigenous dispossession is deliberately held for a forthcoming theme on settler colonialism and land, which can carry it properly rather than as a subsection here. Contributions welcome, especially Filipino racialization and the colonial ambiguity of US nationals, and the global history of race beyond the United States.
+This lens has a developed first pass for this theme. The expansion of whiteness and the racialization of Asian and Latino people are now covered; Indigenous dispossession is carried by [[03-themes/settler-colonialism-land-and-indigenous-sovereignty/index|Settler Colonialism, Land, and Indigenous Sovereignty]], which exists now and holds it properly rather than as a subsection here. Contributions welcome, especially Filipino racialization and the colonial ambiguity of US nationals, and the global history of race beyond the United States.

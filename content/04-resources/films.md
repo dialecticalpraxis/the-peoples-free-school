@@ -8,7 +8,7 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_60 films and documentaries. Generated from theme lens frontmatter._
+_65 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
@@ -33,16 +33,20 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | [Food Chains](https://www.youtube.com/watch?v=6vw-qTCW8fo) | Sanjay Rawal | 2014 | 83 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Freedom Summer](https://www.pbs.org/wgbh/americanexperience/films/freedomsummer/) | Stanley Nelson, PBS American Experience | 2014 | 113 min | Free | [[critical-pedagogy-and-the-practice-of-liberation/historical\|Critical Pedagogy and the Practice of Liberation · Historical]] |
 | [Gasland](https://www.justwatch.com/us/movie/gasland) | Josh Fox | 2010 | 107 min | Paywalled | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |
+| [Gather](https://tubitv.com/movies/724903/gather) | Sanjay Rawal | 2020 | 75 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Gaza Fights For Freedom](https://www.youtube.com/watch?v=HnZSaKYmP2s) | Abby Martin, Empire Files | 2021 | 84 min | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Grenada: The Future Coming Towards Us](https://vimeo.com/9958883) | Samir Ferdinand, Caribbean Research Institute | 1983 | 55 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Harlan County USA](https://www.criterion.com/films/777-harlan-county-usa) | Barbara Kopple | 1976 | 103 min | Paywalled | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Harvest of Shame](https://archive.org/details/HarvestOfShame) | Edward R. Murrow, David Lowe, CBS Reports | 1960 | 52 min | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |
 | [HyperNormalisation](https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation) | Adam Curtis, BBC | 2016 | 165 min | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [I Am Not Your Negro](https://www.pbs.org/independentlens/documentaries/i-am-not-your-negro/) | Raoul Peck | 2016 | 93 min | Free to borrow | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
+| [Incident at Restigouche](https://www.nfb.ca/film/incident_at_restigouche/) | Alanis Obomsawin | 1984 | 46 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
+| [Kanehsatake: 270 Years of Resistance](https://www.nfb.ca/film/kanehsatake_270_years_of_resistance/) | Alanis Obomsawin | 1993 | 119 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | 86 min | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Living Utopia (Vivir la Utopía)](https://www.youtube.com/watch?v=gxRXtWvWCuY) | Juan Gamero | 1997 | 95 min | Free | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
 | [No Gods No Masters: A History of Anarchism](https://archive.org/details/NoGodsNoMasters2) | Tancrède Ramonet | 2016 | 3 parts | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
 | [Precious Knowledge](https://www.pbs.org/independentlens/documentaries/precious-knowledge/) | Ari Luis Palos, Eren Isabel McGinnis | 2011 | 70 min | Free to borrow | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
+| [Richard Cardinal: Cry from a Diary of a Metis Child](https://www.nfb.ca/film/richard_cardinal/) | Alanis Obomsawin | 1986 | 29 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Screaming Queens: The Riot at Compton's Cafeteria](https://www.youtube.com/watch?v=G-WASW9dRBU) | Susan Stryker, Victor Silverman | 2005 | 57 min | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Slavery by Another Name](https://www.pbs.org/show/slavery-another-name/) | Sam Pollard | 2012 | 90 min | Free | [[anti-blackness-and-racial-capitalism/historical\|Anti-Blackness and Racial Capitalism · Historical]] |
 | [The Act of Killing](https://www.justwatch.com/us/movie/the-act-of-killing) | Joshua Oppenheimer | 2012 | 117 min | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
@@ -62,6 +66,7 @@ _60 films and documentaries. Generated from theme lens frontmatter._
 | [The Untold Story of Kwame Nkrumah](https://www.youtube.com/watch?v=NKkGJk1v6os) | Bisi | — | 44 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [The Weather Underground](https://www.justwatch.com/us/movie/the-weather-underground) | Sam Green, Bill Siegel | 2002 | 92 min | Free to borrow | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |
 | [Thomas Sankara: The Upright Man](https://www.youtube.com/watch?v=Ht3H_Zk80ko) | Robin Shuffield | 2006 | 52 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
+| [Trick or Treaty?](https://www.nfb.ca/film/trick_or_treaty/) | Alanis Obomsawin | 2014 | 85 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Union](https://www.pbs.org/pov/films/unionfilm/) | Stephen Maing, Brett Story | 2024 | 90 min | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Which Way Home](https://tubitv.com/movies/56919/which-way-home) | Rebecca Cammisa | 2009 | 90 min | Free | [[the-state-strategy-and-power/experiential\|The State, Strategy, and Power · Experiential]] |
 | [Whose Streets?](https://www.pbs.org/pov/films/whosestreets/) | Sabaah Folayan, Damon Davis | 2017 | 102 min | Free to borrow | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |

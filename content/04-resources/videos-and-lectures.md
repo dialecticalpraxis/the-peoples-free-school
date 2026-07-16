@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_133 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_135 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,7 @@ _133 videos and lectures — online explainers, lectures, and video essays (dist
 | [How We Can Build A Solarpunk Future Right Now](https://www.youtube.com/watch?v=twGcjDnOb_U) | Our Changing Climate, Andrewism | 2022 | 13 min | essay | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Why We Need Degrowth](https://www.youtube.com/watch?v=48G3ox90wss) | Our Changing Climate | 2023 | 26 min | essay | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [How Unions CRUSH Capitalists](https://www.youtube.com/watch?v=mcgC-kuPEuo) | Adam Conover | 2023 | 28 min | explainer | Free | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] |
+| [Glen Coulthard on Red Skin, White Masks (lecture)](https://www.youtube.com/watch?v=usrJlFVpKaM) | Glen Sean Coulthard | — | 77 min | lecture | Free | [[settler-colonialism-land-and-indigenous-sovereignty/theoretical\|Settler Colonialism, Land, and Indigenous Sovereignty · Theoretical]] |
 | [A World Without Governments? Anarchism Explained](https://www.youtube.com/watch?v=P-Ibq-9wulQ) | CrashCourse | 2024 | 12 min | explainer | Free | [[anarchism-mutual-aid-and-prefiguration/theoretical\|Anarchism, Mutual Aid, and Prefiguration · Theoretical]]<br>[[the-state-strategy-and-power/liberatory\|The State, Strategy, and Power · Liberatory]] |
 | [Crash Course World History #33: Capitalism and Socialism](https://www.youtube.com/watch?v=B3u4EFTwprM) | CrashCourse, John Green | 2012 | 11 min | explainer | Free | [[how-capitalism-works/historical\|How Capitalism Works · Historical]] |
 | [Decolonization and Nationalism Triumphant: Crash Course World History #40](https://www.youtube.com/watch?v=T_sGTspaF4Y) | CrashCourse, John Green | 2012 | 13 min | explainer | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
@@ -50,6 +51,7 @@ _133 videos and lectures — online explainers, lectures, and video essays (dist
 | [Frank Dikotter on Mao's Great Famine (Harvard Book Store)](https://www.youtube.com/watch?v=DqFBa9ePWpo) | Frank Dikotter | 2011 | 39 min | lecture | Free | [[revolution-in-power/historical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]] |
 | [Palestine 1920: The Other Side of the Palestinian Story](https://www.youtube.com/watch?v=QUCeQt8zg5o) | Al Jazeera English | 2022 | 47 min | documentary | Free | [[imperialism-and-the-global-system/historical\|Imperialism and the Global System · Historical]] |
 | [The Witch Trials and the Rise of Modernity and Capitalism](https://www.youtube.com/watch?v=pWwdx8Lo7So) | ESOTERICA | 2020 | 15 min | explainer | Free | [[gender-reproduction-and-the-household/historical\|Gender, Reproduction, and the Household · Historical]] |
+| [Lakota Historian Nick Estes on Thanksgiving, Settler Colonialism and Continuing Indigenous Resistance](https://www.youtube.com/watch?v=s9SdTXywYws) | Nick Estes, Democracy Now! | 2019 | 14 min | interview | Free | [[settler-colonialism-land-and-indigenous-sovereignty/historical\|Settler Colonialism, Land, and Indigenous Sovereignty · Historical]] |
 | [Nick Estes on Standing Rock (Democracy Now!)](https://www.youtube.com/watch?v=BGgoXknPl8I) | Nick Estes, Democracy Now! | 2019 | — | interview | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Paulo Freire: An Incredible Conversation](https://www.youtube.com/watch?v=aFWjnkFypFA) | Paulo Freire, LiteracyDotOrg | 2016 | ~9 min | interview | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
 | [Paulo Freire and Critical Pedagogy](https://www.youtube.com/watch?v=wFOhVdQt27c) | FreireProject | 2008 | ~9 min | explainer | Free | [[critical-pedagogy-and-the-practice-of-liberation/theoretical\|Critical Pedagogy and the Practice of Liberation · Theoretical]] |
