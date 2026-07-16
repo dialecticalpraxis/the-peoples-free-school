@@ -8,12 +8,13 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_48 podcasts. Generated from theme lens frontmatter._
+_49 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
 | Show / episode | Host | Year | Access | Used in |
 | --- | --- | --- | --- | --- |
+| [Abolish the Family with Sophie Lewis (The Dig)](https://thedigradio.com/transcripts/transcript-abolish-the-family-with-sophie-lewis/) | Sophie Lewis, Daniel Denvir | 2019– | Free | [[gender-reproduction-and-the-household/liberatory\|Gender, Reproduction, and the Household · Liberatory]] |
 | [Belabored](https://podcasts.apple.com/us/podcast/belabored/id634955549) | Sarah Jaffe, Michelle Chen, Dissent | 2013– | Free | [[labor-work-and-organizing/practical\|Labor, Work, and Organizing · Practical]] |
 | [Below the Radar 250: States of Injury, with Wendy Brown](https://www.sfu.ca/vancity-office-community-engagement/below-the-radar-podcast/episodes/250-wendy-brown.html) | Wendy Brown, Am Johal, SFU Vancity Office of Community Engagement | 2024– | Free | [[the-state-strategy-and-power/theoretical\|The State, Strategy, and Power · Theoretical]] |
 | [Blowback](https://blowback.show/) | Brendan James, Noah Kulwin | 2020– | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |

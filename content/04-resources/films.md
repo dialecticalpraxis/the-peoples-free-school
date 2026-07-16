@@ -8,7 +8,7 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_59 films and documentaries. Generated from theme lens frontmatter._
+_60 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
@@ -43,6 +43,7 @@ _59 films and documentaries. Generated from theme lens frontmatter._
 | [Living Utopia (Vivir la Utopía)](https://www.youtube.com/watch?v=gxRXtWvWCuY) | Juan Gamero | 1997 | 95 min | Free | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
 | [No Gods No Masters: A History of Anarchism](https://archive.org/details/NoGodsNoMasters2) | Tancrède Ramonet | 2016 | 3 parts | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
 | [Precious Knowledge](https://www.pbs.org/independentlens/documentaries/precious-knowledge/) | Ari Luis Palos, Eren Isabel McGinnis | 2011 | 70 min | Free to borrow | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
+| [Screaming Queens: The Riot at Compton's Cafeteria](https://www.youtube.com/watch?v=G-WASW9dRBU) | Susan Stryker, Victor Silverman | 2005 | 57 min | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Slavery by Another Name](https://www.pbs.org/show/slavery-another-name/) | Sam Pollard | 2012 | 90 min | Free | [[anti-blackness-and-racial-capitalism/historical\|Anti-Blackness and Racial Capitalism · Historical]] |
 | [The Act of Killing](https://www.justwatch.com/us/movie/the-act-of-killing) | Joshua Oppenheimer | 2012 | 117 min | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [The Ants and the Grasshopper](https://www.pbs.org/show/ants-grasshopper-series/) | Raj Patel, Zak Piper | 2021 | 74 min | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |

@@ -8,7 +8,7 @@ Documents, speeches, manifestos, archives, and oral histories that let the room 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_89 primary sources. Generated from theme lens frontmatter._
+_91 primary sources. Generated from theme lens frontmatter._
 
 | Source | Author / holder | Year | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -72,6 +72,8 @@ _89 primary sources. Generated from theme lens frontmatter._
 | [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/) | Federal Writers' Project, Library of Congress | — | archive | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]]<br>[[how-capitalism-works/experiential\|How Capitalism Works · Experiential]] |
 | [Environmental Justice Oral History Project (EJOHP)](https://ejohp.com/) | Environmental Justice Oral History Project | — | archive | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/index.htm) | John Reed | 1919 | book | Free | [[the-state-strategy-and-power/historical\|The State, Strategy, and Power · Historical]] |
+| [STAR: Street Transvestite Action Revolutionaries: Survival, Revolt, and Queer Antagonist Struggle](https://archive.org/details/contentpipe-star-street-transvestite-action-revolutionaries-547361bf03) | Sylvia Rivera, Marsha P. Johnson, Untorelli Press | 2013 | collection | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
+| [Sylvia Rivera, "Y'all Better Quiet Down" (1973 Christopher Street Liberation Day Rally)](https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973) | Sylvia Rivera | 1973 | archive | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Executive Order 9066](https://www.archives.gov/milestone-documents/executive-order-9066) | Franklin D. Roosevelt | 1942 | document | Free | [[immigration-and-the-making-of-race/historical\|Immigration and the Making of Race · Historical]] |
 | [Supplementary Theses on the National and Colonial Questions](https://redsails.org/theses-on-the-national-and-colonial-questions/) | M.N. Roy, V.I. Lenin | 1920 | document | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
 | [South Asian American Digital Archive (SAADA)](https://saada.org) | SAADA | — | archive | Free | [[immigration-and-the-making-of-race/experiential\|Immigration and the Making of Race · Experiential]] |

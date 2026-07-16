@@ -1,6 +1,31 @@
 ---
 title: Experiential
 resources:
+  - title: "Sylvia Rivera, \"Y'all Better Quiet Down\" (1973 Christopher Street Liberation Day Rally)"
+    authors: ["Sylvia Rivera"]
+    year: 1973
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973"
+    note: "Rivera seizes the microphone at a Pride rally and shouts down a crowd of gay men and lesbians who are booing her, for the crime of asking them to remember the street queens in jail. Four minutes that carry the whole argument about who the movement is for. Her own voice, unmediated."
+  - title: "STAR: Street Transvestite Action Revolutionaries: Survival, Revolt, and Queer Antagonist Struggle"
+    authors: ["Sylvia Rivera", "Marsha P. Johnson", "Untorelli Press"]
+    year: 2013
+    format: primary-source
+    kind: collection
+    access: free
+    url: "https://archive.org/details/contentpipe-star-street-transvestite-action-revolutionaries-547361bf03"
+    note: "The 1970 STAR manifesto with interviews and remembrances of Rivera and Johnson, who ran a house for homeless street queens out of their own earnings. A household built by people the family threw away, which is this theme's question asked from the other end."
+  - title: "Screaming Queens: The Riot at Compton's Cafeteria"
+    authors: ["Susan Stryker", "Victor Silverman"]
+    year: 2005
+    format: film
+    kind: documentary
+    access: free
+    length: "57 min"
+    url: "https://www.youtube.com/watch?v=G-WASW9dRBU"
+    note: "About 243,000 views. The 1966 San Francisco riot that preceded Stonewall by three years, told largely by the trans women who were there. Stryker is a trans historian recovering her own city's history."
   - title: "Rosie the Riveter / World War II American Home Front Oral History Project"
     authors: ["UC Berkeley Oral History Center", "National Park Service"]
     format: primary-source
@@ -102,4 +127,4 @@ This lens can cut close. Care and gender are lived in the body and in the family
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially testimony from care workers, trans and queer experiences of the household, and caregiving outside the United States.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially caregiving outside the United States, and testimony from migrant domestic workers in their own voices: that was searched for specifically and what exists free is journalism and NGO reporting about these workers rather than by them. Migrante International, the Filipino migrant workers' organization that would supply exactly that standpoint, blocks automated access and should be checked by hand.

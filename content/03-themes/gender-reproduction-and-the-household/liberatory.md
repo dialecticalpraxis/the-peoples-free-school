@@ -91,6 +91,62 @@ resources:
     length: "32 min"
     url: "https://www.youtube.com/watch?v=x3q_qV5mHg0"
     note: "About 251,000 views. A wide-ranging interview linking socialist and anti-racist feminism. A living voice for the liberatory lens."
+  - title: "Abolish the Family: A Manifesto for Care and Liberation"
+    authors: ["Sophie Lewis"]
+    year: 2022
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.versobooks.com/products/2890-abolish-the-family"
+    note: "Traces family abolition from Fourier and the Communist Manifesto through Kollontai, Firestone, and gay liberation to contemporary queer Marxism, arguing we all deserve better than the family. The direct synthesis of texts this theme already holds, which is why leaving it out left a hole. Queer Marxist feminist, family abolitionist."
+  - title: "Full Surrogacy Now: Feminism Against Family"
+    authors: ["Sophie Lewis"]
+    year: 2019
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.versobooks.com/products/711-full-surrogacy-now"
+    note: "Reads commercial surrogacy as gestational labor under racial capitalism, refusing both the prohibitionist panic and the market's defense, and argues for holding all babies in common. Pushes the reproduction question past housework into gestation itself. Queer Marxist feminist, and on the side of surrogacy workers."
+  - title: "Abolish the Family with Sophie Lewis (The Dig)"
+    authors: ["Sophie Lewis", "Daniel Denvir"]
+    year: 2019
+    format: podcast
+    kind: interview
+    access: free
+    url: "https://thedigradio.com/transcripts/transcript-abolish-the-family-with-sophie-lewis/"
+    note: "A long interview published with a complete free transcript, in which Lewis lays out surrogacy as labor, the natural family as ideology, and the case for communist kinship. The transcript makes it usable as a reading where the books are paywalled. Despite the page title it dates from 2019 and tracks Full Surrogacy Now."
+  - title: "Stone Butch Blues"
+    authors: ["Leslie Feinberg"]
+    year: 2014
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.lesliefeinberg.net/"
+    note: "The novel of a butch factory worker's life across the bars, the union hall, and the police cells of pre-Stonewall America. Feinberg gave the 20th anniversary edition away free deliberately, as an act of political redistribution rather than a marketing choice. Communist and transgender; the household here is one you are thrown out of."
+  - title: "Transgender Warriors: Making History from Joan of Arc to Dennis Rodman"
+    authors: ["Leslie Feinberg"]
+    year: 1996
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/transgenderwarri0000fein"
+    note: "Feinberg's argument that gender variance is not a modern invention but a human constant that class societies criminalized, told through history and their own life. The materialist case that the binary was made rather than found. Communist and transgender."
+  - title: "Transgender Marxism"
+    authors: ["Jules Joanne Gleeson", "Elle O'Rourke"]
+    year: 2021
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.plutobooks.com/9780745341668/transgender-marxism/"
+    note: "The collection that put trans life and Marxist analysis in one frame: transition as labor, the household as a site trans people are expelled from, and social reproduction read from a trans standpoint. Not open access despite what the internet suggests; the free companions below carry the argument."
+  - title: "Transition and Abolition: Notes on Marxism and Trans Politics"
+    authors: ["Jules Joanne Gleeson"]
+    year: 2017
+    format: reading
+    kind: article
+    access: free
+    url: "https://viewpointmag.com/2017/07/19/transition-and-abolition-notes-on-marxism-and-trans-politics/"
+    note: "The free way into the Transgender Marxism argument, with a section on trans women's communities and social reproduction that speaks directly to this theme: who does the care work when the family has ejected you. Communist and trans."
   - title: "Family abolition (Sophie Lewis)"
     authors: ["Sophie Lewis", "Verso Books"]
     year: 2019
@@ -135,8 +191,9 @@ Free unless marked otherwise. This lens deliberately gathers positions that disa
 
 - **Shulamith Firestone** (1945 to 2012), _The Dialectic of Sex_ (1970). The radical feminist classic that locates women's oppression in biological reproduction itself and calls for its technological transformation and the abolition of the biological family. Bold, contested, and generative. Free to borrow: [archive.org](https://archive.org/details/dialecticofsexth00fire)
 - **M.E. O'Brien**, _To Abolish the Family_ (2019). A historical and strategic account of the family abolition tradition from Marx and Engels to the present, arguing that the family privatizes care and that its abolition means universalizing care, not ending relationships. The clearest free entry to the debate. Free: [endnotes.org.uk](https://www.endnotes.org.uk/issues/issue-5/to-abolish-the-family---me-obrien)
-- **Sophie Lewis**, _Abolish the Family: A Manifesto for Care and Liberation_ (2022). A short contemporary case for family abolition as the expansion of care and kinship beyond the private household, tracing the demand from Fourier and Kollontai to today. Not free; [publisher page](https://www.versobooks.com/products/2890-abolish-the-family).
-- **Sophie Lewis**, _Full Surrogacy Now_ (2019). Uses gestational surrogacy to argue for collective, non-biological models of reproduction and kinship against the privatized family. Not free; [publisher page](https://www.versobooks.com/products/711-full-surrogacy-now).
+- **Sophie Lewis**, _Abolish the Family: A Manifesto for Care and Liberation_ (2022). A hundred and twenty-eight pages tracing the demand from Fourier and the _Manifesto_ through Kollontai, Firestone, and gay liberation to now, and refusing the obvious objection: abolishing the family means universalizing care, not taking anyone's mother away. It synthesizes most of the texts above, which is why the lens felt unfinished without it. Paywalled: [versobooks.com](https://www.versobooks.com/products/2890-abolish-the-family)
+- **Sophie Lewis**, _Full Surrogacy Now: Feminism Against Family_ (2019). Reads commercial surrogacy as gestational labor under racial capitalism, refusing both the prohibitionist panic and the industry's defense, and ending at holding all babies in common. This is where the theme's question about reproduction stops meaning housework and starts meaning gestation. Paywalled: [versobooks.com](https://www.versobooks.com/products/711-full-surrogacy-now)
+- **Sophie Lewis** with **Daniel Denvir**, _Abolish the Family_ (The Dig, 2019). The free way in for both books: a long interview published with a complete transcript, on surrogacy as labor, the natural family as ideology, and communist kinship. It dates from 2019 despite its title, so it tracks _Full Surrogacy Now_. Free: [thedigradio.com](https://thedigradio.com/transcripts/transcript-abolish-the-family-with-sophie-lewis/)
 
 ### Debates and disagreements
 
@@ -152,4 +209,4 @@ The school holds the disagreements open. This lens stages one of the sharpest ar
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of communal-living and collective-care experiments underway now, and trans and queer visions of kinship.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of communal-living and collective-care experiments underway now, and intersex and nonbinary voices, which are still thinner here than trans women's. Note that _Transgender Marxism_ is not open access despite what several sites suggest; the copies circulating are unauthorized, and Gleeson's free essay is the honest route in.

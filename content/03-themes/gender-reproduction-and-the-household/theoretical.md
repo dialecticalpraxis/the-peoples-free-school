@@ -83,6 +83,38 @@ resources:
     length: "3 min"
     url: "https://www.youtube.com/watch?v=fcqt0QzgUFU"
     note: "About 90,000 views. A short animated primer on the scale of women's unpaid household and care labor. A clean theoretical opener."
+  - title: "Love and Gold"
+    authors: ["Arlie Russell Hochschild"]
+    year: 2009
+    format: reading
+    kind: article
+    access: free
+    url: "https://sfonline.barnard.edu/love-and-gold/"
+    note: "Where the global care chain concept comes from: a nanny in Los Angeles mothers a child whose parents can pay, while her own children in Manila are raised by someone poorer still, so care flows uphill like gold once did. Hochschild is a US sociologist writing about migrant workers rather than from among them."
+  - title: "Servants of Globalization: Migration and Domestic Work"
+    authors: ["Rhacel Salazar Parrenas"]
+    year: 2015
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.sup.org/books/sociology/servants-globalization"
+    note: "The standard study of Filipina domestic workers in Rome and Los Angeles, built on interviews, on the contradictory class mobility of migrant care work and the transnational families it creates. No borrowable copy exists; this publisher bot-blocks automated checks but the page is live."
+  - title: "ILO Global Estimates on Migrant Workers, with a special focus on migrant domestic workers"
+    authors: ["International Labour Office"]
+    year: 2015
+    format: reading
+    kind: document
+    access: free
+    url: "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/documents/publication/wcms_436343.pdf"
+    note: "The count behind the argument: how many migrant domestic workers there are, where they are, and what share are women. A reference to take one table from rather than a reading. The ILO is a tripartite UN agency, so this is the official figure."
+  - title: "Lebanon's Abusive Kafala (Sponsorship) System"
+    authors: ["Human Rights Watch"]
+    year: 2022
+    format: reading
+    kind: explainer
+    access: free
+    url: "https://www.hrw.org/news/2022/01/04/lebanons-abusive-kafala-sponsorship-system"
+    note: "How kafala ties a migrant domestic worker's legal status to her employer and strips her of the protections other workers hold, producing confinement, unpaid wages, and abuse. What the household looks like as a site of unfree labor outside the US and Europe. An international NGO, legal and reformist in framing, not worker-led."
   - title: "Women and Marxism (subject archive)"
     authors: ["Marxists Internet Archive"]
     format: reading
@@ -147,6 +179,17 @@ Free unless marked otherwise. Bhattacharya's short piece is the best on-ramp; re
 
 - **Nancy Fraser** (b. 1947), _Contradictions of Capital and Care_ (2016). Argues that capitalism has a built-in crisis tendency because it depends on social reproduction while starving it, tracking the shift from the male-breadwinner model to the two-earner household. The clearest contemporary framing of the care crisis. Not free; [newleftreview.org](https://newleftreview.org/issues/ii100/articles/nancy-fraser-contradictions-of-capital-and-care).
 
+### Global care chains
+
+The lens above explains the household of a rich country. It does not explain who is holding that household together, or what happened to the household she left. When care is bought, it is bought from somewhere, and the somewhere is usually poorer, browner, and further away.
+
+- **Arlie Russell Hochschild** (b. 1940), _Love and Gold_ (2009). Where the concept comes from: a nanny in Los Angeles mothers a child whose parents can pay, while her own children in Manila are raised by an aunt or a woman poorer still, so care flows uphill the way gold once flowed out of the colonies. Read it knowing Hochschild is a US sociologist writing about these workers rather than one of them. Free: [sfonline.barnard.edu](https://sfonline.barnard.edu/love-and-gold/)
+- **Rhacel Salazar Parrenas** (b. 1971), _Servants of Globalization_ (2015). The standard study of Filipina domestic workers in Rome and Los Angeles, built on their interviews, on the contradictory class position of migrant care work and the transnational families it creates. No borrowable copy exists. Paywalled: [sup.org](https://www.sup.org/books/sociology/servants-globalization) (bot-blocks automated checks; the page is live)
+- **Human Rights Watch**, _Lebanon's Abusive Kafala (Sponsorship) System_ (2022). Kafala ties a migrant domestic worker's legal status to her employer and strips her of the protections other workers hold, which produces confinement, unpaid wages, and abuse. The household as a site of unfree labor, outside the US and Europe. An NGO speaking about these workers, legal and reformist; the worker-led source is what this section still lacks. Free: [hrw.org](https://www.hrw.org/news/2022/01/04/lebanons-abusive-kafala-sponsorship-system)
+- **International Labour Office**, _Global Estimates on Migrant Workers_ (2015). The count behind the argument: how many migrant domestic workers, where, and what share are women. A table for the wall rather than a reading. Free: [ilo.org](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/documents/publication/wcms_436343.pdf)
+
+For the labor-organizing side of this, the domestic workers' unions and the informal economy, see [[03-themes/labor-work-and-organizing/practical|the labor theme's practical lens]].
+
 ### Films, lectures, and audio
 
 - **"What is Social Reproduction Theory?"** (Tithi Bhattacharya, Pluto Press, 2017). Roughly 7 minutes, about 74,000 views. A concise statement of who produces the worker under capitalism, in Bhattacharya's own words. The core theoretical explainer. [youtube.com/watch?v=Uur-pMk7XjY](https://www.youtube.com/watch?v=Uur-pMk7XjY)
@@ -170,4 +213,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially social reproduction theory on disability, migration and global care chains, and trans life.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially social reproduction theory on disability. The global care chain material added here is written by sociologists and NGOs about migrant domestic workers rather than by them, which is a real limit worth naming in the room. Note also that Fraser's _Contradictions of Capital and Care_ has no free copy at all: the PDF that circulates online is the paywall wearing a .pdf extension. Her _Crisis of Care?_ chapter in Bhattacharya is the free route to the same argument.
