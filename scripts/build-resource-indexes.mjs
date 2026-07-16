@@ -160,7 +160,12 @@ function collectResources() {
           lens,
           // Quartz resolves this wikilink to the lens page. The alias pipe is
           // escaped as \| so it is not read as a table-column separator.
-          link: `[[${themeSlug}/${lens}\\|${themeLabel(themeSlug)} · ${LENS_LABELS[lens]}]]`,
+          // `tier` is per lens, so the further-reading mark belongs on the
+          // location: the same work can be assigned in one lens and only
+          // suggested in another.
+          link:
+            `[[${themeSlug}/${lens}\\|${themeLabel(themeSlug)} · ${LENS_LABELS[lens]}]]` +
+            (r.tier === "extended" ? " _(further reading)_" : ""),
         }
         addResource(merged, key, r, location)
       }
