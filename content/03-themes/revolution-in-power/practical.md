@@ -92,6 +92,22 @@ resources:
     length: "10 min"
     url: "https://www.youtube.com/watch?v=VxzSXOHU9hY"
     note: "About 102,000 views. A development-focused explainer of Doi Moi and Vietnam's growth. Positive in framing; pair with the open-access study above for the costs."
+  - title: "Taking Stock of Shock: Social Consequences of the 1989 Revolutions"
+    authors: ["Kristen Ghodsee", "Mitchell A. Orenstein"]
+    year: 2021
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://global.oup.com/academic/product/taking-stock-of-shock-9780197549247"
+    note: "Reads the economic data, the survey data, and the ethnography of the transition together and finds they tell different stories, with the human cost concentrated on women, the old, and the east. The feminist account of who actually paid for 1989. No open-access edition exists despite what circulates."
+  - title: "Taking Stock of Shock (companion site)"
+    authors: ["Kristen Ghodsee", "Mitchell A. Orenstein"]
+    year: 2021
+    format: reading
+    kind: collection
+    access: free
+    url: "https://www.takingstockofshock.com/"
+    note: "The authors' free companion site, with an introduction PDF, the underlying data, and talks. The way into the argument where the book is out of reach."
 ---
 
 _What is to be done? How do we act on what we have learned, and how do people already act?_
@@ -135,6 +151,7 @@ All free unless marked otherwise. The set is built to argue with itself; each so
 
 - **The Shock Doctrine** (Winterbottom and Klein, 2009, 79 min). How the post-Soviet collapse was used to force through privatization, and who profited. [youtube.com/watch?v=B3B5qt6gsxY](https://www.youtube.com/watch?v=B3B5qt6gsxY)
 - **Stuckler, King, and McKee**, "Mass privatisation and the post-communist mortality crisis" (_The Lancet_, 2009). Rapid privatization linked to a surge in deaths, with the data. Free PDF: [mltoday.com](https://mltoday.com/wp-content/uploads/2009/01/lancet-privatisation.pdf)
+- **Kristen Ghodsee** and **Mitchell A. Orenstein**, _Taking Stock of Shock_ (2021). Puts the economic data, the survey data, and the ethnography of the transition side by side and finds they disagree: by the aggregates 1989 was a success, and by the lives it was not, with the cost falling on women, the old, and the east. The feminist account of who paid, and the answer to the Shock Doctrine question of what happened to the people afterward. Paywalled: [global.oup.com](https://global.oup.com/academic/product/taking-stock-of-shock-9780197549247). The authors' free companion site carries an introduction PDF, the data, and their talks: [takingstockofshock.com](https://www.takingstockofshock.com/)
 
 ## A note on method
 
@@ -142,4 +159,4 @@ The trap in this lens is that "what is to be done" becomes "which side are you o
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Laos and Vietnam today, feminist accounts of the transition (Kristen Ghodsee's work is a paywalled starting point), and concrete lessons for organizing in the imperial core.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Laos and Vietnam today, and concrete lessons for organizing in the imperial core. Ghodsee is now here with her free companion site; there is no open-access edition of the book despite what circulates online.

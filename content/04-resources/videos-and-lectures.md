@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_123 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_124 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,6 +43,7 @@ _123 videos and lectures — online explainers, lectures, and video essays (dist
 | [How Daniel Ortega Turned From Liberator to Tyrant](https://www.youtube.com/watch?v=qzIyjU-NmLI) | DW History and Culture | — | 44 min | documentary | Free | [[socialism-and-national-liberation/practical\|Socialism and National Liberation: the Global South · Practical]] |
 | [Angela Davis on Abolition, Defunding the Police, and the 2020 Uprising](https://www.youtube.com/watch?v=N7RPQo0LW-I) | Angela Y. Davis, Democracy Now! | 2020 | 26 min | interview | Free | [[anti-blackness-and-racial-capitalism/liberatory\|Anti-Blackness and Racial Capitalism · Liberatory]] |
 | [Angela Davis on feminism, communism and being a Black Panther](https://www.youtube.com/watch?v=x3q_qV5mHg0) | Angela Y. Davis, Channel 4 News | 2018 | 32 min | interview | Free | [[gender-reproduction-and-the-household/liberatory\|Gender, Reproduction, and the Household · Liberatory]] |
+| [Frank Dikotter on Mao's Great Famine (Harvard Book Store)](https://www.youtube.com/watch?v=DqFBa9ePWpo) | Frank Dikotter | 2011 | 39 min | lecture | Free | [[revolution-in-power/historical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Historical]] |
 | [Palestine 1920: The Other Side of the Palestinian Story](https://www.youtube.com/watch?v=QUCeQt8zg5o) | Al Jazeera English | 2022 | 47 min | documentary | Free | [[imperialism-and-the-global-system/historical\|Imperialism and the Global System · Historical]] |
 | [The Witch Trials and the Rise of Modernity and Capitalism](https://www.youtube.com/watch?v=pWwdx8Lo7So) | ESOTERICA | 2020 | 15 min | explainer | Free | [[gender-reproduction-and-the-household/historical\|Gender, Reproduction, and the Household · Historical]] |
 | [Nick Estes on Standing Rock (Democracy Now!)](https://www.youtube.com/watch?v=BGgoXknPl8I) | Nick Estes, Democracy Now! | 2019 | — | interview | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |

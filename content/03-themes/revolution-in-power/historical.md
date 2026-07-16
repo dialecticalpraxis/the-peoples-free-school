@@ -139,6 +139,72 @@ resources:
     length: "19 min"
     url: "https://www.youtube.com/watch?v=3BsKa67TGM0"
     note: "About 83,000 views. A mainstream narrative of the run-up to 1968 in Czechoslovakia, useful background for the Eastern Bloc revolts."
+  - title: "Action Programme of the Communist Party of Czechoslovakia"
+    authors: ["Communist Party of Czechoslovakia"]
+    year: 1968
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.marxists.org/subject/czech/1968/action-programme.htm"
+    note: "Socialism with a human face in its own words: the April 1968 programme promising press freedom, rehabilitation of purge victims, and a party that persuades rather than commands. Read it knowing the tanks came in August. The primary source Prague 1968 was otherwise missing."
+  - title: "Nightfrost in Prague: The End of Humane Socialism"
+    authors: ["Zdenek Mlynar"]
+    year: 1980
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/nightfrostinprag0000mlyn"
+    note: "A secretary of the Central Committee, in the room for the Prague Spring and for the Moscow negotiations after the invasion, writing after he was expelled. The insider account of a reform crushed by its own alliance."
+  - title: "Hope Dies Last: The Autobiography of Alexander Dubcek"
+    authors: ["Alexander Dubcek"]
+    year: 1993
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/hopedieslastauto00dubc"
+    note: "Dubcek's own account of the reform he led, the invasion that ended it, and the twenty years of internal exile that followed. A communist who never stopped being one, explaining what he thought he was doing."
+  - title: "Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962"
+    authors: ["Frank Dikotter"]
+    year: 2010
+    format: reading
+    kind: book
+    access: paywalled
+    url: "http://www.frankdikotter.com/books/maos-great-famine/"
+    note: "The hostile archival history of the Great Leap Forward, arguing from party records for a death toll of at least 45 million and for deliberate policy rather than natural disaster. Dikotter is the sharpest academic critic of Maoism and disputed on his methods and numbers; he is here as the counterweight to Mobo Gao's defense, and both should be read."
+  - title: "Frank Dikotter on Mao's Great Famine (Harvard Book Store)"
+    authors: ["Frank Dikotter"]
+    year: 2011
+    format: video
+    kind: lecture
+    access: free
+    length: "39 min"
+    url: "https://www.youtube.com/watch?v=DqFBa9ePWpo"
+    note: "About 75,000 views. Dikotter laying out the argument and his archival sources in his own words. The free way to put his case in the room alongside Gao's."
+  - title: "The Cultural Revolution: A People's History, 1962-1976"
+    authors: ["Frank Dikotter"]
+    year: 2016
+    format: reading
+    kind: book
+    access: paywalled
+    tier: extended
+    url: "https://www.frankdikotter.com/books/the-cultural-revolution/"
+    note: "The third volume of Dikotter's people's trilogy, on the Cultural Revolution from the archives. Same standpoint and same disputes as the volume above."
+  - title: "Tombstone: The Great Chinese Famine, 1958-1962"
+    authors: ["Yang Jisheng"]
+    year: 2012
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.chinafile.com/library/books/Tombstone"
+    note: "The insider's account: a Xinhua journalist and party member whose own father starved, who spent twenty years gathering provincial archives. Banned in mainland China. Yang writes as a communist reckoning with what the party did, which is a different standpoint from Dikotter's and lands differently."
+  - title: "How Capitalism Was Built: The Transformation of Central and Eastern Europe, Russia, the Caucasus, and Central Asia"
+    authors: ["Anders Aslund"]
+    year: 2007
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/howcapitalismwas0000aslu"
+    note: "The case for shock therapy by one of its architects and advisers to several post-Soviet governments: the transition worked, and the countries that went fastest did best. Included as the direct antagonist to Ghodsee, and it is the theme's only substantive coverage of Central Asia, which is a problem the Status names."
 ---
 
 _How did this come to be? What were the conditions, struggles, and contingencies that produced the current arrangement?_
@@ -169,7 +235,9 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 ### The Chinese Revolution
 
 - **William Hinton** (1919 to 2004), _Fanshen_ (1966). Land reform in one village, the revolution from below. Free to borrow: [archive.org](https://archive.org/details/fanshendocumentahintrich)
-- **Mobo Gao** (b. 1952), _The Battle for China's Past_ (2008). A defense of the Mao era's gains against the standard catastrophe narrative. Read against the Great Leap documentary below. Free PDF: [socialiststories.com](http://www.socialiststories.com/en/writers/Gao-Mobo/The-Battle-for-Chinas-Past-Mobo-Gao.pdf)
+- **Mobo Gao** (b. 1952), _The Battle for China's Past_ (2008). A defense of the Mao era's gains against the standard catastrophe narrative. Read against the Great Leap documentary below, and against Dikotter and Yang. Free PDF: [socialiststories.com](http://www.socialiststories.com/en/writers/Gao-Mobo/The-Battle-for-Chinas-Past-Mobo-Gao.pdf)
+- **Frank Dikotter** (b. 1961), _Mao's Great Famine_ (2010). The hostile archival history: party records marshalled for a death toll of at least 45 million and for a famine made by policy rather than weather. Dikotter is the sharpest academic critic of Maoism and is genuinely disputed on his methods and his arithmetic, which is why he belongs here rather than instead of Gao. Paywalled: [frankdikotter.com](http://www.frankdikotter.com/books/maos-great-famine/). His free 39-minute talk, about 75,000 views, puts the case in the room: [youtube.com](https://www.youtube.com/watch?v=DqFBa9ePWpo)
+- **Yang Jisheng** (b. 1940), _Tombstone_ (2012). The same catastrophe from inside: a Xinhua journalist and party member whose own father starved, who spent twenty years in the provincial archives assembling it. Banned in mainland China. He writes as a communist reckoning with what his party did, which is a different standpoint from Dikotter's and lands on the room differently. Paywalled: [chinafile.com](https://www.chinafile.com/library/books/Tombstone)
 
 ### Vietnam, Korea, and Indonesia
 
@@ -178,6 +246,14 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **Bruce Cumings** (b. 1943), _North Korea: Another Country_ (2004). The DPRK set against the Korean War and US policy, contextualizing but not credulous. Free to borrow: [archive.org](https://archive.org/details/northkoreaanothe0000cumi)
 - **John Roosa**, _Pretext for Mass Murder_ (2006). The definitive reconstruction of Suharto's 1965 coup and the pretext for destroying the PKI. Free to borrow: [archive.org](https://archive.org/details/pretextformassmu0000roos)
 - **Vincent Bevins**, _The Jakarta Method_ (2020). The PKI's annihilation inside a US-backed global anticommunist program. Free to borrow: [archive.org](https://archive.org/details/the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program_2021)
+
+### Prague 1968
+
+The theme had the Prague Spring only as background inside other people's accounts. These are the sources.
+
+- **Communist Party of Czechoslovakia**, _Action Programme_ (April 1968). Socialism with a human face in its own words: press freedom, rehabilitation of the purged, a party that persuades rather than commands. Read it knowing the tanks arrived in August, and ask what exactly the Soviets found intolerable in it. Free: [marxists.org](https://www.marxists.org/subject/czech/1968/action-programme.htm)
+- **Zdenek Mlynar** (1930 to 1997), _Nightfrost in Prague_ (1980). A secretary of the Central Committee who was in the room for the reform and then in Moscow for the negotiations after the invasion, writing once he had been expelled for it. The insider account of a reform crushed by its own alliance. Free to borrow: [archive.org](https://archive.org/details/nightfrostinprag0000mlyn)
+- **Alexander Dubcek** (1921 to 1992), _Hope Dies Last_ (1993). His own account of the reform, the invasion, and the twenty years of internal exile that followed, written by a communist who never stopped being one. Free to borrow: [archive.org](https://archive.org/details/hopedieslastauto00dubc)
 
 ### The Eastern Bloc and the fall
 
@@ -191,6 +267,16 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 - **"Mao's Great Leap Forward"** (The Cold War, 2021). Roughly 14 minutes, about 298,000 views. Critical in tone; set against Mobo Gao. [youtube.com/watch?v=CUqDwoYYOSc](https://www.youtube.com/watch?v=CUqDwoYYOSc)
 - **"Before the Prague Spring"** (The Cold War, 2023). Roughly 19 minutes, about 83,000 views. Mainstream background to 1968. [youtube.com/watch?v=3BsKa67TGM0](https://www.youtube.com/watch?v=3BsKa67TGM0)
 
+<!-- further-reading:start -->
+
+## Further reading
+
+_For resources behind a paywall, see [[04-resources/index#A note on access|the note on access]]._
+
+- **Frank Dikotter**, _The Cultural Revolution: A People's History, 1962-1976_ (2016). The third volume of Dikotter's people's trilogy, on the Cultural Revolution from the archives. Same standpoint and same disputes as the volume above. Not free: [frankdikotter.com](https://www.frankdikotter.com/books/the-cultural-revolution/)
+
+<!-- further-reading:end -->
+
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Mongolia, the Central Asian republics, and Vietnam and Laos after 1975, which the current set is thin on.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Mongolia, the Central Asian republics, and Laos, which remain nearly unfillable from free sources: at present Central Asia enters this theme only through Aslund, meaning the region is argued solely by its most triumphalist witness, which is not balance. Vietnam after 1975 is now covered in the experiential lens.

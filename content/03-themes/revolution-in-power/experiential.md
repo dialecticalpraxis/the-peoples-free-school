@@ -69,6 +69,46 @@ resources:
     length: "287 min"
     url: "https://www.youtube.com/watch?v=bVUg-VoPAeA"
     note: "About 677,000 views. The protagonists themselves narrate the collapse of Yugoslav socialism into war. First-person disillusion and catastrophe, critical of the nationalist leaderships without a cold-war slant."
+  - title: "Shanghai Journal: An Eyewitness Account of the Cultural Revolution"
+    authors: ["Neale Hunter"]
+    year: 1969
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/shanghaijournale0000hunt"
+    note: "An Australian teacher in Shanghai through the January Storm of 1967, watching workers take over the city. Written close to the events and broadly sympathetic to what he saw, which makes it a useful contrast with the memoirs written after the disillusion set in."
+  - title: "Blood Red Sunset: A Memoir of the Chinese Cultural Revolution"
+    authors: ["Ma Bo"]
+    year: 1995
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/bloodredsunsetme00mabo"
+    note: "A Red Guard sent to Inner Mongolia, who believed and then did not, on what the movement did to the people in it and to the people it was aimed at. The insider account of Chinese revolutionary violence, from someone who took part."
+  - title: "A Vietcong Memoir"
+    authors: ["Truong Nhu Tang"]
+    year: 1985
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/vietcongmemoir00trng"
+    note: "A founder of the NLF and Justice Minister of the Provisional Revolutionary Government, who won the war and then watched Hanoi dissolve the southern revolution he had built, and left by boat. He never recants the war against the Americans, which makes his account of the aftermath much harder to dismiss than an exile polemic."
+  - title: "The Vietnamese Gulag"
+    authors: ["Doan Van Toai", "David Chanoff"]
+    year: 1986
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/vietnamesegulag0000doan"
+    note: "A student organizer against the Saigon regime who was jailed by the victors he had campaigned for. First-person testimony on the reeducation camps, from someone who had been on the revolution's side."
+  - title: "Lost Years: My 1,632 Days in Vietnamese Reeducation Camps"
+    authors: ["Tran Tri Vu"]
+    year: 1988
+    format: primary-source
+    kind: memoir
+    access: borrow
+    url: "https://archive.org/details/lostyearsmy1632d0000tran"
+    note: "Four and a half years inside the camps, published by Berkeley's Institute of East Asian Studies rather than a trade press. The most detailed free account of what reeducation meant day to day."
 ---
 
 _Lived experience as a source of knowledge. What has the room been through? What do participants already know from the inside?_
@@ -99,6 +139,19 @@ Experiential work begins from the room, and this theme's room often holds the hi
 - **Reimagining Soviet Georgia** (2020 to present). Oral histories of daily life and post-socialism in the South Caucasus, holding gains and losses together. Free: [podcasts.apple.com](https://podcasts.apple.com/us/podcast/reimagining-soviet-georgia/id1555761205)
 - **Working Class History** (2018 to present). First-hand testimony from ordinary people, including inside state-socialist societies. Free: [workingclasshistory.com](https://workingclasshistory.com/podcasts/)
 
+### China, from inside
+
+- **Neale Hunter**, _Shanghai Journal_ (1969). An Australian teacher in Shanghai through the January Storm of 1967, watching workers take the city. Written close to the events and broadly sympathetic, which is exactly why it is worth reading beside the memoirs written after the disillusion arrived: it records what it felt like while people still believed it. Free to borrow: [archive.org](https://archive.org/details/shanghaijournale0000hunt)
+- **Ma Bo** (b. 1947), _Blood Red Sunset_ (1995). A Red Guard sent to Inner Mongolia who believed, and then did not. On what the movement did to the people inside it as well as to the people it was aimed at, by someone who did the aiming. Free to borrow: [archive.org](https://archive.org/details/bloodredsunsetme00mabo)
+
+### Vietnam after the victory
+
+The theme covers the war and stops. These are the people who won it and then had to live in what came next.
+
+- **Truong Nhu Tang**, _A Vietcong Memoir_ (1985). A founder of the National Liberation Front and Justice Minister of the Provisional Revolutionary Government, who watched Hanoi dissolve the southern revolution he had spent his life building, and left by boat. He never recants the war against the Americans, and that is what makes his account of the aftermath so hard to wave away as an exile's grievance. Free to borrow: [archive.org](https://archive.org/details/vietcongmemoir00trng)
+- **Doan Van Toai**, _The Vietnamese Gulag_ (1986). A student organizer against the Saigon regime, jailed after 1975 by the side he had campaigned for. Free to borrow: [archive.org](https://archive.org/details/vietnamesegulag0000doan)
+- **Tran Tri Vu**, _Lost Years_ (1988). Four and a half years in the reeducation camps, day by day, published by Berkeley's Institute of East Asian Studies rather than a trade press. Free to borrow: [archive.org](https://archive.org/details/lostyearsmy1632d0000tran)
+
 ### Inside the Asian and Eastern socialist states
 
 - **A State of Mind** (Daniel Gordon, 2004, 93 min). Two young North Korean gymnasts and their families, observational and non-judgmental. A rare look at ordinary DPRK life. Free with ads: [watch.plex.tv](https://watch.plex.tv/movie/a-state-of-mind)
@@ -112,4 +165,4 @@ This is the theme where a facilitator most needs to protect the room. People arr
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially testimony from China, which the current set is thin on.
+This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially testimony from Chinese workers and peasants rather than students, teachers, and Red Guards: the China voices here are educated and urban, which is a real slant. Testimony from Laos and from Central Asia is absent entirely.
