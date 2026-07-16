@@ -1,14 +1,30 @@
 ---
 title: Experiential
 resources:
-  - title: "Sylvia Rivera, \"Y'all Better Quiet Down\" (1973 Christopher Street Liberation Day Rally)"
-    authors: ["Sylvia Rivera"]
-    year: 1973
-    format: primary-source
-    kind: archive
+  - title: "Sylvia Rivera, Part 1 (Making Gay History)"
+    authors: ["Sylvia Rivera", "Eric Marcus"]
+    year: 1989
+    format: podcast
+    kind: interview
     access: free
-    url: "https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973"
-    note: "Rivera seizes the microphone at a Pride rally and shouts down a crowd of gay men and lesbians who are booing her, for the crime of asking them to remember the street queens in jail. Four minutes that carry the whole argument about who the movement is for. Her own voice, unmediated."
+    url: "https://makinggayhistory.org/podcast/episode-1-1/"
+    note: "Rivera on her childhood, the streets, and Stonewall, from the interview Eric Marcus recorded with her in 1989. Free with a full transcript, so it can be assigned as a reading. Her own voice, and Marcus owns the tape, which is why this is here rather than a bootleg."
+  - title: "Sylvia Rivera, Part 2 (Making Gay History)"
+    authors: ["Sylvia Rivera", "Eric Marcus"]
+    year: 1989
+    format: podcast
+    kind: interview
+    access: free
+    url: "https://makinggayhistory.org/podcast/sylvia-rivera-part-2/"
+    note: "The second half: STAR, the house she and Marsha P. Johnson ran for homeless street queens, and being pushed out of the movement she helped start. Free with a full transcript."
+  - title: "From the Vault: Sylvia Rivera and Marsha P. Johnson, 1970 (Making Gay History)"
+    authors: ["Sylvia Rivera", "Marsha P. Johnson", "Liza Cowan", "Eric Marcus"]
+    year: 1970
+    format: primary-source
+    kind: interview
+    access: free
+    url: "https://makinggayhistory.org/podcast/bonus-episode-from-the-vault-sylvia-rivera-marsha-p-johnson-1970/"
+    note: "The rarest thing in this lens: Rivera and Johnson recorded together in 1970, a year after Stonewall and while STAR was running, on tape Liza Cowan made and kept. Free with a full transcript. Both of them alive, young, and talking about the house rather than being remembered for it."
   - title: "STAR: Street Transvestite Action Revolutionaries: Survival, Revolt, and Queer Antagonist Struggle"
     authors: ["Sylvia Rivera", "Marsha P. Johnson", "Untorelli Press"]
     year: 2013
@@ -115,7 +131,8 @@ Experiential work begins from the room. These outside materials extend or challe
 
 The archives above are strong on women's household labor and quiet about everyone else. These are people the household expelled, speaking for themselves.
 
-- **Sylvia Rivera** (1951 to 2002), _Y'all Better Quiet Down_ (1973). Four minutes in which Rivera takes the microphone at a Pride rally and shouts down a crowd of gay men and lesbians who are booing her, because she is asking them to remember the street queens still in jail. It carries the whole argument about who a movement is for, and it is her own voice with nothing in between. Free: [archive.org](https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973)
+- **Sylvia Rivera** (1951 to 2002) with **Eric Marcus**, _Making Gay History_, Parts [1](https://makinggayhistory.org/podcast/episode-1-1/) and [2](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/) (recorded 1989). Rivera on her childhood, the streets, Stonewall, STAR, and being pushed out of the movement she helped start. Marcus recorded these interviews himself and gives them away with full transcripts, so they can be assigned as readings and there is no rights question hanging over them. Free.
+- **Sylvia Rivera** and **Marsha P. Johnson**, _From the Vault: 1970_ (Making Gay History). The rarest thing in this lens. Liza Cowan recorded the two of them together in 1970, a year after Stonewall, while STAR was actually running, and kept the tape. They are alive, young, and talking about the house rather than being remembered for it fifty years later. Free, with a transcript: [makinggayhistory.org](https://makinggayhistory.org/podcast/bonus-episode-from-the-vault-sylvia-rivera-marsha-p-johnson-1970/)
 - **STAR: Street Transvestite Action Revolutionaries** (Untorelli Press, 2013). The 1970 manifesto with interviews and remembrances of Rivera and Marsha P. Johnson, who ran a house for homeless street queens out of their own earnings as sex workers. A household built by people the family threw away, which is this theme's question asked from the other end. Free on libcom: [libcom.org](https://libcom.org/article/street-transvestite-action-revolutionaries-survival-revolt-and-queer-antagonist-struggle)
 - **Screaming Queens: The Riot at Compton's Cafeteria** (Susan Stryker and Victor Silverman, 2005, 57 min). About 243,000 views. The 1966 San Francisco riot that came three years before Stonewall, told largely by the trans women who were in it. Stryker is a trans historian recovering her own city's history. Free: [youtube.com](https://www.youtube.com/watch?v=G-WASW9dRBU)
 

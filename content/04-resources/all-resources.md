@@ -10,7 +10,7 @@ Looking for whole archives, libraries, podcast shows, or channels to explore rat
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_933 resources in total, every format, sorted by format then author. Generated from theme lens frontmatter._
+_935 resources in total, every format, sorted by format then author. Generated from theme lens frontmatter._
 
 | Title | Author / creator | Year | Format | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
@@ -115,6 +115,8 @@ _933 resources in total, every format, sorted by format then author. Generated f
 | [The East is a Podcast](https://eastisapodcast.libsyn.com/) | Sina Rahmani | 2018 | Podcast | Free | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Upstream Podcast - Marx's Capital Vol. 1 w/ David Smith](https://www.upstreampodcast.org/conversations) | Robert Raymond, David Smith | 2025 | Podcast | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
 | [Justice in America](https://theappeal.org/topics/justice-in-america/) | Josie Duffy Rice, Clint Smith, The Appeal | 2018 | Podcast | Free | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
+| [Sylvia Rivera, Part 1 (Making Gay History)](https://makinggayhistory.org/podcast/episode-1-1/) | Sylvia Rivera, Eric Marcus | 1989 | Podcast | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
+| [Sylvia Rivera, Part 2 (Making Gay History)](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/) | Sylvia Rivera, Eric Marcus | 1989 | Podcast | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Mothers of Invention](https://www.mothersofinvention.online/) | Mary Robinson, Maeve Higgins, Thimali Kodikara | 2018 | Podcast | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Have You Heard](https://www.haveyouheardpodcast.com/) | Jack Schneider, Jennifer Berkshire | 2016 | Podcast | Free | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
 | [The Response](https://www.shareable.net/the-response/) | Shareable | 2019 | Podcast | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
@@ -205,8 +207,8 @@ _933 resources in total, every format, sorted by format then author. Generated f
 | [Environmental Justice Oral History Project (EJOHP)](https://ejohp.com/) | Environmental Justice Oral History Project | — | Primary source | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [Sergio Ramirez: 'If I Returned to Nicaragua I Would Go Straight to Masatepe'](https://confidencial.digital/en/english/sergio-ramirez-if-i-returned-to-nicaragua-i-would-go-straight-to-masatepe/) | Sergio Ramirez, Confidencial | 2025 | Primary source | Free | [[socialism-and-national-liberation/liberatory\|Socialism and National Liberation: the Global South · Liberatory]] |
 | [Ten Days That Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/index.htm) | John Reed | 1919 | Primary source | Free | [[the-state-strategy-and-power/historical\|The State, Strategy, and Power · Historical]] |
+| [From the Vault: Sylvia Rivera and Marsha P. Johnson, 1970 (Making Gay History)](https://makinggayhistory.org/podcast/bonus-episode-from-the-vault-sylvia-rivera-marsha-p-johnson-1970/) | Sylvia Rivera, Marsha P. Johnson, Liza Cowan, Eric Marcus | 1970 | Primary source | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [STAR: Street Transvestite Action Revolutionaries: Survival, Revolt, and Queer Antagonist Struggle](https://libcom.org/article/street-transvestite-action-revolutionaries-survival-revolt-and-queer-antagonist-struggle) | Sylvia Rivera, Marsha P. Johnson, Untorelli Press | 2013 | Primary source | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
-| [Sylvia Rivera, "Y'all Better Quiet Down" (1973 Christopher Street Liberation Day Rally)](https://archive.org/details/sylvia-rivera-yall-better-quiet-down-1973) | Sylvia Rivera | 1973 | Primary source | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Executive Order 9066](https://www.archives.gov/milestone-documents/executive-order-9066) | Franklin D. Roosevelt | 1942 | Primary source | Free | [[immigration-and-the-making-of-race/historical\|Immigration and the Making of Race · Historical]] |
 | [Supplementary Theses on the National and Colonial Questions](https://redsails.org/theses-on-the-national-and-colonial-questions/) | M.N. Roy, V.I. Lenin | 1920 | Primary source | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
 | [South Asian American Digital Archive (SAADA)](https://saada.org) | SAADA | — | Primary source | Free | [[immigration-and-the-making-of-race/experiential\|Immigration and the Making of Race · Experiential]] |

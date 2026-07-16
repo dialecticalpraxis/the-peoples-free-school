@@ -8,7 +8,7 @@ Ongoing podcasts and individual episodes the school draws on. Podcasts suit adul
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_51 podcasts. Generated from theme lens frontmatter._
+_53 podcasts. Generated from theme lens frontmatter._
 
 ### Ongoing podcasts
 
@@ -46,6 +46,8 @@ _51 podcasts. Generated from theme lens frontmatter._
 | [Robin Wall Kimmerer: The Intelligence of Plants (On Being)](https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants-2022/) | Robin Wall Kimmerer, Krista Tippett | 2016– | Free | [[ecology-and-the-climate-crisis/liberatory\|Ecology and the Climate Crisis · Liberatory]] |
 | [Seeing White](https://sceneonradio.org/seeing-white/) | John Biewen, Chenjerai Kumanyika | 2017– | Free | [[anti-blackness-and-racial-capitalism/theoretical\|Anti-Blackness and Racial Capitalism · Theoretical]] |
 | [Still Processing](https://open.spotify.com/show/55xs5VgsY4gO5JFahAy3q5) | Wesley Morris, Jenna Wortham | 2016– | Free | [[anti-blackness-and-racial-capitalism/experiential\|Anti-Blackness and Racial Capitalism · Experiential]] |
+| [Sylvia Rivera, Part 1 (Making Gay History)](https://makinggayhistory.org/podcast/episode-1-1/) | Sylvia Rivera, Eric Marcus | 1989– | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
+| [Sylvia Rivera, Part 2 (Making Gay History)](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/) | Sylvia Rivera, Eric Marcus | 1989– | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Teaching Hard History](https://www.splcenter.org/learning-for-justice/podcasts/teaching-hard-history/) | Hasan Kwame Jeffries, Learning for Justice | 2018– | Free | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
 | [The Deprogram](https://podcasts.apple.com/ie/podcast/the-deprogram/id1596666465) | Second Thought, Hakim, YUGOPNIK | 2022– | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [The Dig](https://thedigradio.com/) | Daniel Denvir, Jacobin | 2016– | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]]<br>[[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |

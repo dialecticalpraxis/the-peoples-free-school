@@ -10,7 +10,7 @@ This is different from [[all-resources|All resources]], which lists the _specifi
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_46 sources — archives, libraries, shows, and channels to browse on your own. For the specific items drawn from them, see [[all-resources|all resources]]. Generated from content/04-resources/_sources.yaml._
+_47 sources — archives, libraries, shows, and channels to browse on your own. For the specific items drawn from them, see [[all-resources|all resources]]. Generated from content/04-resources/_sources.yaml._
 
 ### Archives & libraries
 
@@ -63,6 +63,7 @@ _46 sources — archives, libraries, shows, and channels to browse on your own. 
 | [If Books Could Kill](https://podcasts.apple.com/us/podcast/if-books-could-kill/id1651876897) | Free | Debunks the pop-nonfiction bestsellers that shaped mainstream conventional wisdom. |
 | [Kill James Bond](https://killjamesbond.com/) | Free | A leftist, feminist film podcast working through the Bond franchise and action cinema. |
 | [Labor Jawn](https://www.laborjawn.com/) | Free | Labor history and the contemporary labor movement, rooted in Philadelphia. |
+| [Making Gay History](https://makinggayhistory.org/) | Free | Eric Marcus's archive of the interviews he recorded himself from the late 1980s on, so queer elders speak in their own voices rather than being summarized. Every episode is free with a full transcript, which makes them assignable as readings. Deep on Rivera, Johnson, and the people the movement's official history left out. |
 | [Marx Madness](https://open.spotify.com/show/7fMDBjIjMdrU5PYm3zXP25) | Free | A reading-group podcast working through Marxist texts. |
 | [QAnon Anonymous](https://open.spotify.com/show/6qAmVJsQW0k51ZJ9bDZyZd) | Free | Investigates conspiracy theories and the far right from a left perspective. |
 | [Red Library](https://redlibrary.libsyn.com/) | Free | Discussions of revolutionary theory, history, and culture. |

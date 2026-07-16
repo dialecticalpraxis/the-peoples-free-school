@@ -75,6 +75,11 @@ sources:
     note: "Left academic and movement publisher; source of many widely assigned study-group texts."
 
   # --- Podcasts & audio ---
+  - name: "Making Gay History"
+    type: podcast
+    url: "https://makinggayhistory.org/"
+    access: free
+    note: "Eric Marcus's archive of the interviews he recorded himself from the late 1980s on, so queer elders speak in their own voices rather than being summarized. Every episode is free with a full transcript, which makes them assignable as readings. Deep on Rivera, Johnson, and the people the movement's official history left out."
   - name: "Upstream"
     type: podcast
     url: "https://www.upstreampodcast.org/"
