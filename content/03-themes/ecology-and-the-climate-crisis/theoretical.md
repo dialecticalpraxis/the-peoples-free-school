@@ -21,9 +21,9 @@ resources:
     year: 1993
     format: reading
     kind: book
-    access: free
-    url: "https://dl1.cuni.cz/pluginfile.php/1165830/mod_resource/content/1/Mies,%20Shiva,%20Salleh%20-%20Ecofeminism.pdf"
-    note: "Ties the exploitation of women, subsistence economies, and nature to a single logic of patriarchal capitalism, and argues for a subsistence perspective against endless growth."
+    access: paywalled
+    url: "https://www.bloomsbury.com/us/ecofeminism-9781350379886/"
+    note: "Ties the exploitation of women, subsistence economies, and nature to a single logic of patriarchal capitalism, and argues for a subsistence perspective against endless growth. No borrowable copy and no free companion exist: Shiva is heavily recorded but on seed sovereignty rather than this book, and Mies is barely recorded in English."
   - title: "The Ecology of Freedom: The Emergence and Dissolution of Hierarchy"
     authors: ["Murray Bookchin"]
     year: 1982
@@ -126,7 +126,7 @@ Free unless marked otherwise. Foster's short chapter and Löwy's essay are the b
 
 ### Ecofeminism and social ecology
 
-- **Maria Mies** (1931 to 2023) and **Vandana Shiva** (b. 1952), _Ecofeminism_ (1993). Ties the exploitation of women, subsistence economies, and nature to a single logic of patriarchal capitalism, and argues for a subsistence perspective against endless growth. A bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. Free PDF: [dl1.cuni.cz](https://dl1.cuni.cz/pluginfile.php/1165830/mod_resource/content/1/Mies,%20Shiva,%20Salleh%20-%20Ecofeminism.pdf)
+- **Maria Mies** (1931 to 2023) and **Vandana Shiva** (b. 1952), _Ecofeminism_ (1993). Ties the exploitation of women, subsistence economies, and nature to a single logic of patriarchal capitalism, and argues for a subsistence perspective against endless growth. A bridge to [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]. No borrowable copy exists, and no free companion either: Shiva is recorded constantly but on seed sovereignty rather than this argument, and Mies is barely recorded in English. Paywalled: [bloomsbury.com](https://www.bloomsbury.com/us/ecofeminism-9781350379886/), and see [[04-resources/index#A note on access|the note on access]] for how to get it.
 - **Murray Bookchin** (1921 to 2006), _The Ecology of Freedom_ (1982). The central statement of social ecology, arguing that the drive to dominate nature grows out of the domination of human by human, so ecological crisis is at root a problem of hierarchy. A bridge to [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]. Free: [theanarchistlibrary.org](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom)
 
 ### Ecosocialism, degrowth, and ecological debt
