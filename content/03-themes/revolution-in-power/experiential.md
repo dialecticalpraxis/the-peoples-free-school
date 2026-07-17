@@ -173,4 +173,4 @@ This is the theme where a facilitator most needs to protect the room. People arr
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially testimony from Chinese workers and peasants rather than students, teachers, and Red Guards: the China voices here are educated and urban, which is a real slant. Testimony from Laos and from Central Asia is absent entirely.
+First pass, and it may be a while before there is a second. Contributions welcome, especially testimony from Chinese workers and peasants rather than students, teachers, and Red Guards: the China voices here are educated and urban, which is a real slant. Testimony from Laos and from Central Asia is absent entirely.

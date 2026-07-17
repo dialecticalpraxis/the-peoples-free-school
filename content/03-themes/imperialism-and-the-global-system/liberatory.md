@@ -235,4 +235,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially contemporary internationalisms beyond the nation-state, and anticolonial voices from the Middle East, North Africa, and the Caribbean, which this lens still does not carry. What the socialist and non-aligned experiments built and where they failed is now covered at length in [[03-themes/socialism-and-national-liberation/index|Socialism and National Liberation]].
+First pass, and it may be a while before there is a second. Contributions welcome, especially contemporary internationalisms beyond the nation-state, and anticolonial voices from the Middle East, North Africa, and the Caribbean, which this lens still does not carry. What the socialist and non-aligned experiments built and where they failed is now covered at length in [[03-themes/socialism-and-national-liberation/index|Socialism and National Liberation]].

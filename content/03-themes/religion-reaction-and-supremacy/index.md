@@ -6,17 +6,19 @@ This theme studies four movements that turn a religious boundary into a claim on
 
 The claim is not that religion causes this. Most believers in all four traditions want nothing to do with any of it, and one of these movements was founded by an atheist. The claim is narrower and harder: **each of these movements takes a modern political defeat and converts it into a sacred obligation.** A people is beaten, colonized, hunted, or humiliated by forces it did not choose and cannot match. What follows is a politics that names the wound, promises the land, and marks somebody as the foreigner whose presence explains the wound. Religion here is not the belief. It is the border.
 
-## They do not descend from one another
+## Four answers, formed in parallel
 
-It is tempting to draw a line: Christian nationalism produced Zionism, Zionism produced Islamism, and Hindutva is somewhere downstream. The dates refuse it, and a study circle should meet the refusal early because it is the theme's first real lesson.
+These movements are roughly contemporaries. They took shape within about fifty years of each other, each out of its own defeat, and the useful way to read them is side by side rather than in a line.
 
-Political Zionism organized out of European antisemitism, not American religion: the Russian pogroms of 1881, Pinsker's _Auto-Emancipation_ in 1882, the Dreyfus affair in 1894, Herzl's _Der Judenstaat_ in 1896, the First Zionist Congress in 1897. American Christian nationalism as a mass political movement dates to the 1970s. The cause would postdate its effect by seventy years.
+**Zionism** organized out of European antisemitism: the Russian pogroms of 1881, Pinsker's _Auto-Emancipation_ in 1882, the Dreyfus affair in 1894, Herzl's _Der Judenstaat_ in 1896, the First Zionist Congress in 1897. Its condition was Europe's refusal to let Jews live as Europeans.
 
-Islamism has the same problem, more sharply. Al-Afghani was answering European domination by the 1880s: his reply to Renan is 1883, and _al-Urwa al-Wuthqa_, edited from Paris against British power, is 1884. He died within months of the First Zionist Congress, having already spent twenty-five years on the question that generates Islamism. The Muslim Brotherhood was founded in **March 1928, in Ismailia, a town built around the Suez Canal Company, by six canal workers**, four years after the caliphate was abolished. It was British occupation in the street outside, not Zionism.
+**Islamism** begins from imperial defeat. Al-Afghani was answering European domination by the 1880s: his reply to Renan is 1883, and _al-Urwa al-Wuthqa_, edited from Paris against British power, is 1884. The Muslim Brotherhood was founded in **March 1928, in Ismailia, a town built around the Suez Canal Company, by six canal workers**, four years after the caliphate was abolished. The occupation was in the street outside.
 
-Hindutva is not downstream of anything here. Savarkar coined the word in 1923; the RSS followed in 1925. And in that founding text Savarkar already **welcomed the "Zionist dream"**, on the reasoning that a Jewish state would check Muslim power. That is not descent. That is one new religious nationalism looking across the world at another and liking what it sees.
+**Hindutva** arrives in the same window. Savarkar coined the word in 1923; the RSS followed in 1925. Its condition was British rule, and beneath that an older fear of Muslim political power.
 
-So what connects them is not a bloodline. It is that **they are four answers to the same condition**, formed within decades of each other, in the wreckage of empire and the arrival of the nation-state as the only recognized form of political life. And they read each other constantly. Savarkar admired Zionism in 1923. Golwalkar admired Germany in 1939. American dispensationalists needed Israel for an end-times sequence in which Jews convert or die, and Israeli ministries cultivated those dispensationalists anyway. Modi and Netanyahu found each other. The borrowing is real, continuous, and mutual. It is simply not descent.
+**American Christian nationalism** is the one whose dating needs care, because two things run at different speeds. As a mass electoral movement it is recent, a creature of the 1970s, and the [[03-themes/religion-reaction-and-supremacy/theoretical|theoretical lens]] takes up what it actually mobilized over. But American Christian Zionist theology is much older: William Blackstone petitioned President Harrison for a Jewish homeland in Palestine in **1891**, five years before Herzl published. So on one clock it is the youngest of the four, and on another it was there before political Zionism was.
+
+What connects them is not a bloodline. **They are four answers to the same condition**, formed in the wreckage of empire and the arrival of the nation-state as the only recognized form of political life. And they read each other constantly, sideways. Savarkar welcomed the **"Zionist dream"** in his 1923 founding text, reasoning that a Jewish state would check Muslim power. Golwalkar admired Germany in 1939. American dispensationalists needed Israel for an end-times sequence in which Jews convert or die, and Israeli ministries cultivated those dispensationalists anyway. Modi and Netanyahu found each other. The borrowing is real, continuous, and mutual, and it runs between peers rather than from parent to child.
 
 ## The asymmetry that must not be flattened
 
@@ -60,7 +62,7 @@ This folder organizes resources by lens. See the [[02-pedagogy|Pedagogy document
 
 **Single-session entry point (2 hours).** Do not start with the Middle East. Start experiential: what were people raised to believe, and who was outside it. Then take one document, Savarkar's 1923 welcome of the Zionist dream, and ask what an atheist is doing endorsing a Jewish state to check Muslims. The theme opens itself. See [[single-session|the single-session template]].
 
-**Eight-week study circle.** Week 1 experiential and the ground rules. Week 2 the mechanism, and the chronology that kills the descent story. Week 3 Christian antisemitism and the making of the Jewish question. Week 4 Zionism and its Jewish critics, Bund and Ahad Ha'am and Dubnow, before any argument about the present. Week 5 the Nakba and the Palestinians, in their own voices. Week 6 Islamism from al-Afghani to Qutb to Hamas, with 1967 as the hinge. Week 7 Hindutva and caste, the case where the boundary runs inside the majority too. Week 8 the liberatory lens: the traditions inside each faith that refuse this. See [[study-circle-6week|the six-week template]] and extend it.
+**Eight-week study circle.** Week 1 experiential and the ground rules. Week 2 the mechanism, and the four formations read side by side. Week 3 Christian antisemitism and the making of the Jewish question. Week 4 Zionism and its Jewish critics, Bund and Ahad Ha'am and Dubnow, before any argument about the present. Week 5 the Nakba and the Palestinians, in their own voices. Week 6 Islamism from al-Afghani to Qutb to Hamas, with 1967 as the hinge. Week 7 Hindutva and caste, the case where the boundary runs inside the majority too. Week 8 the liberatory lens: the traditions inside each faith that refuse this. See [[study-circle-6week|the six-week template]] and extend it.
 
 **Do not run this as a weekend intensive.** It is too much, too fast, on material that will be personal to someone in the room.
 
@@ -84,7 +86,7 @@ Two things to think about:
 
 ## Status
 
-This theme is new and it is the school's hardest. Every claim in it was checked against the record before it was written down, and the chronology section is what survived that.
+First pass, and it may be a while before there is a second. It is the school's hardest theme, and every claim in it was checked against the record before it was written down.
 
 Known gaps, named. **Rashid Rida is missing**, and he is the bridge from Abduh to al-Banna; no verified free English text could be found. **There is no legitimate free English _Milestones_ or al-Banna**: every route is an unlicensed upload or a jihadist devotional host, including one hosted on cia.gov because it was seized from bin Laden's compound, and this school will not link any of them. Qutb is taught through Calvert and Kepel instead, and the refusal is part of the lesson. **Golwalkar's primary text is likewise not linked**, since every host is a Sangh site. **Buddhist nationalism in Myanmar and Sri Lanka is absent entirely**, which is a real hole in a theme that claims to be comparative. And the free tier here skews toward think tanks with lines, while the careful scholarship is mostly paywalled, which is its own comment.
 

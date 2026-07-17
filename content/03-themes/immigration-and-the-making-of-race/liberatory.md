@@ -178,4 +178,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. One honest weakness: the strongest written statement of the left-restrictionist position may not exist. Nagle's essay is the thing the argument happened around and its sourcing is genuinely weak, which is why the Sanders interview carries that pole instead. Contributions welcome, especially a serious left case for restriction that survives scrutiny, if one exists.
+First pass, and it may be a while before there is a second. One honest weakness: the strongest written statement of the left-restrictionist position may not exist. Nagle's essay is the thing the argument happened around and its sourcing is genuinely weak, which is why the Sanders interview carries that pole instead. Contributions welcome, especially a serious left case for restriction that survives scrutiny, if one exists.

@@ -206,4 +206,4 @@ The theme reads Cabral and stops at the border of what came after. Mozambique an
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially Guinea-Bissau after Cabral, and Angola from Angolan rather than Cuban or British sources: the Portuguese-African material added here is written largely from outside. Bolivia, Mozambique, and Guyana are now covered.
+First pass, and it may be a while before there is a second. Contributions welcome, especially Guinea-Bissau after Cabral, and Angola from Angolan rather than Cuban or British sources: the Portuguese-African material added here is written largely from outside. Bolivia, Mozambique, and Guyana are now covered.

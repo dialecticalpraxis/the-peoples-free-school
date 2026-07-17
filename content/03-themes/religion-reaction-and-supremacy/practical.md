@@ -211,4 +211,4 @@ Read all three. They disagree, they were all written by people who take antisemi
 
 ## Status
 
-This lens has a first pass. Named gaps: **nothing here is from inside CUFI's membership**, only its institutional voice, so the theme has the organization but not the believers. **There is no Israeli civil society material**, which is a hole given how much of the criticism comes from there. **Nothing on Buddhist nationalism.** And the free tier here leans on two state-funded broadcasters and two advocacy hosts while the scholarship sits behind paywalls, which is worth telling a room before they read.
+First pass, and it may be a while before there is a second. Named gaps: **nothing here is from inside CUFI's membership**, only its institutional voice, so the theme has the organization but not the believers. **There is no Israeli civil society material**, which is a hole given how much of the criticism comes from there. **Nothing on Buddhist nationalism.** And the free tier here leans on two state-funded broadcasters and two advocacy hosts while the scholarship sits behind paywalls, which is worth telling a room before they read.

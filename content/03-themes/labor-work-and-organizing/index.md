@@ -51,4 +51,4 @@ This theme sits at the center of the school's work and connects closely to sever
 
 ## Status
 
-This theme has a developed first pass across all five lenses. Resources continue to be added as the project grows. If you have run a session on this theme, consider [contributing back](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md) what you used and what you learned.
+First pass across all five lenses, and it may be a while before there is a second. If you have run a session on this theme, consider [contributing back](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md) what you used and what you learned.

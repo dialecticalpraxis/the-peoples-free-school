@@ -308,4 +308,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on labor theory from India and South Asia, which stayed thin here: Breman's _Footloose Labour_ is the standard work and no free or borrowable copy could be found. Free companion material for Breman and van der Linden would also help, since both are currently library requests only.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on labor theory from India and South Asia, which stayed thin here: Breman's _Footloose Labour_ is the standard work and no free or borrowable copy could be found. Free companion material for Breman and van der Linden would also help, since both are currently library requests only.

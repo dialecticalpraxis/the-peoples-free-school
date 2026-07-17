@@ -116,4 +116,4 @@ All free unless marked otherwise.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially memoirs from rank-and-file members of the mass parties rather than their leaders: Bebel now speaks for the SPD here, but he speaks as its chairman, and the ordinary member's account of what belonging to that world felt like is still missing.
+First pass, and it may be a while before there is a second. Contributions welcome, especially memoirs from rank-and-file members of the mass parties rather than their leaders: Bebel now speaks for the SPD here, but he speaks as its chairman, and the ordinary member's account of what belonging to that world felt like is still missing.

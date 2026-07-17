@@ -191,4 +191,4 @@ The school holds the disagreements open, including about itself. Freire (in the 
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of self-organized learning experiments, and writing on education by currently or formerly incarcerated people themselves: the prison education material here describes programs from the outside, and the people inside them have not been given a voice in this lens.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts of self-organized learning experiments, and writing on education by currently or formerly incarcerated people themselves: the prison education material here describes programs from the outside, and the people inside them have not been given a voice in this lens.

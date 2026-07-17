@@ -122,4 +122,4 @@ These are ready to run a reading circle from.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially reading guides for the Paris Commune and the Internationals, which tend to appear only as single sessions inside broader Marx syllabi.
+First pass, and it may be a while before there is a second. Contributions welcome, especially reading guides for the Paris Commune and the Internationals, which tend to appear only as single sessions inside broader Marx syllabi.

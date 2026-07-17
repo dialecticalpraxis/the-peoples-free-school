@@ -108,4 +108,4 @@ This is careful terrain. The point is not to rank experiences or to ask anyone t
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Japanese American and Chicana voices are now here through Densho and Anzaldúa; Indigenous testimony is deliberately held for a forthcoming theme on settler colonialism and land. Contributions welcome, especially Filipino, South Asian, and Black immigrant testimony, and voices of the racial order from outside the United States.
+First pass, and it may be a while before there is a second. Japanese American and Chicana voices are now here through Densho and Anzaldúa; Indigenous testimony is deliberately held for a forthcoming theme on settler colonialism and land. Contributions welcome, especially Filipino, South Asian, and Black immigrant testimony, and voices of the racial order from outside the United States.

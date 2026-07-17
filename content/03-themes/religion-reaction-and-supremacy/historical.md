@@ -179,7 +179,7 @@ _How did this come to be? What were the conditions, struggles, and contingencies
 
 See [[02-pedagogy#Historical|the pedagogy document]] for what this lens does across all themes.
 
-The chronology is the argument here, so this lens is built to be read in order. Four movements, formed within roughly thirty years of each other, none descended from the others, all answering the same collapse.
+The chronology is the argument here, so this lens is built to be read in order. Four movements, formed within decades of each other, each out of its own defeat, all answering the same collapse.
 
 ## Anchor questions
 
@@ -235,4 +235,4 @@ Read these four together and the room will stop treating Zionism as a thing Jews
 
 ## Status
 
-This lens has a first pass, built primary-source first. Named gaps: **the Palestinian voice here is historians, not people**, which the experiential lens has to carry and which is a real weakness in a historical lens about dispossession. **Golwalkar's own text is deliberately not linked**, since every host is a Sangh site; his Germany passage is quoted through Casolari, and the disputed authorship is part of the lesson. **Buddhist nationalism is absent.** And the Savarkar scan is a community upload of unverified fidelity, which is the best available and not good enough.
+First pass, and it may be a while before there is a second. It is built primary-source first. Named gaps: **the Palestinian voice here is historians, not people**, which the experiential lens has to carry and which is a real weakness in a historical lens about dispossession. **Golwalkar's own text is deliberately not linked**, since every host is a Sangh site; his Germany passage is quoted through Casolari, and the disputed authorship is part of the lesson. **Buddhist nationalism is absent.** And the Savarkar scan is a community upload of unverified fidelity, which is the best available and not good enough.

@@ -156,4 +156,4 @@ All free. The primary texts are short; a session can read one aloud together.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially a beginner-friendly guided walk-through of Hegel's dialectic, which the current video set only partly covers.
+First pass, and it may be a while before there is a second. Contributions welcome, especially a beginner-friendly guided walk-through of Hegel's dialectic, which the current video set only partly covers.

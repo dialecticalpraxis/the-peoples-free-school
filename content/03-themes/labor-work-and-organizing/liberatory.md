@@ -331,4 +331,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of experiments outside Europe and Argentina, since what was tried in Africa, Asia, and the socialist states is barely represented here, and accounts from people who took part in a cooperative or council that failed and are willing to say why.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts of experiments outside Europe and Argentina, since what was tried in Africa, Asia, and the socialist states is barely represented here, and accounts from people who took part in a cooperative or council that failed and are willing to say why.

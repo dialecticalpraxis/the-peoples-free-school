@@ -165,4 +165,4 @@ Free unless marked otherwise. Many left podcasts publish a free main feed and pa
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially case studies and accounts from groups that have run local sessions.
+First pass, and it may be a while before there is a second. Contributions welcome, especially case studies and accounts from groups that have run local sessions.

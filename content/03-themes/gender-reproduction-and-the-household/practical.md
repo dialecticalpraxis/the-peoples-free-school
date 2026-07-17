@@ -215,4 +215,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups that have run local sessions, and material on childcare campaigns, disability justice, and trans health organizing.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts from groups that have run local sessions, and material on childcare campaigns, disability justice, and trans health organizing.

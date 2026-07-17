@@ -159,4 +159,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Kim and Molina now break the Black and white binary at the level of theory rather than the roster; Indigenous theory is deliberately held for a forthcoming theme on settler colonialism and land. Contributions welcome, especially theory on race and capitalism from Latin American thought and the Global South, and on anti-Blackness within Asian and Latino communities, where free material is thin.
+First pass, and it may be a while before there is a second. Kim and Molina now break the Black and white binary at the level of theory rather than the roster; Indigenous theory is deliberately held for a forthcoming theme on settler colonialism and land. Contributions welcome, especially theory on race and capitalism from Latin American thought and the Global South, and on anti-Blackness within Asian and Latino communities, where free material is thin.

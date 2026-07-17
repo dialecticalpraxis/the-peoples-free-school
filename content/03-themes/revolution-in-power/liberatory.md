@@ -172,4 +172,4 @@ The whole theme is a debate, and this lens keeps it open rather than closing it.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially liberatory currents from within the Chinese and Vietnamese experiences, and feminist accounts of daily life under state socialism.
+First pass, and it may be a while before there is a second. Contributions welcome, especially liberatory currents from within the Chinese and Vietnamese experiences, and feminist accounts of daily life under state socialism.

@@ -157,4 +157,4 @@ The school holds the disagreements open. These pairs stage two of the longest-ru
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of abolitionist and cooperative experiments underway now, and liberation traditions beyond the United States.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts of abolitionist and cooperative experiments underway now, and liberation traditions beyond the United States.

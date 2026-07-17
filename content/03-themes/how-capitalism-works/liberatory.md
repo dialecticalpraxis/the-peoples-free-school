@@ -150,4 +150,4 @@ The school holds the disagreements among traditions open. Placed side by side, t
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of experiments that have been tried and what they taught.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts of experiments that have been tried and what they taught.

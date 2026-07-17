@@ -205,4 +205,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups running mutual-aid projects, cooperatives, and community-defense work, and material on sustaining projects and avoiding burnout.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts from groups running mutual-aid projects, cooperatives, and community-defense work, and material on sustaining projects and avoiding burnout.

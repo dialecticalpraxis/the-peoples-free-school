@@ -112,4 +112,4 @@ This theme can put people in the room on very different sides of a living confli
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially migration and refugee testimony from Central America, the Sahel, and Southeast Asia.
+First pass, and it may be a while before there is a second. Contributions welcome, especially migration and refugee testimony from Central America, the Sahel, and Southeast Asia.

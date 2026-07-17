@@ -175,4 +175,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a first pass built around one claim. Its honest weaknesses: **the anchors are paywalled**, Harrison and Strings both, and the lens runs on excerpts to stay usable. **Psychiatry and mad studies are absent entirely**, which is a real hole in a theme about which bodies are judged unfit. So is health outside the United States and the global pharmaceutical order. Contributions welcome, especially from fat organizers and health workers.
+First pass, and it may be a while before there is a second. It is built around one claim. Its honest weaknesses: **the anchors are paywalled**, Harrison and Strings both, and the lens runs on excerpts to stay usable. **Psychiatry and mad studies are absent entirely**, which is a real hole in a theme about which bodies are judged unfit. So is health outside the United States and the global pharmaceutical order. Contributions welcome, especially from fat organizers and health workers.

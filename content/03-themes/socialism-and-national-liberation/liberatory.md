@@ -204,4 +204,4 @@ This lens keeps the theme's hardest questions open. Some threads to hold, not re
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Tellez and Ramirez are now here in their own voices. Contributions welcome, especially liberatory currents from the Portuguese-African revolutions, and Burkinabe voices on Sankara: the reassessment here is written by an American, and the critique of a revolution is worth most from the people who lived under it.
+First pass, and it may be a while before there is a second. Tellez and Ramirez are now here in their own voices. Contributions welcome, especially liberatory currents from the Portuguese-African revolutions, and Burkinabe voices on Sankara: the reassessment here is written by an American, and the critique of a revolution is worth most from the people who lived under it.

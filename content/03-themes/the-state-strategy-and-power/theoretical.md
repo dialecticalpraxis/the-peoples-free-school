@@ -259,4 +259,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially contemporary work on surveillance and the security state, and free companions for the feminist and anti-colonial theory added here: Pateman, Mamdani, and MacKinnon are all currently library requests with no free route in, which is its own comment on whose theory of the state is easy to get hold of.
+First pass, and it may be a while before there is a second. Contributions welcome, especially contemporary work on surveillance and the security state, and free companions for the feminist and anti-colonial theory added here: Pateman, Mamdani, and MacKinnon are all currently library requests with no free route in, which is its own comment on whose theory of the state is easy to get hold of.

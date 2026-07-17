@@ -287,4 +287,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Mongolia, the Central Asian republics, and Laos, which remain nearly unfillable from free sources: at present Central Asia enters this theme only through Aslund, meaning the region is argued solely by its most triumphalist witness, which is not balance. Vietnam after 1975 is now covered in the experiential lens.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on Mongolia, the Central Asian republics, and Laos, which remain nearly unfillable from free sources: at present Central Asia enters this theme only through Aslund, meaning the region is argued solely by its most triumphalist witness, which is not balance. Vietnam after 1975 is now covered in the experiential lens.

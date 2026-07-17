@@ -176,4 +176,4 @@ Free unless marked otherwise. A note on sources: this lens deals with live geopo
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from anti-war, migrant-justice, and debt-cancellation organizing, and material on extraction and land defense in the Global South.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts from anti-war, migrant-justice, and debt-cancellation organizing, and material on extraction and land defense in the Global South.

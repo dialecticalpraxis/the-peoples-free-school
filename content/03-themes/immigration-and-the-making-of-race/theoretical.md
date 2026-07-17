@@ -124,4 +124,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Lowe is the one canonical text with no free copy at all, and no free companion of comparable substance was found, so a group without library access will have to work around her. Contributions welcome, especially theory of race and migration from outside the United States and Europe.
+First pass, and it may be a while before there is a second. Lowe is the one canonical text with no free copy at all, and no free companion of comparable substance was found, so a group without library access will have to work around her. Contributions welcome, especially theory of race and migration from outside the United States and Europe.

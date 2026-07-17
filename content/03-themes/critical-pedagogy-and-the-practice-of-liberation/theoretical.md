@@ -208,4 +208,4 @@ This lens also asks the school to be honest about its own bookshelf. Gramsci ins
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially African and Arab popular-education traditions, which are still represented here only by Nyerere, and Freire's own Brazilian contemporaries and critics in Portuguese. Disability and abolitionist pedagogy now sit in [[03-themes/critical-pedagogy-and-the-practice-of-liberation/liberatory|the liberatory lens]].
+First pass, and it may be a while before there is a second. Contributions welcome, especially African and Arab popular-education traditions, which are still represented here only by Nyerere, and Freire's own Brazilian contemporaries and critics in Portuguese. Disability and abolitionist pedagogy now sit in [[03-themes/critical-pedagogy-and-the-practice-of-liberation/liberatory|the liberatory lens]].

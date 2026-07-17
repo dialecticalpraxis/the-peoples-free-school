@@ -152,4 +152,4 @@ This lens can cut close. Care and gender are lived in the body and in the family
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially caregiving outside the United States, and testimony from migrant domestic workers in their own voices: that was searched for specifically and what exists free is journalism and NGO reporting about these workers rather than by them. Migrante International, the Filipino migrant workers' organization that would supply exactly that standpoint, blocks automated access and should be checked by hand.
+First pass, and it may be a while before there is a second. Contributions welcome, especially caregiving outside the United States, and testimony from migrant domestic workers in their own voices: that was searched for specifically and what exists free is journalism and NGO reporting about these workers rather than by them. Migrante International, the Filipino migrant workers' organization that would supply exactly that standpoint, blocks automated access and should be checked by hand.

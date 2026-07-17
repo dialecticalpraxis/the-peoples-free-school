@@ -129,4 +129,4 @@ All free unless marked otherwise.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Most of the films lean sympathetic, so a facilitator should keep the critical readings from the other lenses in the room. Contributions welcome, especially testimony from Chile and from the Portuguese-African revolutions.
+First pass, and it may be a while before there is a second. Most of the films lean sympathetic, so a facilitator should keep the critical readings from the other lenses in the room. Contributions welcome, especially testimony from Chile and from the Portuguese-African revolutions.

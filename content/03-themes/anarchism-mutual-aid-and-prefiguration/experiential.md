@@ -83,4 +83,4 @@ The point of this lens is recognition: to help the room see that the cooperation
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially first-person accounts from contemporary mutual-aid networks, cooperatives, and intentional communities.
+First pass, and it may be a while before there is a second. Contributions welcome, especially first-person accounts from contemporary mutual-aid networks, cooperatives, and intentional communities.

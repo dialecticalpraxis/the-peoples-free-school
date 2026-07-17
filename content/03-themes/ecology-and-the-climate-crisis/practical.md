@@ -236,4 +236,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups that have run local sessions, and disaster mutual aid. The food sovereignty and energy democracy material here is movement-issued and reads as such; first-person accounts from people inside an MST settlement or a community energy project would be worth more than another declaration.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts from groups that have run local sessions, and disaster mutual aid. The food sovereignty and energy democracy material here is movement-issued and reads as such; first-person accounts from people inside an MST settlement or a community energy project would be worth more than another declaration.

@@ -151,4 +151,4 @@ The trap in this lens is that "what is to be done" becomes "which side are you o
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Several study guides here are from politically committed organizations (PSL, Tricontinental) and are labeled as such. Contributions welcome, especially organizer-facing material on solidarity work and on the African liberation movements today.
+First pass, and it may be a while before there is a second. Several study guides here are from politically committed organizations (PSL, Tricontinental) and are labeled as such. Contributions welcome, especially organizer-facing material on solidarity work and on the African liberation movements today.

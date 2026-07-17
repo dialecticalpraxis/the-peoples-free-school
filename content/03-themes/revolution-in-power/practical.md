@@ -159,4 +159,4 @@ The trap in this lens is that "what is to be done" becomes "which side are you o
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Laos and Vietnam today, and concrete lessons for organizing in the imperial core. Ghodsee is now here with her free companion site; there is no open-access edition of the book despite what circulates online.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on Laos and Vietnam today, and concrete lessons for organizing in the imperial core. Ghodsee is now here with her free companion site; there is no open-access edition of the book despite what circulates online.

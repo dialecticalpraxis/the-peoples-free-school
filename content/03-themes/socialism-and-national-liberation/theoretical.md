@@ -131,4 +131,4 @@ All free unless marked otherwise. Each source's standpoint is named.
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Sandinista and Sankarist thought as theory, and on indigenous and communitarian socialisms in their own terms.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on Sandinista and Sankarist thought as theory, and on indigenous and communitarian socialisms in their own terms.

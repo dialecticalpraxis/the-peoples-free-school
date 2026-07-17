@@ -133,4 +133,4 @@ All free unless marked otherwise. Each source's standpoint is named; they are me
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on the Chinese and Yugoslav market-reform debates and on ecological critiques of the command economy.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on the Chinese and Yugoslav market-reform debates and on ecological critiques of the command economy.

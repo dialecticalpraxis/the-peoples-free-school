@@ -177,4 +177,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts from groups running electoral campaigns, mutual-aid projects, tenant unions, and community-defense work, and material on what socialists have done once in office.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts from groups running electoral campaigns, mutual-aid projects, tenant unions, and community-defense work, and material on what socialists have done once in office.

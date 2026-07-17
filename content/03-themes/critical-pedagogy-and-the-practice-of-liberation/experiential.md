@@ -88,4 +88,4 @@ This theme carries a particular risk: that the room defers to whoever seems most
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially first-person accounts of adult literacy work, prison education, and learning in movements and workplaces.
+First pass, and it may be a while before there is a second. Contributions welcome, especially first-person accounts of adult literacy work, prison education, and learning in movements and workplaces.

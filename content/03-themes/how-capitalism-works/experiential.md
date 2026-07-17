@@ -180,4 +180,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Global South testimonio is now here through Domitila, Menchú, and the People's Archive of Rural India, and contemporary work through Notes from Below. Contributions welcome, especially African and Southeast Asian testimony, and first-person accounts of debt and of care work.
+First pass, and it may be a while before there is a second. Global South testimonio is now here through Domitila, Menchú, and the People's Archive of Rural India, and contemporary work through Notes from Below. Contributions welcome, especially African and Southeast Asian testimony, and first-person accounts of debt and of care work.

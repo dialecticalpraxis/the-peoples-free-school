@@ -209,4 +209,4 @@ The school holds the disagreements open. This lens stages one of the sharpest ar
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially accounts of communal-living and collective-care experiments underway now, and intersex and nonbinary voices, which are still thinner here than trans women's. Note that _Transgender Marxism_ is not open access despite what several sites suggest; the copies circulating are unauthorized, and Gleeson's free essay is the honest route in.
+First pass, and it may be a while before there is a second. Contributions welcome, especially accounts of communal-living and collective-care experiments underway now, and intersex and nonbinary voices, which are still thinner here than trans women's. Note that _Transgender Marxism_ is not open access despite what several sites suggest; the copies circulating are unauthorized, and Gleeson's free essay is the honest route in.

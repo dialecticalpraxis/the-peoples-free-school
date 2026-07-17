@@ -118,4 +118,4 @@ All free unless marked otherwise. Lead with Hedva or Johnson; both are short and
 
 ## Status
 
-This lens has a first pass. Named gaps: **fat people's own medical accounts are thin here and the best one is paywalled**, which in a theme anchored on anti-fatness is a real weakness. **Black maternal health testimony beyond Serena Williams** is missing, and she is the most famous possible case rather than the most typical. Nothing here is from outside the United States. Contributions welcome, especially from disabled and fat organizers, and from health workers on what the job does to them.
+First pass, and it may be a while before there is a second. Named gaps: **fat people's own medical accounts are thin here and the best one is paywalled**, which in a theme anchored on anti-fatness is a real weakness. **Black maternal health testimony beyond Serena Williams** is missing, and she is the most famous possible case rather than the most typical. Nothing here is from outside the United States. Contributions welcome, especially from disabled and fat organizers, and from health workers on what the job does to them.

@@ -254,4 +254,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially on Indian and South Asian labor history, which remains the thinnest area here, and on labor in the socialist states and in the Middle East, which this lens does not yet reach at all. Note also that China Labour Bulletin, long the standard source on Chinese labor, was forced to close in 2025 and its site is gone; a replacement source would be valuable.
+First pass, and it may be a while before there is a second. Contributions welcome, especially on Indian and South Asian labor history, which remains the thinnest area here, and on labor in the socialist states and in the Middle East, which this lens does not yet reach at all. Note also that China Labour Bulletin, long the standard source on Chinese labor, was forced to close in 2025 and its site is gone; a replacement source would be valuable.

@@ -117,4 +117,4 @@ This lens is a debate by design. Some threads to hold open rather than resolve:
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. The reform-versus-revolution material is stronger on the Luxemburg side than on standalone Bernstein or Kautsky commentary; contributions welcome.
+First pass, and it may be a while before there is a second. The reform-versus-revolution material is stronger on the Luxemburg side than on standalone Bernstein or Kautsky commentary; contributions welcome.

@@ -128,4 +128,4 @@ Encounters with the state can carry fear, grief, and anger, and some people in t
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially testimony on welfare and benefits systems, surveillance, and encounters with the state outside the United States.
+First pass, and it may be a while before there is a second. Contributions welcome, especially testimony on welfare and benefits systems, surveillance, and encounters with the state outside the United States.

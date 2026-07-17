@@ -51,4 +51,4 @@ Suggested arcs for groups new to this theme. Adapt freely. Every session opens w
 
 ## Status
 
-This theme has a developed first pass across all five lenses, built for viewpoint balance. Resources continue to be added as the project grows, especially on China from the inside, Vietnam and Laos today, and the Central Asian and Mongolian experiences. If you have run a session on this theme, consider [contributing back](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md) what you used and what you learned.
+First pass across all five lenses, and it may be a while before there is a second. It is built for viewpoint balance. Known gaps: China from the inside, Vietnam and Laos today, and the Central Asian and Mongolian experiences. If you have run a session on this theme, consider [contributing back](https://github.com/dialecticalpraxis/the-peoples-free-school/blob/main/CONTRIBUTING.md) what you used and what you learned.

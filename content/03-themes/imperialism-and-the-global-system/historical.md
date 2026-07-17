@@ -131,4 +131,4 @@ Free unless marked otherwise. "Free to borrow" means a free Internet Archive acc
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially histories of Southeast Asian, Pacific, and Caribbean colonialism, and of resistance told from the colonized side.
+First pass, and it may be a while before there is a second. Contributions welcome, especially histories of Southeast Asian, Pacific, and Caribbean colonialism, and of resistance told from the colonized side.

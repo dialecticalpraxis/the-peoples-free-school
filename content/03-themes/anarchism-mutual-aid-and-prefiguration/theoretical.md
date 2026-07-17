@@ -255,4 +255,4 @@ _For resources behind a paywall, see [[04-resources/index#A note on access|the n
 
 ## Status
 
-This lens has a developed first pass for this theme. Resources continue to be added as the project grows. Contributions welcome, especially Lucy Parsons, whose writing has no stable free home anywhere that could be found, and contemporary anarcha-feminist work: the material here is strong on the classic period and thin on the last thirty years. Modibo Kadalie and Chiara Bottici were both searched for and not verified.
+First pass, and it may be a while before there is a second. Contributions welcome, especially Lucy Parsons, whose writing has no stable free home anywhere that could be found, and contemporary anarcha-feminist work: the material here is strong on the classic period and thin on the last thirty years. Modibo Kadalie and Chiara Bottici were both searched for and not verified.
