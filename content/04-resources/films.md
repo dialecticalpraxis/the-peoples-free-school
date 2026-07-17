@@ -8,17 +8,19 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_68 films and documentaries. Generated from theme lens frontmatter._
+_70 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
 | Title | Director / creator | Year | Length | Access | Used in |
 | --- | --- | --- | --- | --- | --- |
 | [¡Las Sandinistas!](https://www.lassandinistas.com/about-the-film) | Jenny Murray | 2018 | 90 min | Free to borrow | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
+| ['Til Kingdom Come](https://gooddocs.net/products/til-kingdom-come) | Maya Zinshtein | 2020 | 76 min | Paywalled | [[religion-reaction-and-supremacy/experiential\|Religion, Reaction, and Supremacy · Experiential]] |
 | [13th](https://www.youtube.com/watch?v=krfcq5pF8u8) | Ava DuVernay | 2016 | 100 min | Free | [[anti-blackness-and-racial-capitalism/practical\|Anti-Blackness and Racial Capitalism · Practical]] |
 | [A Place Called Chiapas](https://www.imdb.com/title/tt0145394/) | Nettie Wild | 1998 | 93 min | Paywalled | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
 | [A State of Mind](https://watch.plex.tv/movie/a-state-of-mind) | Daniel Gordon | 2004 | 93 min | Free | [[revolution-in-power/experiential\|Revolution in Power: the USSR, China, and the Eastern Bloc · Experiential]] |
 | [African Dignity: The Ujamaa Dream of Nyerere](https://www.youtube.com/watch?v=MFV1tePl6xQ) | Michel Gattepaille | 2019 | 52 min | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
+| [Al-Nakba: The Palestinian Catastrophe, Episode 1](https://www.youtube.com/watch?v=H7FML0wzJ6A) | Al Jazeera English | 2013 | 47 min | Free | [[religion-reaction-and-supremacy/experiential\|Religion, Reaction, and Supremacy · Experiential]] |
 | [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.pbs.org/wgbh/frontline/documentary/amazon-empire/) | FRONTLINE, PBS | 2020 | — | Free | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [American Factory](https://www.netflix.com/title/81090071) | Steven Bognar, Julia Reichert | 2019 | — | Paywalled | [[how-capitalism-works/practical\|How Capitalism Works · Practical]] |
 | [Awake: A Dream from Standing Rock](https://www.youtube.com/watch?v=G5EWZxII52c) | Myron Dewey, Josh Fox, James Spione | 2017 | 89 min | Free | [[ecology-and-the-climate-crisis/practical\|Ecology and the Climate Crisis · Practical]] |

@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_136 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_137 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -148,6 +148,7 @@ _136 videos and lectures — online explainers, lectures, and video essays (dist
 | [Worker Cooperatives: Movements for Social Change and Personal Empowerment](https://www.youtube.com/watch?v=urCy3UOGgx8) | Richard D. Wolff, Democracy at Work | 2016 | 30 min | lecture | Free | [[labor-work-and-organizing/liberatory\|Labor, Work, and Organizing · Liberatory]] |
 | [What is the real value of unpaid work?](https://www.youtube.com/watch?v=fcqt0QzgUFU) | UN Women | 2017 | 3 min | explainer | Free | [[gender-reproduction-and-the-household/theoretical\|Gender, Reproduction, and the Household · Theoretical]] |
 | [Ellen Meiksins Wood on the Origin of Capitalism (lecture)](https://www.youtube.com/watch?v=7nKE6oN4i8U) | Ellen Meiksins Wood | — | — | lecture | Free | [[how-capitalism-works/historical\|How Capitalism Works · Historical]] |
+| [Suraj Yengde on Annihilation of Caste](https://www.youtube.com/watch?v=aDLvYIZY6Ao) | Suraj Yengde | — | 118 min | lecture | Free | [[religion-reaction-and-supremacy/experiential\|Religion, Reaction, and Supremacy · Experiential]] |
 
 <!-- END AUTO-GENERATED -->
 
