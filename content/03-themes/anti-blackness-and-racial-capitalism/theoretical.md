@@ -106,7 +106,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core concepts this lens builds are racial capitalism, the wages of whiteness, race as ideology rather than biology, and racism as the uneven distribution of vulnerability. The central question is how race and class fit together: whether racism is a byproduct of capitalism, a pillar of it, or older than it. The tradition gathered here refuses both the view that race is a distraction from class and the view that class is beside the point.
+The core concepts this lens builds are [[glossary#racial-capitalism|racial capitalism]], the wages of whiteness, race as ideology rather than biology, and racism as the uneven distribution of vulnerability. The central question is how race and class fit together: whether racism is a byproduct of capitalism, a pillar of it, or older than it. The tradition gathered here refuses both the view that race is a distraction from class and the view that class is beside the point.
 
 ## Anchor questions
 

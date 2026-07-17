@@ -153,7 +153,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core concepts this lens builds are the ones the school runs on: the banking model of education and its problem-posing alternative, conscientization (reading the word and the world together), dialogue, the organic intellectual, and the presupposition of equal intelligence. This is the theme where the school examines its own operating assumptions, which means reading Freire and his companions not as authorities to defer to, but as thinkers to argue with.
+The core concepts this lens builds are the ones the school runs on: the [[glossary#banking-model-of-education|banking model of education]] and its problem-posing alternative, [[glossary#conscientization|conscientization]] (reading the word and the world together), dialogue, the organic intellectual, and the presupposition of equal intelligence. This is the theme where the school examines its own operating assumptions, which means reading Freire and his companions not as authorities to defer to, but as thinkers to argue with.
 
 ## Anchor questions
 

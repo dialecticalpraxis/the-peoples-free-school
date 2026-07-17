@@ -2,7 +2,7 @@
 title: "Critical Pedagogy and the Practice of Liberation"
 ---
 
-How does education work, and how could it work? This theme is the school studying itself. It covers Freire, Horton, popular education, the folk-school tradition, the politics of literacy, and the long history of people learning together against a world that does not want them to learn. It is the ground the other themes stand on, and it pairs closely with the [[02-pedagogy|Pedagogy document]] and the [[04-facilitator-guide|facilitator guide]] that shape every session.
+How does education work, and how could it work? This theme is the school studying itself. It covers Freire, Horton, [[glossary#popular-education|popular education]], the folk-school tradition, the politics of literacy, and the long history of people learning together against a world that does not want them to learn. It is the ground the other themes stand on, and it pairs closely with the [[02-pedagogy|Pedagogy document]] and the [[04-facilitator-guide|facilitator guide]] that shape every session.
 
 ## How to use this theme
 

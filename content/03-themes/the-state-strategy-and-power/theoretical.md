@@ -194,7 +194,7 @@ What is the state? A neutral referee that could serve anyone, a tool of the ruli
 
 - What is the state? A neutral referee, a tool of the ruling class, or something else?
 - Why does Weber say the state is whoever holds the monopoly on legitimate violence?
-- What did Gramsci mean by hegemony, and why does rule need consent as well as force?
+- What did Gramsci mean by [[glossary#hegemony|hegemony]], and why does rule need consent as well as force?
 - Can the capitalist state be used for socialist ends, or is it built to prevent that?
 - Where does power actually live? Only in government, or everywhere?
 

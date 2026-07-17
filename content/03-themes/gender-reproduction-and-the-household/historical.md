@@ -81,7 +81,7 @@ _How did this come to be? What were the conditions, struggles, and contingencies
 
 See [[02-pedagogy#Historical|the pedagogy document]] for what this lens does across all themes.
 
-The full-time housewife, the private nuclear family, and the idea that care is a labor of love rather than work were all made, and made recently, alongside capitalism. This lens traces that making: the witch hunts and the disciplining of women's bodies at capitalism's birth, the separation of the home from production, the building of the family wage, and the state's long effort to control reproduction. It develops the account of primitive accumulation begun in [[03-themes/how-capitalism-works/historical|the capitalism theme]].
+The full-time housewife, the private nuclear family, and the idea that care is a labor of love rather than work were all made, and made recently, alongside capitalism. This lens traces that making: the witch hunts and the disciplining of women's bodies at capitalism's birth, the separation of the home from production, the building of the family wage, and the state's long effort to control reproduction. It develops the account of [[glossary#primitive-accumulation|primitive accumulation]] begun in [[03-themes/how-capitalism-works/historical|the capitalism theme]].
 
 ## Anchor questions
 

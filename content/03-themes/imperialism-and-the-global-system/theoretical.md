@@ -170,7 +170,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core question this lens builds toward is what imperialism actually is: a policy that could be changed, a stage of capitalism, or the very shape of the world system. The traditions here give different answers. Lenin sees a stage of monopoly capital; the dependency and world-systems theorists see one integrated economy that produces wealth and poverty together; contemporary writers trace the same logic through global value chains. This scales up the value theory from [[03-themes/how-capitalism-works/theoretical|the capitalism theme]] to the world market.
+The core question this lens builds toward is what [[glossary#imperialism|imperialism]] actually is: a policy that could be changed, a stage of capitalism, or the very shape of the world system. The traditions here give different answers. Lenin sees a stage of monopoly capital; the dependency and world-systems theorists see one integrated economy that produces wealth and poverty together; contemporary writers trace the same logic through global value chains. This scales up the value theory from [[03-themes/how-capitalism-works/theoretical|the capitalism theme]] to the world market.
 
 ## Anchor questions
 

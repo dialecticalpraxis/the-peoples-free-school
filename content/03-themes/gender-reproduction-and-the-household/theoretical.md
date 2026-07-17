@@ -145,7 +145,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core insight this lens builds is simple and far-reaching: before anyone can work, someone has to feed, raise, and care for them, and that work is mostly unpaid and mostly done by women. Social reproduction theory follows this out into a theory of how the whole economy depends on the labor that reproduces labor power. Around it sit the Wages for Housework debate, the question of whether gender is a system of its own or a product of capitalism, and the analysis of today's care crisis. This lens extends the social reproduction thread introduced in [[03-themes/labor-work-and-organizing/theoretical|Labor, Work, and Organizing]].
+The core insight this lens builds is simple and far-reaching: before anyone can work, someone has to feed, raise, and care for them, and that work is mostly unpaid and mostly done by women. [[glossary#social-reproduction|Social reproduction]] theory follows this out into a theory of how the whole economy depends on the labor that reproduces labor power. Around it sit the Wages for Housework debate, the question of whether gender is a system of its own or a product of capitalism, and the analysis of today's care crisis. This lens extends the social reproduction thread introduced in [[03-themes/labor-work-and-organizing/theoretical|Labor, Work, and Organizing]].
 
 ## Anchor questions
 

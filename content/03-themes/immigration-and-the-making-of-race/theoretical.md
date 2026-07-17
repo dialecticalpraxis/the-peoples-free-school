@@ -81,7 +81,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The concepts this lens builds are racial triangulation, racial scripts, orientalism, deportability, and the border as a method rather than a place. The through-line is that immigration law does not sort people who already have races. It **makes** the races it claims to sort. And it does not make them one at a time: the script written for one group is lifted and reused on the next, which is why this theme cannot be understood apart from [[03-themes/anti-blackness-and-racial-capitalism/index|Anti-Blackness and Racial Capitalism]]. The relation is the analysis.
+The concepts this lens builds are racial triangulation, racial scripts, orientalism, [[glossary#deportability|deportability]], and the border as a method rather than a place. The through-line is that immigration law does not sort people who already have races. It **makes** the races it claims to sort. And it does not make them one at a time: the script written for one group is lifted and reused on the next, which is why this theme cannot be understood apart from [[03-themes/anti-blackness-and-racial-capitalism/index|Anti-Blackness and Racial Capitalism]]. The relation is the analysis.
 
 ## Anchor questions
 

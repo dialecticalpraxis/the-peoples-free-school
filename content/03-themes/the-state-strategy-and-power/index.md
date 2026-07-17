@@ -2,7 +2,7 @@
 title: "The State, Strategy, and Power"
 ---
 
-What is the state, what does it do, and how does anything change? This theme covers theories of the state, debates over strategy (electoral, insurrectionary, dual power, base-building), what political power is, and how movements have tried to take or transform it. It holds the disagreements among traditions open rather than resolving them, and it draws together threads from across the school: the labor movement, the carceral state, and imperialism all meet here in the question of power.
+What is the state, what does it do, and how does anything change? This theme covers theories of the state, debates over strategy (electoral, insurrectionary, [[glossary#dual-power|dual power]], base-building), what political power is, and how movements have tried to take or transform it. It holds the disagreements among traditions open rather than resolving them, and it draws together threads from across the school: the labor movement, the carceral state, and imperialism all meet here in the question of power.
 
 ## How to use this theme
 

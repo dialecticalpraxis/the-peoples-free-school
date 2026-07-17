@@ -2,7 +2,7 @@
 title: "Gender, Reproduction, and the Household"
 ---
 
-What is the work that keeps people alive? Who does it? Why is most of it unwaged? This theme covers feminist political economy, the history of the family, the wages for housework debate, care work, gender as a system, and the contested boundary between what counts as work and what does not. It develops the analysis of unpaid and reproductive labor opened in [[03-themes/how-capitalism-works/index|How Capitalism Works]] and [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]].
+What is the work that keeps people alive? Who does it? Why is most of it unwaged? This theme covers feminist political economy, the history of the family, the wages for housework debate, care work, gender as a system, and the contested boundary between what counts as work and what does not. It develops the analysis of unpaid and [[glossary#reproductive-labor|reproductive labor]] opened in [[03-themes/how-capitalism-works/index|How Capitalism Works]] and [[03-themes/labor-work-and-organizing/index|Labor, Work, and Organizing]].
 
 ## How to use this theme
 

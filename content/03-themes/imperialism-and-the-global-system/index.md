@@ -2,7 +2,7 @@
 title: "Imperialism and the Global System"
 ---
 
-How does the world economy actually work? What is imperialism in its classical and contemporary forms? How do wealth and power flow between regions, and what does this mean for the lives of people in the imperial core and the periphery? This theme covers colonialism, decolonization, dependency theory, contemporary imperialism, and global solidarity. It scales the analysis of [[03-themes/how-capitalism-works/index|How Capitalism Works]] up from the workplace to the world market.
+How does the world economy actually work? What is imperialism in its classical and contemporary forms? How do wealth and power flow between regions, and what does this mean for the lives of people in the imperial core and the periphery? This theme covers colonialism, decolonization, [[glossary#dependency-theory|dependency theory]], contemporary imperialism, and global solidarity. It scales the analysis of [[03-themes/how-capitalism-works/index|How Capitalism Works]] up from the workplace to the world market.
 
 ## How to use this theme
 

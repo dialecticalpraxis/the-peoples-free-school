@@ -192,7 +192,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core concepts this lens builds are the commodity, value, labor power, surplus value, exploitation, and capital as a social relation rather than a thing. The reading can be hard. We do it together, slowly, and we do not pretend to understand more than we do.
+The core concepts this lens builds are the commodity, value, labor power, [[glossary#surplus-value|surplus value]], exploitation, and capital as a social relation rather than a thing. The reading can be hard. We do it together, slowly, and we do not pretend to understand more than we do.
 
 ## Anchor questions
 

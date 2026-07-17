@@ -105,7 +105,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The central question of this lens is whether the ecological crisis is a problem of humanity in general or of a particular way of organizing the economy. The concepts it builds answer the second way: the metabolic rift between society and nature, cheap nature and the Capitalocene, the shared logic that exploits women, land, and the Global South, and ecological debt. Around them sits the argument that will run through the whole theme: can capitalism be green, and can it survive without endless growth?
+The central question of this lens is whether the ecological crisis is a problem of humanity in general or of a particular way of organizing the economy. The concepts it builds answer the second way: the [[glossary#metabolic-rift|metabolic rift]] between society and nature, cheap nature and the Capitalocene, the shared logic that exploits women, land, and the Global South, and ecological debt. Around them sits the argument that will run through the whole theme: can capitalism be green, and can it survive without endless growth?
 
 ## Anchor questions
 

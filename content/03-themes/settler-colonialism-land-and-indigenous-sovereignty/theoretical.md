@@ -113,7 +113,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-The core concepts this lens builds are **the logic of elimination** (the system wants the land, so it wants the people gone), **settler colonialism as a structure rather than an event**, **the politics of recognition and its refusal**, **resurgence**, and **decolonization as the literal repatriation of land rather than a figure of speech**. If the room takes only one idea, take Wolfe's: this did not happen, it is happening, and it is what the country is made of.
+The core concepts this lens builds are **the logic of [[glossary#elimination|elimination]]** (the system wants the land, so it wants the people gone), **[[glossary#settler-colonialism|settler colonialism]] as a structure rather than an event**, **the politics of recognition and its refusal**, **resurgence**, and **decolonization as the literal repatriation of land rather than a figure of speech**. If the room takes only one idea, take Wolfe's: this did not happen, it is happening, and it is what the country is made of.
 
 An honest note about access before you plan a session. Almost all of this field is published by the University of Minnesota Press and Duke, and almost none of it is legitimately free. Only one book here is borrowable. But **every paywalled book in this lens has a free lecture by its own author attached**, so a study circle can run this theme without buying anything. Those lectures are all small, a few thousand views each, which is normal for academic talks and says nothing about the argument.
 

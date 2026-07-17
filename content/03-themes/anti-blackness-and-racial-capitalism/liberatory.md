@@ -113,7 +113,7 @@ _What would it mean to overcome or transform this? What have movements imagined,
 
 See [[02-pedagogy#Liberatory|the pedagogy document]] for what this lens does across all themes. The school does not resolve the disagreements among traditions. It puts them in front of the room and lets the room think.
 
-The Black radical tradition is not one program but an argument that has run for two centuries. This lens gathers its poles: self-emancipation and anticolonial revolution, Black feminism and abolition, and the long disputes over nationalism versus coalition and over reparations. The central question is whether a world without racial domination is possible without ending capitalism, and the traditions here answer it differently on purpose.
+The Black radical tradition is not one program but an argument that has run for two centuries. This lens gathers its poles: self-emancipation and anticolonial revolution, Black feminism and [[glossary#abolition|abolition]], and the long disputes over nationalism versus coalition and over reparations. The central question is whether a world without racial domination is possible without ending capitalism, and the traditions here answer it differently on purpose.
 
 ## Anchor questions
 

@@ -180,7 +180,7 @@ _How do we understand and analyze this? What concepts and frameworks help us see
 
 See [[02-pedagogy#Theoretical|the pedagogy document]] for what this lens does across all themes.
 
-Anarchism is not the absence of order. It is a theory of order without rulers: coordination through free association, federation, and mutual aid rather than command. The core concepts this lens builds are mutual aid (cooperation as a real force in nature and society), prefiguration (the means must match the ends), and the claim that people can and already do govern themselves. Kropotkin gives it a scientific grounding, Goldman and Malatesta a philosophy of liberty, and Graeber and Ward the evidence from everyday life and anthropology.
+Anarchism is not the absence of order. It is a theory of order without rulers: coordination through free association, federation, and [[glossary#mutual-aid|mutual aid]] rather than command. The core concepts this lens builds are mutual aid (cooperation as a real force in nature and society), [[glossary#prefiguration|prefiguration]] (the means must match the ends), and the claim that people can and already do govern themselves. Kropotkin gives it a scientific grounding, Goldman and Malatesta a philosophy of liberty, and Graeber and Ward the evidence from everyday life and anthropology.
 
 ## Anchor questions
 

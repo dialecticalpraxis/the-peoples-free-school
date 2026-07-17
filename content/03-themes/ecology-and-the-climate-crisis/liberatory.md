@@ -207,7 +207,7 @@ There is broad agreement on the left that capitalism cannot solve the crisis it 
 ## Anchor questions
 
 - What would an ecological society actually look like, day to day?
-- Growth, degrowth, or a different kind of development: which points toward a livable future?
+- Growth, [[glossary#degrowth|degrowth]], or a different kind of development: which points toward a livable future?
 - What does "Land Back" mean, and what would it change?
 - Can the state deliver an ecological transition, or must it come from below?
 - What do Indigenous, ecosocialist, degrowth, and solarpunk visions share, and where do they clash?

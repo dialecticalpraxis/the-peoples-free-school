@@ -21,6 +21,7 @@ The school is maintained in the open. The site and the whole library live in a [
 - [[02-session-templates/index|Session templates]]: Plug-and-play structures for single sessions, multi-week study circles, and weekend intensives
 - [[04-resources/index|Resources]]: Indexes of readings, podcasts, films, and primary sources, organized by author and format
 - [[school-index|Index]]: A back-of-book index of the people, topics, and organizations across the school, pointing to where each appears
+- [[glossary|Glossary]]: Working definitions of the terms the school uses in a particular way, or that it uses knowing they are fought over
 - [[05-examples/index|Examples]]: Case studies from groups that have used the model
 
 ## License
