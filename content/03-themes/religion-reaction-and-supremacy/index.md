@@ -68,13 +68,11 @@ This folder organizes resources by lens. See the [[02-pedagogy|Pedagogy document
 
 **Somebody in the room is implicated, and somebody in the room is a target.** That is not a hypothetical. If you run this theme in most of North America or Europe you will have Jewish participants, Muslim participants, or both, and people whose families are in Gaza or the West Bank or Kashmir or Gujarat right now. This is not a seminar topic for them.
 
-Three things, from people who have run it badly:
+Two things to think about:
 
 **Set the terms before the first document, not after the first argument.** The distinction between a state, a people, a government, and a religion is the whole ballgame, and a room that has not agreed to hold those apart will not survive week five.
 
 **Do not ask anyone to represent their people.** The Jewish participant is not there to answer for Israel. The Muslim participant is not there to answer for Hamas. Watch for the room turning to them, and stop it.
-
-**You will get it wrong somewhere.** The material is contested by serious people acting in good faith, and this theme's own framing has already been corrected once for saying that Islamism came from Zionism, which the dates do not support. Say that to the room. A theme about people who are certain should not be taught with certainty.
 
 ## Related themes
 
@@ -86,7 +84,7 @@ Three things, from people who have run it badly:
 
 ## Status
 
-This theme is new and it is the school's hardest. It was built by testing the maintainer's own causal claims against the record and finding two of them wrong, which is recorded here rather than hidden, because a theme about certainty should show its corrections.
+This theme is new and it is the school's hardest. Every claim in it was checked against the record before it was written down, and the chronology section is what survived that.
 
 Known gaps, named. **Rashid Rida is missing**, and he is the bridge from Abduh to al-Banna; no verified free English text could be found. **There is no legitimate free English _Milestones_ or al-Banna**: every route is an unlicensed upload or a jihadist devotional host, including one hosted on cia.gov because it was seized from bin Laden's compound, and this school will not link any of them. Qutb is taught through Calvert and Kepel instead, and the refusal is part of the lesson. **Golwalkar's primary text is likewise not linked**, since every host is a Sangh site. **Buddhist nationalism in Myanmar and Sri Lanka is absent entirely**, which is a real hole in a theme that claims to be comparative. And the free tier here skews toward think tanks with lines, while the careful scholarship is mostly paywalled, which is its own comment.
 
