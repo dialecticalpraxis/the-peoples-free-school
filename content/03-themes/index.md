@@ -12,6 +12,7 @@ The thematic resource library. No theme has to be studied first, though some bui
 - [[03-themes/gender-reproduction-and-the-household/index|Gender, Reproduction, and the Household]]
 - [[03-themes/health-capitalism-and-whose-bodies-count/index|Health, Capitalism, and Whose Bodies Count]]
 - [[03-themes/imperialism-and-the-global-system/index|Imperialism and the Global System]]
+- [[03-themes/religion-reaction-and-supremacy/index|Religion, Reaction, and Supremacy]]
 - [[03-themes/the-state-strategy-and-power/index|The State, Strategy, and Power]]
 - [[03-themes/anarchism-mutual-aid-and-prefiguration/index|Anarchism, Mutual Aid, and Prefiguration]]
 - [[03-themes/ecology-and-the-climate-crisis/index|Ecology and the Climate Crisis]]
