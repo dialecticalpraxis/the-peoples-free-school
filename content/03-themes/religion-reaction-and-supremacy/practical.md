@@ -149,6 +149,87 @@ resources:
     access: free
     url: "https://www.jadaliyya.com/Details/45011"
     note: "Essa laying out the book's argument himself, free. The route in if the book is out of reach."
+  - title: "The Constitution of the Democratic Socialist Republic of Sri Lanka"
+    authors: ["Parliament of Sri Lanka"]
+    year: 2023
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.parliament.lk/files/pdf/constitution.pdf"
+    note: "Read Chapter II. It is titled Buddhism, and Article 9 requires the state to give Buddhism the foremost place and to protect and foster the Buddha Sasana, while assuring other religions their rights. The border written into supreme law, with its own chapter heading. Official parliament host; Article 9 is on PDF page 27."
+  - title: "Bodu Bala Sena official channel"
+    authors: ["Bodu Bala Sena"]
+    format: video
+    kind: archive
+    access: free
+    url: "https://www.youtube.com/@bodubalasenaofficial/videos"
+    note: "The movement in its own voice, and the only place it still speaks: their website is a parked domain and no manifesto exists in text anywhere. Twelve videos from 2012 and 2013, the founding period. Their most-watched, at about 91,000 views, is the press conference launching the halal boycott, which was their opening move against Muslims. Committed, and the standpoint is the point."
+  - title: "Sri Lanka: From Burning Houses to Burning Bodies"
+    authors: ["Amnesty International"]
+    year: 2021
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.amnesty.org/en/wp-content/uploads/2021/10/ASA3748632021ENGLISH.pdf"
+    note: "Aluthgama to Digana to the Easter aftermath to the COVID policy of forcibly cremating Muslim dead against Islamic rites. That last one is this theme at its most literal: the state reaching past the living body to the corpse to enforce a border made of religion."
+  - title: "Report of the Independent International Fact-Finding Mission on Myanmar: Detailed Findings"
+    authors: ["United Nations Human Rights Council"]
+    year: 2018
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_CRP.2.pdf"
+    note: "The evidentiary spine, 441 pages: testimony, genocidal intent, the Tatmadaw command structure, and the role of Buddhist nationalist organizations. The 21 page summary report is the famous one, but this is the document. The host blocks automated fetchers and is live in a browser."
+  - title: "Buddhism and State Power in Myanmar"
+    authors: ["International Crisis Group"]
+    year: 2017
+    format: reading
+    kind: document
+    access: free
+    url: "https://www.crisisgroup.org/asia-pacific/myanmar-south-east-asia/290-buddhism-and-state-power-myanmar"
+    note: "The best free treatment of Ma Ba Tha and 969, and it argues against simplistic one-dimensional readings of them, which makes it a check on this theme rather than a supplement to it. The state and the sangha legitimize each other, so this is not politics wearing a robe. The host blocks automated fetchers and is live in a browser."
+  - title: "The Dark Side of Transition: Violence Against Muslims in Myanmar"
+    authors: ["International Crisis Group"]
+    year: 2013
+    format: reading
+    kind: document
+    access: free
+    url: "https://www.crisisgroup.org/rpt/asia-pacific/myanmar/251-dark-side-transition-violence-against-muslims-myanmar"
+    note: "The theme in miniature: anti-Muslim violence intensified as Myanmar democratized. Liberalization did not dissolve the border, it handed it a megaphone. The host blocks automated fetchers and is live in a browser."
+  - title: "Myanmar's 1982 Citizenship Law and Rohingya"
+    authors: ["Burmese Rohingya Organisation UK"]
+    year: 2014
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://burmacampaign.org.uk/media/Myanmar%E2%80%99s-1982-Citizenship-Law-and-Rohingya.pdf"
+    note: "A Rohingya-run organization reading the law that erased them, clause by clause, in three pages. Assign it directly after the law itself. Partisan by design, and that is the value."
+  - title: "Myanmar: The Hidden Genocide"
+    authors: ["Al Jazeera Investigations"]
+    year: 2013
+    format: film
+    kind: documentary
+    access: free
+    length: "50 min"
+    url: "https://www.youtube.com/watch?v=dSkZlgk76-E"
+    note: "About 703,000 views, on the broadcaster's own channel. Made in 2013 and already using the word genocide, four years before the clearances the world finally noticed. Qatari state funded; label it. Pair with Zarni's 2014 article: two sources saying genocide while Myanmar was being called a democratic success story."
+  - title: "Sri Lanka's Extremist Monks: When Buddhism Spreads Hate"
+    authors: ["CNA Insider"]
+    year: 2022
+    format: film
+    kind: documentary
+    access: free
+    length: "48 min"
+    url: "https://www.youtube.com/watch?v=wBf1tN8HhE8"
+    note: "About 155,000 views, uploaded by the broadcaster itself. The only substantial, current, legitimately free documentary specifically on Sinhala Buddhist nationalism that could be verified. Mainstream Asian broadcast journalism, part of a series on religious extremism."
+  - title: "The Slow-Burning Genocide of Myanmar's Rohingya"
+    authors: ["Maung Zarni", "Alice Cowley"]
+    year: 2014
+    format: reading
+    kind: article
+    access: free
+    url: "https://digitalcommons.law.uw.edu/wilj/vol23/iss3/8/"
+    note: "Written in 2014, three years before the clearances, arguing the genocide had been underway since 1978, and dismissed at the time as overstatement. The 2018 UN Mission vindicated it. Zarni is a Burman Buddhist naming his own state and his own majority, which is the standpoint that matters most here. Free from the law school's own open-access repository."
 ---
 
 _What does this look like on the ground, and what are people doing about it now?_
@@ -203,12 +284,29 @@ Read all three. They disagree, they were all written by people who take antisemi
 - **Dhirendra K. Jha**, _The RSS, Golwalkar, and the Nazi Links_ (Caravan, 2021). Golwalkar's 1939 praise of what Germany did to the Jews, and the RSS's long campaign to disown the book it used to sell. Partially paywalled: [caravanmagazine.in](https://caravanmagazine.in/history/rss-golwalkar-links-nazism)
 - **Azad Essa**, _Hostile Homelands_ (2023). India and Israel: arms, surveillance, and ideological kinship. Paywalled: [plutobooks.com](https://www.plutobooks.com/product/hostile-homelands/); his free interview carries it: [jadaliyya.com](https://www.jadaliyya.com/Details/45011)
 
+### Sri Lanka: the border in constitutional law
+
+- **The Constitution of Sri Lanka**, Chapter II. **If this theme reads one document, read this one.** Not an excerpt, not a commentary: **the chapter is titled "Buddhism,"** and Article 9 obliges the republic to give Buddhism "the foremost place" and to "protect and foster the Buddha Sasana," while assuring other religions their rights. Every other case in this theme has to argue that a religion is functioning as a border. Sri Lanka prints it, numbers it, and gives it a chapter heading. Free, official host, Article 9 on page 27: [parliament.lk](https://www.parliament.lk/files/pdf/constitution.pdf)
+- **Bodu Bala Sena's own channel.** The movement speaking for itself, and now the only place it does: **their website is a parked domain, and no BBS manifesto exists in text anywhere.** Twelve videos, all from 2012 and 2013. The most-watched, around 91,000 views, is the press conference launching the **halal boycott**, which was the opening move, aimed not at theology but at a certification label on food. Note where three of the twelve are staged: inside the state's **Department of Archaeology**. Free: [youtube.com](https://www.youtube.com/@bodubalasenaofficial/videos)
+- **Amnesty International**, _From Burning Houses to Burning Bodies_ (2021). Aluthgama, Digana, the Easter aftermath, and then the COVID-era policy of **forcibly cremating Muslim dead** against Islamic rites. The last is this theme at its most literal: a state reaching past the living body to the corpse to enforce a border made of religion. Free, 80 pages: [amnesty.org](https://www.amnesty.org/en/wp-content/uploads/2021/10/ASA3748632021ENGLISH.pdf)
+- **CNA**, _Sri Lanka's Extremist Monks_ (2022, 48 min). About 155,000 views, on the broadcaster's own channel. The only substantial current free documentary on this that could be verified. Free: [youtube.com](https://www.youtube.com/watch?v=wBf1tN8HhE8)
+
+### Myanmar: the law, the genocide, and the man who said so first
+
+- **The 1982 Citizenship Law** and **BROUK's reading of it**. The statute is in [[03-themes/religion-reaction-and-supremacy/historical|the historical lens]] because it is the historical root; read it here with the Rohingya organization's own three-page clause-by-clause answer to it. Free: [burmacampaign.org.uk](https://burmacampaign.org.uk/media/Myanmar%E2%80%99s-1982-Citizenship-Law-and-Rohingya.pdf)
+- **Maung Zarni and Alice Cowley**, _The Slow-Burning Genocide of Myanmar's Rohingya_ (2014). **Assign this before the UN report, not after.** Written three years before the clearances, arguing the genocide had been running since 1978, and dismissed then as overstatement. The 2018 UN Mission vindicated it. **Zarni is a Burman Buddhist naming his own state and his own majority**, which is the hardest place to stand and the reason this is here. Free, from the law school's own repository: [digitalcommons.law.uw.edu](https://digitalcommons.law.uw.edu/wilj/vol23/iss3/8/)
+- **Al Jazeera**, _Myanmar: The Hidden Genocide_ (2013, 50 min). About 703,000 views. Broadcast in 2013 and already saying genocide, while Myanmar was being written up as a democratic success story. Qatari state funded, which is a standpoint, not a disqualification. Free: [youtube.com](https://www.youtube.com/watch?v=dSkZlgk76-E)
+- **International Crisis Group**, _The Dark Side of Transition_ (2013) and _Buddhism and State Power in Myanmar_ (2017). The first documents the thing that should stop any easy story: **the anti-Muslim violence intensified as the country democratized.** The second is the best free treatment of Ma Ba Tha and 969, and it argues explicitly against one-dimensional readings of them, so it works as a brake on this theme rather than fuel for it. Both free; both hosts block automated fetchers and are live in a browser: [crisisgroup.org](https://www.crisisgroup.org/rpt/asia-pacific/myanmar/251-dark-side-transition-violence-against-muslims-myanmar), [crisisgroup.org](https://www.crisisgroup.org/asia-pacific/myanmar-south-east-asia/290-buddhism-and-state-power-myanmar)
+- **UN Independent International Fact-Finding Mission on Myanmar**, _Detailed Findings_ (2018). 441 pages of testimony, intent, and command structure. The summary is the famous document; this is the evidence. Free: [ohchr.org](https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_CRP.2.pdf)
+
 ## A note on method
 
 **Read the documents rather than the coverage.** Almost every fight in this theme is conducted in summaries of things people have not read. The Hamas charters are four pages and a click away. So is Kairos Palestine. So are all three definitions of antisemitism. A room that reads the actual texts will disagree better than a room that arrives with positions about them.
 
 **Hold the sentences where the evidence holds them.** This lens contains two claims that are true in a narrow form and false in the popular one: Israel *tolerated and encouraged* Gaza's Islamists, and did not create Hamas; the US *armed the mujahideen*, and did not create al-Qaeda. The weaker sentences are the true ones and they are damning enough. A school that overclaims here hands its critics the argument for free.
 
+**Democratization is not the cure, and Myanmar is the proof.** Crisis Group documented the anti-Muslim violence getting worse as the country opened up. A room that assumes these movements are what happens when people lack democracy will have to explain why the border hardened exactly when the megaphone was handed out.
+
 ## Status
 
-First pass, and it may be a while before there is a second. Named gaps: **nothing here is from inside CUFI's membership**, only its institutional voice, so the theme has the organization but not the believers. **There is no Israeli civil society material**, which is a hole given how much of the criticism comes from there. **Nothing on Buddhist nationalism.** And the free tier here leans on two state-funded broadcasters and two advocacy hosts while the scholarship sits behind paywalls, which is worth telling a room before they read.
+First pass, and it may be a while before there is a second. Named gaps: **nothing here is from inside CUFI's membership**, only its institutional voice, so the theme has the organization but not the believers. **There is no Israeli civil society material**, which is a hole given how much of the criticism comes from there. **Ashin Wirathu is not here in his own words**: no full translated sermon and no 969 literature exists on any legitimate non-devotional host, only on the movement's own channels and on anti-Muslim aggregators, and this school links none of them. He is carried through Crisis Group and through Barbet Schroeder's film _The Venerable W._ instead, which is free with a library card via Kanopy, and the refusal is part of the lesson. **BBS has no manifesto in text at all**, so their doctrine is only available as video. And the free tier here leans on two state-funded broadcasters and two advocacy hosts while the scholarship sits behind paywalls, which is worth telling a room before they read.

@@ -101,6 +101,22 @@ resources:
     access: free
     url: "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.857350/full"
     note: "A hundred days of Muslim women holding a Delhi road against a citizenship law that made religion a condition of belonging, and doing it by reading the constitution aloud. What refusal looked like when it worked, and it is worth asking what happened next."
+  - title: "The Slow-Burning Genocide of Myanmar's Rohingya"
+    authors: ["Maung Zarni", "Alice Cowley"]
+    year: 2014
+    format: reading
+    kind: article
+    access: free
+    url: "https://digitalcommons.law.uw.edu/wilj/vol23/iss3/8/"
+    note: "Zarni is a Burman Buddhist who named his own majority's genocide in 2014, three years before the clearances, and was dismissed as overstating it until the UN said the same thing in 2018. The refusal that costs the most is the one aimed at your own people while they are still being praised. Free from the law school's own open-access repository."
+  - title: "The Broken Palmyra"
+    authors: ["Rajan Hoole", "Daya Somasundaram", "K. Sritharan", "Rajani Thiranagama"]
+    year: 1990
+    format: reading
+    kind: book
+    access: free
+    url: "https://web.archive.org/web/20240403005139/https://www.uthr.org/BP/Content.htm"
+    note: "Jaffna Tamil academics who documented the Sri Lankan state's atrocities and the LTTE's with the same hand, and published it free themselves. Rajani Thiranagama was assassinated by the LTTE in 1989 for co-writing it. Refusal from inside the targeted community, at the highest cost there is. Wayback link; the live UTHR domain is gone."
 ---
 
 _What would it mean to overcome or transform this? What have movements imagined, attempted, and built?_
@@ -151,6 +167,15 @@ Everything here is Jews arguing with Jews. That is the point, and if this lens i
 - **Anand Teltumbde**, _The Victimhood of Dalits_ (2020). And then the argument against Ambedkar's inheritors, from the Dalit left: identity-based victimhood can quietly replace analysis, and caste is material before it is religious. Teltumbde was imprisoned under India's anti-terror law while this was being written. Free: [india-seminar.com](https://www.india-seminar.com/2020/727/727_anand_teltumbde.htm)
 - **Ratna Kapoor**, _Shaheen Bagh_ (2022). What refusal looked like when it worked: Muslim women holding a Delhi road for a hundred days, reading the constitution aloud, against a law making religion a test of citizenship. Then ask what happened afterward, because the answer matters. Free: [frontiersin.org](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.857350/full)
 
+### Buddhism, and the refusal that is mostly missing
+
+Read the honest version of this section before the sources: **it is the thinnest in the lens, and the reason is worth more than the material.**
+
+- **Maung Zarni and Alice Cowley**, _The Slow-Burning Genocide of Myanmar's Rohingya_ (2014). **A Burman Buddhist calling his own majority genocidal, in print, three years before the clearances**, when Myanmar was still being written up as a democratic success story and Aung San Suu Kyi was still a saint. He was told he was overstating it. In 2018 the UN said what he had said. This is the hardest place to stand in this whole theme: not refusing a movement that is already condemned, but refusing one while everyone around you is applauding. Free: [digitalcommons.law.uw.edu](https://digitalcommons.law.uw.edu/wilj/vol23/iss3/8/)
+- **The Broken Palmyra** (Hoole, Somasundaram, Sritharan, Thiranagama, 1990). Not Buddhist, and that is why it is here. Jaffna Tamil academics refused **both** nationalisms, documenting the state's atrocities and the LTTE's with the same unflinching hand, and gave the book away. **Rajani Thiranagama was murdered by the LTTE in 1989 for co-writing it.** Ambedkar's standard, met by people the border was drawn against, who then refused their own side's version of it. Free, via Wayback: [web.archive.org](https://web.archive.org/web/20240403005139/https://www.uthr.org/BP/Content.htm)
+
+**And now the gap, which is the actual finding.** This school went looking for Buddhist monastic refusal of Buddhist nationalism, from inside the sangha, in free English, and **did not find it.** The monks who sheltered Muslims during the riots in Meiktila and Aluthgama exist and are named in passing in reporting; their own accounts are not published anywhere a study circle can reach. **Every other tradition in this theme has an organized, self-published refusal**: Jewish Voice for Peace and IfNotNow have websites, Kairos Palestine has a document, Ambedkar has a canon, and Abou El Fadl has a publisher. **The Buddhist refusal has no equivalent in free English, and the two strongest voices here are a layman and a group of Tamils.** Do not paper over that with an interfaith press release. Ask the room why the tradition Western readers consider the most peaceful is the one whose internal dissent is the hardest to read.
+
 ## Debates and disagreements
 
 The school holds these open.
@@ -162,4 +187,4 @@ The school holds these open.
 
 ## Status
 
-First pass, and it may be a while before there is a second. Named gaps, and they are serious. **There is no refusal from inside American Christian nationalism here at all**: no ex-evangelical voice, nothing from the churches that split over this, nothing from the Southern Baptists who left. That is the largest hole in the theme, since it is the formation closest to most of this school's readers. **There is no ex-Islamist voice**, and the genre is dominated by people who converted into careers as professional witnesses, which is why nothing here was proposed rather than something bad being included. **Nothing from Israeli refuseniks or Israeli civil society.** And **nothing on Buddhist nationalism**, so the comparative claim still rests on four cases rather than five. Contributions welcome, and these most of all.
+First pass, and it may be a while before there is a second. Named gaps, and they are serious. **There is no refusal from inside American Christian nationalism here at all**: no ex-evangelical voice, nothing from the churches that split over this, nothing from the Southern Baptists who left. That is the largest hole in the theme, since it is the formation closest to most of this school's readers. **There is no ex-Islamist voice**, and the genre is dominated by people who converted into careers as professional witnesses, which is why nothing here was proposed rather than something bad being included. **Nothing from Israeli refuseniks or Israeli civil society.** And **the Buddhist refusal is barely here**, which is documented above rather than hidden: no monastic voice, nothing from the monks who sheltered Muslims during the riots, and no Buddhist equivalent of JVP or Kairos Palestine that publishes itself in English. Sulak Sivaraksa and the engaged-Buddhist network were searched for and not verified in time, and are the most likely thing to fill this. Contributions welcome, and these most of all.

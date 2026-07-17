@@ -71,6 +71,45 @@ resources:
     length: "118 min"
     url: "https://www.youtube.com/watch?v=aDLvYIZY6Ao"
     note: "About 14,000 views, a niche pick kept because it is a Dalit scholar reading Ambedkar as someone the text is about rather than as a historian of it. Long; take a section."
+  - title: "Where Have All the Neighbours Gone? Aluthgama Riots and its Aftermath"
+    authors: ["Farzana Haniffa", "Harini Amarasuriya", "Vishakha Wijenayake", "Gehan Gunatilleke"]
+    year: 2014
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://lst.lk/wp-content/uploads/2025/04/Where-Have-All-the-Neighbours-Gone-english.pdf"
+    note: "A fact-finding mission to the burnt streets of Aluthgama days after the June 2014 anti-Muslim violence, by Sri Lankan Muslim and Sinhalese scholars together. Its central finding is social rather than legal: neighbours who had lived beside each other for generations could no longer make eye contact. Free by the publisher's own explicit grant."
+  - title: "First They Targeted Our Culture and Language"
+    authors: ["Rohingya Language Preservation Project", "Mayyu Ali"]
+    year: 2022
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://static1.squarespace.com/static/60bf6286f8727b345cf75b1b/t/6371eec6f9e44173e6fb96b7/1668415615840/First-They-Targeted-Our-Culture-and-Language-RLPP-Report.pdf"
+    note: "Rohingya researchers in the Cox's Bazar camps documenting the destruction of their own language, and publishing it themselves. A report about language rather than atrocity, which is the sharpest possible counterpoint in a theme about religion as a border: the border was never really theological."
+  - title: "Rohingyatographer"
+    authors: ["Sahat Zia Hero"]
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://www.rohingyatographer.org/"
+    note: "A collective of more than forty Rohingya photographers documenting their own lives in the camps, licensed CC BY-NC-ND. They deliberately refuse the victim frame and shoot memory, faith, craftsmanship, beauty, and grief. The printed magazines are purchase-only; the galleries are free."
+  - title: "Digana: One year on"
+    authors: ["Amalini De Sayrah", "Groundviews"]
+    year: 2019
+    format: primary-source
+    kind: article
+    access: free
+    url: "https://groundviews.org/2019/03/05/digana-one-year-on/"
+    note: "One Sri Lankan Muslim man, his grocery store, and the mosque with a two hundred year history next door, a year after the March 2018 mob. Sri Lankan citizen journalism. Read with the 2018 report of the same events to get the arc rather than the incident."
+  - title: "STF brutality against Muslims in Digana"
+    authors: ["Ruki Fernando", "Groundviews"]
+    year: 2018
+    format: primary-source
+    kind: article
+    access: free
+    url: "https://groundviews.org/2018/03/13/stf-brutality-against-muslims-in-digana-march-5/"
+    note: "Testimony from at least ten survivors that the state's own Special Task Force surrounded and beat worshippers at a mosque after afternoon prayers. Survivors were too frightened to be photographed or to seek hospital treatment. By a Sri Lankan human rights defender."
 ---
 
 _Lived experience as a source of knowledge. What has the room been through? What do participants already know from the inside?_
@@ -93,6 +132,7 @@ Sample prompts. Adapt hard, and see the [[04-facilitator-guide|facilitator guide
 - Have you ever been the person somebody else was warned about?
 - Has anyone ever asked you to answer for something done in your name, by people you have never met?
 - If you left a faith, what did it cost? If you stayed, what have you had to hold?
+- Have you ever stopped being able to look a neighbour in the eye? What had to happen first?
 
 ## Materials that may help
 
@@ -116,6 +156,13 @@ Free unless marked otherwise. Everything in this lens is people speaking for the
 - **Ratna Kapoor**, _Shaheen Bagh_ (2022). Muslim women in Delhi, many of them grandmothers who had never protested in their lives, occupying a road for a hundred days against a law that made religion a condition of citizenship. Free, open access: [frontiersin.org](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.857350/full)
 - **Suraj Yengde on _Annihilation of Caste_** (118 min). About 14,000 views, niche. A Dalit scholar reading Ambedkar as a man the text is about, not as a historian of it. Take a section. Free: [youtube.com](https://www.youtube.com/watch?v=aDLvYIZY6Ao)
 
+### When the neighbours stop looking at you
+
+- **Where Have All the Neighbours Gone?** (Law & Society Trust, 2014). **The best testimony document in this theme.** Sri Lankan Muslim and Sinhalese researchers walked into Aluthgama days after the June 2014 violence and wrote down what people said. The finding that matters is not the arson count. It is that people who had lived side by side for generations could no longer meet each other's eyes. **That is a border being installed between people who already knew each other**, which is what this theme is actually about and what statistics cannot show you. Free, 84 pages, by the publisher's own grant: [lst.lk](https://lst.lk/wp-content/uploads/2025/04/Where-Have-All-the-Neighbours-Gone-english.pdf)
+- **Groundviews on Digana**, 2018 and 2019. First the [state's own Special Task Force beating worshippers at a mosque](https://groundviews.org/2018/03/13/stf-brutality-against-muslims-in-digana-march-5/), from ten survivors who were too frightened to be photographed. Then, [one year on](https://groundviews.org/2019/03/05/digana-one-year-on/), one man, his shop, and the mosque next door with two hundred years behind it. Read in that order. Free, Sri Lankan citizen journalism.
+- **First They Targeted Our Culture and Language** (Rohingya Language Preservation Project, 2022). **End here rather than on any UN report.** Rohingya researchers in the camps, studying the destruction of their own language and publishing it themselves. Its subject is not massacre; it is grammar. A theme about religion as a border should have to explain why the thing erased was a language. Free, 54 pages: [squarespace.com](https://static1.squarespace.com/static/60bf6286f8727b345cf75b1b/t/6371eec6f9e44173e6fb96b7/1668415615840/First-They-Targeted-Our-Culture-and-Language-RLPP-Report.pdf)
+- **Rohingyatographer**. Forty Rohingya photographers shooting their own camps, and deliberately refusing the wire-service gaze: memory, faith, craftsmanship, beauty, grief. **Not atrocity.** Free to view, CC licensed: [rohingyatographer.org](https://www.rohingyatographer.org/)
+
 ## A note on method
 
 **Formation first, conflict second, and probably in a later session.** A room that starts by asking what people were taught about who was outside is doing this theme's work. A room that starts on Gaza is having a different meeting, and it will not get back.
@@ -126,4 +173,4 @@ Free unless marked otherwise. Everything in this lens is people speaking for the
 
 ## Status
 
-First pass, and it may be a while before there is a second. It is the theme's thinnest, for a reason worth naming rather than fixing quietly. **The Palestinian testimony here is deep and the Israeli testimony is not.** Zochrot carries Jewish fighters' accounts of 1948, and beyond that there is nothing here from Israelis about their own formation, nothing from the second generation of Holocaust survivors, nothing from Mizrahi Jews expelled from Arab countries, whose experience fits neither story this theme tells. That is a serious gap and it is the one most likely to make a Jewish participant feel this theme was built about them rather than with them. **There is also no first-person account from inside American Christian nationalism** except through Zinshtein's camera, and no ex-Islamist voice at all. Contributions welcome, and these ones especially.
+First pass, and it may be a while before there is a second. It is the theme's thinnest, for a reason worth naming rather than fixing quietly. **The Palestinian testimony here is deep and the Israeli testimony is not.** Zochrot carries Jewish fighters' accounts of 1948, and beyond that there is nothing here from Israelis about their own formation, nothing from the second generation of Holocaust survivors, nothing from Mizrahi Jews expelled from Arab countries, whose experience fits neither story this theme tells. That is a serious gap and it is the one most likely to make a Jewish participant feel this theme was built about them rather than with them. **There is also no first-person account from inside American Christian nationalism** except through Zinshtein's camera, and no ex-Islamist voice at all. **On the Buddhist side the Sri Lankan Muslim testimony is strong and the Sinhalese testimony is absent**, the same shape as the Palestinian and Israeli imbalance above and for the same avoidable reason. **There is no Rohingya first-person video testimony here from a stable free host**: the USC Shoah Foundation holds full-length Rohingya testimony but most of it requires being physically inside a subscribing institution, which is a real barrier for a free school. Contributions welcome, and these ones especially.

@@ -8,7 +8,7 @@ Online explainers, recorded lectures, courses, and video essays used across the 
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_137 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
+_138 videos and lectures — online explainers, lectures, and video essays (distinct from films you would screen). Generated from theme lens frontmatter._
 
 | Title | Creator | Year | Length | Type | Access | Used in |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -110,6 +110,7 @@ _137 videos and lectures — online explainers, lectures, and video essays (dist
 | [Who Cares? The Gendered Burden of Unpaid Care Work](https://www.youtube.com/watch?v=0zcC9M4QKlU) | Aina Salleh, TEDx | 2021 | 11 min | lecture | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Thomas Sankara speaks (with English subtitles)](https://www.youtube.com/watch?v=LVKgvakY_Io) | Thomas Sankara | — | 12 min | speech | Free | [[socialism-and-national-liberation/experiential\|Socialism and National Liberation: the Global South · Experiential]] |
 | [Thomas Sankara's 'Against Debt' Speech, 1987](https://www.youtube.com/watch?v=9VZEkURD9oI) | Thomas Sankara | 1987 | 6 min | speech | Free | [[imperialism-and-the-global-system/liberatory\|Imperialism and the Global System · Liberatory]] |
+| [Bodu Bala Sena official channel](https://www.youtube.com/@bodubalasenaofficial/videos) | Bodu Bala Sena | — | — | archive | Free | [[religion-reaction-and-supremacy/practical\|Religion, Reaction, and Supremacy · Practical]] |
 | [The women who demanded wages for housework](https://www.youtube.com/watch?v=devUpxx3EAA) | BBC World Service, Witness History | 2024 | 4 min | explainer | Free | [[gender-reproduction-and-the-household/historical\|Gender, Reproduction, and the Household · Historical]] |
 | [Marx's Theory of Capitalism (Open Yale PLSC 118, Lecture 10)](https://www.youtube.com/watch?v=rS3-_s-ghbk) | Ian Shapiro | 2011 | 51 min | lecture | Free | [[how-capitalism-works/theoretical\|How Capitalism Works · Theoretical]] |
 | [Chris Smalls: The Man Who Took On Amazon and Won](https://www.youtube.com/watch?v=BduzkjBdw_o) | The Daily Show | 2022 | 10 min | interview | Free | [[labor-work-and-organizing/experiential\|Labor, Work, and Organizing · Experiential]] |

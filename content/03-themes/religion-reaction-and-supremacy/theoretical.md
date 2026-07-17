@@ -160,6 +160,93 @@ resources:
     access: free
     url: "https://www.india-seminar.com/2020/727/727_anand_teltumbde.htm"
     note: "The Dalit left against this theme's own framing: caste came from material conditions, not from religious ideology, and Hindutva's targeting is fascist strategy rather than doctrine. If religion as supremacy sounds too neat, this is why. Teltumbde was jailed under India's anti-terror law while this school was being built."
+  - title: "Sinhalese Buddhist Nationalist Ideology: Implications for Politics and Conflict Resolution in Sri Lanka"
+    authors: ["Neil DeVotta"]
+    year: 2007
+    format: reading
+    kind: book
+    access: free
+    url: "https://www.eastwestcenter.org/sites/default/files/private/ps040.pdf"
+    note: "A full 104 page monograph, free from the publisher's own server, by the leading political scientist of Sinhala Buddhist nationalism. It breaks the ideology into operational claims and shows each one working as state policy rather than private belief, which is this theme's argument stated by someone who was not trying to make it. The single best free scholarly text in this theme."
+  - title: "Buddhism Betrayed? Religion, Politics, and Violence in Sri Lanka"
+    authors: ["Stanley Jeyaraja Tambiah"]
+    year: 1992
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://press.uchicago.edu/ucp/books/book/chicago/B/bo3618620.html"
+    note: "The indispensable book: how a doctrine of non-violence became a licence for violence. Tambiah was a Tamil Sri Lankan anthropologist at Harvard, and the book was burned and banned in Sri Lanka. There is an archive.org scan but it is printdisabled only and not borrowable, so this school links the publisher."
+  - title: "The Work of Kings: The New Buddhism in Sri Lanka"
+    authors: ["H.L. Seneviratne"]
+    year: 1999
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://press.uchicago.edu/ucp/books/book/chicago/W/bo3616339.html"
+    note: "The line from Dharmapala's rationalized Buddhism to the political monkhood, drawn by a Sinhala anthropologist writing against his own community's clergy. No free or borrowable copy exists anywhere."
+  - title: "Buddhism Transformed: Religious Change in Sri Lanka"
+    authors: ["Richard Gombrich", "Gananath Obeyesekere"]
+    year: 1988
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://press.princeton.edu/books/paperback/9780691019017/buddhism-transformed"
+    note: "Where Protestant Buddhism is developed at length: Obeyesekere's term for what Dharmapala built, a Buddhism reshaped by the missionaries it was fighting. The most load-bearing concept for reading the Sri Lankan case, and there is no legitimate free copy."
+  - title: "Buddhist Fundamentalism and Minority Identities in Sri Lanka"
+    authors: ["Tessa J. Bartholomeusz", "Chandra Richard de Silva"]
+    year: 1998
+    format: reading
+    kind: book
+    access: borrow
+    url: "https://archive.org/details/buddhistfundamen0000unse"
+    note: "The volume that put Buddhist fundamentalism into comparative circulation, which is exactly the move this theme makes. Mixed Western and Sri Lankan scholarship. The only book in this case study that is legitimately borrowable, which is its own comment on the field."
+  - title: "Buddhism, Politics and Political Thought in Myanmar"
+    authors: ["Matthew J. Walton"]
+    year: 2016
+    format: reading
+    kind: book
+    access: paywalled
+    url: "https://www.cambridge.org/core/books/buddhism-politics-and-political-thought-in-myanmar/B093B39AD8C9A345C38384C062CCA6F6"
+    note: "The serious objection to this theme, built from Burmese-language sources: Theravada political thought is coherent on its own terms and not an empty vessel for whatever grievance passes through it. Assign it as the strongest argument against the frame, not as a supplement. No free or borrowable copy."
+  - title: "The Chronic and the Entrenched: Ethno-Religious Violence in Sri Lanka"
+    authors: ["Gehan Gunatilleke"]
+    year: 2018
+    format: reading
+    kind: book
+    access: free
+    url: "https://equitas.org/wp-content/uploads/2018/05/The-Chronic-and-the-Entrenched-FINAL-WEB-PDF.pdf"
+    note: "A Sri Lankan scholar-lawyer at the International Centre for Ethnic Studies in Colombo, arguing the anti-Muslim violence is structural and state-enabled rather than episodic. Covers Aluthgama 2014 and Digana 2018. Free, 118 pages, posted by a co-publisher."
+  - title: "The Return of Ma Ba Tha to the Political Scene in Myanmar"
+    authors: ["Nyi Nyi Kyaw"]
+    year: 2019
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.iseas.edu.sg/media/commentaries/the-return-of-ma-ba-tha-to-the-political-scene-in-myanmar-by-nyi-nyi-kyaw/"
+    note: "A Burmese scholar on what happened after Ma Ba Tha was banned in 2017: it rebranded and came back. Free, and the coda the case study needs, because it shows the border outliving the attempt to legislate it away."
+  - title: "Rethinking Muslim Identity in Sri Lanka"
+    authors: ["Dennis B. McGilvray"]
+    year: 2016
+    format: reading
+    kind: article
+    access: free
+    url: "https://www.colorado.edu/faculty/mcgilvray-dennis/sites/default/files/attached-files/mcgilvray_2016_rethinking_muslim_identity_in_sri_lanka.pdf"
+    note: "One chapter of Holt's in-print OUP collection Buddhist Extremists and Muslim Minorities, self-archived by the author on his own university page, which is the legitimate route to it. An anthropologist with a lifetime of fieldwork among Sri Lankan Muslims."
+  - title: "Massacres of Muslims and what it means for the Tamils"
+    authors: ["Rajan Hoole", "University Teachers for Human Rights (Jaffna)"]
+    format: reading
+    kind: article
+    access: free
+    url: "https://web.archive.org/web/20240424090107/https://uthr.org/Rajan/muslims.htm"
+    note: "A Tamil scholar-activist on Tamil complicity in the same border-drawing, starting from the 1948 bills that disenfranchised Hill Country Tamils and the Tamil and Muslim MPs who voted for them. The text that stops this case flattening into good minorities against a bad majority. Wayback link because the live UTHR domain has been lost to squatters and now serves a casino page."
+  - title: "The Broken Palmyra"
+    authors: ["Rajan Hoole", "Daya Somasundaram", "K. Sritharan", "Rajani Thiranagama"]
+    year: 1990
+    format: reading
+    kind: book
+    access: free
+    url: "https://web.archive.org/web/20240403005139/https://www.uthr.org/BP/Content.htm"
+    note: "Jaffna academics documenting the war and both nationalisms that made it, published free by the authors' own organization. Rajani Thiranagama, one of the four, was assassinated by the LTTE in 1989 for writing it. Wayback link because the live domain is gone; this is the full book in HTML."
 ---
 
 _How do we understand and analyze this? What concepts and frameworks help us see what is happening?_
@@ -211,12 +298,35 @@ Free unless marked otherwise. This lens is where the theme's scholarship lives, 
 - **Christophe Jaffrelot** (2024). The leading scholar of Hindutva making this theme's comparison and drawing the line in the right place: **both are ethnic democracies, one de jure and one de facto, and neither derives from the other.** If you read one thing on how to compare without collapsing, read this. Free: [populismstudies.org](https://www.populismstudies.org/professor-jaffrelot-india-under-modi-shares-similar-patterns-with-israel-in-their-ethnic-democracies/)
 - **Anand Teltumbde**, _The Victimhood of Dalits_ (2020). **The objection to this theme, from the Dalit left.** Caste is material before it is religious; Hindutva's targeting is fascist strategy rather than doctrine; and "religion as supremacy" may be a category error that lets the economics off. Teltumbde was imprisoned under India's anti-terror law while this school was being written, which is not an argument for him and is worth knowing. Free: [india-seminar.com](https://www.india-seminar.com/2020/727/727_anand_teltumbde.htm)
 
+### Buddhist nationalism: the case that tests the whole frame
+
+If the mechanism is in the doctrine, this section is impossible. It is not impossible.
+
+- **Neil DeVotta**, _Sinhalese Buddhist Nationalist Ideology_ (2007). **The best free scholarly text in this theme, and it is not close.** A full 104 page monograph, free from the East-West Center's own server, breaking the ideology into its working claims and showing each one operating as state policy rather than as private conviction. DeVotta is not arguing this theme's thesis; he arrives at it anyway. Free: [eastwestcenter.org](https://www.eastwestcenter.org/sites/default/files/private/ps040.pdf)
+- **Gananath Obeyesekere and Richard Gombrich**, _Buddhism Transformed_ (1988). Where **Protestant Buddhism** gets its full statement: the thing Dharmapala built was reshaped by the missionaries he was fighting, in their image. **The most useful single concept for this case**, and there is no legitimate free copy of the book that contains it, which is why DeVotta carries it here instead. Paywalled: [press.princeton.edu](https://press.princeton.edu/books/paperback/9780691019017/buddhism-transformed)
+- **Stanley Tambiah**, _Buddhism Betrayed?_ (1992). How a doctrine of non-violence became a licence for violence, asked in 1992 by a **Tamil** Sri Lankan anthropologist, whose book was then burned and banned in Sri Lanka. He is saying "religion here is not the belief, it is the border" twenty years before this school existed, and from the wrong side of the border. Paywalled: [press.uchicago.edu](https://press.uchicago.edu/ucp/books/book/chicago/B/bo3618620.html)
+- **H.L. Seneviratne**, _The Work of Kings_ (1999). The mechanism by which a nineteenth-century revivalist becomes a twenty-first-century mob, written by a **Sinhala** anthropologist against his own community's clergy. Read beside Tambiah: the Tamil and the Sinhalese scholar reach the same place from opposite ends. Paywalled: [press.uchicago.edu](https://press.uchicago.edu/ucp/books/book/chicago/W/bo3616339.html)
+- **Bartholomeusz and de Silva**, eds., _Buddhist Fundamentalism and Minority Identities in Sri Lanka_ (1998). The book that put "Buddhist fundamentalism" into comparative circulation, which is this theme's move. **The only borrowable book in the case**, and that was checked rather than assumed. Free to borrow: [archive.org](https://archive.org/details/buddhistfundamen0000unse)
+- **Gehan Gunatilleke**, _The Chronic and the Entrenched_ (2018). Aluthgama and Digana, argued by a Sri Lankan scholar-lawyer as structural and state-enabled rather than as riots that happened. Free, 118 pages: [equitas.org](https://equitas.org/wp-content/uploads/2018/05/The-Chronic-and-the-Entrenched-FINAL-WEB-PDF.pdf)
+- **Dennis McGilvray**, _Rethinking Muslim Identity in Sri Lanka_ (2016). One chapter of an in-print OUP collection, **self-archived by the author on his own faculty page**, which is the legitimate way to read it. Free: [colorado.edu](https://www.colorado.edu/faculty/mcgilvray-dennis/sites/default/files/attached-files/mcgilvray_2016_rethinking_muslim_identity_in_sri_lanka.pdf)
+- **Nyi Nyi Kyaw**, _The Return of Ma Ba Tha_ (2019). Banned in 2017, rebranded, back by 2019. A Burmese scholar on why proscription does not work on a border. Free: [iseas.edu.sg](https://www.iseas.edu.sg/media/commentaries/the-return-of-ma-ba-tha-to-the-political-scene-in-myanmar-by-nyi-nyi-kyaw/)
+- **Matthew Walton**, _Buddhism, Politics and Political Thought in Myanmar_ (2016). **This lens's strongest opponent, and it is assigned as such.** Walton reconstructs Theravada political thought from Burmese sources and argues it is coherent on its own terms, not a mask that ethno-nationalism wears. If he is right, this theme has been reading the belief as an empty vessel when it is not. Paywalled: [cambridge.org](https://www.cambridge.org/core/books/buddhism-politics-and-political-thought-in-myanmar/B093B39AD8C9A345C38384C062CCA6F6)
+
+### The complication, from inside the targeted community
+
+- **Rajan Hoole**, _Massacres of Muslims and what it means for the Tamils_ (UTHR(J)). **Assign this the moment the room gets comfortable.** A Tamil author on Tamil complicity: it opens on the 1948 bills that stripped Hill Country Tamils of the vote, and on the Ceylon Tamil and Muslim MPs who voted for them, and calls it the betrayal of a fellow minority. Free, via Wayback: [web.archive.org](https://web.archive.org/web/20240424090107/https://uthr.org/Rajan/muslims.htm)
+- **The Broken Palmyra** (Hoole, Somasundaram, Sritharan, Thiranagama). Jaffna academics who documented the Sri Lankan state's atrocities and the LTTE's with the same unflinching hand, and published it free themselves. **Rajani Thiranagama was murdered by the LTTE in 1989 for co-writing it.** That is the same standard this theme applies to Ambedkar and to Zarni: refusal from inside, at cost, and here the cost was everything. Free, via Wayback: [web.archive.org](https://web.archive.org/web/20240403005139/https://www.uthr.org/BP/Content.htm)
+
+**A warning that is part of the material.** Both links above go to the Internet Archive, because **uthr.org, the most important Tamil-authored human rights corpus on this conflict, has been lost to domain squatters and now serves a casino page.** The scholarship in this theme is behind paywalls and the primary record is rotting off the internet. If a study circle wants something useful to do, mirroring what is left is it.
+
 ## A note on method
 
 **The founding myths are the lesson.** Every movement here tells a story about why it began, and in at least one case the record says otherwise: the religious right did not organize over abortion, it organized over segregated schools and picked abortion later. Once a room has watched one origin story fall over, it will handle the others differently, including the ones it believes.
 
-**Give the objection a fair hearing.** Al-Azm and Teltumbde are in this lens to attack it. Al-Azm says the anti-imperial framing can become its own essentialism. Teltumbde says the religious framing hides the material one. A room that cannot state their case has not understood the theme, it has just agreed with it.
+**Give the objection a fair hearing.** Al-Azm, Teltumbde, and Walton are in this lens to attack it. Al-Azm says the anti-imperial framing can become its own essentialism. Teltumbde says the religious framing hides the material one. Walton says the belief is not an empty vessel and that reading it as one is how outsiders have always read Buddhism. A room that cannot state their case has not understood the theme, it has just agreed with it.
+
+**Use Buddhism as the control.** Almost everyone arrives already knowing what they think about at least one of the other four. Nobody arrives with a prior commitment about Sinhala Buddhist nationalism, which is precisely why it is the case where the argument can actually be tested rather than relitigated. If the mechanism only works on the traditions a room already distrusts, it is not a mechanism.
 
 ## Status
 
-First pass, and it may be a while before there is a second. Its weakness is structural: **the careful scholarship is almost entirely paywalled** while the free tier is essays, surveys, and think tanks with positions, which shapes what a group without library access can actually read. **Rashid Rida is missing**, the bridge from Abduh to al-Banna, and no verified free English text could be found. **There is no Hindutva primary theory here beyond Savarkar in the historical lens**, and Golwalkar is deliberately unlinked because every host is a Sangh site. Contributions welcome, especially free scholarship and Muslim and Hindu voices arguing this from inside.
+First pass, and it may be a while before there is a second. Its weakness is structural: **the careful scholarship is almost entirely paywalled** while the free tier is essays, surveys, and think tanks with positions, which shapes what a group without library access can actually read. **Rashid Rida is missing**, the bridge from Abduh to al-Banna, and no verified free English text could be found. **There is no Hindutva primary theory here beyond Savarkar in the historical lens**, and Golwalkar is deliberately unlinked because every host is a Sangh site. **The Buddhist case is the worst hit by enclosure**: Tambiah, Seneviratne, Obeyesekere, and Walton are all paywalled, exactly one book in it is borrowable, and DeVotta is carrying almost the entire free tier by himself. Contributions welcome, especially free scholarship and Muslim, Hindu, and Buddhist voices arguing this from inside.

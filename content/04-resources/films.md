@@ -8,7 +8,7 @@ Feature-length documentaries and narrative films used across the school's themes
 
 <!-- AUTO-GENERATED: resources — edit lens frontmatter, then run `npm run resources` -->
 
-_70 films and documentaries. Generated from theme lens frontmatter._
+_72 films and documentaries. Generated from theme lens frontmatter._
 
 ### Documentaries
 
@@ -48,11 +48,13 @@ _70 films and documentaries. Generated from theme lens frontmatter._
 | [La Operacion](https://store.cinemaguild.com/nontheatrical/product/1661.html) | Ana Maria Garcia | 1982 | 40 min | Paywalled | [[health-capitalism-and-whose-bodies-count/historical\|Health, Capitalism, and Whose Bodies Count · Historical]] |
 | [Life and Debt](https://www.pbs.org/pov/films/lifeanddebt/) | Stephanie Black | 2001 | 86 min | Paywalled | [[imperialism-and-the-global-system/practical\|Imperialism and the Global System · Practical]] |
 | [Living Utopia (Vivir la Utopía)](https://www.youtube.com/watch?v=gxRXtWvWCuY) | Juan Gamero | 1997 | 95 min | Free | [[anarchism-mutual-aid-and-prefiguration/experiential\|Anarchism, Mutual Aid, and Prefiguration · Experiential]] |
+| [Myanmar: The Hidden Genocide](https://www.youtube.com/watch?v=dSkZlgk76-E) | Al Jazeera Investigations | 2013 | 50 min | Free | [[religion-reaction-and-supremacy/practical\|Religion, Reaction, and Supremacy · Practical]] |
 | [No Gods No Masters: A History of Anarchism](https://archive.org/details/NoGodsNoMasters2) | Tancrède Ramonet | 2016 | 3 parts | Free | [[anarchism-mutual-aid-and-prefiguration/practical\|Anarchism, Mutual Aid, and Prefiguration · Practical]] |
 | [Precious Knowledge](https://www.pbs.org/independentlens/documentaries/precious-knowledge/) | Ari Luis Palos, Eren Isabel McGinnis | 2011 | 70 min | Free to borrow | [[critical-pedagogy-and-the-practice-of-liberation/practical\|Critical Pedagogy and the Practice of Liberation · Practical]] |
 | [Richard Cardinal: Cry from a Diary of a Metis Child](https://www.nfb.ca/film/richard_cardinal/) | Alanis Obomsawin | 1986 | 29 min | Free | [[settler-colonialism-land-and-indigenous-sovereignty/experiential\|Settler Colonialism, Land, and Indigenous Sovereignty · Experiential]] |
 | [Screaming Queens: The Riot at Compton's Cafeteria](https://www.youtube.com/watch?v=G-WASW9dRBU) | Susan Stryker, Victor Silverman | 2005 | 57 min | Free | [[gender-reproduction-and-the-household/experiential\|Gender, Reproduction, and the Household · Experiential]] |
 | [Slavery by Another Name](https://www.pbs.org/show/slavery-another-name/) | Sam Pollard | 2012 | 90 min | Free | [[anti-blackness-and-racial-capitalism/historical\|Anti-Blackness and Racial Capitalism · Historical]] |
+| [Sri Lanka's Extremist Monks: When Buddhism Spreads Hate](https://www.youtube.com/watch?v=wBf1tN8HhE8) | CNA Insider | 2022 | 48 min | Free | [[religion-reaction-and-supremacy/practical\|Religion, Reaction, and Supremacy · Practical]] |
 | [The Act of Killing](https://www.justwatch.com/us/movie/the-act-of-killing) | Joshua Oppenheimer | 2012 | 117 min | Free | [[revolution-in-power/practical\|Revolution in Power: the USSR, China, and the Eastern Bloc · Practical]] |
 | [The Ants and the Grasshopper](https://www.pbs.org/show/ants-grasshopper-series/) | Raj Patel, Zak Piper | 2021 | 74 min | Free | [[ecology-and-the-climate-crisis/experiential\|Ecology and the Climate Crisis · Experiential]] |
 | [The Battle of Chile](https://archive.org/details/TheBattleOfChileTheCoupDEtat) | Patricio Guzmán | 1979 | 3 parts | Free | [[the-state-strategy-and-power/practical\|The State, Strategy, and Power · Practical]] |

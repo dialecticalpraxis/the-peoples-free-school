@@ -173,13 +173,69 @@ resources:
     access: free
     url: "https://www.hrw.org/report/2002/04/30/we-have-no-orders-save-you/state-participation-and-complicity-communal-violence"
     note: "The documentation of the 2002 Gujarat pogrom, in which roughly a thousand people, mostly Muslims, were killed while the state stood aside. Modi was chief minister. An international human rights NGO, legalistic in register, and the record it assembled is why the comparison in this theme is not abstract."
+  - title: "Mahavamsa: The Great Chronicle of Ceylon"
+    authors: ["Wilhelm Geiger"]
+    year: 1912
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://archive.org/details/mahavamsagreatch00geigrich"
+    note: "The sixth-century Pali chronicle that every later Sinhala Buddhist claim to the island is built on, in Geiger's standard translation. Chapter 25 is the one to read: the king Dutthagamani grieves over the dead of his war, and is consoled by arahants who tell him that the non-Buddhist dead do not count as human. Public domain, full download, no borrow gate."
+  - title: "The Mahavamsa (web edition)"
+    authors: ["Wilhelm Geiger", "Rhajiv Ratnatunga"]
+    year: 2002
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://lakdiva.org.lk/mahavamsa/"
+    note: "The same Geiger translation as HTML, chapter by chapter, which is the practical format for putting one chapter in front of a room. A Sri Lankan diaspora heritage project, presented as heritage rather than as scholarship."
+  - title: "The Arya Dharma of Sakya Muni, Gautama Buddha"
+    authors: ["Anagarika Dharmapala"]
+    year: 1917
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://archive.org/details/in.ernet.dli.2015.68538"
+    note: "Sinhala Buddhist nationalism's founder in his own voice, setting out a purified, rationalized, Aryan Buddhism. The racial framing is not decoration; it is the machinery by which a religion becomes a bloodline and a bloodline becomes a border. Public domain, full download."
+  - title: "The Maha Bodhi and the United Buddhist World, Vol. 21"
+    authors: ["Anagarika Dharmapala"]
+    year: 1913
+    format: primary-source
+    kind: archive
+    access: free
+    url: "https://archive.org/details/in.ernet.dli.2015.70760"
+    note: "The journal Dharmapala founded and edited, one volume of many free on archive.org. This is the un-anthologized original: the essays later collected as Return to Righteousness were largely printed here first. Public domain."
+  - title: "The World's Parliament of Religions, Vol. 1"
+    authors: ["John Henry Barrows"]
+    year: 1893
+    format: primary-source
+    kind: book
+    access: free
+    url: "https://archive.org/details/in.ernet.dli.2015.196052"
+    note: "The Chicago transcript, where Dharmapala presented Buddhism to the West as a world-historical civilizational claim and came home with the tools to rebuild it on Protestant lines. Vivekananda was at the same event doing the same work for Hinduism. Public domain."
+  - title: "The Resistance of the Monks: Buddhism and Activism in Burma"
+    authors: ["Human Rights Watch"]
+    year: 2009
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.hrw.org/report/2009/09/22/resistance-monks/buddhism-and-activism-burma"
+    note: "Published before 969 and before Ma Ba Tha, and admiring: monks as Burma's first nationalists and the backbone of resistance to the British and to the junta. It says U Ottama transformed a political question into a religious one. In 2009 that is a tribute. Read now it is this theme's diagnosis, written by people who meant it as praise."
+  - title: "Burma Citizenship Law (Pyithu Hluttaw Law No. 4 of 1982)"
+    authors: ["Government of Burma"]
+    year: 1982
+    format: primary-source
+    kind: document
+    access: free
+    url: "https://www.networkmyanmar.org/ESW/Files/1982-Citizenship-Law.pdf"
+    note: "The law that stripped the Rohingya of citizenship, in full English translation. It grants citizenship by national race to groups settled before 1823, the year before the First Anglo-Burmese War. The colonial defeat is written into the statute as the date at which belonging closes forever."
 ---
 
 _How did this come to be? What were the conditions, struggles, and contingencies that produced the current arrangement?_
 
 See [[02-pedagogy#Historical|the pedagogy document]] for what this lens does across all themes.
 
-The chronology is the argument here, so this lens is built to be read in order. Four movements, formed within decades of each other, each out of its own defeat, all answering the same collapse.
+The chronology is the argument here, so this lens is built to be read in order. Five movements, formed within decades of each other, each out of its own defeat, all answering the same collapse.
 
 ## Anchor questions
 
@@ -189,6 +245,8 @@ The chronology is the argument here, so this lens is built to be read in order. 
 - Balfour promised a national home while promising to prejudice nobody's rights. Did anyone believe both halves?
 - Ahad Ha'am went in 1891 and came back saying the land was full and the Arabs would not accept this. What happened to that warning?
 - Savarkar was an atheist who welcomed a Jewish state to check Muslims. What is religion doing in his politics?
+- Dharmapala founded the Maha Bodhi Society in 1891 and spoke at Chicago in 1893, while Herzl was writing and al-Afghani was still alive. Why do all five of these arrive at once?
+- Burma's monks were the anti-colonial resistance. The 1982 law closes belonging at 1823. What is a country doing when it dates who counts from the year before it was conquered?
 
 ## Materials
 
@@ -227,12 +285,28 @@ Read these four together and the room will stop treating Zionism as a thing Jews
 - **B.R. Ambedkar**, _Annihilation of Caste_ (1936). The speech they would not let him give. Caste is not a corruption of Hinduism, it is its architecture, which is the sentence Hindutva cannot survive. Free, Columbia's edition: [ccnmtl.columbia.edu](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/)
 - **Human Rights Watch**, _We Have No Orders to Save You_ (2002). Gujarat: roughly a thousand dead, mostly Muslims, and a state that stood aside. Modi was chief minister and is now prime minister. Free: [hrw.org](https://www.hrw.org/report/2002/04/30/we-have-no-orders-save-you/state-participation-and-complicity-communal-violence)
 
+### 1891: the Buddhist revival, and what it came home with
+
+Read this beside the Zionism section rather than after it. The dates are the same dates.
+
+- **Mahavamsa**, ch. 25 (Geiger's 1912 translation). The sixth-century chronicle that supplies the claim: this island, this people, this faith, one thing. In chapter 25 the victorious king Dutthagamani cannot sleep for the dead of his war, and arahants console him by explaining that the non-Buddhist dead were not really people. **A defeat converted into an obligation, fourteen centuries early, and still quoted.** Free, public domain: [archive.org](https://archive.org/details/mahavamsagreatch00geigrich). Chapter by chapter in HTML: [lakdiva.org.lk](https://lakdiva.org.lk/mahavamsa/)
+- **Anagarika Dharmapala** (1864 to 1933), _The Arya Dharma of Sakya Muni_ (1917). **The founder, in his own voice**, building a purified and rationalized Buddhism with an Aryan racial frame running through it. Read what the frame is doing: it turns a religion into a bloodline, and a bloodline draws a border. Free, public domain: [archive.org](https://archive.org/details/in.ernet.dli.2015.68538)
+- **The Maha Bodhi and the United Buddhist World**, Vol. 21 (1913). His own journal, and the un-anthologized original of most of what later got collected. Dozens of volumes are free. Free: [archive.org](https://archive.org/details/in.ernet.dli.2015.70760)
+- **The World's Parliament of Religions**, Vol. 1 (Barrows, ed., 1893). Chicago, where Dharmapala presented Buddhism to the West as a civilizational claim and learned the missionaries' own equipment well enough to beat them with it. **Vivekananda was on the same programme doing the same thing for Hinduism.** Two colonial revivals meeting in Illinois, five years before the First Zionist Congress. Free, public domain: [archive.org](https://archive.org/details/in.ernet.dli.2015.196052)
+
+### Burma: the monks who fought the empire, and the law that closed the door
+
+- **Human Rights Watch**, _The Resistance of the Monks_ (2009). **Assign this before anything about the Rohingya.** Written in the afterglow of the Saffron Revolution, it documents monks as Burma's first nationalists, the spine of resistance to the British and then to the junta, and it says of U Ottama that he "transformed a basically political issue into a religious one." **In 2009 that sentence is a tribute. Now it is this theme's diagnosis, and HRW wrote it as praise.** Ottama, born in Arakan, was the first man jailed in British Burma for a political speech; he boycotted British goods. Sixty years later 969 boycotted Muslim shops. The grammar did not change. The target did. Free, 121 pages: [hrw.org](https://www.hrw.org/report/2009/09/22/resistance-monks/buddhism-and-activism-burma)
+- **Burma Citizenship Law** (1982), full English text. Citizenship by national race, for groups settled before **1823**, the year before the First Anglo-Burmese War. **The state fixed belonging at the last moment before it was conquered, and made everyone who arrived afterward provisional forever.** This theme's whole claim, in a statute. Free: [networkmyanmar.org](https://www.networkmyanmar.org/ESW/Files/1982-Citizenship-Law.pdf)
+
 ## A note on method
 
 **Teach the chronology before the conflict.** A room that arrives at 1948 without having met the Bund, Dubnow, and Ahad Ha'am will have an argument about Israel. A room that meets them first will have an argument about what people do when the world has decided to kill them and every available answer is bad. The second argument is the one worth having, and it is the one this school is equipped for.
 
 **Morris is the test.** If the room can hold a man who proved the expulsions happened and then said they should have gone further, the room can hold this theme. If it needs him to be either a hero or a liar, slow down.
 
+**Run 1891 twice.** Dharmapala founds the Maha Bodhi Society, Blackstone petitions a US president for a Jewish homeland, and Ahad Ha'am visits Palestine and comes back with a warning. One year, three of the five formations moving, on three continents, none of them aware of the others. If a room takes only one thing from this lens, that is a better candidate than anything about the present.
+
 ## Status
 
-First pass, and it may be a while before there is a second. It is built primary-source first. Named gaps: **the Palestinian voice here is historians, not people**, which the experiential lens has to carry and which is a real weakness in a historical lens about dispossession. **Golwalkar's own text is deliberately not linked**, since every host is a Sangh site; his Germany passage is quoted through Casolari, and the disputed authorship is part of the lesson. **Buddhist nationalism is absent.** And the Savarkar scan is a community upload of unverified fidelity, which is the best available and not good enough.
+First pass, and it may be a while before there is a second. It is built primary-source first. Named gaps: **the Palestinian voice here is historians, not people**, which the experiential lens has to carry and which is a real weakness in a historical lens about dispossession. **Golwalkar's own text is deliberately not linked**, since every host is a Sangh site; his Germany passage is quoted through Casolari, and the disputed authorship is part of the lesson. **Rashid Rida is still missing.** And the Savarkar scan is a community upload of unverified fidelity, which is the best available and not good enough.
